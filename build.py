@@ -1833,19 +1833,21 @@ def main():
         for n in notes
     }
 
-    # ----- aggregate pending items from every note -----
-    pendientes_md = build_pendientes_index(notes, slug_to_meta={n["slug"]: {"title": n["title"], "category": n["category"]} for n in notes})
+    # ----- aggregate pending items disabled: project-level pendings live in BACKLOG.md -----
+    # (previously we auto-generated 00-pendientes.md with every ## Pendientes item;
+    # now there are none and we don't need that page)
     pend_path = WIKI / "00-pendientes.md"
-    pend_path.write_text(pendientes_md, encoding="utf-8")
-    # re-parse the pendientes file so it gets included in this build
-    new_note = parse_note(pend_path)
-    notes.append(new_note)
-    all_slugs.add(new_note["slug"])
-    link_map[new_note["slug"]] = []
-    backlink_map[new_note["slug"]] = []
-    # rebuild tree to include the new note
-    tree = group_notes(notes)
-    sidebar_template = build_sidebar(tree)
+    if pend_path.exists():
+        try:
+            pend_path.unlink()
+        except OSError:
+            pass
+    site_pend_html = SITE / "00-pendientes.html"
+    if site_pend_html.exists():
+        try:
+            site_pend_html.unlink()
+        except OSError:
+            pass
 
     # write each note
     for n in notes:
