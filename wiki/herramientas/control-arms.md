@@ -25,7 +25,3 @@ tags: [control-arms, internacional, att, tratado-comercio-armas]
 - ↔ [[../autores-y-referencias/organizaciones/omega-research-foundation]] — miembro fundador.
 - ↔ [[../marco-legal/amnistia-internacional]].
 - ↔ [[../casos/latam/transferencias-cross-country]] — el tipo de transferencias que el ATT busca regular.
-
-## Pendientes
-- [ ] Documentar el estado actual del ATT (firmas, ratificaciones).
-- [ ] Posiciones específicas sobre armas menos letales.

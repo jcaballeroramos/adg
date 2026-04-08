@@ -26,6 +26,3 @@ Fabricante **estadounidense** especializado en **balas y municiones de menos de 
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[als-less-lethal]] — competidor en el mismo segmento.
-
-## Pendientes
-- [ ] Datos corporativos.

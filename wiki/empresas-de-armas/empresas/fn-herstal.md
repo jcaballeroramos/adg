@@ -62,6 +62,3 @@ Fabricante **belga** de armas de fuego y armas menos letales. Fundada en **1889*
 - ↔ [[00-indice]]
 - ↔ [[../feindef/04-fn-smart-protector]] — el producto emblemático con IA.
 - ↔ [[../../herramientas/laws-armas-autonomas]] — el Smart Protector como puerta de entrada al debate LAWS.
-
-## Pendientes
-- [ ] Detalles del **Browning Group** (estructura accionarial, compromisos del gobierno valón).

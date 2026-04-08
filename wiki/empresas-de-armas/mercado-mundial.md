@@ -123,7 +123,3 @@ El mercado bursátil **apuesta** por la represión como negocio estable y de cre
 - ↔ [[../marco-legal/bibliografia/lethal-in-disguise-2]] — fuente de varias cifras.
 - ↔ [[../herramientas/mapa-omega-ferias-armas]] — geografía del comercio.
 - ↔ [[../herramientas/apex-brasil]] — promoción estatal de Condor como caso.
-
-## Pendientes
-- [ ] Buscar informes de **SIPRI** sobre el sector "non-lethal".
-- [ ] Confirmar las proyecciones 2028-2033 (fuente primaria).

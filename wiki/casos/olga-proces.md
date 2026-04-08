@@ -35,7 +35,3 @@ Olga buscó **reparación simbólica** además de la económica. **Cada año** i
 - ↔ [[ester-quintana]] — antecedente directo (bala de goma) que llevó al "reemplazo" por foam.
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — capítulo "responsabilidad patrimonial vs vía penal".
 - ↔ [[../autores-y-referencias/organizaciones/iridia]] — el tipo de litigio estratégico que practican.
-
-## Pendientes
-- [ ] Localizar la sentencia de responsabilidad patrimonial.
-- [ ] Documentar visualmente el ritual anual de la placa — posible material de archivo si existe.

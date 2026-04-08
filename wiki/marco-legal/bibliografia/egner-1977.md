@@ -26,6 +26,3 @@ Egner cuestiona los supuestos sobre la "no letalidad" y plantea que la **evaluac
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher reconstruye este genealogía.
 - ↔ [[../../historia/balas-goma]] — el periodo previo a la masificación de los 80.
 - ↔ [[haar-bmj-2017]] — el estudio sistemático moderno que retoma la línea crítica.
-
-## Pendientes
-- [ ] Buscar otros documentos del U.S. Army Land Warfare Laboratory del mismo periodo.

@@ -25,7 +25,3 @@ Empresa **española** dedicada a la **distribución de cartuchos** y munición. 
 - ↔ [[manufacturas-tormes-barbero]] · [[maxam]] · [[falken]] — el resto de fabricantes españoles.
 - ↔ [[../../casos/compilacion-espana]] — datos sobre la opacidad y el problema de trazabilidad.
 - ↔ [[../../casos/roger-espanol]] — el caso paradigmático de **agente identificado por casualidad** vs. **arma sin trazabilidad**.
-
-## Pendientes
-- [ ] **CIF, sede exacta, datos corporativos**.
-- [ ] **Contratos públicos documentados** (vía Iñarritu o portales de contratación).

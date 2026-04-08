@@ -37,7 +37,3 @@ Empresa **española** que desarrolla **herramientas tecnológicas para "segurida
 - ↔ [[../../herramientas/laws-armas-autonomas]].
 - ↔ [[../../herramientas/yolo-v3-weapon-detection]] — paper académico equivalente.
 - ↔ [[../../casos/latam/ee-uu-frontera-sur]] — el debate sobre tecnología de control de fronteras.
-
-## Pendientes
-- [ ] Documentar el sistema iSim en mayor profundidad.
-- [ ] Compras y contratos con el Ministerio del Interior español.

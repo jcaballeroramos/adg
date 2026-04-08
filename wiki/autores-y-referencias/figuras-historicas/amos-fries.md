@@ -63,7 +63,3 @@ Esta frase **fundó el discurso publicitario-represivo** que se mantendría **in
 - ↔ [[../../historia/cronologia-completa]] — entradas años 20 y julio 1932 (marcha de veteranos).
 - ↔ [[../paul-rocher/paul-rocher-entrevista]] — Rocher cita el trabajo de Fries.
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — Lake Erie Chemical como la primera empresa que se benefició de su cruzada.
-
-## Pendientes
-- [ ] Buscar el libro **The Red Web** (1929).
-- [ ] Documentar la relación con **J. Edgar Hoover**.

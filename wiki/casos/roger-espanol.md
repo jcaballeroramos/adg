@@ -82,7 +82,3 @@ Los Mossos también usaron sus herramientas para **calcular distancias** a parti
 - ↔ [[../historia/balas-goma]] (genealogía de la munición).
 - ↔ [[../marco-legal/onu-orientaciones-2020]] (las balas de goma deben evaluarse por precisión real, no por etiqueta).
 - ↔ [[fabiola-campillai]] (otro caso paradigmático en otro continente).
-
-## Pendientes
-- [ ] Buscar los informes UCFA citados.
-- [ ] Documentar a fondo los **40 casos en 20 años** (Irídia / Stop Bales de Goma).

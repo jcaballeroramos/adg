@@ -32,7 +32,3 @@ Fabricante **estadounidense** de **lanzadores de balas/bolas con polvo de gas pi
 - ↔ [[saborit-international]]
 - ↔ [[../../casos/latam/colombia-2021]]
 - ↔ [[../../historia/armas-quimicas]] — sobre el OC y CS.
-
-## Pendientes
-- [ ] Datos financieros y corporativos.
-- [ ] Documentar la composición exacta del polvo en sus proyectiles.

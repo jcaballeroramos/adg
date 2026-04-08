@@ -49,7 +49,3 @@ Es **el caso más claro de un Estado autoritario armando a otro Estado autoritar
 - ↔ [[../../casos/internacionales/libano-thawra-2019]] — mismas granadas documentadas.
 - ↔ [[../../casos/internacionales/iran-mahsa-amini-2022]] — DIO también suministra a la policía iraní que reprime en casa.
 - ↔ [[../../historia/armas-quimicas]].
-
-## Pendientes
-- [ ] Fotografías de las granadas DIO con los códigos.
-- [ ] Lista de países receptores de transferencias de DIO.

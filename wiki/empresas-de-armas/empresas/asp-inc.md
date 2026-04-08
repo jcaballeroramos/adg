@@ -28,7 +28,3 @@ Fabricante **estadounidense** de **equipamiento policial estándar**: esposas, s
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[../../historia/porra-tonfa]] — la genealogía completa.
-
-## Pendientes
-- [ ] Documentar la patente original ASP 1976.
-- [ ] Datos corporativos.

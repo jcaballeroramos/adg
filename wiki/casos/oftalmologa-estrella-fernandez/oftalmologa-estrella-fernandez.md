@@ -83,7 +83,3 @@ Los párpados se desestructuran completamente. La textura al llegar a urgencias:
 - ↔ [[../casos/roger-espanol]] (la cirujana describe lo que le pasó a Roger).
 - ↔ [[../casos/fabiola-campillai]] (lesiones equivalentes en Chile).
 - ↔ [[../marco-legal/amnistia-internacional]] (Amnistía pide evaluaciones independientes — esta es exactamente eso).
-
-## Pendientes
-- [ ] Localizar la grabación íntegra de la comparecencia y minutaje preciso.
-- [ ] Verificar fecha exacta de la comisión.

@@ -71,7 +71,3 @@ Aunque la documentación es parcial, se ha confirmado el uso de:
 - ↔ [[hong-kong-2019-2020]] · [[sri-lanka-2022]] — la ola global 2019-2022.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el patrón "crisis económica → protesta → represión".
 - ↔ [[../../historia/cronologia-completa]].
-
-## Pendientes
-- [ ] Confirmar los **fabricantes** del armamento usado (investigación periodística pendiente).
-- [ ] Documentar el caso de **Alaa Abou Fakher**.

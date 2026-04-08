@@ -29,6 +29,3 @@ Organización que **monitoriza y documenta sistemáticamente** lo que ocurre en 
 - ↔ [[../../casos/compilacion-espana]] — la frontera como **45%** de los casos.
 - ↔ [[../../historia/balas-goma]] — Tarajal y Melilla como continuum de la "industrialización del dolor" colonial.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita las cifras de Bahréin como "no priorización de los heridos no blancos"; en Tarajal/Melilla pasa exactamente eso.
-
-## Pendientes
-- [ ] Buscar contacto para posible colaboración.

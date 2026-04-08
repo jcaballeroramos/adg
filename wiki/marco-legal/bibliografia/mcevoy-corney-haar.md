@@ -24,7 +24,3 @@ tags: [mcevoy, corney, haar, taylor-francis, crowd-control, académico]
 - ↔ [[haar-bmj-2017]] — Haar como autora compartida.
 - ↔ [[../../autores-y-referencias/organizaciones/omega-research-foundation]] — Corney.
 - ↔ [[lethal-in-disguise-2]] — INCLO usa esta literatura.
-
-## Pendientes
-- [ ] Descargar el capítulo.
-- [ ] Extraer el resumen y las tesis principales.

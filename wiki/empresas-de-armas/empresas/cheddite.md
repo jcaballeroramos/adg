@@ -35,7 +35,3 @@ Empresa **italiana** fabricante de **cartuchos y municiones** para caza y uso ci
 - ↔ [[../../casos/latam/venezuela-2017-2019]] — Rufo Chacón.
 - ↔ [[norinco]] — el otro proveedor de Venezuela en el mismo periodo.
 - ↔ [[../../casos/latam/peru-2020]] — Perú también usó perdigones de plomo (Inti Sotelo, Bryan Pintado).
-
-## Pendientes
-- [ ] Confirmar la cadena de importación a Venezuela.
-- [ ] Conexión Cheddite ↔ proveedores latinoamericanos.

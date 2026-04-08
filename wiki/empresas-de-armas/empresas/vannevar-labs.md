@@ -29,7 +29,3 @@ Empresa **estadounidense** de tecnología de defensa. Software de **análisis de
 - ↔ [[00-indice]]
 - ↔ [[anduril]] · [[shield-ai]] — el "trío" de defensa Silicon Valley.
 - ↔ [[../../herramientas/laws-armas-autonomas]].
-
-## Pendientes
-- [ ] Documentar fundadores, ronda de financiación, valoración.
-- [ ] Buscar contratos públicos con DoD / IC.

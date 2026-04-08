@@ -59,7 +59,3 @@ La **Nepal Police** y la **Armed Police Force** desplegaron las herramientas hab
 - ↔ [[sri-lanka-2022]] — el primer eslabón de la ola sur-asiática.
 - ↔ [[iran-mahsa-amini-2022]] · [[hong-kong-2019-2020]] — el patrón Gen Z-vs-régimen.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el patrón global de criminalización de la protesta.
-
-## Pendientes
-- [ ] **Datos consolidados** de víctimas (las cifras siguen llegando).
-- [ ] Documentar los **fabricantes** del armamento usado por la Nepal Police.

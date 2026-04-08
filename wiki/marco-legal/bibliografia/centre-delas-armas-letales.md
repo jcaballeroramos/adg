@@ -29,7 +29,3 @@ Documenta cómo la **militarización progresiva** de los cuerpos policiales:
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco teórico paralelo.
 - ↔ [[../../casos/compilacion-espana]] — los datos españoles.
 - ↔ [[../cataluna-prohibicion-balas-goma]].
-
-## Pendientes
-- [ ] Extraer la tesis central y las cifras propias.
-- [ ] Buscar otros informes del Centre Delàs sobre el mismo tema.

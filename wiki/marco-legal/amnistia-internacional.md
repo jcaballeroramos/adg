@@ -61,6 +61,3 @@ Todos los agentes (especialmente antidisturbios) deben llevar **números de iden
 - ↔ [[../casos/roger-espanol]] — el caso encarna la metodología que Amnistía exige.
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — un ejemplo de la "evaluación independiente" que Amnistía pide.
 - ↔ [[../feindef/00-overview]] — Amnistía vigila ferias como FEINDEF.
-
-## Pendientes
-- [ ] Generar un PDF/MD compacto con **TODAS** las exigencias ONU + Amnistía como argumentario base de la película.

@@ -42,7 +42,3 @@ El régimen intentó **negar la responsabilidad** durante meses:
 - ↔ [[latam/venezuela-2017-2019]] — contexto.
 - ↔ [[rufo-chacon]] — el otro caso venezolano paradigmático.
 - ↔ [[../ferias-de-armas/milipol]] — Norinco expuso vehículos venezolanos en Milipol París 2017 (mismo año que la muerte de Juan Pablo).
-
-## Pendientes
-- [ ] Documentar el recorrido judicial (fiscal Luisa Ortega).
-- [ ] Buscar la imagen icónica de Juan Pablo cayendo al suelo.

@@ -538,11 +538,7 @@ def group_notes(notes):
 
 
 def build_sidebar(tree):
-    parts = [
-        '<div class="sidebar-legend" title="Chip ☐ N = esta nota tiene N tareas pendientes en su sección ## Pendientes. Solo se muestra el chip si hay 2 o más.">'
-        '<span class="nav-chip">☐ N</span> = notas incompletas'
-        '</div>'
-    ]
+    parts = []
     for cat in CATEGORY_ORDER:
         if cat not in tree:
             continue

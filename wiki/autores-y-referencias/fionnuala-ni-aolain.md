@@ -52,6 +52,3 @@ El informe documenta específicamente:
 - ↔ [[organizaciones/iridia]] — Anaïs Franquesa lo cita.
 - ↔ [[../marco-legal/onu-relatora-tortura]] — sección general.
 - ↔ [[../marco-legal/bibliografia/melzer-onu-2017]].
-
-## Pendientes
-- [ ] Verificar si ha hecho declaraciones públicas sobre casos españoles.

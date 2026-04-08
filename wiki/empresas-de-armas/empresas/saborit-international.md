@@ -72,6 +72,3 @@ tags: [saborit, españa, intermediario, distribuidor, taser, safariland, pepperb
 - ↔ [[00-indice]] — visión completa del catálogo de empresas.
 - ↔ [[../feindef/00-overview]] — quién expone en FEINDEF 2025.
 - ↔ [[../../casos/africa-pablo-hasel]] — las balas de foam que la dejaron ciega son del tipo que distribuye Saborit (Defense Technology).
-
-## Pendientes
-- [ ] Documentar contratos con cárceles españolas.

@@ -25,7 +25,3 @@ tags: [omega, mapa, ferias, tableau, visualización, comercio-armas]
 - ↔ [[../ferias-de-armas/milipol]]
 - ↔ [[../ferias-de-armas/dsei-londres]]
 - ↔ [[symposium-non-lethal-weapons-2026]]
-
-## Pendientes
-- [ ] Descargar/exportar el mapa en su versión más reciente.
-- [ ] Contrastar con la lista del informe de Centre Delàs.

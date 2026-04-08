@@ -69,7 +69,3 @@ El "Discombobulator" es también la **antesala narrativa** del debate sobre **[[
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — la retórica del "arma milagrosa tecnológica" y la "embellishing language".
 - ↔ [[../../casos/latam/venezuela-2017-2019]] — el contexto venezolano previo.
 - ↔ [[../../historia/cronologia-completa]] — punto más reciente del arco histórico.
-
-## Pendientes
-- [ ] Ver el vídeo YouTube original (minuto 4:48 = t=288s) y extraer el desglose específico.
-- [ ] Localizar el artículo completo del New York Post.

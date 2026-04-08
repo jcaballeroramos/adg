@@ -31,7 +31,3 @@ tags: [forensic-architecture, weizman, goldsmiths, ddhh, reconstrucción, vfame]
 - ↔ [[../autores-y-referencias/organizaciones/iridia]] — el caso Roger Español como **el embrión** del tipo de proyectos forenses audiovisuales que Forensic Architecture industrializa.
 - ↔ [[yolo-v3-weapon-detection]] — la tecnología base.
 - ↔ [[laws-armas-autonomas]].
-
-## Pendientes
-- [ ] Localizar casos específicos sobre armas menos letales.
-- [ ] Buscar colaboraciones con Amnistía e Irídia.

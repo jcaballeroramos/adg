@@ -78,7 +78,3 @@ Lo más documentado **médicamente** es la **estrategia sistemática del régime
 - ↔ [[../fabiola-campillai]] · [[../carles-guillot]] · [[../roger-espanol]] · [[../africa-pablo-hasel]] — el ojo como blanco común.
 - ↔ [[../oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología clínica.
 - ↔ [[../impacto-agregado]].
-
-## Pendientes
-- [ ] Cifras consolidadas de Iran Human Rights más recientes.
-- [ ] Buscar testimonios de las víctimas oculares en exilio.

@@ -60,6 +60,3 @@ Los **superiores jerárquicos serán responsables** si **sabían o debieron sabe
 - ↔ [[../onu-relatora-tortura]] — la línea conceptual continua.
 - ↔ [[melzer-onu-2017]].
 - ↔ [[../amnistia-internacional]] — Amnistía cita constantemente este documento.
-
-## Pendientes
-- [ ] Documentar el rol del **8º Congreso de la Habana** en la historia del derecho internacional.

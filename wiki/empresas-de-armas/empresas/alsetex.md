@@ -37,7 +37,3 @@ Fabricante **francés** especializado en **granadas de gas lacrimógeno, lanzado
 - ↔ [[00-indice]]
 - ↔ [[nobel-sport]] · [[verney-carron]] · [[brugger-thomet]] — los **4 productores principales** del mercado público francés.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita Alsetex específicamente.
-
-## Pendientes
-- [ ] Datos corporativos: fundación, propietarios, sede.
-- [ ] Documentar la mecánica de "doble licencia" en Bahréin.

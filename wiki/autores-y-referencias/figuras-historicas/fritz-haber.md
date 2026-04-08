@@ -51,7 +51,3 @@ Al día siguiente del suicidio de Clara, Haber partió al Frente del Este para *
 - ↔ [[../../historia/cronologia-completa]] — entradas 1915, 1919, 1925.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita explícitamente a Haber.
 - ↔ [[../../marco-legal/bibliografia/onu-codigo-conducta-1979]] — el Código de Conducta ONU 1979 prohíbe precisamente lo que Haber popularizó: uso policial de armas químicas.
-
-## Pendientes
-- [ ] Localizar **retratos y fotografías** de Haber.
-- [ ] Documentar la historia de **Clara Immerwahr** (ha habido varias biografías recientes).

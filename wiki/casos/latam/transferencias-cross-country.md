@@ -112,6 +112,3 @@ Cómo los gobiernos latinoamericanos se **prestan armas no letales entre sí** p
 - ↔ [[bolivia-2019]], [[ecuador-2019]], [[colombia-2021]], [[peru-2020]].
 - ↔ [[intermediarios-latam]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"globalización del control de multitudes"*.
-
-## Pendientes
-- [ ] Documentar el caso DSEI 2019 (Condor expulsada).

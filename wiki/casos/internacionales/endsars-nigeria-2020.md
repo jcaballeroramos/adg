@@ -54,7 +54,3 @@ La **noche del 20 de octubre**, el ejército nigeriano disparó **munición real
 - ↔ [[../impacto-agregado]] — incluido en el dashboard global.
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — Nigeria importa de muchos fabricantes occidentales.
 - ↔ [[../../historia/cronologia-completa]] — entrada de octubre 2020.
-
-## Pendientes
-- [ ] Localizar los testimonios de DJ Switch (transmisión Instagram).
-- [ ] Confirmar la cifra final de víctimas (es disputada).

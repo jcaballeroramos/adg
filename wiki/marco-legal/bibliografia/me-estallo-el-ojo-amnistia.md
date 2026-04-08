@@ -23,6 +23,3 @@ La frase **"me estalló el ojo"** es la cita literal de una víctima — el patr
 - ↔ [[../amnistia-internacional]] — la organización emisora y sus exigencias.
 - ↔ [[../../testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la misma frase desde la cirugía.
 - ↔ [[lethal-in-disguise-2]].
-
-## Pendientes
-- [ ] Extraer las citas literales más fuertes.

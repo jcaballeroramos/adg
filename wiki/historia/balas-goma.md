@@ -26,7 +26,3 @@ También probó las balas de goma en **1971** contra manifestantes anti-Vietnam.
 - ↔ [[../casos/roger-espanol]] — víctima paradigmática.
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la ciencia médica de lo que hace a un cráneo.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibición de disparos a cabeza, cuello y disparo indirecto por rebote (exactamente lo que mató a Stephen Geddis).
-
-## Pendientes
-- [ ] Confirmar la cifra "56.000 disparos" en Irlanda del Norte.
-- [ ] Documentar a Stephen Geddis y otras víctimas tempranas.

@@ -19,7 +19,3 @@ Stand con una pantalla que muestra **"esqueletos" de personas detectadas por sof
 - "Reconoce cualquier tipo de cabeza independientemente de la etnia" — argumento técnico-comercial enmarcado como progreso ético.
 - La IA se vende como **freno** del operador, pero implica que el sistema sabe (y registra) hacia dónde se apunta.
 - Cuestión abierta: ¿qué pasa con el dataset de entrenamiento? ¿quién audita el algoritmo? ¿quién certifica la precisión del bloqueo?
-
-## Pendientes
-- [ ] Buscar materiales oficiales de FN Smart Protector.
-- [ ] Confirmar nombre del representante / cargo.

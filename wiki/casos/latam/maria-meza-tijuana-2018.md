@@ -53,6 +53,3 @@ Este caso **no es aislado**. Forma parte de un patrón documentado por *Los Ange
 - ↔ [[../empresas-de-armas/empresas/axon]] — Tasers.
 - ↔ [[../../historia/armas-quimicas]] — continuum del gas.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita la militarización fronteriza.
-
-## Pendientes
-- [ ] Descargar la foto original de Reuters (Kim Kyung-Hoon) para el documental.

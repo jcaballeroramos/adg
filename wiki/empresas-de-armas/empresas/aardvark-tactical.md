@@ -42,7 +42,3 @@ Investigaciones documentaron que Aardvark Tactical ha firmado **contratos por ca
 - ↔ [[axon]] — fabricante de las Tasers que distribuye.
 - ↔ [[../../casos/latam/ee-uu-frontera-sur]] — uso CBP.
 - ↔ [[safariland]] · [[combined-systems]] — otros proveedores de la CBP.
-
-## Pendientes
-- [ ] Lista completa de contratos Aardvark-CBP año a año.
-- [ ] Investigar prácticas de licitación / no licitación.

@@ -31,6 +31,3 @@ Tras su lesión, Carles cofundó **Stop Bales de Goma** junto a otras víctimas 
 - ↔ [[ester-quintana]], [[inigo-cabacas]], [[roger-espanol]] — los tres casos que cambiaron la regulación; el suyo encarna la **impunidad** que persiste.
 - ↔ [[compilacion-espana]] — uno de los casos sin condena entre 40 documentados.
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — cronología que su trabajo activó.
-
-## Pendientes
-- [ ] Confirmar año exacto del impacto y lugar.

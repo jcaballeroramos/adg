@@ -69,7 +69,3 @@ Elbit usa como **argumento comercial central** el hecho de que sus armas y drone
 - ↔ [[../../casos/internacionales/palestina-2023-2024]] — campo de aplicación principal.
 - ↔ [[../../casos/latam/ee-uu-frontera-sur]] — exportación de la tecnología.
 - ↔ [[../../herramientas/laws-armas-autonomas]] — Elbit es clave en el debate LAWS.
-
-## Pendientes
-- [ ] Datos financieros precisos (SEC filings).
-- [ ] Documentar a fondo la campaña de **Palestine Action** y los juicios asociados.

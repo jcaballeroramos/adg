@@ -24,7 +24,3 @@ tags: [iansa, internacional, armas-pequeñas, red, ddhh]
 - ↔ [[../autores-y-referencias/organizaciones/omega-research-foundation]] — Omega es miembro de IANSA.
 - ↔ [[control-arms]] — coalición paralela.
 - ↔ [[../marco-legal/amnistia-internacional]] — Amnistía coordina con IANSA.
-
-## Pendientes
-- [ ] Documentar las publicaciones recientes.
-- [ ] Localizar miembros en España y LATAM.

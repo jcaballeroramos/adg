@@ -79,7 +79,3 @@ La organización **[[../autores-y-referencias/organizaciones/caminando-fronteras
 - ↔ [[../historia/balas-goma]] — Tarajal y Melilla como continuum en la genealogía colonial de las balas de goma.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco teórico.
 - ↔ [[../historia/cronologia-completa]] — entrada de febrero 2014.
-
-## Pendientes
-- [ ] Obtener los **nombres de las 14 víctimas** para contextualización humana.
-- [ ] Confirmar el estado actual del caso ante **Estrasburgo** (TEDH).

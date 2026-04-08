@@ -39,7 +39,3 @@ tags: [telefónica, españa, vigilancia, taser, guardia-civil, axon, comunicacio
 - ↔ [[../../casos/antonio-c-badalona]] — primera muerte por taser en Catalunya (cadena de proveedores).
 - ↔ [[../feindef/00-overview]] — expositor.
 - ↔ [[saborit-international]] — competidor en el mismo nicho.
-
-## Pendientes
-- [ ] Documentar las compras concretas Taser ↔ Guardia Civil.
-- [ ] Importes y fechas de los contratos.

@@ -35,6 +35,3 @@ tags: [ozkursan, turquia, fogueo, traumatica, 9mm, colombia, intermediarios]
 - ↔ [[zira-silah-sanayi]] — fabricante de las pistolas asociadas.
 - ↔ [[../../casos/latam/intermediarios-latam]] — importadores colombianos.
 - ↔ [[../../casos/latam/colombia-2021]].
-
-## Pendientes
-- [ ] Documentación sobre regulación turca de exportación de munición.

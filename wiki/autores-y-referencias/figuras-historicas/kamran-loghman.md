@@ -52,7 +52,3 @@ Ambos son **actores centrales** de la historia del gas como arma policial, pero 
 - ↔ [[../../empresas-de-armas/empresas/pepperball]] · [[../../empresas-de-armas/empresas/zarc-international]] · [[../../empresas-de-armas/empresas/byrna-corporativo]] — las empresas que comercializan hoy el spray OC.
 - ↔ [[../../empresas-de-armas/publicidad/byrna-bad-guy-repellent]] — el marketing doméstico moderno del OC, exactamente lo contrario a lo que Loghman defiende.
 - ↔ [[../../historia/cronologia-completa]] — entrada de 2011.
-
-## Pendientes
-- [ ] Documentar su trayectoria en el FBI y US Army.
-- [ ] Buscar entrevistas posteriores con Loghman (ha seguido hablando públicamente).

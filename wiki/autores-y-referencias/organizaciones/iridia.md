@@ -60,7 +60,3 @@ Es el **embrión** del proyecto técnico que persigue Irídia: una **herramienta
 - ↔ [[../../herramientas/vframe]] — la herramienta open-source que materializa el tipo de tecnología que Irídia persigue.
 - ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — cronología legal en la que ha sido clave.
 - ↔ [[../../marco-legal/amnistia-internacional]] — Amnistía recoge sus exigencias en su agenda global.
-
-## Pendientes
-- [ ] Buscar todos los informes de Irídia y archivar PDFs.
-- [ ] Confirmar permisos de uso de las citas.

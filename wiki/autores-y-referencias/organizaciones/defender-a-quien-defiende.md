@@ -41,6 +41,3 @@ Plataforma estatal que **registra sistemáticamente las vulneraciones de derecho
 - ↔ [[iridia]]
 - ↔ [[../../casos/compilacion-espana]]
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]]
-
-## Pendientes
-- [ ] Acceso a la herramienta Red Malla.

@@ -46,6 +46,3 @@ Aquellas que, dependiendo de cómo las aplique el agente, pueden usarse de forma
 - ↔ [[onu-orientaciones-2020]] (las "Categoría A / Categoría B" del manual operativo).
 - ↔ [[amnistia-internacional]] (Amnistía es coimpulsora del tratado).
 - ↔ [[../feindef/00-overview]] (la propia FEINDEF entra en el "vigilando ferias de armas").
-
-## Pendientes
-- [ ] Confirmar la denominación exacta "Pac-20" / equivalente.

@@ -30,6 +30,3 @@ Hay tres documentos clave:
 - ↔ [[../onu-orientaciones-2020]] — el sucesor especializado.
 - ↔ [[melzer-onu-2017]] — publicado el mismo año por el Relator Especial.
 - ↔ [[../onu-relatora-tortura]] — la línea conceptual continua.
-
-## Pendientes
-- [ ] Extraer las secciones específicas sobre KIPs y gas lacrimógeno.

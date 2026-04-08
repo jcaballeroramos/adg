@@ -44,7 +44,3 @@ Una de las **mayores empresas de armamento de Alemania y de Europa**. Catálogo 
 - ↔ [[00-indice]]
 - ↔ [[../feindef/00-overview]] — expositor.
 - ↔ [[../../casos/latam/00-compilacion-latam]].
-
-## Pendientes
-- [ ] Datos del **Executive Board**.
-- [ ] Documentar el caso Skynex con material visual.

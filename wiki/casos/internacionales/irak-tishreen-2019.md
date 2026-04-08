@@ -74,7 +74,3 @@ Esto conecta con el siguiente nivel irónico: **Irán**, que dispara perdigones 
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — DIO (Irán), Krušik (Serbia).
 - ↔ [[../../marco-legal/bibliografia/onu-orientaciones-2020]] — explícitamente prohíbe los botes militares contra manifestantes.
 - ↔ [[../../historia/cronologia-completa]].
-
-## Pendientes
-- [ ] Documentar **DIO** (Defense Industries Organization) como empresa/fabricante en `empresas/`.
-- [ ] **Krušik** — empresa serbia, añadir también.

@@ -47,6 +47,3 @@ Plataforma de **víctimas y familiares** de balas de goma en el Estado español.
 - ↔ [[novact]] — coautora de informes recientes.
 - ↔ [[ojo-con-tu-ojo]] — colectivo paralelo en otros territorios.
 - ↔ Todos los casos: [[../../casos/inigo-cabacas]], [[../../casos/ester-quintana]], [[../../casos/carles-guillot]], [[../../casos/roger-espanol]], [[../../casos/africa-pablo-hasel]], [[../../casos/olga-proces]].
-
-## Pendientes
-- [ ] Buscar su archivo audiovisual (manifestaciones, ruedas de prensa).

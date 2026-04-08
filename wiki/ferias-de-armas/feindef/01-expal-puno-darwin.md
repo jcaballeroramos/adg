@@ -28,6 +28,3 @@ Stand de exposición de proyectiles. Vitrinas con cartuchos de colores ordenados
 - **Narrativa evolucionista** convertida en argumento de venta de un arma.
 - El nombre del producto **"Puño de Darwin"** condensa la filosofía completa del marketing de la baja letalidad: naturalizar la violencia.
 - Vincular con [[../testimonios/oftalmologa-estrella-fernandez]] (la "cuenca ocular diseñada para resistir" que en realidad estalla con 720 km/h de bola de goma).
-
-## Pendientes
-- [ ] Buscar ficha técnica oficial del Puño de Darwin si existe.

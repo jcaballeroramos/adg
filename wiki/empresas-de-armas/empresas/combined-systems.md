@@ -60,7 +60,3 @@ Empresa **estadounidense** fundada en **1981**. Principal proveedor mundial de *
 - ↔ [[../feindef/02-cts-venom]] — el bloque FEINDEF dedicado a CTS.
 - ↔ [[../../casos/latam/intermediarios-latam]] — la familia Fajardo (Imdicol Colombia), Tactical Group (Guatemala), Herdoíza Palacios (Ecuador).
 - ↔ [[../../casos/latam/transferencias-cross-country]].
-
-## Pendientes
-- [ ] Documentar contratos militares estadounidenses (Marines, Navy).
-- [ ] Buscar el documento donde declaran "determinar la intención" en relación al VENOM.

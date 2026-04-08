@@ -26,7 +26,3 @@ Funcionan como **jaulas móviles** y pueden lanzar cuerpos por los aires.
 ## Conexión con la película
 - Aparecen en el [[../entrenamientos/marines-camp-pendleton]] como mangueras a alta presión contra los propios marines.
 - Las **Orientaciones ONU 2020** ([[../marco-legal/onu-orientaciones-2020]]) los limitan a "graves desórdenes públicos" y prohíben el chorro a corta distancia o contra personas en posiciones elevadas.
-
-## Pendientes
-- [ ] Buscar imágenes de archivo de Birmingham 1963.
-- [ ] Documentar la **importación china a Venezuela** (modelos, marca, fechas).

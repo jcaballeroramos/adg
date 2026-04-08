@@ -177,7 +177,3 @@ Uno de los patrones transversales documentados por [[../autores-y-referencias/pa
 - ↔ [[../empresas-de-armas/mercado-mundial]] — cifras y cuotas.
 - ↔ [[cronologia-completa]] — cuándo apareció cada una.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — análisis político-económico de cada categoría.
-
-## Pendientes
-- [ ] Crear **infografía/diagrama del árbol de tecnologías** para visualización.
-- [ ] Añadir **costos aproximados** por unidad (cuando sea posible).

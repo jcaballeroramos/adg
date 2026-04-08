@@ -32,7 +32,3 @@ Líquido **pestilente y putrefacto** desarrollado por Israel para usar contra lo
 - ↔ [[../casos/fabiola-campillai]] (víctima del impacto cinético del bote, no del químico).
 - ↔ [[../feindef/03-byrna]] (Bad Guy Repellent: CS + OC + pimienta).
 - ↔ [[../marco-legal/onu-orientaciones-2020]] (prohibición en recintos cerrados, prohibición de disparo directo al cuerpo).
-
-## Pendientes
-- [ ] Verificar fechas y referencias bibliográficas (Haber, Churchill).
-- [ ] Confirmar el quote de Loghman con su fuente original.

@@ -37,7 +37,3 @@ Empresa **estadounidense** con sede en Florida. Forma parte de **Cadre Holdings*
 - ↔ [[../../casos/latam/transferencias-cross-country]]
 - ↔ [[../../casos/latam/ee-uu-frontera-sur]]
 - ↔ [[combined-systems]] — co-aparecen en los préstamos LATAM y la frontera sur.
-
-## Pendientes
-- [ ] Estructura corporativa de **Cadre Holdings**.
-- [ ] Datos bursátiles (cotiza en NYSE como CDRE).

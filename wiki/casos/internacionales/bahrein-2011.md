@@ -62,7 +62,3 @@ A diferencia de Egipto y Túnez, Bahréin fue **casi completamente ignorada** po
 - ↔ [[../../empresas-de-armas/empresas/combined-systems]] · [[../../empresas-de-armas/empresas/nonlethal-technologies]] — fabricantes identificados.
 - ↔ [[../../marco-legal/bibliografia/phr-bahrein-2012]] — el informe PHR.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita Bahréin como ejemplo clave.
-
-## Pendientes
-- [ ] Lista completa de las 34+ víctimas con nombres.
-- [ ] Documentar los Formula 1 Grand Prix como legitimación del régimen.

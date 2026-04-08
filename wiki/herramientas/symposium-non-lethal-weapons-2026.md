@@ -28,7 +28,3 @@ Conferencia académico-industrial-militar **bienal** del **European Working Grou
 - ↔ [[../ferias-de-armas/feindef/00-overview]] — la feria comercial. El simposio es su contraparte académica/militar.
 - ↔ [[yolo-v3-weapon-detection]] — papers como ese terminan aquí.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher describe exactamente este tipo de "complejo industrial-académico".
-
-## Pendientes
-- [ ] Descargar el programa cuando esté disponible.
-- [ ] Buscar actas de simposios anteriores (2018, 2020, 2022, 2024) en `non-lethal-weapons.org`.

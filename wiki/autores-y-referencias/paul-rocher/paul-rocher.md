@@ -86,7 +86,3 @@ Punto que Rocher no conocía y descubrió en esta entrevista: en países como Co
 - 🎧 **Audio (M4A / AAC 128 kbps):** `media/audio/Paul_Rocher_220522.m4a` — 41 MB, ~52 min, calidad voz perfecta
 - 📄 **Transcripción completa:** [[paul-rocher-entrevista]]
 - 📘 **Notas del libro:** integradas en la sección "Lo que me interesa más" de [[paul-rocher-entrevista]]
-
-## Pendientes
-- [ ] Conseguir .mp3 "puro" si hace falta para distribución (instalar `ffmpeg` con `brew install ffmpeg`).
-- [ ] Traducir al castellano los tramos clave de la entrevista para subtítulos.

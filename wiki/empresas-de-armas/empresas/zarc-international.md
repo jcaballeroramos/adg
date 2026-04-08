@@ -24,6 +24,3 @@ Fabricante **estadounidense** especializado en **sprays y granadas de gas pimien
 - ↔ [[00-indice]]
 - ↔ [[../../historia/armas-quimicas]] — sobre el OC.
 - ↔ [[combined-systems]] · [[pepperball]] — competidores en gas pimienta.
-
-## Pendientes
-- [ ] Datos corporativos: fundación, propietarios, sede.

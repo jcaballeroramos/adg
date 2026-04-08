@@ -20,7 +20,3 @@ Colectivo de víctimas y activistas que trabajan contra el uso de armas que prov
 - ↔ [[novact]]
 - ↔ [[../../casos/compilacion-espana]] — datos sobre lesiones oculares.
 - ↔ [[../../testimonios/oftalmologa-estrella-fernandez]] — la cirugía clínica detrás del activismo.
-
-## Pendientes
-- [ ] Localizar canales (web, redes) y materiales del colectivo.
-- [ ] Confirmar fundadores y trayectoria.

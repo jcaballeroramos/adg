@@ -36,7 +36,3 @@ Entre **2016 y 2021**, en todo el mundo:
 - ↔ [[../../casos/latam/00-compilacion-latam]] — comparativa LATAM.
 - ↔ [[me-estallo-el-ojo-amnistia]] — el informe paralelo de Amnistía.
 - ↔ [[haar-bmj-2017]] — el estudio sistemático del BMJ.
-
-## Pendientes
-- [ ] Extraer tablas individuales.
-- [ ] Confirmar metodología de recolección.

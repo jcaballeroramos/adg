@@ -56,7 +56,3 @@ Las imágenes del ataque circularon globalmente y **cuestionaron la promesa de "
 - ↔ [[../impacto-agregado]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el patrón "crisis económica → represión".
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — buscar fabricantes implicados.
-
-## Pendientes
-- [ ] Documentar los **proveedores de gas lacrimógeno** a Sri Lanka.
-- [ ] Cifras consolidadas de la Sri Lanka Human Rights Commission.

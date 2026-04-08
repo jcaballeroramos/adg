@@ -28,7 +28,3 @@ Fabricante **canadiense** de armas menos letales. Una de las **15 empresas domin
 
 ## Conexiones
 - ↔ [[00-indice]]
-
-## Pendientes
-- [ ] Datos corporativos: fundación, propietarios.
-- [ ] Posibles exportaciones a LATAM.

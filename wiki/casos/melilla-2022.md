@@ -62,7 +62,3 @@ Cuando quedaban unas **400 personas** en el patio, las fuerzas marroquíes **ent
 - ↔ [[../historia/balas-goma]] — Tarajal 2014 + Melilla 2022 como continuum.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — uso explícitamente prohibido en recintos confinados sin vías de escape.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"el imaginario no letal lleva a la proliferación, que genera más violencia"*.
-
-## Pendientes
-- [ ] Localizar el documental de El País y archivarlo.
-- [ ] Documentar también **Tarajal 2014** como caso hermano.

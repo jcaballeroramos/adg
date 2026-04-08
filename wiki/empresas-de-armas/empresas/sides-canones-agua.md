@@ -24,7 +24,3 @@ Empresa **francesa** especializada en la fabricación de **cañones de agua** pa
 - ↔ [[../../historia/canones-agua]] — la genealogía completa del cañón de agua.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — sección "cañón de agua" en "Lo que me interesa más", incluye la mezcla con restos animales.
 - ↔ [[../../casos/latam/00-compilacion-latam]].
-
-## Pendientes
-- [ ] Documentar el modelo concreto de cañón de agua usado en Hong Kong 2018.
-- [ ] Buscar exportaciones documentadas a otros países.

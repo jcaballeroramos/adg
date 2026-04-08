@@ -70,7 +70,3 @@ La Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos pub
 - ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] · [[iran-mahsa-amini-2022]] · [[nepal-gen-z-2024]] — la ola global 2019-2024.
 - ↔ [[../impacto-agregado]] — incluido.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el patrón "crisis política → represión letal".
-
-## Pendientes
-- [ ] Cifras finales del **informe OHCHR** 2025.
-- [ ] Buscar imágenes/vídeos de Abu Sayed y Mugdho.

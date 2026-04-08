@@ -21,7 +21,3 @@ Empresa **estadounidense** de armas menos letales. Productos principales: **gran
 - ↔ [[00-indice]]
 - ↔ [[combined-systems]] — competidor directo en el mismo segmento.
 - ↔ [[../../casos/latam/00-compilacion-latam]] — el problema del **armamento caducado** circulando.
-
-## Pendientes
-- [ ] Buscar contratos documentados con cuerpos policiales / militares.
-- [ ] Documentar la propiedad y estructura corporativa.

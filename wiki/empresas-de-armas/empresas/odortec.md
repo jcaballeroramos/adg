@@ -68,7 +68,3 @@ Aunque Odortec afirma no exportar, hay denuncias de **venta a EE.UU.** (donde se
 - ↔ [[../../historia/armas-quimicas]] — sección Skunk.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — cita sobre "las armas de la ocupación siempre regresan a casa".
 - ↔ [[../../historia/canones-agua]] — contexto técnico (se aplica vía cañón de agua).
-
-## Pendientes
-- [ ] Localizar la web oficial (si existe).
-- [ ] Documentar casos **en Israel** contra manifestantes judíos.

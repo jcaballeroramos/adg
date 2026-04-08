@@ -34,7 +34,3 @@ Empresa **suiza** fabricante del **LBD40** (lanzador BT-GL06), uno de los lanzad
 - ↔ [[../../casos/olga-proces]] — otra víctima del mismo arma.
 - ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — el "reemplazo" de la bala de goma por la foam disparada por la B&T.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher menciona explícitamente al director suizo condenado.
-
-## Pendientes
-- [ ] Confirmar nombre del director condenado.
-- [ ] Localizar la sentencia y el cargo exacto.

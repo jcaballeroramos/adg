@@ -52,7 +52,3 @@ Empresa **estatal china** fabricante de armas. Proveedor de equipos militares y 
 - ↔ [[../ferias-de-armas/milipol]] — su exposición en 2017.
 - ↔ [[../../historia/canones-agua]] — el bestiario mecánico de los cañones de agua.
 - ↔ [[cheddite]] — los perdigones de plomo italianos también se usaron en Venezuela.
-
-## Pendientes
-- [ ] URL oficial.
-- [ ] Estructura corporativa estatal.

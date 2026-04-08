@@ -41,7 +41,3 @@ Cada caso era publicado como un **hilo en Twitter** con foto, vídeo, fecha, ubi
 - ↔ [[organizaciones/stop-bales-de-goma]] — paralelismo metodológico.
 - ↔ [[organizaciones/iridia]] — paralelismo en Cataluña.
 - ↔ [[../casos/remi-fraisse]] · [[../casos/steve-maia-canico]] — casos documentados por su entorno.
-
-## Pendientes
-- [ ] Capturar el archivo Twitter de **Allô Place Beauvau** completo.
-- [ ] Localizar el documental **Un pays qui se tient sage** con subtítulos.

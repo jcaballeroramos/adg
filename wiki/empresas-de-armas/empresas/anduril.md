@@ -43,7 +43,3 @@ Empresa estadounidense de tecnología de defensa fundada en **2017** por **Palme
 
 ## Fuentes
 - **Axios** (8 ago 2024) — *«Anduril now valued at $14 billion, set to build autonomous weapons factories»*: https://www.axios.com/2024/08/08/anduril-14-billion-autonomous-weapons — Anduril recauda **$1.5 mil millones** en ronda, alcanza **$14 mil millones** de valoración, construirá fábricas de armas autónomas. Contrato con la US Air Force para aviones de combate colaborativos.
-
-## Pendientes
-- [ ] Documentar a fondo Sentry Tower y su uso real en la frontera sur.
-- [ ] Localizar reportajes críticos sobre Palmer Luckey y la cultura de la empresa.

@@ -37,7 +37,3 @@ Es la **primera muerte documentada por rebote** de una bala de goma — el patr�
 - ↔ [[inigo-cabacas]] · [[ester-quintana]] · [[carles-guillot]] · [[roger-espanol]] · [[fabiola-campillai]] — los descendientes históricos del caso Geddis.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita explícitamente Geddis.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — la ONU prohíbe el disparo indirecto por rebote precisamente por casos como este.
-
-## Pendientes
-- [ ] Confirmar fecha exacta y unidad militar implicada.
-- [ ] Documentar el contexto familiar de Stephen Geddis.

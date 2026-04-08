@@ -26,7 +26,3 @@ Su muerte fue **decisiva para la prohibición de las balas de goma en Euskadi po
 - ↔ [[carles-guillot]] — fundador de Stop Bales de Goma, del que el caso de Iñigo es referencia constante.
 - ↔ [[compilacion-espana]] — única condena entre 40 casos documentados.
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — la cronología completa de prohibiciones.
-
-## Pendientes
-- [ ] Confirmar nombre y rango del mando condenado.
-- [ ] Localizar la sentencia.

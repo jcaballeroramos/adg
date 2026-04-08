@@ -41,7 +41,3 @@ Empresa **estadounidense** gigante de defensa, ahora rebautizada **RTX** (RTX Co
 - ↔ [[../../marco-legal/onu-orientaciones-2020]] — categoría prohibida.
 - ↔ [[../../historia/tipos-de-armas-tabla]] — sección energía dirigida.
 - ↔ [[anduril]] — el "viejo" complejo militar (Raytheon) y el "nuevo" (Anduril) coexisten.
-
-## Pendientes
-- [ ] Documentar el contrato con la base de Afganistán 2010.
-- [ ] Datos financieros de RTX (mercado bursátil).

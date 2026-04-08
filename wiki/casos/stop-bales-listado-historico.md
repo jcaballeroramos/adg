@@ -94,7 +94,3 @@ Compilación de **todas las muertes documentadas** por balas de goma (y armas de
 - ↔ [[compilacion-espana]] — datos agregados con desglose por cuerpo policial.
 - ↔ [[impacto-agregado]] — el dashboard global.
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — la respuesta normativa.
-
-## Pendientes
-- [ ] Buscar cobertura hemerográfica de cada caso histórico.
-- [ ] Confirmar si Andoni Fagoaga murió en Donostia 1985 o es otro nombre.

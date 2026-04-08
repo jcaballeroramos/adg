@@ -59,7 +59,3 @@ Es decir: **el paso del gas lacrimógeno al sarín** se produjo **en dos años**
 - ↔ [[../../historia/armas-quimicas]] — continuum del gas.
 - ↔ [[irak-tishreen-2019]] · [[libano-thawra-2019]] — mismas granadas regionales.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sitúa el punto de quiebre aquí.
-
-## Pendientes
-- [ ] Documentar los niños de Daraa (nombres, edad, lo que ocurrió después).
-- [ ] Suministros europeos de material policial a Siria 2000-2011.

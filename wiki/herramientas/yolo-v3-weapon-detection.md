@@ -82,6 +82,3 @@ La conclusión del paper sugiere integrar el modelo en **robots de vigilancia**.
 
 ## Fuentes
 - Publicado bajo Creative Commons Attribution: https://doi.org/10.1155/2021/9975700
-
-## Pendientes
-- [ ] Buscar implementaciones alternativas con YOLO V5/V8/V10 (la familia YOLO ha avanzado mucho desde 2021).

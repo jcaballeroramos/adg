@@ -41,6 +41,3 @@ Empresa **estadounidense gigante** fabricante de **tanques, barcos, submarinos, 
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[../feindef/00-overview]] — expositor.
-
-## Pendientes
-- [ ] Documentar TEWS en mayor profundidad.

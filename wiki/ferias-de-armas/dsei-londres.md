@@ -25,7 +25,3 @@ tags: [dsei, londres, reino-unido, condor, spark, expulsión-2019]
 - ↔ [[feindef/00-overview]] — el equivalente español.
 - ↔ [[../empresas-de-armas/empresas/condor]] — la empresa expulsada.
 - ↔ [[../casos/latam/00-compilacion-latam]] — la doble vara de medir.
-
-## Pendientes
-- [ ] Localizar la cobertura mediática del incidente Condor 2019.
-- [ ] Listar otras empresas latinoamericanas/asiáticas excluidas.

@@ -61,7 +61,3 @@ El proyecto contiene:
 ## Conexiones
 - ↔ [[../casos/latam/00-compilacion-latam]] — la fuente primaria de todo el dossier LATAM.
 - ↔ [[../autores-y-referencias/organizaciones/omega-research-foundation]] — colaboraciones técnicas.
-
-## Pendientes
-- [ ] Localizar a los periodistas y autores principales.
-- [ ] Confirmar permisos de uso del material.

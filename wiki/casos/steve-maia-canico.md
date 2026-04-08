@@ -47,7 +47,3 @@ Es el caso paradigmático de cómo **el efecto combinado** de:
 - ↔ [[remi-fraisse]] — el otro caso francés icónico.
 - ↔ [[../historia/armas-quimicas]].
 - ↔ [[../empresas-de-armas/empresas/00-indice]] — los proveedores de gases lacrimógenos en Francia (Alsetex, Nobel Sport, Verney-Carron).
-
-## Pendientes
-- [ ] Documentar las conclusiones oficiales del caso.
-- [ ] Buscar el informe del IGPN.

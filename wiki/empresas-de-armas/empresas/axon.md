@@ -48,7 +48,3 @@ El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, ingeniero
 - ↔ [[../../casos/antonio-c-badalona]].
 - ↔ [[../../empresas-de-armas/feindef/05-taser-lrad]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — sección sobre la electricidad como arma "policial" tras pasar del control del ganado.
-
-## Pendientes
-- [ ] Datos financieros de Axon (cotiza en NASDAQ como AXON).
-- [ ] Localizar casos de muerte por Taser en EE.UU. (cifra estimada en miles).

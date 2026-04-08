@@ -67,6 +67,3 @@ Asegurarán la **plena protección de la salud** de las personas bajo su custodi
 - ↔ [[melzer-onu-2017]].
 - ↔ [[omct-2021]].
 - ↔ [[../amnistia-internacional]].
-
-## Pendientes
-- [ ] Descargar el texto oficial completo de la Resolución 34/169.

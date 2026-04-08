@@ -34,6 +34,3 @@ Vídeo promocional proyectado en una pantalla gigante dentro del stand. Montaje 
 ## Notas
 - "Determinar la intención" es una frase clave: el arma asume la función cognitiva del oficial.
 - CSI / CTS son habituales en la documentación de ataques contra civiles en Palestina, EE.UU. y Latinoamérica.
-
-## Pendientes
-- [ ] Buscar ficha técnica VENOM (lanzador modular).

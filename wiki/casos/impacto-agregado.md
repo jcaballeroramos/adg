@@ -194,7 +194,3 @@ Cada víctima con rostro y nombre en la wiki:
 - ↔ [[../marco-legal/bibliografia/lethal-in-disguise-2]] — fuente global.
 - ↔ [[../marco-legal/bibliografia/haar-bmj-2017]] — fuente médica.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco político-económico.
-
-## Pendientes
-- [ ] Tabla de ratios: **dinero gastado por cada herido** (multiplicar mercado × heridos).
-- [ ] Gráfico temporal simple (heridos por año) en vez de tabla.

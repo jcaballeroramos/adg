@@ -37,7 +37,3 @@ Y recordemos: **a 122 julios cualquier impacto cinético es potencialmente letal
 - ↔ [[../../casos/compilacion-espana]] — el "144 julios" sale de aquí.
 - ↔ [[../../casos/roger-espanol]], [[../../casos/carles-guillot]], [[../../casos/inigo-cabacas]], [[../../casos/ester-quintana]] — víctimas probables de munición Maxam.
 - ↔ [[../../historia/balas-goma]].
-
-## Pendientes
-- [ ] Verificar la conexión Alfred Nobel ↔ Sociedad Española de Dinamita ↔ MAXAM actual.
-- [ ] Localizar contratos públicos del Ministerio del Interior con MAXAM.

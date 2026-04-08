@@ -56,7 +56,3 @@ Krušik ilustra **tres patrones** del mercado global:
 - ↔ [[../../casos/internacionales/irak-tishreen-2019]] — posibles lotes Krušik.
 - ↔ [[../../historia/mercado-mundial]] — proliferación balcánica.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — mercado global descontrolado.
-
-## Pendientes
-- [ ] Lista de productos lacrimógenos específicos de Krušik.
-- [ ] Proceso contra Obradović — resultado.

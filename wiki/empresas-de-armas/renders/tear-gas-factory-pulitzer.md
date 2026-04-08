@@ -23,7 +23,3 @@ Reportaje del **Pulitzer Center** sobre **fábricas de gas lacrimógeno ubicadas
 - ↔ [[tear-gas-amnesty]] — el render que muestra qué hace el gas al cuerpo.
 - ↔ [[../historia/armas-quimicas]] — Haber, Churchill y la genealogía del CS.
 - ↔ [[../marco-legal/amnistia-internacional]] — Amnistía exige **controles estrictos de exportación**. Este reportaje cuenta quién produce.
-
-## Pendientes
-- [ ] Leer el reportaje íntegro y extraer los datos clave (empresa, país, fechas, nombres).
-- [ ] Descargar imágenes del reportaje a `assets/` (con atribución al Pulitzer Center).

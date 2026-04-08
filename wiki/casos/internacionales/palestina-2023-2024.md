@@ -107,7 +107,3 @@ El Skunk, las balas de goma metálicas, el uso de drones para "identificar" mani
 - **Adalah** — Legal Center for Arab Minority Rights in Israel.
 - **Physicians for Human Rights Israel**.
 - **Defence for Children International - Palestine**.
-
-## Pendientes
-- [ ] **Documentar a fondo el uso del Skunk**: fabricante (Odortec), mezcla química exacta, casos de uso sistemático.
-- [ ] Documentar la **campaña de boicot a las empresas israelíes de armas**.

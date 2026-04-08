@@ -38,7 +38,3 @@ Byrna es el caso más explícito de **trasladar el armamento "menos letal" al co
 - ↔ [[../feindef/03-byrna]] — stand FEINDEF + análisis del técnico.
 - ↔ [[../publicidad/byrna-bad-guy-repellent]] — el anuncio del spray.
 - ↔ [[../../entrenamientos/lexipol-gordon-graham]] — el contraste con la voz "menos letal no es no letal".
-
-## Pendientes
-- [ ] Datos financieros (cotización NASDAQ, market cap).
-- [ ] Fundadores y trayectoria corporativa.

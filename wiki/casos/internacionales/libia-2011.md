@@ -55,7 +55,3 @@ Pero a diferencia de casos como Bahréin o Egipto, **el gas lacrimógeno duró m
 - ↔ [[../../empresas-de-armas/empresas/ruag-ammotec]] — suministros europeos previos.
 - ↔ [[../../empresas-de-armas/empresas/krusik-serbia]] — granadas balcánicas documentadas.
 - ↔ [[lampedusa-naufragios]] — consecuencia migratoria.
-
-## Pendientes
-- [ ] Documentar las primeras 72 horas de represión (dónde y cómo).
-- [ ] Lista de empresas exportadoras de material policial a Libia 2000-2010.

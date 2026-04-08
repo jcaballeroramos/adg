@@ -29,7 +29,3 @@ El estudio revisa sistemáticamente la literatura médica sobre lesiones, muerte
 - ↔ [[lethal-in-disguise-2]] — INCLO se basa en este tipo de revisiones sistemáticas.
 - ↔ [[../../testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología en la práctica clínica.
 - ↔ [[mcevoy-corney-haar]] — Haar es coautora.
-
-## Pendientes
-- [ ] Extraer las cifras agregadas.
-- [ ] Buscar entrevistas con Rohini Haar para posible colaboración.

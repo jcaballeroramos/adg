@@ -17,7 +17,3 @@ Investigadora del **Centre Delàs d'Estudis per la Pau**, especializada en indus
 ## Por qué nos importa
 - Voz catalana experta en el cruce entre **industria de armas** y **derechos humanos**.
 - Conecta la perspectiva del **Centre Delàs** (referencia mundial en investigación pacifista) con el ámbito local.
-
-## Pendientes
-- [ ] Localizar y archivar todas sus publicaciones.
-- [ ] Verificar si participa en el [[../herramientas/symposium-non-lethal-weapons-2026]].

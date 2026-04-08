@@ -63,7 +63,3 @@ King recibe **3,8 millones de dólares** en daños civiles del LAPD.
 - ↔ [[../historia/taser]] — historia del arma.
 - ↔ [[../casos/latam/ee-uu-frontera-sur]] · otras víctimas estadounidenses.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita el caso como inflexión.
-
-## Pendientes
-- [ ] Descargar el vídeo Holliday completo (los 9 minutos).
-- [ ] Listado completo de los 21 agentes presentes en la escena.

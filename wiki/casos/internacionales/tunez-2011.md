@@ -49,7 +49,3 @@ El escándalo fue tan grande que **Alliot-Marie tuvo que dimitir** semanas despu
 - ↔ [[../../empresas-de-armas/empresas/combined-systems]].
 - ↔ [[../../historia/cronologia-completa]] — 17 dic 2010 / 14 ene 2011.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sitúa el inicio de la ola aquí.
-
-## Pendientes
-- [ ] Lista nominal de víctimas.
-- [ ] Fotografías y vídeos de la represión con gas en Kasserine, Thala.

@@ -74,7 +74,3 @@ Organización **sin fines de lucro registrada en Inglaterra y Gales** (1990). Es
 - ↔ [[../../marco-legal/onu-orientaciones-2020]] — la ONU cita a Omega Research Foundation.
 - ↔ [[../../marco-legal/amnistia-internacional]] — Omega es socio histórico.
 - ↔ [[mapa-ferias-armas-omega]] — Omega también mantiene el mapa mundial de ferias de armas.
-
-## Pendientes
-- [ ] Acceder al repositorio GitHub.
-- [ ] Descargar publicaciones recientes sobre la industria china.

@@ -36,7 +36,3 @@ Para el documental es relevante porque:
 - ↔ [[../casos/latam/intermediarios-latam]] — caso Automation Systems.
 - ↔ [[../casos/latam/transferencias-cross-country]] — caso Macri/Hércules.
 - ↔ [[../marco-legal/onu-relatora-tortura]].
-
-## Pendientes
-- [ ] Conexión con CELS y otras organizaciones argentinas de derechos humanos.
-- [ ] Documentar el contexto del gobierno Milei (2024-): retroceso en derechos.

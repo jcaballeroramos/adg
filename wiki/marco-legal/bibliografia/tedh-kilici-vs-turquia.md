@@ -24,7 +24,3 @@ El **Tribunal Europeo de Derechos Humanos (TEDH)** reconoció en el caso **Kilic
 - ↔ [[../../casos/roger-espanol]] — el caso español que cita esta jurisprudencia.
 - ↔ [[../../casos/inigo-cabacas]].
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — Iridia usa esta jurisprudencia.
-
-## Pendientes
-- [ ] Localizar la sentencia completa (Strasbourg).
-- [ ] Documentar la indemnización fijada.

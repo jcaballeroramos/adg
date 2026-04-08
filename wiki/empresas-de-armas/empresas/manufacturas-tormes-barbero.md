@@ -26,7 +26,3 @@ Empresa **española** fabricante de **proyectiles** y **componentes pirotécnico
 - ↔ [[maxam]] · [[falken]] — el resto de fabricantes españoles.
 - ↔ [[../../casos/compilacion-espana]] — los datos agregados del daño en España.
 - ↔ [[../../marco-legal/bibliografia/access-info-europe]] — el patrón europeo de opacidad sobre el armamento policial.
-
-## Pendientes
-- [ ] **Sede exacta** (probable en Salamanca/provincia).
-- [ ] **Lista completa de productos**.

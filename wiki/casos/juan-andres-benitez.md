@@ -67,10 +67,6 @@ La paliza fue **grabada desde varios balcones** por vecinos del Raval. Las imág
 - ↔ [[impacto-agregado]] — incluido en el recuento de muertes en España.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — demuestra que **el vídeo ciudadano** es **la única palanca** que rompe la impunidad.
 
-## Pendientes
-- [ ] Confirmar las penas exactas impuestas a cada uno de los 6 condenados.
-- [ ] Buscar cobertura de **La Directa**, **Crític**, **El Periódico**.
-
 ## Por qué importa para la cronología
 Junto con el caso de **[[ester-quintana|Ester Quintana]]** (noviembre 2012), el de Juan Andrés Benítez fue **decisivo** para que el **Parlament de Catalunya prohibiera el uso de balas de goma en abril de 2014**. Estos dos casos crearon **el clima político y mediático** que hizo políticamente imposible mantener el statu quo.
 
@@ -86,10 +82,3 @@ Junto con el caso de **[[ester-quintana|Ester Quintana]]** (noviembre 2012), el 
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — la cronología completa.
 - ↔ [[../autores-y-referencias/organizaciones/iridia]] — Iridia trabajó en el caso.
 - ↔ [[compilacion-espana]] — uno de los casos paradigmáticos de la era 2005-2015.
-
-## Pendientes
-- [ ] Documentar las condenas concretas (años, agentes específicos).
-- [ ] Localizar el vídeo original de los vecinos.
-- [ ] Cruzar con la cobertura mediática catalana.
-- [ ] Documentar la familia y el activismo posterior.
-- [ ] Conectar con la organización **Tanquem els CIE** y otras del Raval.

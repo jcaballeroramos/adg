@@ -58,6 +58,3 @@ La represión fue **excepcionalmente letal**:
 - ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[sri-lanka-2022]] — la ola global 2019-2022.
 - ↔ [[../impacto-agregado]] — incluido.
 - ↔ [[../../autores-y-referencias/organizaciones/omega-research-foundation]] — Omega ha documentado armamento usado en Myanmar.
-
-## Pendientes
-- [ ] Documentar más casos individuales (es muy denso).

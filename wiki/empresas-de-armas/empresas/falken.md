@@ -73,7 +73,3 @@ Empresa **española** fundada el **24 de noviembre de 1981**, especializada en *
 - ↔ [[../../casos/latam/venezuela-2017-2019]] — exportaciones a Cavim Venezuela.
 - ↔ [[../../casos/latam/intermediarios-latam]].
 - ↔ [[../../ferias-de-armas/feindef/00-overview]] — expositor 2025.
-
-## Pendientes
-- [ ] Análisis crítico del traspaso al grupo Etienne Lacroix (2020).
-- [ ] Buscar contratos con la Guardia Civil y Policía Nacional (probable: ver [[../../casos/melilla-2022]]).

@@ -55,7 +55,3 @@ Empresa **brasileña** fundada en **1985**. **Líder global** del armamento no l
 - ↔ Casos: [[../../casos/latam/00-compilacion-latam]] (todos los países donde aparece).
 - ↔ [[../../casos/latam/intermediarios-latam]].
 - ↔ [[../../casos/latam/transferencias-cross-country]].
-
-## Pendientes
-- [ ] Investigación a fondo de la familia/propietarios de Condor.
-- [ ] Buscar el reportaje que detonó la expulsión de DSEI 2019.

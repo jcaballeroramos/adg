@@ -325,7 +325,3 @@ La Guàrdia Urbana no recibe los 22 tasers por voto del Ayuntamiento.
 - ↔ Toda la wiki — esta cronología es el **esqueleto temporal** del proyecto.
 - ↔ [[porra-tonfa]] · [[canones-agua]] · [[armas-quimicas]] · [[balas-goma]] · [[armas-acusticas]] · [[taser]] — las fichas individuales por tipo de arma.
 - ↔ [[tipos-de-armas-tabla]] — la clasificación técnica.
-
-## Pendientes
-- [ ] Añadir imágenes/iconos por época.
-- [ ] Crear una visualización temporal (timeline interactiva).

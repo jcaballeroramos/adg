@@ -102,7 +102,3 @@ tags: [bibliografía, fuentes, marco-legal, índice]
 - ↔ [[amnistia-internacional]]
 - ↔ [[../autores-y-referencias/organizaciones/omega-research-foundation]]
 - ↔ [[../herramientas/el-clip-negocio-represion]]
-
-## Pendientes
-- [ ] Verificar año exacto y página de cada cita.
-- [ ] Crear índice cronológico paralelo (1850 → 2024).

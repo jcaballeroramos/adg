@@ -32,7 +32,3 @@ Fabricante **estadounidense** especializado en una gama amplia de munición y di
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[combined-systems]] · [[amtec-less-lethal]] · [[nonlethal-technologies]] — competidores directos.
-
-## Pendientes
-- [ ] Datos corporativos: matriz, propietarios, sede.
-- [ ] Casos de uso documentados.

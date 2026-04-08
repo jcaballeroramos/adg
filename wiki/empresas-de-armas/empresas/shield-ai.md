@@ -30,7 +30,3 @@ Empresa **estadounidense** de tecnología de defensa especializada en **sistemas
 - ↔ [[anduril]] · [[vannevar-labs]]
 - ↔ [[../../herramientas/laws-armas-autonomas]]
 - ↔ [[../feindef/04-fn-smart-protector]] — su contraparte europea más "discreta".
-
-## Pendientes
-- [ ] Fundadores, financiación, contratos.
-- [ ] Política sobre control humano sobre el disparo.

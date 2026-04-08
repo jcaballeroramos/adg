@@ -37,7 +37,3 @@ tags: [rufo-chacon, venezuela, tachira, cheddite, perdigones-plomo, ceguera, men
 - ↔ [[juan-pablo-pernalete]] — el otro caso emblemático venezolano.
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la fisiología clínica del estallido ocular.
 - ↔ [[../autores-y-referencias/organizaciones/ojo-con-tu-ojo]].
-
-## Pendientes
-- [ ] Confirmar fecha exacta y lugar.
-- [ ] Documentar el recorrido médico y la situación actual.

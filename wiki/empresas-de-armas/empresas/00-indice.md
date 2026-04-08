@@ -153,7 +153,3 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 - ↔ [[../../casos/transferencias-cross-country]] — préstamos de armas entre países.
 - ↔ [[../feindef/00-overview]] — quién expone en FEINDEF.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco económico-político.
-
-## Pendientes
-- [ ] Desplegar perfiles individuales de las empresas más relevantes (Anduril, Combined Systems, Condor, Axon, ISPRA).
-- [ ] Verificar valoraciones bursátiles (Anduril, Axon, Raytheon).

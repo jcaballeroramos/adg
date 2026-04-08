@@ -40,7 +40,3 @@ Fabricante histórico de **cartuchos, municiones y pólvora**. Vinculada al lega
 - ↔ [[maxam]] — la **otra heredera** del legado Nobel-SED en España.
 - ↔ [[alsetex]] · [[verney-carron]] · [[brugger-thomet]] — los **4 dominantes** del mercado público francés.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita explícitamente a Nobel Sport.
-
-## Pendientes
-- [ ] Conexión histórica con MAXAM (también heredera de la SED).
-- [ ] Casos en LATAM (probable presencia).

@@ -43,7 +43,3 @@ Un testigo de la noche:
 - ↔ [[../empresas-de-armas/empresas/00-indice]] — la GLI-F4 (= SAE 810).
 - ↔ [[../historia/armas-quimicas]].
 - ↔ [[steve-maia-canico]] — otra muerte por gases lacrimógenos en Francia, Nantes.
-
-## Pendientes
-- [ ] Localizar la sentencia (si la hay) sobre el gendarme que disparó.
-- [ ] Buscar imágenes de archivo de la protesta de Sivens.

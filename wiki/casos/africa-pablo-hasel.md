@@ -49,7 +49,3 @@ A raíz de este caso, en el marco del litigio estratégico de **Iridia**, **se p
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la fisiología clínica del estallido ocular por proyectiles de alta energía.
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — capítulo "el reemplazo".
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"las armas no letales propician el gatillo fácil"*.
-
-## Pendientes
-- [ ] Localizar y digitalizar la entrevista a Eric Cuesta.
-- [ ] Buscar y archivar la carta que escribió África.

@@ -38,7 +38,3 @@ Falken expone en Milipol y FEINDEF con coordenadas claras: Pabellón 10E18 en FE
 - ↔ [[../casos/latam/venezuela-2017-2019]] — Norinco en Milipol 2017.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita Milipol como ejemplo del oligopolio del sector.
 - ↔ [[../marco-legal/onu-relatora-tortura]] — la ONU "seguirá vigilando las ferias de armas en todo el mundo".
-
-## Pendientes
-- [ ] Documentar las ediciones específicas: París 2023, 2025; Singapur, Doha, Abu Dabi.
-- [ ] Buscar los expositores documentados año por año.

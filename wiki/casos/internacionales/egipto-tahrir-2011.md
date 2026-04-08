@@ -78,7 +78,3 @@ Desde entonces, Egipto ha **recuperado** su posición como uno de los **mayores 
 - ↔ [[hong-kong-2019-2020]] · [[endsars-nigeria-2020]] · [[iran-mahsa-amini-2022]] — el mismo patrón global.
 - ↔ [[libano-thawra-2019]] · [[irak-tishreen-2019]] — otras expresiones de la ola árabe post-2011.
 - ↔ [[../../historia/cronologia-completa]] — entrada de enero-febrero 2011.
-
-## Pendientes
-- [ ] Documentar la cobertura de **Al Jazeera** (Mohamed Fahmy, Peter Greste encarcelados).
-- [ ] Buscar el artículo original de **Gabriele Zavi**.

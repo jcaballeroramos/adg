@@ -24,7 +24,3 @@ El **Tribunal Europeo de Derechos Humanos (TEDH)** reconoció en el caso **Abdul
 - ↔ [[../../casos/fabiola-campillai]] — el caso chileno paradigmático.
 - ↔ [[../../casos/juan-pablo-pernalete]] — el caso venezolano.
 - ↔ [[../../casos/remi-fraisse]] — el caso francés (granada GLI-F4).
-
-## Pendientes
-- [ ] Localizar la sentencia completa.
-- [ ] Buscar el fallo paralelo "Mocan v. Turquía" si existe.

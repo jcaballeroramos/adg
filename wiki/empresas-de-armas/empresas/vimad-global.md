@@ -58,7 +58,3 @@ La llegada de **Fernández de Mesa** como asesor coincidió con un **incremento 
 - ↔ [[saborit-international]] · [[telefonica-ingenieria-seguridad]] — los **otros 2 grandes intermediarios** españoles.
 - ↔ [[../../historia/armas-acusticas]] — LRAD.
 - ↔ [[../feindef/00-overview]] — expositor.
-
-## Pendientes
-- [ ] Documentar TODOS los contratos públicos de Vimad.
-- [ ] Investigación sobre Fernández de Mesa: trayectoria GC → Vimad.

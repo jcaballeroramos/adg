@@ -31,7 +31,3 @@ Fabricante **estadounidense** de armas menos letales. Cuestionada por su nombre 
 - ↔ [[../../casos/latam/chile-estallido-2019]]
 - ↔ [[../../casos/latam/intermediarios-latam]]
 - ↔ [[combined-systems]] · [[als-less-lethal]] · [[amtec-less-lethal]] — mismo segmento.
-
-## Pendientes
-- [ ] Datos corporativos (sede, propietarios, fundación).
-- [ ] Lista completa de productos.

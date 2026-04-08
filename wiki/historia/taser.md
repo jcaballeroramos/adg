@@ -23,7 +23,3 @@ Viene del libro **"Thomas A. Swift Electric Rifle"** — una novela juvenil sobr
 - ↔ [[../feindef/05-taser-lrad]] — el entrenamiento de Columbus.
 - ↔ [[../entrenamientos/lexipol-gordon-graham]] — Gordon Graham insiste en que requiere entrenamiento bajo estrés porque **puede matar**.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibido en pecho frontal (paro cardíaco), descargas repetidas, drive-stun, contra resistencia pasiva.
-
-## Pendientes
-- [ ] Localizar la patente original de 1880 (picana).
-- [ ] Confirmar el papel de Cover en NASA y su vínculo con la NRA.

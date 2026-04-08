@@ -41,7 +41,3 @@ tags: [vframe, computer-vision, munición, derechos-humanos, forensic, ml]
 
 ## Fuentes
 - https://vframe.io/about/
-
-## Pendientes
-- [ ] Probar la herramienta con un vídeo corto de nuestro archivo (ej. un fragmento de FEINDEF o de los entrenamientos).
-- [ ] Revisar su repositorio en GitHub y su licencia.

@@ -27,7 +27,3 @@ Cataluña fue así el **primer territorio autónomo de España** en prohibir las
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — cronología completa.
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la doctora que opera estos estallidos oculares; comparece en el Parlament en 2013, año del activismo previo a la prohibición.
 - ↔ [[compilacion-espana]] — entre las **22 personas** que perdieron un ojo entre 1990 y 2012 en España.
-
-## Pendientes
-- [ ] Localizar la resolución del Parlament de Catalunya 2014.
-- [ ] Buscar entrevistas con Ester Quintana para posible aparición.

@@ -100,6 +100,3 @@ Dilemas morales sobre **delegar decisiones de vida o muerte a máquinas**.
 - ↔ [[symposium-non-lethal-weapons-2026]] — el foro donde se normaliza.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco crítico.
 - ↔ [[vframe]] — el contraejemplo civil.
-
-## Pendientes
-- [ ] Buscar pronunciamientos de Stop Killer Robots.

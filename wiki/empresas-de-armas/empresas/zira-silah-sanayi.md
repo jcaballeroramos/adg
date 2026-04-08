@@ -49,6 +49,3 @@ Hasta **2021**, las pistolas Blow se vendían en Colombia **sin permiso especial
 - ↔ [[ozkursan]] — fabricante de la munición compatible.
 - ↔ [[../../casos/latam/colombia-2021]] — Paro Nacional.
 - ↔ [[../../casos/latam/intermediarios-latam]] — importadores de la Pava Coca y Lizarazo Bonilla.
-
-## Pendientes
-- [ ] Reportes de El Clip / Vorágine sobre el caso.
