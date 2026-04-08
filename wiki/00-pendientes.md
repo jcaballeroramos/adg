@@ -6,7 +6,7 @@ tags: [pendientes, auto, todo]
 
 # Pendientes — agregado automático
 
-> **Total**: 589 ítems · **Completados**: 0 · **Por hacer**: 589
+> **Total**: 593 ítems · **Completados**: 0 · **Por hacer**: 593
 
 Esta página se regenera en cada `python3 build.py`. **No la edites a mano**: añade o marca pendientes en la sección `## Pendientes` de cada nota individual y vuelve a compilar.
 
@@ -346,7 +346,7 @@ Esta página se regenera en cada `python3 build.py`. **No la edites a mano**: a�
 - [ ] Documentación sobre regulación turca de exportación de munición.
 
 
-## Casos  ·  *0/172*
+## Casos  ·  *0/176*
 
 ### [[bahrein-2011|Bahréin 2011 — la masacre química silenciada]]
 - [ ] Descargar el informe PHR 2012 completo.
@@ -558,6 +558,12 @@ Esta página se regenera en cada `python3 build.py`. **No la edites a mano**: a�
 - [ ] Confirmar si Andoni Fagoaga murió en Donostia 1985 o es otro nombre.
 - [ ] Revisar el archivo de Egin / Berria / La Vanguardia.
 - [ ] Cruzar con el archivo del **CIEMEN** (Centre Internacional Escarré per a les Minories Ètniques i les Nacions).
+
+### [[maria-meza-tijuana-2018|María Meza — Tijuana, 25 de noviembre de 2018]]
+- [ ] Localizar a María Meza y su familia (¿dónde están ahora?).
+- [ ] Descargar la foto original de Reuters (Kim Kyung-Hoon) para el documental.
+- [ ] Cruzar con los informes HRW y ACLU sobre la caravana migrante 2018.
+- [ ] Datos exactos del bote lacrimógeno usado (fabricante y lote).
 
 ### [[rodney-king-1991|Rodney King — Los Ángeles, 3 de marzo de 1991]]
 - [ ] Descargar el vídeo Holliday completo (los 9 minutos).

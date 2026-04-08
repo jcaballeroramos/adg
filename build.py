@@ -959,7 +959,8 @@ COUNTRY_DATA = [
     {"slug": "casos/latam/guatemala-2020", "title": "Guatemala Noviembre 2020", "country": "Guatemala", "lng": -90.5069, "lat": 14.6349, "type": "masacre", "year": 2020},
     {"slug": "casos/latam/brasil-2017-2021", "title": "Brasil 2017-2021 (Recife)", "country": "Brasil", "lng": -34.8770, "lat": -8.0476, "type": "masacre", "year": 2021},
     {"slug": "casos/latam/mexico-feminista-2020", "title": "México marchas feministas", "country": "México", "lng": -99.1332, "lat": 19.4326, "type": "lesion", "year": 2020},
-    {"slug": "casos/latam/ee-uu-frontera-sur", "title": "EE.UU. Frontera sur (María Meza 2018)", "country": "Estados Unidos", "lng": -117.0000, "lat": 32.5000, "type": "masacre", "year": 2018},
+    {"slug": "casos/latam/ee-uu-frontera-sur", "title": "EE.UU. Frontera sur (compilación 2018-2024)", "country": "Estados Unidos", "lng": -117.0300, "lat": 32.5200, "type": "masacre", "year": 2020},
+    {"slug": "casos/latam/maria-meza-tijuana-2018", "title": "María Meza — Tijuana, 25 nov 2018", "country": "México", "lng": -117.0382, "lat": 32.5149, "type": "lesion", "year": 2018},
     # Internacional
     {"slug": "casos/internacionales/endsars-nigeria-2020", "title": "EndSARS Nigeria (Lekki 2020)", "country": "Nigeria", "lng": 3.4500, "lat": 6.4500, "type": "masacre", "year": 2020},
     {"slug": "casos/internacionales/hong-kong-2019-2020", "title": "Hong Kong 2019-2020", "country": "Hong Kong", "lng": 114.1694, "lat": 22.3193, "type": "masacre", "year": 2019},

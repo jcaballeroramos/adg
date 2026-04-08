@@ -117,6 +117,7 @@
 - [Juan Andrés Benítez (Raval, 2013)](casos/juan-andres-benitez.md) — paliza de los Mossos, segundo detonante de la prohibición catalana.
 - [Stephen Geddis (Belfast, 1975)](casos/stephen-geddis.md) — 10 años, primera muerte por bala de goma rebotada del ejército británico.
 - [Rodney King (Los Ángeles, 1991)](casos/rodney-king-1991.md) — paliza LAPD, vídeo Holliday, disturbios 1992, Taser TF-76.
+- [María Meza (Tijuana, 2018)](casos/latam/maria-meza-tijuana-2018.md) — la «foto de la vergüenza», caravana migrante + gas CBP.
 - [Rufo Chacón (Venezuela, 2019)](casos/rufo-chacon.md) — 16 años, 64 perdigones de plomo Cheddite en el rostro.
 - [Juan Pablo Pernalete (Caracas, 2017)](casos/juan-pablo-pernalete.md) — bomba lacrimógena Norinco al pecho.
 
