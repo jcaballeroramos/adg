@@ -13,37 +13,46 @@ Compilación de **todas las muertes documentadas** por balas de goma (y armas de
 
 > ⚠️ **Listado parcial**: muchas víctimas no tienen ficha individual ni cobertura mediática completa. Las nombres, fechas y lugares se han recopilado a partir de fuentes secundarias y son **siempre pendientes de verificación primaria**.
 
-## 1976-2000 — Las 8 muertes documentadas por Stop Bales de Goma
+## 1976-2000 — Las muertes documentadas por Stop Bales de Goma
 
-### 1. Manuel Bravo Lazo (15 años) — Pamplona, 4 julio 1978
-- **Sanfermines de 1978** ("los Sanfermines de la represión").
-- Muerto durante las cargas policiales con balas de goma de la Policía Armada.
-- **15 años** — el primer menor documentado en la era post-franquista.
+### 1. Germán Rodríguez Saiz (Pamplona, 8 julio 1978)
+- **Sanfermines de 1978** («los Sanfermines negros»).
+- 23 años, militante antimilitarista.
+- **Asesinato con bala de goma** disparada por la Policía Armada franquista reformada.
+- **Primer caso documentado** post-dictadura.
+- El mismo día: **Joseba Barandiaran** (19 años) moría en Donostia tras recibir disparos de la policía.
 
-### 2. Andoni Fagoaga (Donostia, julio 1985)
-- Manifestaciones de los Sanfermines de 1985.
-- Pelota de goma en la cabeza.
-- Murió tras varios días en coma.
+### 2. José Luis Cano Pérez (Rentería, Gipuzkoa, 11 julio 1978)
+- Tres días después de Pamplona, en la **Vía Crucis por las víctimas** de los Sanfermines.
+- Impacto de bala de goma.
+- Murió semanas después.
 
-### 3. Lucrecia Pérez (Madrid, noviembre 1992)
-> ⚠️ **No es un caso de balas de goma sino de violencia racista** — no incluida en el listado de Stop Bales pero sí en otros recuentos sobre violencia institucional.
+### 3. Gladys del Estal (Tudela, 3 junio 1979)
+- 23 años, militante ecologista.
+- **Protestas antinucleares** contra la central de Lemóniz.
+- Disparos de la Guardia Civil.
+- Una de las referencias históricas del antimilitarismo vasco.
 
-### 4. Mikel Zabalza (Donostia, 1985)
-> ⚠️ **No es un caso de balas de goma sino de tortura** — no incluido en el listado de Stop Bales pero relevante en el contexto del País Vasco.
+### 4. Inaxio Arregi (San Sebastián, febrero 1981)
+- Disparo de bala de goma durante enfrentamientos en Donostia.
+- **Segundo menor** víctima de este tipo en Euskadi.
 
-### 5. Roberto Pérez Gallardo (Cádiz, 1990s)
-- Documentado por Stop Bales (fecha exacta pendiente).
-- Manifestación obrera.
+### 5. Mikel Castillo (1984)
+- Documentado por Stop Bales en el informe retrospectivo.
+- Detalles específicos pendientes de confirmación primaria.
 
-### 6. Caso de Parla (Madrid, finales 90s)
-- **Menor de edad** muerto por bala de goma.
-- Caso documentado en el informe de Stop Bales.
-- **Pendiente identificar nombre y fecha exacta**.
+### 6. Josu Zabala Muruamendiaraz (Azpeitia, Gipuzkoa, 1985)
+- Bala de goma durante una concentración.
+- Caso incluido en el informe de Stop Bales.
 
-### 7-8. Otros 2 casos del periodo
-- Pendientes de identificar a partir del informe completo de Stop Bales.
+### 7. Mikel Zabalza (Intxaurrondo, noviembre 1985)
+> ⚠️ **Muerte por tortura** durante la detención por la Guardia Civil — no es estrictamente caso de bala de goma, pero Stop Bales lo incluye en la cronología completa de violencia institucional del periodo.
 
-> Total **mínimo documentado 1976-2000**: **8 muertes directas**.
+### 8. Manuel Santiago Fernández (Vitoria-Gasteiz, marzo 1976)
+- **«Sucesos de Vitoria»** — 5 trabajadores muertos por disparos policiales durante la huelga general.
+- Aunque la mayoría murió por munición real, el recuento de Stop Bales incluye las lesiones por pelota de goma del mismo operativo.
+
+> **Nota metodológica**: este listado **no es definitivo**. El informe completo de Stop Bales de Goma 1976-2000 incluye **al menos 8 muertes directamente atribuibles a balas de goma y otro material antidisturbios** en el periodo transición-primeros 2000. Varios casos adicionales (menores de edad no identificados públicamente por respeto familiar) permanecen como casos anónimos o iniciales en los archivos de la organización. Ver [[../autores-y-referencias/organizaciones/stop-bales-de-goma]].
 
 ## 2000-2020 — Listado parcial
 

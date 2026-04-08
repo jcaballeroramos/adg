@@ -65,6 +65,8 @@
 - [Zira Silah Sanayi](empresas-de-armas/empresas/zira-silah-sanayi.md) (Turquía) — pistolas Blow F92, **125.000 unidades a Colombia**.
 - [Aardvark Tactical](empresas-de-armas/empresas/aardvark-tactical.md) (EE.UU.) — **$62M en contratos con CBP** frontera sur.
 - [Azimuth Medical Devices](empresas-de-armas/empresas/azimuth-medical-devices.md) (Chile) — empresa "médica" que vendió gas pimienta a Carabineros 2019.
+- [Saab Bofors Dynamics](empresas-de-armas/empresas/saab-bofors-dynamics.md) (Suecia) — NLAW, Carl-Gustaf, estrella de Ucrania 2022.
+- [Diehl Defence](empresas-de-armas/empresas/diehl-defence.md) (Alemania) — IRIS-T, el complejo militar del «Zeitenwende».
 - [Norinco (China)](empresas-de-armas/empresas/norinco.md) — bestiario venezolano.
 - [Lamperd Less Lethal (Canadá)](empresas-de-armas/empresas/lamperd-less-lethal.md).
 
@@ -111,6 +113,10 @@
 - [Túnez 2010-2011](casos/internacionales/tunez-2011.md) — Revolución del Jazmín. Alliot-Marie ofrece "savoir-faire" francés.
 - [Libia 2011](casos/internacionales/libia-2011.md) — de la protesta a la guerra civil en días.
 - [Siria 2011](casos/internacionales/siria-2011.md) — Daraa, los niños torturados, el continuum hacia el sarín.
+- [Yemen 2011-presente](casos/internacionales/yemen-2011-presente.md) — Primavera Árabe → coalición saudí → +377.000 muertos.
+- [Ucrania 2022-presente](casos/internacionales/ucrania-2022-presente.md) — el campo de prueba global de LAWS, drones y Silicon Valley.
+- [Chile 1973 — dictadura de Pinochet](casos/internacionales/chile-1973-pinochet.md) — el gas como herramienta política cotidiana.
+- [Argentina 1976 — dictadura militar](casos/internacionales/argentina-1976-dictadura.md) — +30.000 desaparecidos, las Madres de Plaza de Mayo.
 - [Tarajal 2014 (Ceuta)](casos/tarajal-2014.md) — 14 personas migrantes muertas. Caso hermano de Melilla 2022.
 - [Rémi Fraisse (Sivens, 2014)](casos/remi-fraisse.md) — granada GLI-F4 destrozó la nuca con las manos arriba.
 - [Steve Maia Caniço (Nantes, 2019)](casos/steve-maia-canico.md) — gases lacrimógenos + Loira = ahogamiento.
@@ -151,6 +157,10 @@
 - [Christof Heyns](autores-y-referencias/christof-heyns.md) — Relator ONU, primer informe sobre LAWS (2013).
 - [Fionnuala Ní Aoláin](autores-y-referencias/fionnuala-ni-aolain.md) — Relatora ONU, informe A/78/324 (2023) sobre tortura ↔ menos letal.
 - [Nils Melzer](autores-y-referencias/nils-melzer.md) — anterior Relator ONU, informe 2017 + caso Assange.
+- [Agnès Callamard](autores-y-referencias/agnes-callamard.md) — Relatora ONU (Khashoggi) + Secretaria General de Amnistía Internacional.
+- [Stuart Casey-Maslen](autores-y-referencias/stuart-casey-maslen.md) — *Weapons under International Human Rights Law* (Cambridge UP).
+- [Rohini Haar](autores-y-referencias/rohini-haar.md) — médica PHR, autora del estudio BMJ 2017 sobre KIPs.
+- [Sven Lindqvist](autores-y-referencias/sven-lindqvist.md) — *Historia de los bombardeos*, genealogía colonial.
 
 ### Figuras históricas
 - [Fritz Haber](autores-y-referencias/figuras-historicas/fritz-haber.md) — padre de la guerra química, Nobel 1918, Ypres 1915.

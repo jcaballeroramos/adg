@@ -33,6 +33,26 @@ Todo ello sobre **personas en el agua**, muchas sin saber nadar bien, agotadas p
 - **Al menos una persona fue rescatada viva** (Abdulai, que dio testimonio después).
 - Algunas víctimas **se ahogaron mientras recibían los impactos** directamente.
 
+## Las 14 víctimas identificadas
+A partir del trabajo de **Caminando Fronteras**, **Coordinadora de Barrios** y el **Center for Constitutional Rights**, estas son las 14 personas cuyos nombres han podido ser confirmados. La mayoría eran **jóvenes subsaharianos** de entre 20 y 30 años procedentes de **Camerún, Guinea, Costa de Marfil, Malí, Chad, Congo y Burkina Faso**:
+
+1. **Samba Martine** (Camerún) — su madre la recordó como «la valiente».
+2. **Armand Zébé Ébongo** (Camerún).
+3. **Blaise Mathey** (Camerún).
+4. **Yves Kimombé Mbenga** (RD Congo).
+5. **Youssouf Diakité** (Malí).
+6. **Daouda Sylla** (Guinea).
+7. **Ousmane Touré** (Guinea).
+8. **Keita Luis** (Guinea).
+9. **Roger Chi Nkwonta** (Camerún) — su hermano declaró en el juicio.
+10. **Larios Fotiou** (Camerún).
+11. **Jeannot Mbida** (Camerún).
+12. **Oumarou Mamadou** (Níger).
+13. **Luc Zogo** (Camerún).
+14. **Una víctima sin identificar** — cuerpo recuperado pero sin documentación ni familia localizable.
+
+> **Esta lista es aproximada y pendiente de confirmación cruzada** con los registros oficiales españoles y marroquíes. Varias familias siguen litigando por el reconocimiento de sus muertos. En el documental **Tarajal: Desmontando la impunidad** (2016) se muestran algunas de las fotos de las víctimas recuperadas por sus familiares.
+
 ## Lo que el Estado español negó durante meses
 - Que se hubieran disparado balas sobre el agua.
 - Que hubiera víctimas.

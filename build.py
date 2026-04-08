@@ -976,6 +976,10 @@ COUNTRY_DATA = [
     {"slug": "casos/internacionales/tunez-2011", "title": "Túnez 2011 — Revolución del Jazmín", "country": "Túnez", "lng": 10.1815, "lat": 36.8065, "type": "masacre", "year": 2011},
     {"slug": "casos/internacionales/libia-2011", "title": "Libia 2011 — Bengasi / guerra civil", "country": "Libia", "lng": 20.0685, "lat": 32.1167, "type": "masacre", "year": 2011},
     {"slug": "casos/internacionales/siria-2011", "title": "Siria 2011 — Daraa / guerra civil", "country": "Siria", "lng": 36.1044, "lat": 32.6189, "type": "masacre", "year": 2011},
+    {"slug": "casos/internacionales/yemen-2011-presente", "title": "Yemen 2011-presente — +377.000 muertos", "country": "Yemen", "lng": 44.2067, "lat": 15.3694, "type": "masacre", "year": 2015},
+    {"slug": "casos/internacionales/ucrania-2022-presente", "title": "Ucrania 2022-presente — campo de prueba global", "country": "Ucrania", "lng": 30.5234, "lat": 50.4501, "type": "masacre", "year": 2022},
+    {"slug": "casos/internacionales/chile-1973-pinochet", "title": "Chile 1973-1990 — dictadura de Pinochet", "country": "Chile", "lng": -70.6693, "lat": -33.4489, "type": "masacre", "year": 1973},
+    {"slug": "casos/internacionales/argentina-1976-dictadura", "title": "Argentina 1976-1983 — dictadura militar", "country": "Argentina", "lng": -58.3816, "lat": -34.6037, "type": "masacre", "year": 1976},
 ]
 
 MAP_PAGE_TEMPLATE = r"""<!doctype html>
