@@ -30,8 +30,3 @@ tags: [melzer, onu, relator-tortura, 2017, parágrafo-47, uso-fuerza]
 - ↔ [[../onu-orientaciones-2020]] — el manual operativo que vino después.
 - ↔ [[../../casos/roger-espanol]] — la repetición del disparo es lo que convierte al acto en doloso (mismo argumento).
 - ↔ [[../amnistia-internacional]] — Amnistía recoge las exigencias de Melzer.
-
-## Pendientes
-- [ ] Descargar el PDF oficial.
-- [ ] Cita literal del parágrafo 47.
-- [ ] Cruzar con los informes posteriores de Ní Aoláin.

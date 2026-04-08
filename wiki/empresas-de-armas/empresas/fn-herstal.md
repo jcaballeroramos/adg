@@ -65,5 +65,3 @@ Fabricante **belga** de armas de fuego y armas menos letales. Fundada en **1889*
 
 ## Pendientes
 - [ ] Detalles del **Browning Group** (estructura accionarial, compromisos del gobierno valón).
-- [ ] Cifras anuales de exportación.
-- [ ] Cruzar el lanzador FN Smart Protector con casos de uso documentado real (más allá de la presentación Milipol 2023).

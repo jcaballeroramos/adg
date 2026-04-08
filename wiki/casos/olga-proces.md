@@ -37,7 +37,5 @@ Olga buscó **reparación simbólica** además de la económica. **Cada año** i
 - ↔ [[../autores-y-referencias/organizaciones/iridia]] — el tipo de litigio estratégico que practican.
 
 ## Pendientes
-- [ ] Confirmar apellido y datos completos (si quiere aparecer).
 - [ ] Localizar la sentencia de responsabilidad patrimonial.
 - [ ] Documentar visualmente el ritual anual de la placa — posible material de archivo si existe.
-- [ ] Contactar para posible entrevista.

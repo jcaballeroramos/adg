@@ -66,7 +66,4 @@ King recibe **3,8 millones de dólares** en daños civiles del LAPD.
 
 ## Pendientes
 - [ ] Descargar el vídeo Holliday completo (los 9 minutos).
-- [ ] Cita literal de King en el discurso del 1 de mayo de 1992.
-- [ ] Cruzar con la **Christopher Commission** (informe independiente sobre el LAPD post-King).
 - [ ] Listado completo de los 21 agentes presentes en la escena.
-- [ ] Datos del modelo Taser TF-76 — historia técnica.

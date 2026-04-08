@@ -110,10 +110,4 @@ El Skunk, las balas de goma metálicas, el uso de drones para "identificar" mani
 
 ## Pendientes
 - [ ] **Documentar a fondo el uso del Skunk**: fabricante (Odortec), mezcla química exacta, casos de uso sistemático.
-- [ ] Localizar el **informe de B'Tselem** sobre armas menos letales.
-- [ ] Cruzar con **Human Rights Watch**, **Amnesty**, **ICC** (Corte Penal Internacional).
 - [ ] Documentar la **campaña de boicot a las empresas israelíes de armas**.
-- [ ] Conexión entre **Elbit Systems** y las exportaciones globales.
-- [ ] Localizar cifras específicas de muertos por armas menos letales en Cisjordania 2023-2024.
-- [ ] Documentar los casos en los **campus universitarios estadounidenses** 2024.
-- [ ] Documentar los **drones de vigilancia** sobre Gaza y Cisjordania (Elbit Hermes).

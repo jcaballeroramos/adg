@@ -54,7 +54,4 @@ El informe documenta específicamente:
 - ↔ [[../marco-legal/bibliografia/melzer-onu-2017]].
 
 ## Pendientes
-- [ ] Descargar el informe A/78/324 en español completo.
-- [ ] Cita literal de los párrafos clave sobre la equivalencia tortura ↔ menos letal.
 - [ ] Verificar si ha hecho declaraciones públicas sobre casos españoles.
-- [ ] Cruzar con su trabajo sobre Irlanda del Norte y bala de goma británica.

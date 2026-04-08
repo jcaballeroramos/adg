@@ -31,7 +31,4 @@ Conferencia académico-industrial-militar **bienal** del **European Working Grou
 
 ## Pendientes
 - [ ] Descargar el programa cuando esté disponible.
-- [ ] Identificar ponentes destacados → posibles personajes/contraste.
-- [ ] Buscar acreditación / asistencia → ¿se puede entrar como prensa o investigador independiente?
-- [ ] Cruzar lista de asistentes con expositores de FEINDEF.
 - [ ] Buscar actas de simposios anteriores (2018, 2020, 2022, 2024) en `non-lethal-weapons.org`.

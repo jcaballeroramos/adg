@@ -43,5 +43,3 @@ tags: [telefónica, españa, vigilancia, taser, guardia-civil, axon, comunicacio
 ## Pendientes
 - [ ] Documentar las compras concretas Taser ↔ Guardia Civil.
 - [ ] Importes y fechas de los contratos.
-- [ ] Investigar la división corporativa: ¿es subsidiaria o departamento interno?
-- [ ] Conexión con el caso del **atentado a CNTE 1984** que motivó su fundación.

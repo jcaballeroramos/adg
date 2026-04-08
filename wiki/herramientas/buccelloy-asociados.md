@@ -38,7 +38,5 @@ Para el documental es relevante porque:
 - ↔ [[../marco-legal/onu-relatora-tortura]].
 
 ## Pendientes
-- [ ] Listado de casos relevantes que litiga el estudio.
-- [ ] Posible entrevista para el documental.
 - [ ] Conexión con CELS y otras organizaciones argentinas de derechos humanos.
 - [ ] Documentar el contexto del gobierno Milei (2024-): retroceso en derechos.

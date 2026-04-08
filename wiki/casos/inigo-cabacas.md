@@ -30,4 +30,3 @@ Su muerte fue **decisiva para la prohibición de las balas de goma en Euskadi po
 ## Pendientes
 - [ ] Confirmar nombre y rango del mando condenado.
 - [ ] Localizar la sentencia.
-- [ ] Buscar entrevistas con la familia para posible inclusión en la película.

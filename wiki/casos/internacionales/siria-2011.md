@@ -63,6 +63,3 @@ Es decir: **el paso del gas lacrimógeno al sarín** se produjo **en dos años**
 ## Pendientes
 - [ ] Documentar los niños de Daraa (nombres, edad, lo que ocurrió después).
 - [ ] Suministros europeos de material policial a Siria 2000-2011.
-- [ ] Cruzar con informes de Amnistía y Human Rights Watch primeras semanas.
-- [ ] Ghouta 2013 — conexión argumental con 2011.
-- [ ] Caída del régimen 2024-2025 y materiales capturados.

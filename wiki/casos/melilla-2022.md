@@ -65,6 +65,4 @@ Cuando quedaban unas **400 personas** en el patio, las fuerzas marroquíes **ent
 
 ## Pendientes
 - [ ] Localizar el documental de El País y archivarlo.
-- [ ] Cruzar inventario de armas con fabricantes (probable: MAXAM, Falken para los gases; B&T para foam; etc.).
-- [ ] Localizar informe completo de Caminando Fronteras.
 - [ ] Documentar también **Tarajal 2014** como caso hermano.

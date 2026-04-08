@@ -55,6 +55,3 @@ Al día siguiente del suicidio de Clara, Haber partió al Frente del Este para *
 ## Pendientes
 - [ ] Localizar **retratos y fotografías** de Haber.
 - [ ] Documentar la historia de **Clara Immerwahr** (ha habido varias biografías recientes).
-- [ ] Archivar la carta de Haber sobre su justificación "humanitaria".
-- [ ] Cruzar con Fritz Stern y otros historiadores judíos alemanes.
-- [ ] Conexión con el **Kaiser-Wilhelm-Institut** (hoy Max Planck).

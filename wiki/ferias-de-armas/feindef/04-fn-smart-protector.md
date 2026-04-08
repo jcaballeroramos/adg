@@ -23,4 +23,3 @@ Stand con una pantalla que muestra **"esqueletos" de personas detectadas por sof
 ## Pendientes
 - [ ] Buscar materiales oficiales de FN Smart Protector.
 - [ ] Confirmar nombre del representante / cargo.
-- [ ] Cruzar con [[../marco-legal/onu-orientaciones-2020]] sobre obligaciones de transparencia algorítmica.

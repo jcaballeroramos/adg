@@ -88,7 +88,5 @@ Punto que Rocher no conocía y descubrió en esta entrevista: en países como Co
 - 📘 **Notas del libro:** integradas en la sección "Lo que me interesa más" de [[paul-rocher-entrevista]]
 
 ## Pendientes
-- [ ] Contactar a Paul Rocher por email (facilitado al final de la entrevista).
 - [ ] Conseguir .mp3 "puro" si hace falta para distribución (instalar `ffmpeg` con `brew install ffmpeg`).
 - [ ] Traducir al castellano los tramos clave de la entrevista para subtítulos.
-- [ ] Evaluar si su entrevista entra en la película o solo como fuente de investigación.

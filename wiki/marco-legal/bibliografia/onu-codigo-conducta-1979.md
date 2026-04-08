@@ -70,6 +70,3 @@ Asegurarán la **plena protección de la salud** de las personas bajo su custodi
 
 ## Pendientes
 - [ ] Descargar el texto oficial completo de la Resolución 34/169.
-- [ ] Cita literal del Artículo 5.
-- [ ] Cruzar con la **Convención contra la Tortura de 1984** (que se basa parcialmente en este Código).
-- [ ] Buscar comentarios académicos sobre el documento (¿Manfred Nowak, Theo van Boven?).

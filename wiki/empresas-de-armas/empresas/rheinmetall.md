@@ -47,6 +47,4 @@ Una de las **mayores empresas de armamento de Alemania y de Europa**. Catálogo 
 
 ## Pendientes
 - [ ] Datos del **Executive Board**.
-- [ ] Cruzar con compras del Ministerio de Defensa español (vínculo con EXPAL).
-- [ ] Cifras de exportación a LATAM y Oriente Medio.
 - [ ] Documentar el caso Skynex con material visual.

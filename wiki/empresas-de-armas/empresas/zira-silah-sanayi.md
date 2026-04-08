@@ -51,8 +51,4 @@ Hasta **2021**, las pistolas Blow se vendían en Colombia **sin permiso especial
 - ↔ [[../../casos/latam/intermediarios-latam]] — importadores de la Pava Coca y Lizarazo Bonilla.
 
 ## Pendientes
-- [ ] Catálogo completo de modelos Blow.
-- [ ] Cifras totales de exportación a Colombia (no solo F92).
-- [ ] Documentar talleres de modificación clandestina (procesos judiciales).
 - [ ] Reportes de El Clip / Vorágine sobre el caso.
-- [ ] Comparativa con otras marcas turcas: **Ekol**, **Zoraki**, **Retay**.

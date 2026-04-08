@@ -36,6 +36,4 @@ El **Síndic de Greuges de Catalunya** (defensor del pueblo catalán) emitió **
 
 ## Pendientes
 - [ ] Localizar el texto íntegro de las dos resoluciones.
-- [ ] Cita literal de cada una.
 - [ ] Documentar la respuesta del Departament d'Interior.
-- [ ] Cruzar con resoluciones posteriores a 2014.

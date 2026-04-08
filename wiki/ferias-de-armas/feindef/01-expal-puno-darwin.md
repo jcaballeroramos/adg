@@ -30,5 +30,4 @@ Stand de exposición de proyectiles. Vitrinas con cartuchos de colores ordenados
 - Vincular con [[../testimonios/oftalmologa-estrella-fernandez]] (la "cuenca ocular diseñada para resistir" que en realidad estalla con 720 km/h de bola de goma).
 
 ## Pendientes
-- [ ] Confirmar nombre real de la empresa (¿EXPAL Systems?). El polo dice "EXXON".
 - [ ] Buscar ficha técnica oficial del Puño de Darwin si existe.

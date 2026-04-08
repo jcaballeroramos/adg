@@ -28,9 +28,5 @@ Empresa **española** fabricante de **proyectiles** y **componentes pirotécnico
 - ↔ [[../../marco-legal/bibliografia/access-info-europe]] — el patrón europeo de opacidad sobre el armamento policial.
 
 ## Pendientes
-- [ ] **Localizar el CIF** y datos corporativos completos.
 - [ ] **Sede exacta** (probable en Salamanca/provincia).
 - [ ] **Lista completa de productos**.
-- [ ] **Buscar la respuesta original del Gobierno** a Iñarritu (684/36171, 16 abril 2018).
-- [ ] Cruzar con compras documentadas de la Policía Nacional y la Guardia Civil.
-- [ ] Investigar **propiedad y trayectoria histórica**.

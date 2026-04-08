@@ -47,5 +47,3 @@ Un testigo de la noche:
 ## Pendientes
 - [ ] Localizar la sentencia (si la hay) sobre el gendarme que disparó.
 - [ ] Buscar imágenes de archivo de la protesta de Sivens.
-- [ ] Documentar el destino del proyecto de la presa tras la muerte.
-- [ ] Cruzar con la GM2L (la sucesora "que cambia el nombre pero produce lo mismo").

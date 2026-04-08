@@ -44,6 +44,4 @@ Empresa **estadounidense** gigante de defensa, ahora rebautizada **RTX** (RTX Co
 
 ## Pendientes
 - [ ] Documentar el contrato con la base de Afganistán 2010.
-- [ ] Localizar imágenes/vídeos del ADS en uso.
 - [ ] Datos financieros de RTX (mercado bursátil).
-- [ ] Cruzar con el debate sobre **microondas como arma electromagnética** (caso Cuba "Havana syndrome").

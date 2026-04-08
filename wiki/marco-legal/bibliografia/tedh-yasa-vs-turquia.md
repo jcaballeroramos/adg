@@ -27,6 +27,4 @@ El **Tribunal Europeo de Derechos Humanos (TEDH)** reconoció en el caso **Abdul
 
 ## Pendientes
 - [ ] Localizar la sentencia completa.
-- [ ] Cita literal del parágrafo 50.
-- [ ] Cruzar con otros casos turcos en el TEDH.
 - [ ] Buscar el fallo paralelo "Mocan v. Turquía" si existe.

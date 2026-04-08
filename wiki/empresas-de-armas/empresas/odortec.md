@@ -71,8 +71,4 @@ Aunque Odortec afirma no exportar, hay denuncias de **venta a EE.UU.** (donde se
 
 ## Pendientes
 - [ ] Localizar la web oficial (si existe).
-- [ ] Composición química exacta del Skunk.
 - [ ] Documentar casos **en Israel** contra manifestantes judíos.
-- [ ] Cruzar con informes de **B'Tselem** y **Al-Haq**.
-- [ ] Investigar **exportaciones documentadas**.
-- [ ] Cruzar con el debate sobre **armas de humillación colectiva** en el derecho internacional.

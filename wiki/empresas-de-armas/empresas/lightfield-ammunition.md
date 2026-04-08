@@ -29,5 +29,3 @@ Fabricante **estadounidense** especializado en **balas y municiones de menos de 
 
 ## Pendientes
 - [ ] Datos corporativos.
-- [ ] Casos documentados de uso.
-- [ ] Lista completa del catálogo.

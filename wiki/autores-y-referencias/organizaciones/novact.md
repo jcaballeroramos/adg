@@ -27,7 +27,3 @@ tags: [novact, organización, no-violencia, balas-goma, foam, catalunya]
 - ↔ [[stop-bales-de-goma]].
 - ↔ [[../../casos/compilacion-espana]] — fuente de varias cifras agregadas.
 - ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]].
-
-## Pendientes
-- [ ] Localizar y archivar el informe Iridia + Novact 2024.
-- [ ] Buscar contacto para posible entrevista.

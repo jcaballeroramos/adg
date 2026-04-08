@@ -327,7 +327,5 @@ La Guàrdia Urbana no recibe los 22 tasers por voto del Ayuntamiento.
 - ↔ [[tipos-de-armas-tabla]] — la clasificación técnica.
 
 ## Pendientes
-- [ ] Cruzar cada entrada con su nota individual.
 - [ ] Añadir imágenes/iconos por época.
 - [ ] Crear una visualización temporal (timeline interactiva).
-- [ ] Documentar cronología específica de la **producción científica crítica** (Egner 1977 → Haar 2017 → Lethal in Disguise 2023).

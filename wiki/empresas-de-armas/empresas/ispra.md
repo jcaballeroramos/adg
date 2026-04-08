@@ -46,6 +46,4 @@ Fabricante **israelí** de un catálogo amplio de armas menos letales. **Único 
 
 ## Pendientes
 - [ ] Datos corporativos: fundación, sede, empleados.
-- [ ] Conexión con el ejército israelí (¿spinoff militar?).
 - [ ] Documentar casos en Cisjordania y Gaza.
-- [ ] Cruzar con denuncias de Amnistía Internacional sobre Palestina.

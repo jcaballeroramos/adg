@@ -509,14 +509,18 @@ def build_toc(body: str) -> str:
 
 
 def _pending_chip(note):
-    """Return an HTML chip showing pending items count, or empty string."""
+    """Return an HTML chip showing pending items count, or empty string.
+    Hide the chip when there's only 0-1 pending — only flag notes that are
+    meaningfully incomplete (2+ items)."""
     total = note.get("pending_total", 0)
     if total == 0:
         return ""
     done = note.get("pending_done", 0)
     left = total - done
     if left == 0:
-        return f' <span class="nav-chip nav-chip-done" title="{total} tareas pendientes ya completadas">✓ {total}</span>'
+        return ""  # don't clutter sidebar with ✓ chips
+    if left < 2:
+        return ""  # single pending items are noise
     return f' <span class="nav-chip" title="{left} tareas pendientes en esta nota (sección ## Pendientes)">☐ {left}</span>'
 
 
@@ -535,9 +539,8 @@ def group_notes(notes):
 
 def build_sidebar(tree):
     parts = [
-        '<div class="sidebar-legend" title="Cada nota puede tener su sección ## Pendientes con tareas tipo [ ] (por hacer) o [x] (hecha). Estos chips muestran cuántas le quedan por hacer.">'
-        '<span class="nav-chip">☐ N</span> = pendientes en la nota '
-        '<span class="nav-chip nav-chip-done">✓ N</span> = todo hecho'
+        '<div class="sidebar-legend" title="Chip ☐ N = esta nota tiene N tareas pendientes en su sección ## Pendientes. Solo se muestra el chip si hay 2 o más.">'
+        '<span class="nav-chip">☐ N</span> = notas incompletas'
         '</div>'
     ]
     for cat in CATEGORY_ORDER:

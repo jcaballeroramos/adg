@@ -87,4 +87,3 @@ Los párpados se desestructuran completamente. La textura al llegar a urgencias:
 ## Pendientes
 - [ ] Localizar la grabación íntegra de la comparecencia y minutaje preciso.
 - [ ] Verificar fecha exacta de la comisión.
-- [ ] Conseguir el estudio publicado en el congreso de la SECPOO.

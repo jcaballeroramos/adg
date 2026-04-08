@@ -39,9 +39,3 @@ Esta frase, citada por [[../../autores-y-referencias/paul-rocher/paul-rocher|Pau
 - ↔ [[../../casos/roger-espanol]] · [[../../casos/ester-quintana]] · [[../../casos/carles-guillot]] · [[../../casos/africa-pablo-hasel]].
 - ↔ [[../../historia/balas-goma]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]].
-
-## Pendientes
-- [ ] Datos corporativos completos.
-- [ ] Cifras de exportaciones LBD40.
-- [ ] Buscar la cita literal del productor en su formulación original.
-- [ ] Cruzar con la nueva [[../feindef/00-overview|FEINDEF]] — ¿Verney-Carron expone allí?

@@ -78,4 +78,3 @@ Organización **sin fines de lucro registrada en Inglaterra y Gales** (1990). Es
 ## Pendientes
 - [ ] Acceder al repositorio GitHub.
 - [ ] Descargar publicaciones recientes sobre la industria china.
-- [ ] Cruzar con casos chilenos y colombianos del estallido 2019.

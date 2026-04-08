@@ -37,4 +37,3 @@ Vídeo promocional proyectado en una pantalla gigante dentro del stand. Montaje 
 
 ## Pendientes
 - [ ] Buscar ficha técnica VENOM (lanzador modular).
-- [ ] Cruzar con bases de datos de Forensic Architecture / Omega Research.

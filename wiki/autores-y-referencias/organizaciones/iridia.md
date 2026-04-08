@@ -63,5 +63,4 @@ Es el **embrión** del proyecto técnico que persigue Irídia: una **herramienta
 
 ## Pendientes
 - [ ] Buscar todos los informes de Irídia y archivar PDFs.
-- [ ] Localizar transcripción completa de Anaïs (Júlia Nueno).
 - [ ] Confirmar permisos de uso de las citas.

@@ -26,8 +26,5 @@ Empresa **francesa** especializada en la fabricación de **cañones de agua** pa
 - ↔ [[../../casos/latam/00-compilacion-latam]].
 
 ## Pendientes
-- [ ] Localizar URL oficial.
 - [ ] Documentar el modelo concreto de cañón de agua usado en Hong Kong 2018.
-- [ ] Cruzar con datos del Stuttgart 2010 (117 heridos por cañón).
-- [ ] Cruzar con Indonesia 1998 (3 estudiantes muertos por cañón británico).
 - [ ] Buscar exportaciones documentadas a otros países.

@@ -72,9 +72,5 @@ La Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos pub
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el patrón "crisis política → represión letal".
 
 ## Pendientes
-- [ ] Documentar los **fabricantes** del armamento usado (¿chino? ¿UK? ¿paquistaní?).
 - [ ] Cifras finales del **informe OHCHR** 2025.
-- [ ] Cruzar con la cobertura del **Daily Star** y **Prothom Alo** (medios bangladesíes).
 - [ ] Buscar imágenes/vídeos de Abu Sayed y Mugdho.
-- [ ] Documentar el rol de **Odhikar** (organización local de DDHH).
-- [ ] Cruzar con la deportación pendiente de Sheikh Hasina desde India.

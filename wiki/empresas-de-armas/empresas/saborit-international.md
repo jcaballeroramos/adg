@@ -74,6 +74,4 @@ tags: [saborit, españa, intermediario, distribuidor, taser, safariland, pepperb
 - ↔ [[../../casos/africa-pablo-hasel]] — las balas de foam que la dejaron ciega son del tipo que distribuye Saborit (Defense Technology).
 
 ## Pendientes
-- [ ] Localizar el catálogo público completo.
 - [ ] Documentar contratos con cárceles españolas.
-- [ ] Cruzar con compras documentadas de Tasers por la Guardia Civil y Policía Nacional.

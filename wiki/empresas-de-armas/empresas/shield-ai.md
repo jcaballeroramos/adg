@@ -33,5 +33,4 @@ Empresa **estadounidense** de tecnología de defensa especializada en **sistemas
 
 ## Pendientes
 - [ ] Fundadores, financiación, contratos.
-- [ ] Casos documentados de uso real.
 - [ ] Política sobre control humano sobre el disparo.

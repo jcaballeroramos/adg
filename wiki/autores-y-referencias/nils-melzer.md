@@ -46,9 +46,3 @@ Melzer dedicó parte de su mandato al caso **Julian Assange**, denunciando el **
 - ↔ [[../marco-legal/bibliografia/melzer-onu-2017]] — el informe en bibliografía.
 - ↔ [[../marco-legal/onu-relatora-tortura]].
 - ↔ [[paul-rocher/paul-rocher-entrevista]] — Rocher cita el principio de necesidad.
-
-## Pendientes
-- [ ] Descargar el informe A/HRC/34/54 (2017) completo en español.
-- [ ] Conseguir copia del libro **«El caso Assange»** (Capitán Swing, 2022).
-- [ ] Cita literal sobre el principio de necesidad acumulada.
-- [ ] Cruzar con su entrevista en *The Guardian* y *Le Monde Diplomatique*.

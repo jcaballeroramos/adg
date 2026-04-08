@@ -51,5 +51,3 @@ Es el caso paradigmático de cómo **el efecto combinado** de:
 ## Pendientes
 - [ ] Documentar las conclusiones oficiales del caso.
 - [ ] Buscar el informe del IGPN.
-- [ ] Cruzar con el resto de víctimas de gases lacrimógenos en Francia.
-- [ ] Buscar la cobertura mediática original (Le Monde, Mediapart).

@@ -38,6 +38,3 @@ Empresa **suiza** fabricante del **LBD40** (lanzador BT-GL06), uno de los lanzad
 ## Pendientes
 - [ ] Confirmar nombre del director condenado.
 - [ ] Localizar la sentencia y el cargo exacto.
-- [ ] Datos financieros y propietarios actuales.
-- [ ] Localizar fotos del modelo BT-GL06.
-- [ ] Documentar contratos con la Policía Nacional francesa y los Mossos.

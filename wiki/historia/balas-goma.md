@@ -28,6 +28,5 @@ También probó las balas de goma en **1971** contra manifestantes anti-Vietnam.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibición de disparos a cabeza, cuello y disparo indirecto por rebote (exactamente lo que mató a Stephen Geddis).
 
 ## Pendientes
-- [ ] Localizar fuentes académicas sobre los disparos en Singapur (1880).
 - [ ] Confirmar la cifra "56.000 disparos" en Irlanda del Norte.
 - [ ] Documentar a Stephen Geddis y otras víctimas tempranas.

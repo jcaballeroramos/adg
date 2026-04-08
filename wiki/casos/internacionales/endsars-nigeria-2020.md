@@ -56,8 +56,5 @@ La **noche del 20 de octubre**, el ejército nigeriano disparó **munición real
 - ↔ [[../../historia/cronologia-completa]] — entrada de octubre 2020.
 
 ## Pendientes
-- [ ] Documentar las **importaciones de armas** a Nigeria (¿de quién? Centre Delàs / SIPRI).
 - [ ] Localizar los testimonios de DJ Switch (transmisión Instagram).
-- [ ] Cruzar con el informe de Amnistía Internacional sobre Lekki.
 - [ ] Confirmar la cifra final de víctimas (es disputada).
-- [ ] Buscar conexiones con las marcas que aparecen en otros casos LATAM.

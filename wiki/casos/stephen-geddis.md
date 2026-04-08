@@ -41,6 +41,3 @@ Es la **primera muerte documentada por rebote** de una bala de goma — el patr�
 ## Pendientes
 - [ ] Confirmar fecha exacta y unidad militar implicada.
 - [ ] Documentar el contexto familiar de Stephen Geddis.
-- [ ] Buscar la cobertura mediática original.
-- [ ] Cruzar con el estudio del Royal Victoria Hospital 1972.
-- [ ] Documentar las otras víctimas infantiles del periodo.

@@ -30,6 +30,4 @@ Dentro de la OSCE, la **ODIHR** (Office for Democratic Institutions and Human Ri
 - ↔ [[../../casos/compilacion-espana]] — España incumple las recomendaciones de la OSCE (es Estado participante).
 
 ## Pendientes
-- [ ] Localizar el PDF oficial del manual.
 - [ ] Extraer las secciones específicas sobre KIPs.
-- [ ] Cruzar con informes de ODIHR sobre misiones de monitoreo.

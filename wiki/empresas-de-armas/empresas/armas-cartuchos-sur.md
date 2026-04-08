@@ -28,7 +28,4 @@ Empresa **española** dedicada a la **distribución de cartuchos** y munición. 
 
 ## Pendientes
 - [ ] **CIF, sede exacta, datos corporativos**.
-- [ ] **Catálogo de productos**.
 - [ ] **Contratos públicos documentados** (vía Iñarritu o portales de contratación).
-- [ ] **Propiedad y trayectoria**.
-- [ ] Cruzar con la **Cámara de Comercio andaluza**.

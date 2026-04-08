@@ -31,4 +31,3 @@ Cataluña fue así el **primer territorio autónomo de España** en prohibir las
 ## Pendientes
 - [ ] Localizar la resolución del Parlament de Catalunya 2014.
 - [ ] Buscar entrevistas con Ester Quintana para posible aparición.
-- [ ] Documentar también el caso de Juan Andrés Benítez (octubre 2013, Raval, Barcelona).

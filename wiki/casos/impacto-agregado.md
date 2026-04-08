@@ -196,8 +196,5 @@ Cada víctima con rostro y nombre en la wiki:
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco político-económico.
 
 ## Pendientes
-- [ ] Cruzar cifras INCLO con **Omega Research Foundation**.
 - [ ] Tabla de ratios: **dinero gastado por cada herido** (multiplicar mercado × heridos).
 - [ ] Gráfico temporal simple (heridos por año) en vez de tabla.
-- [ ] Localizar cifras de Hong Kong 2019-2020, Sri Lanka 2022, Myanmar 2021, Nigeria 2020 (EndSARS).
-- [ ] Cifras del **Sri Lanka 2022** y **Myanmar 2021**.

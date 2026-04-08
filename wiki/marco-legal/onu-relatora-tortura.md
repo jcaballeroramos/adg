@@ -48,6 +48,4 @@ Aquellas que, dependiendo de cómo las aplique el agente, pueden usarse de forma
 - ↔ [[../feindef/00-overview]] (la propia FEINDEF entra en el "vigilando ferias de armas").
 
 ## Pendientes
-- [ ] Buscar y enlazar el informe A/78/324 (PDF oficial).
-- [ ] Localizar el informe de 2024 al que se refiere Anaïs.
 - [ ] Confirmar la denominación exacta "Pac-20" / equivalente.

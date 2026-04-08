@@ -73,7 +73,3 @@ Elbit usa como **argumento comercial central** el hecho de que sus armas y drone
 ## Pendientes
 - [ ] Datos financieros precisos (SEC filings).
 - [ ] Documentar a fondo la campaña de **Palestine Action** y los juicios asociados.
-- [ ] Cruzar con las **campañas de desinversión** (BDS) contra Elbit.
-- [ ] Localizar casos concretos de muerte por drones Hermes.
-- [ ] Conexión con **Instalaza** (España) y otros socios europeos.
-- [ ] Documentar contratos con Frontex y Eurodac.

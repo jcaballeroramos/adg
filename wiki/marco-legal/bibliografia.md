@@ -104,7 +104,5 @@ tags: [bibliografía, fuentes, marco-legal, índice]
 - ↔ [[../herramientas/el-clip-negocio-represion]]
 
 ## Pendientes
-- [ ] Convertir cada entrada en una nota individual con resumen + cita literal + impacto.
-- [ ] Descargar PDFs y archivarlos en `raw/papers/`.
 - [ ] Verificar año exacto y página de cada cita.
 - [ ] Crear índice cronológico paralelo (1850 → 2024).

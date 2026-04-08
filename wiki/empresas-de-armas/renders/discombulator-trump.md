@@ -73,6 +73,3 @@ El "Discombobulator" es también la **antesala narrativa** del debate sobre **[[
 ## Pendientes
 - [ ] Ver el vídeo YouTube original (minuto 4:48 = t=288s) y extraer el desglose específico.
 - [ ] Localizar el artículo completo del New York Post.
-- [ ] Seguir la cobertura internacional y actualizar con revelaciones posteriores.
-- [ ] Verificar qué sistemas específicos fueron usados (¿confirmación militar oficial?).
-- [ ] Buscar si algún experto técnico ha identificado el sistema acústico exacto.

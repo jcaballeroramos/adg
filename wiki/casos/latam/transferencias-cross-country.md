@@ -114,6 +114,4 @@ Cómo los gobiernos latinoamericanos se **prestan armas no letales entre sí** p
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"globalización del control de multitudes"*.
 
 ## Pendientes
-- [ ] Conseguir copia del informe original de El Clip / "Humo en las calles".
 - [ ] Documentar el caso DSEI 2019 (Condor expulsada).
-- [ ] Cruzar con la lista de proyectos de Apex Brasil (~2,5 M$ en eventos internacionales).

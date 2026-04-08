@@ -59,7 +59,3 @@ Planos rápidos del efecto:
 - ↔ [[../historia/armas-quimicas]] — genealogía del CS, OC y pimienta.
 - ↔ [[../entrenamientos/lexipol-gordon-graham]] — contraste: la industria vende "defensa", Graham admite letalidad.
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la brecha entre el humor publicitario ("sucks") y la realidad clínica.
-
-## Pendientes
-- [ ] Localizar el URL original del anuncio (¿YouTube? ¿canal oficial Byrna?).
-- [ ] Confirmar si el "Attacker Tracker" es legal en la UE (tinte identificativo persistente).

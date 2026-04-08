@@ -78,7 +78,3 @@ Esto conecta con el siguiente nivel irónico: **Irán**, que dispara perdigones 
 ## Pendientes
 - [ ] Documentar **DIO** (Defense Industries Organization) como empresa/fabricante en `empresas/`.
 - [ ] **Krušik** — empresa serbia, añadir también.
-- [ ] Descargar el **informe Amnistía Internacional** sobre botes militares iraquíes.
-- [ ] Buscar las imágenes forenses publicadas por BBC.
-- [ ] Documentar el caso de **Safaa al-Sarai** y su legado como ícono del movimiento.
-- [ ] Cruzar con el contexto de **las milicias Hashd al-Shaabi**.

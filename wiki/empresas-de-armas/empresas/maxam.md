@@ -41,6 +41,3 @@ Y recordemos: **a 122 julios cualquier impacto cinético es potencialmente letal
 ## Pendientes
 - [ ] Verificar la conexión Alfred Nobel ↔ Sociedad Española de Dinamita ↔ MAXAM actual.
 - [ ] Localizar contratos públicos del Ministerio del Interior con MAXAM.
-- [ ] Buscar declaraciones públicas de la empresa sobre el debate de las balas de goma.
-- [ ] Cruzar con fabricantes europeos de munición policial (Falken, Brügger & Thomet, Verney-Carron).
-- [ ] Confirmar precio y especificaciones técnicas exactas de las balas suministradas a la Policía Nacional.

@@ -31,7 +31,5 @@ El estudio revisa sistemáticamente la literatura médica sobre lesiones, muerte
 - ↔ [[mcevoy-corney-haar]] — Haar es coautora.
 
 ## Pendientes
-- [ ] Descargar el PDF.
 - [ ] Extraer las cifras agregadas.
-- [ ] Cruzar con datos posteriores (Lethal in Disguise 2 retoma la línea).
 - [ ] Buscar entrevistas con Rohini Haar para posible colaboración.

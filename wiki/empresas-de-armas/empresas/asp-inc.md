@@ -32,4 +32,3 @@ Fabricante **estadounidense** de **equipamiento policial estándar**: esposas, s
 ## Pendientes
 - [ ] Documentar la patente original ASP 1976.
 - [ ] Datos corporativos.
-- [ ] Cruzar con compras documentadas en España.

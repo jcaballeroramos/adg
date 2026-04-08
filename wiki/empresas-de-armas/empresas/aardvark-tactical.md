@@ -45,7 +45,4 @@ Investigaciones documentaron que Aardvark Tactical ha firmado **contratos por ca
 
 ## Pendientes
 - [ ] Lista completa de contratos Aardvark-CBP año a año.
-- [ ] Cruzar con otras agencias federales clientes (DEA, ICE, US Marshals).
 - [ ] Investigar prácticas de licitación / no licitación.
-- [ ] Reportaje *LA Times* 2015 sobre Tasers en CBP — cita literal.
-- [ ] Cruzar con denuncias de Human Rights Watch y ACLU.

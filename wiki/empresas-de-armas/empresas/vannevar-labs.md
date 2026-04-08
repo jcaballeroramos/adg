@@ -33,4 +33,3 @@ Empresa **estadounidense** de tecnología de defensa. Software de **análisis de
 ## Pendientes
 - [ ] Documentar fundadores, ronda de financiación, valoración.
 - [ ] Buscar contratos públicos con DoD / IC.
-- [ ] Cruzar con [[../../herramientas/yolo-v3-weapon-detection]] (comparativa académica).

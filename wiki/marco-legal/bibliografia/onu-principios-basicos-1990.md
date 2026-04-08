@@ -62,7 +62,4 @@ Los **superiores jerárquicos serán responsables** si **sabían o debieron sabe
 - ↔ [[../amnistia-internacional]] — Amnistía cita constantemente este documento.
 
 ## Pendientes
-- [ ] Descargar el PDF oficial (texto completo en español).
-- [ ] Cita literal de cada uno de los 24 principios.
-- [ ] Cruzar con cada caso individual del documental.
 - [ ] Documentar el rol del **8º Congreso de la Habana** en la historia del derecho internacional.

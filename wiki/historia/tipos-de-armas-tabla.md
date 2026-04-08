@@ -181,5 +181,3 @@ Uno de los patrones transversales documentados por [[../autores-y-referencias/pa
 ## Pendientes
 - [ ] Crear **infografía/diagrama del árbol de tecnologías** para visualización.
 - [ ] Añadir **costos aproximados** por unidad (cuando sea posible).
-- [ ] Buscar documentación sobre **armas bioquímicas** actualmente en investigación.
-- [ ] Cruzar con la clasificación interna de Omega Research Foundation.

@@ -35,6 +35,4 @@ La **Agência Brasileira de Promoção de Exportações e Investimentos (Apex Br
 
 ## Pendientes
 - [ ] Documentar las cifras año a año (2007-2013).
-- [ ] Cruzar con la lista exacta de las +30 ferias.
-- [ ] ¿Apex sigue financiando hoy en día?
 - [ ] Equivalentes en otros países (Coface en Francia, etc.).

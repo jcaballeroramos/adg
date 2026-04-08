@@ -62,9 +62,5 @@ Empresa **estadounidense** fundada en **1981**. Principal proveedor mundial de *
 - ↔ [[../../casos/latam/transferencias-cross-country]].
 
 ## Pendientes
-- [ ] Datos financieros: ¿es pública? ¿Quién es el propietario?
 - [ ] Documentar contratos militares estadounidenses (Marines, Navy).
-- [ ] Listar productos completos del catálogo Penn Arms.
-- [ ] Cruzar con feria DSEI / Milipol / Eurosatory: dónde expone CSI.
-- [ ] Conexión con Cadre Holdings (¿es matriz?).
 - [ ] Buscar el documento donde declaran "determinar la intención" en relación al VENOM.

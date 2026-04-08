@@ -27,4 +27,3 @@ Reportaje del **Pulitzer Center** sobre **fábricas de gas lacrimógeno ubicadas
 ## Pendientes
 - [ ] Leer el reportaje íntegro y extraer los datos clave (empresa, país, fechas, nombres).
 - [ ] Descargar imágenes del reportaje a `assets/` (con atribución al Pulitzer Center).
-- [ ] Cruzar con fabricantes conocidos: Combined Systems Inc. (CTS), Defense Technology, NonLethal Technologies, etc.

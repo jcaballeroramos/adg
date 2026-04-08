@@ -67,7 +67,3 @@ Esta frase **fundó el discurso publicitario-represivo** que se mantendría **in
 ## Pendientes
 - [ ] Buscar el libro **The Red Web** (1929).
 - [ ] Documentar la relación con **J. Edgar Hoover**.
-- [ ] Localizar la cita exacta "humanitaria" de Fries en fuente primaria.
-- [ ] Archivar fotos históricas.
-- [ ] Cruzar con la historiografía de la **Bonus Army Massacre 1932**.
-- [ ] Documentar el papel del **Chemical Warfare Service** en la Ley Seca.

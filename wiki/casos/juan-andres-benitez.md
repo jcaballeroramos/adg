@@ -68,12 +68,8 @@ La paliza fue **grabada desde varios balcones** por vecinos del Raval. Las imág
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — demuestra que **el vídeo ciudadano** es **la única palanca** que rompe la impunidad.
 
 ## Pendientes
-- [ ] Localizar el vídeo original de los vecinos (uso editorial sensible).
 - [ ] Confirmar las penas exactas impuestas a cada uno de los 6 condenados.
 - [ ] Buscar cobertura de **La Directa**, **Crític**, **El Periódico**.
-- [ ] Documentar la marcha anual y la placa en la calle Aurora.
-- [ ] Contactar con la familia y el activismo del Raval.
-- [ ] Cruzar con el archivo de **Cases Aixecats** y **Tanquem els CIE**.
 
 ## Por qué importa para la cronología
 Junto con el caso de **[[ester-quintana|Ester Quintana]]** (noviembre 2012), el de Juan Andrés Benítez fue **decisivo** para que el **Parlament de Catalunya prohibiera el uso de balas de goma en abril de 2014**. Estos dos casos crearon **el clima político y mediático** que hizo políticamente imposible mantener el statu quo.

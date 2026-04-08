@@ -56,6 +56,3 @@ Empresa **estatal china** fabricante de armas. Proveedor de equipos militares y 
 ## Pendientes
 - [ ] URL oficial.
 - [ ] Estructura corporativa estatal.
-- [ ] Cruzar con datos del Stockholm International Peace Research Institute.
-- [ ] Buscar imágenes del Hércules + vehículos en El Alto / Caracas.
-- [ ] Otros países compradores (Sudán, Etiopía, Kenia).

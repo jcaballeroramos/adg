@@ -59,6 +59,3 @@ Pero a diferencia de casos como Bahréin o Egipto, **el gas lacrimógeno duró m
 ## Pendientes
 - [ ] Documentar las primeras 72 horas de represión (dónde y cómo).
 - [ ] Lista de empresas exportadoras de material policial a Libia 2000-2010.
-- [ ] Cruzar con los informes ONU sobre la caída de Gaddafi.
-- [ ] Dispersión del armamento libio post-2011 hacia el Sahel.
-- [ ] Papel específico de Francia en la intervención.

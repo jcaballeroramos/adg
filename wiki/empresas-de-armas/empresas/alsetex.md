@@ -41,5 +41,3 @@ Fabricante **francés** especializado en **granadas de gas lacrimógeno, lanzado
 ## Pendientes
 - [ ] Datos corporativos: fundación, propietarios, sede.
 - [ ] Documentar la mecánica de "doble licencia" en Bahréin.
-- [ ] Buscar contratos con la Gendarmería francesa.
-- [ ] Investigar el grupo matriz (¿Etienne Lacroix?).

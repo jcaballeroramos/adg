@@ -125,9 +125,5 @@ El mercado bursátil **apuesta** por la represión como negocio estable y de cre
 - ↔ [[../herramientas/apex-brasil]] — promoción estatal de Condor como caso.
 
 ## Pendientes
-- [ ] Descargar el **SGI Global Security Index** y los reportes anuales.
 - [ ] Buscar informes de **SIPRI** sobre el sector "non-lethal".
-- [ ] Datos del Tribunal de Cuentas español (¿equivalente al francés?).
-- [ ] Cruzar con cifras de **SIPRI Top 100** (armas de defensa en general).
 - [ ] Confirmar las proyecciones 2028-2033 (fuente primaria).
-- [ ] Datos del **Ministerio del Interior español** — probablemente accesibles vía Iñarritu.

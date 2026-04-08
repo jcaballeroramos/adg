@@ -47,4 +47,3 @@ Empresa estadounidense de tecnología de defensa fundada en **2017** por **Palme
 ## Pendientes
 - [ ] Documentar a fondo Sentry Tower y su uso real en la frontera sur.
 - [ ] Localizar reportajes críticos sobre Palmer Luckey y la cultura de la empresa.
-- [ ] Cruzar con [[saborit-international]] y otros distribuidores europeos.

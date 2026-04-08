@@ -32,6 +32,4 @@ Hay tres documentos clave:
 - ↔ [[../onu-relatora-tortura]] — la línea conceptual continua.
 
 ## Pendientes
-- [ ] Descargar el PDF oficial.
 - [ ] Extraer las secciones específicas sobre KIPs y gas lacrimógeno.
-- [ ] Cruzar con la implementación efectiva por país (incumplimientos sistemáticos).

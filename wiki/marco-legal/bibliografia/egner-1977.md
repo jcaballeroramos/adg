@@ -28,7 +28,4 @@ Egner cuestiona los supuestos sobre la "no letalidad" y plantea que la **evaluac
 - ↔ [[haar-bmj-2017]] — el estudio sistemático moderno que retoma la línea crítica.
 
 ## Pendientes
-- [ ] Localizar el PDF original.
-- [ ] Cita literal de la página 24.
-- [ ] Cruzar con la patente original del Taser (1974).
 - [ ] Buscar otros documentos del U.S. Army Land Warfare Laboratory del mismo periodo.

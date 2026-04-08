@@ -84,7 +84,4 @@ La conclusión del paper sugiere integrar el modelo en **robots de vigilancia**.
 - Publicado bajo Creative Commons Attribution: https://doi.org/10.1155/2021/9975700
 
 ## Pendientes
-- [ ] Descargar el PDF a `raw/papers/` y añadir DOI enlazable.
 - [ ] Buscar implementaciones alternativas con YOLO V5/V8/V10 (la familia YOLO ha avanzado mucho desde 2021).
-- [ ] Cruzar con papers similares que traten específicamente **armas "menos letales"** (LBD, lacrimógenas, etc.) — no encontrado hasta ahora, puede ser gap de investigación interesante.
-- [ ] Ver si VFRAME ha publicado comparativas con papers académicos de este tipo.

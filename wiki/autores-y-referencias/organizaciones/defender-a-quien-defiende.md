@@ -44,5 +44,3 @@ Plataforma estatal que **registra sistemáticamente las vulneraciones de derecho
 
 ## Pendientes
 - [ ] Acceso a la herramienta Red Malla.
-- [ ] Descargar informes anuales.
-- [ ] Cruzar datos con casos individuales documentados.

@@ -39,4 +39,3 @@ Empresa **italiana** fabricante de **cartuchos y municiones** para caza y uso ci
 ## Pendientes
 - [ ] Confirmar la cadena de importación a Venezuela.
 - [ ] Conexión Cheddite ↔ proveedores latinoamericanos.
-- [ ] Datos corporativos de Cheddite Italia.

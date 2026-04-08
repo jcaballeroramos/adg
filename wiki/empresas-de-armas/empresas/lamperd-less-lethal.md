@@ -31,6 +31,4 @@ Fabricante **canadiense** de armas menos letales. Una de las **15 empresas domin
 
 ## Pendientes
 - [ ] Datos corporativos: fundación, propietarios.
-- [ ] Casos documentados de uso de sus productos.
-- [ ] Cruzar con compras de la RCMP (Royal Canadian Mounted Police).
 - [ ] Posibles exportaciones a LATAM.

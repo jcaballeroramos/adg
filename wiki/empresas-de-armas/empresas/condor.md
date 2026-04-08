@@ -58,7 +58,4 @@ Empresa **brasileña** fundada en **1985**. **Líder global** del armamento no l
 
 ## Pendientes
 - [ ] Investigación a fondo de la familia/propietarios de Condor.
-- [ ] Cruzar exportaciones documentadas con casos individuales en cada país receptor.
 - [ ] Buscar el reportaje que detonó la expulsión de DSEI 2019.
-- [ ] Documentar ferias internacionales en las que sigue participando (Milipol París, Singapur, Abu Dabi).
-- [ ] ¿Tiene la empresa código bursátil? ¿Quién es accionista mayoritario?

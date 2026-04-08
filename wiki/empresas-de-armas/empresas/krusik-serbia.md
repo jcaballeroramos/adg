@@ -58,8 +58,5 @@ Krušik ilustra **tres patrones** del mercado global:
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — mercado global descontrolado.
 
 ## Pendientes
-- [ ] Recopilar los reportes de BIRN/OCCRP completos.
 - [ ] Lista de productos lacrimógenos específicos de Krušik.
 - [ ] Proceso contra Obradović — resultado.
-- [ ] Cifras de exportación 2020-2025.
-- [ ] Cruzar con el Arms Trade Treaty (Serbia es signataria).

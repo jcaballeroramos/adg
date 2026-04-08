@@ -51,7 +51,4 @@ El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, ingeniero
 
 ## Pendientes
 - [ ] Datos financieros de Axon (cotiza en NASDAQ como AXON).
-- [ ] Cruzar con compras documentadas por el Estado español (Guardia Civil, Mossos, Gendarmería).
 - [ ] Localizar casos de muerte por Taser en EE.UU. (cifra estimada en miles).
-- [ ] Documentar los modelos posteriores al X26 (Taser 7, Taser 10).
-- [ ] Programa de body cameras de Axon como contraparte tecnológica.

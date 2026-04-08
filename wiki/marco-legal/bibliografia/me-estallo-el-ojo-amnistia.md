@@ -25,6 +25,4 @@ La frase **"me estalló el ojo"** es la cita literal de una víctima — el patr
 - ↔ [[lethal-in-disguise-2]].
 
 ## Pendientes
-- [ ] Localizar el PDF oficial.
 - [ ] Extraer las citas literales más fuertes.
-- [ ] Cruzar con casos individuales documentados.

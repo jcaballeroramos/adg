@@ -43,7 +43,5 @@ Cada caso era publicado como un **hilo en Twitter** con foto, vídeo, fecha, ubi
 - ↔ [[../casos/remi-fraisse]] · [[../casos/steve-maia-canico]] — casos documentados por su entorno.
 
 ## Pendientes
-- [ ] Conseguir copia escaneable de **Mantenimiento del orden** (Hoja de Lata, 2015).
 - [ ] Capturar el archivo Twitter de **Allô Place Beauvau** completo.
 - [ ] Localizar el documental **Un pays qui se tient sage** con subtítulos.
-- [ ] Cita literal sobre la **«doctrina del contacto»**.

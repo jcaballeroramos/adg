@@ -42,7 +42,5 @@ Fabricante histórico de **cartuchos, municiones y pólvora**. Vinculada al lega
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita explícitamente a Nobel Sport.
 
 ## Pendientes
-- [ ] Aclarar la estructura corporativa actual: ¿Nobel Sport España, Italia y Francia son la misma empresa?
 - [ ] Conexión histórica con MAXAM (también heredera de la SED).
 - [ ] Casos en LATAM (probable presencia).
-- [ ] Documentar el "no comment" sistemático.

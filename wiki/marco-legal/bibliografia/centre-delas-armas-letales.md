@@ -31,7 +31,5 @@ Documenta cómo la **militarización progresiva** de los cuerpos policiales:
 - ↔ [[../cataluna-prohibicion-balas-goma]].
 
 ## Pendientes
-- [ ] Descargar el PDF.
 - [ ] Extraer la tesis central y las cifras propias.
 - [ ] Buscar otros informes del Centre Delàs sobre el mismo tema.
-- [ ] Contactar con Anna Montull García para entrevista.

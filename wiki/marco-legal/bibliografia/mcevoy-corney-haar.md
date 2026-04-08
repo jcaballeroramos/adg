@@ -28,4 +28,3 @@ tags: [mcevoy, corney, haar, taylor-francis, crowd-control, académico]
 ## Pendientes
 - [ ] Descargar el capítulo.
 - [ ] Extraer el resumen y las tesis principales.
-- [ ] Cruzar con los autores: contactar a Corney vía Omega.

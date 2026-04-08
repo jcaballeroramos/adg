@@ -36,4 +36,3 @@ Fabricante **estadounidense** especializado en una gama amplia de munición y di
 ## Pendientes
 - [ ] Datos corporativos: matriz, propietarios, sede.
 - [ ] Casos de uso documentados.
-- [ ] Cruzar con incidentes en EE.UU. (BLM 2020, frontera sur).

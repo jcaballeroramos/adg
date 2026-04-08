@@ -19,7 +19,5 @@ Investigadora del **Centre Delàs d'Estudis per la Pau**, especializada en indus
 - Conecta la perspectiva del **Centre Delàs** (referencia mundial en investigación pacifista) con el ámbito local.
 
 ## Pendientes
-- [ ] Contactar para posible entrevista.
 - [ ] Localizar y archivar todas sus publicaciones.
-- [ ] Cruzar con [[organizaciones/iridia]] y [[organizaciones/stop-bales-de-goma]].
 - [ ] Verificar si participa en el [[../herramientas/symposium-non-lethal-weapons-2026]].

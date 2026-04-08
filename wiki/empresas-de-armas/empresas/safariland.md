@@ -41,5 +41,3 @@ Empresa **estadounidense** con sede en Florida. Forma parte de **Cadre Holdings*
 ## Pendientes
 - [ ] Estructura corporativa de **Cadre Holdings**.
 - [ ] Datos bursátiles (cotiza en NYSE como CDRE).
-- [ ] Cruzar con **Defense Technologies** (la empresa hermana).
-- [ ] Documentar exportaciones a Francia (Tasers a la Gendarmería).

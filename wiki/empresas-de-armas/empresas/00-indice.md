@@ -156,6 +156,4 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 
 ## Pendientes
 - [ ] Desplegar perfiles individuales de las empresas más relevantes (Anduril, Combined Systems, Condor, Axon, ISPRA).
-- [ ] Cruzar con expositores reales de FEINDEF 2025.
 - [ ] Verificar valoraciones bursátiles (Anduril, Axon, Raytheon).
-- [ ] Buscar fuentes primarias (informes anuales, market cap).

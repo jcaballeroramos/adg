@@ -42,9 +42,3 @@ Argumentos clave:
 - ↔ [[../empresas-de-armas/empresas/raytheon]] — Active Denial System que él criticó.
 - ↔ [[../empresas-de-armas/renders/discombulator-trump]] — la actualización 2026.
 - ↔ [[../marco-legal/onu-relatora-tortura]].
-
-## Pendientes
-- [ ] Descargar el informe A/HRC/23/47 (2013) completo en español.
-- [ ] Cita literal sobre **"meaningful human control"**.
-- [ ] Cruzar con artículos académicos suyos en el *South African Journal on Human Rights*.
-- [ ] Recopilar discursos en el Consejo de Derechos Humanos de Ginebra.

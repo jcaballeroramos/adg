@@ -63,7 +63,3 @@ La **Nepal Police** y la **Armed Police Force** desplegaron las herramientas hab
 ## Pendientes
 - [ ] **Datos consolidados** de víctimas (las cifras siguen llegando).
 - [ ] Documentar los **fabricantes** del armamento usado por la Nepal Police.
-- [ ] Cruzar con organizaciones locales: **INSEC**, **Advocacy Forum Nepal**.
-- [ ] Buscar testimonios de jóvenes del movimiento.
-- [ ] Documentar el **uso de TikTok / Instagram** como organización + represión.
-- [ ] Conexión con la diáspora nepalí en Catar y Malasia.

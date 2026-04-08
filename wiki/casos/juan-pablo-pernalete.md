@@ -46,5 +46,3 @@ El régimen intentó **negar la responsabilidad** durante meses:
 ## Pendientes
 - [ ] Documentar el recorrido judicial (fiscal Luisa Ortega).
 - [ ] Buscar la imagen icónica de Juan Pablo cayendo al suelo.
-- [ ] Cruzar con la cobertura internacional (BBC, El País).
-- [ ] Conectar con el resto de víctimas de 2017.

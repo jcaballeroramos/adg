@@ -49,6 +49,4 @@ Plataforma de **víctimas y familiares** de balas de goma en el Estado español.
 - ↔ Todos los casos: [[../../casos/inigo-cabacas]], [[../../casos/ester-quintana]], [[../../casos/carles-guillot]], [[../../casos/roger-espanol]], [[../../casos/africa-pablo-hasel]], [[../../casos/olga-proces]].
 
 ## Pendientes
-- [ ] Localizar y archivar el informe completo más reciente.
-- [ ] Contactar para entrevistas con los fundadores.
 - [ ] Buscar su archivo audiovisual (manifestaciones, ruedas de prensa).

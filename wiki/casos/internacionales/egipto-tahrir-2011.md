@@ -80,9 +80,5 @@ Desde entonces, Egipto ha **recuperado** su posición como uno de los **mayores 
 - ↔ [[../../historia/cronologia-completa]] — entrada de enero-febrero 2011.
 
 ## Pendientes
-- [ ] Localizar los informes de **HRW y Amnistía** sobre Plaza Tahrir.
 - [ ] Documentar la cobertura de **Al Jazeera** (Mohamed Fahmy, Peter Greste encarcelados).
 - [ ] Buscar el artículo original de **Gabriele Zavi**.
-- [ ] **Bahréin 2011** como caso gemelo: **34 muertes** atribuidas al gas lacrimógeno según Physicians for Human Rights.
-- [ ] Cruzar con la **masacre de Rabaa** (agosto 2013) como secuela.
-- [ ] Documentar las **exportaciones francesas** post-2013.

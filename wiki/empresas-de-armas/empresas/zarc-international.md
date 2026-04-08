@@ -27,6 +27,3 @@ Fabricante **estadounidense** especializado en **sprays y granadas de gas pimien
 
 ## Pendientes
 - [ ] Datos corporativos: fundación, propietarios, sede.
-- [ ] Productos específicos en catálogo.
-- [ ] Casos documentados de uso.
-- [ ] Cruzar con compras públicas en EE.UU.

@@ -59,8 +59,3 @@ Junts forzó así al gobierno municipal del PSC a negociar el borrador con los s
 ## Fuentes
 - *El Nacional*: https://www.elnacional.cat/es/barcelona/junts-frena-aprobacion-reglamento-dotar-guardia-urbana-barcelona-pistolas-taser_1442155_102.html
 - *El Periódico*: https://www.elperiodico.com/es/barcelona/20250627/junts-frena-aprobacion-reglamento-taser-119119143
-
-## Pendientes
-- [ ] Localizar el informe de Omega Research Foundation 2025.
-- [ ] Contactar a la abogada Mireia Salazar Gabarró.
-- [ ] Confirmar nombre completo y apellido de Antonio C. (si la familia lo permite).

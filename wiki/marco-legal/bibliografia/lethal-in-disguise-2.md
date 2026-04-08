@@ -38,7 +38,5 @@ Entre **2016 y 2021**, en todo el mundo:
 - ↔ [[haar-bmj-2017]] — el estudio sistemático del BMJ.
 
 ## Pendientes
-- [ ] Descargar el PDF y archivar.
 - [ ] Extraer tablas individuales.
-- [ ] Cruzar con datos de Stop Bales de Goma para España.
 - [ ] Confirmar metodología de recolección.

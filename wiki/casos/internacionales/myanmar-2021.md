@@ -60,8 +60,4 @@ La represión fue **excepcionalmente letal**:
 - ↔ [[../../autores-y-referencias/organizaciones/omega-research-foundation]] — Omega ha documentado armamento usado en Myanmar.
 
 ## Pendientes
-- [ ] Documentar los **fabricantes** del armamento usado por el Tatmadaw (¿Norinco? ¿Israelí? ¿Ruso?).
-- [ ] Cruzar con el embargo de armas de la UE post-2018.
-- [ ] AAPP — informe completo (https://aappb.org/).
 - [ ] Documentar más casos individuales (es muy denso).
-- [ ] Conexión con la guerra civil que sigue activa.

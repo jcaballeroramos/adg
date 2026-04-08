@@ -27,5 +27,4 @@ tags: [iansa, internacional, armas-pequeñas, red, ddhh]
 
 ## Pendientes
 - [ ] Documentar las publicaciones recientes.
-- [ ] Cruzar con sus posiciones específicas sobre armas menos letales.
 - [ ] Localizar miembros en España y LATAM.

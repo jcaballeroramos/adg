@@ -40,7 +40,4 @@ Empresa **española** que desarrolla **herramientas tecnológicas para "segurida
 
 ## Pendientes
 - [ ] Documentar el sistema iSim en mayor profundidad.
-- [ ] Cruzar con proyectos europeos como Perseo, iSAR.
 - [ ] Compras y contratos con el Ministerio del Interior español.
-- [ ] Conexión con el control de fronteras en Ceuta y Melilla.
-- [ ] ¿Indra tiene división militar específica?

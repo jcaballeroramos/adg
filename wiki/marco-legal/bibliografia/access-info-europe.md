@@ -31,7 +31,5 @@ Conclusión tras solicitar **acceso a información relativa a 42 países y terri
 - ↔ [[../amnistia-internacional]] — Amnistía exige transparencia en su agenda.
 
 ## Pendientes
-- [ ] Descargar el PDF.
 - [ ] Extraer la **ficha de España** concreta si está desglosada.
 - [ ] Buscar informes más recientes de Access Info Europe sobre el mismo tema.
-- [ ] Cruzar con **Jon Iñarritu** y sus preguntas parlamentarias.

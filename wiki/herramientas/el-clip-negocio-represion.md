@@ -65,4 +65,3 @@ El proyecto contiene:
 ## Pendientes
 - [ ] Localizar a los periodistas y autores principales.
 - [ ] Confirmar permisos de uso del material.
-- [ ] Descargar todas las páginas del proyecto.

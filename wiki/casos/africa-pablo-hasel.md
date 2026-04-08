@@ -52,6 +52,4 @@ A raíz de este caso, en el marco del litigio estratégico de **Iridia**, **se p
 
 ## Pendientes
 - [ ] Localizar y digitalizar la entrevista a Eric Cuesta.
-- [ ] Conseguir copia íntegra del informe pericial de Omega.
-- [ ] Cruzar con el caso de Olga (misma munición foam) y los otros casos de Iridia.
 - [ ] Buscar y archivar la carta que escribió África.

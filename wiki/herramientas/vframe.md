@@ -43,7 +43,5 @@ tags: [vframe, computer-vision, munición, derechos-humanos, forensic, ml]
 - https://vframe.io/about/
 
 ## Pendientes
-- [ ] Contactar al equipo de VFRAME (ver si están dispuestos a entrevista).
 - [ ] Probar la herramienta con un vídeo corto de nuestro archivo (ej. un fragmento de FEINDEF o de los entrenamientos).
 - [ ] Revisar su repositorio en GitHub y su licencia.
-- [ ] Ver si han publicado modelos preentrenados de munición menos letal (balas de goma, lanzadores LBD, granadas GLI-F4).

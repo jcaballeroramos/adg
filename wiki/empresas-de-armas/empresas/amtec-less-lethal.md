@@ -23,7 +23,5 @@ Empresa **estadounidense** de armas menos letales. Productos principales: **gran
 - ↔ [[../../casos/latam/00-compilacion-latam]] — el problema del **armamento caducado** circulando.
 
 ## Pendientes
-- [ ] Localizar la URL oficial de AmTec.
 - [ ] Buscar contratos documentados con cuerpos policiales / militares.
-- [ ] Cruzar con casos LATAM (probable presencia en México, Colombia, Bolivia).
 - [ ] Documentar la propiedad y estructura corporativa.

@@ -29,4 +29,3 @@ tags: [control-arms, internacional, att, tratado-comercio-armas]
 ## Pendientes
 - [ ] Documentar el estado actual del ATT (firmas, ratificaciones).
 - [ ] Posiciones específicas sobre armas menos letales.
-- [ ] Cruzar con la trama Macri/Hércules C-130.

@@ -41,6 +41,3 @@ tags: [rufo-chacon, venezuela, tachira, cheddite, perdigones-plomo, ceguera, men
 ## Pendientes
 - [ ] Confirmar fecha exacta y lugar.
 - [ ] Documentar el recorrido médico y la situación actual.
-- [ ] Buscar entrevistas con la familia (ha aparecido en medios internacionales).
-- [ ] Cruzar con denuncias internacionales (HRW, Amnistía).
-- [ ] Confirmar la procedencia exacta de la munición Cheddite.

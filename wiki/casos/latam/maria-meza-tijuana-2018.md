@@ -55,7 +55,4 @@ Este caso **no es aislado**. Forma parte de un patrón documentado por *Los Ange
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita la militarización fronteriza.
 
 ## Pendientes
-- [ ] Localizar a María Meza y su familia (¿dónde están ahora?).
 - [ ] Descargar la foto original de Reuters (Kim Kyung-Hoon) para el documental.
-- [ ] Cruzar con los informes HRW y ACLU sobre la caravana migrante 2018.
-- [ ] Datos exactos del bote lacrimógeno usado (fabricante y lote).

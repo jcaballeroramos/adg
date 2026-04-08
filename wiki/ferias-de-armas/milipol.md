@@ -42,7 +42,3 @@ Falken expone en Milipol y FEINDEF con coordenadas claras: Pabellón 10E18 en FE
 ## Pendientes
 - [ ] Documentar las ediciones específicas: París 2023, 2025; Singapur, Doha, Abu Dabi.
 - [ ] Buscar los expositores documentados año por año.
-- [ ] Cruzar con la lista de empresas que también van a FEINDEF.
-- [ ] Localizar reportajes críticos: ACAT, Centre Delàs.
-- [ ] Documentar quiénes son los **organizadores oficiales** y la financiación pública/privada.
-- [ ] Mapa con todos los Milipol simultáneos en el mundo.

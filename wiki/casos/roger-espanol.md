@@ -84,6 +84,5 @@ Los Mossos también usaron sus herramientas para **calcular distancias** a parti
 - ↔ [[fabiola-campillai]] (otro caso paradigmático en otro continente).
 
 ## Pendientes
-- [ ] Conseguir copia íntegra de la transcripción de Anaïs (referenciada en el material).
 - [ ] Buscar los informes UCFA citados.
 - [ ] Documentar a fondo los **40 casos en 20 años** (Irídia / Stop Bales de Goma).

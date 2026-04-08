@@ -31,6 +31,4 @@ Organización que **monitoriza y documenta sistemáticamente** lo que ocurre en 
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita las cifras de Bahréin como "no priorización de los heridos no blancos"; en Tarajal/Melilla pasa exactamente eso.
 
 ## Pendientes
-- [ ] Localizar todos los informes anuales.
 - [ ] Buscar contacto para posible colaboración.
-- [ ] Contactar al equipo del documental de *El País* sobre Melilla 2022.

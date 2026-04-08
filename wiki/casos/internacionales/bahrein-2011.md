@@ -64,8 +64,5 @@ A diferencia de Egipto y Túnez, Bahréin fue **casi completamente ignorada** po
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita Bahréin como ejemplo clave.
 
 ## Pendientes
-- [ ] Descargar el informe PHR 2012 completo.
 - [ ] Lista completa de las 34+ víctimas con nombres.
-- [ ] Cruzar con informes BICI (Bahrain Independent Commission of Inquiry).
 - [ ] Documentar los Formula 1 Grand Prix como legitimación del régimen.
-- [ ] Cruzar con Human Rights Watch Bahrain.

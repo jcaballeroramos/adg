@@ -27,4 +27,3 @@ Viene del libro **"Thomas A. Swift Electric Rifle"** — una novela juvenil sobr
 ## Pendientes
 - [ ] Localizar la patente original de 1880 (picana).
 - [ ] Confirmar el papel de Cover en NASA y su vínculo con la NRA.
-- [ ] Buscar imágenes de la portada del libro de Tom Swift.

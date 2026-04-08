@@ -80,9 +80,5 @@ Lo más documentado **médicamente** es la **estrategia sistemática del régime
 - ↔ [[../impacto-agregado]].
 
 ## Pendientes
-- [ ] Documentar los **fabricantes** de los perdigones usados (¿iraníes? ¿importados? ¿chinos?).
 - [ ] Cifras consolidadas de Iran Human Rights más recientes.
-- [ ] Cruzar con el **Centro Médico Farabi** y los oftalmólogos iraníes.
-- [ ] Documentar los casos individuales con más detalle (Nika, Sarina, Hadis, Armita).
 - [ ] Buscar testimonios de las víctimas oculares en exilio.
-- [ ] Conexión con el movimiento de las **Niñas de la Calle Revolución**.

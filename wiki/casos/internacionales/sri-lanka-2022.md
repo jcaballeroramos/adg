@@ -60,7 +60,3 @@ Las imágenes del ataque circularon globalmente y **cuestionaron la promesa de "
 ## Pendientes
 - [ ] Documentar los **proveedores de gas lacrimógeno** a Sri Lanka.
 - [ ] Cifras consolidadas de la Sri Lanka Human Rights Commission.
-- [ ] Cruzar con India y EE.UU. (apoyo a Wickremesinghe).
-- [ ] Buscar imágenes del asalto al GotaGoGama.
-- [ ] Cobertura del Centre for Policy Alternatives Sri Lanka.
-- [ ] Cruzar con el caso paralelo de Pakistán (Imran Khan).

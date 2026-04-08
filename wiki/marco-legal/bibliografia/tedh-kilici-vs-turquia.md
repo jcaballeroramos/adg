@@ -27,6 +27,4 @@ El **Tribunal Europeo de Derechos Humanos (TEDH)** reconoció en el caso **Kilic
 
 ## Pendientes
 - [ ] Localizar la sentencia completa (Strasbourg).
-- [ ] Cita literal del parágrafo 32.
 - [ ] Documentar la indemnización fijada.
-- [ ] Cruzar con casos posteriores que citen Kilici.

@@ -32,6 +32,5 @@ Variante que emite una frecuencia **insoportable solo para los menores de 25 añ
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibición de uso indiscriminado a volúmenes que causen daño permanente.
 
 ## Pendientes
-- [ ] Verificar nombre exacto del ingeniero alemán (¿Richard Wallauschek?).
 - [ ] Documentar el caso Belgrado 2025.
 - [ ] Buscar fabricantes y exportaciones del Mosquito.

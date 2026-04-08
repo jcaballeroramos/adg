@@ -76,6 +76,4 @@ Empresa **española** fundada el **24 de noviembre de 1981**, especializada en *
 
 ## Pendientes
 - [ ] Análisis crítico del traspaso al grupo Etienne Lacroix (2020).
-- [ ] Cruzar el listado de productos exhibidos en FEINDEF con casos de uso documentados.
 - [ ] Buscar contratos con la Guardia Civil y Policía Nacional (probable: ver [[../../casos/melilla-2022]]).
-- [ ] Documentar la conexión con Pirotecnia Zaragozana.

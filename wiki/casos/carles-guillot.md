@@ -33,6 +33,4 @@ Tras su lesión, Carles cofundó **Stop Bales de Goma** junto a otras víctimas 
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — cronología que su trabajo activó.
 
 ## Pendientes
-- [ ] Contactar para posible entrevista en cámara.
-- [ ] Conseguir copia íntegra del informe de Stop Bales de Goma.
 - [ ] Confirmar año exacto del impacto y lugar.

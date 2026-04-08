@@ -42,5 +42,3 @@ Byrna es el caso más explícito de **trasladar el armamento "menos letal" al co
 ## Pendientes
 - [ ] Datos financieros (cotización NASDAQ, market cap).
 - [ ] Fundadores y trayectoria corporativa.
-- [ ] Marketing dirigido a familias con niños.
-- [ ] Cruzar con datos del consumidor civil estadounidense.

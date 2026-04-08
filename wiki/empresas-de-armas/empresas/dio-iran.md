@@ -52,7 +52,4 @@ Es **el caso más claro de un Estado autoritario armando a otro Estado autoritar
 
 ## Pendientes
 - [ ] Fotografías de las granadas DIO con los códigos.
-- [ ] Informe completo de Amnistía Internacional sobre Irak 2019.
 - [ ] Lista de países receptores de transferencias de DIO.
-- [ ] Sanciones internacionales específicas sobre DIO.
-- [ ] Cruzar con informes de Human Rights Watch.

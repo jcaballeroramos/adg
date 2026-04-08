@@ -96,9 +96,5 @@ Compilación de **todas las muertes documentadas** por balas de goma (y armas de
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — la respuesta normativa.
 
 ## Pendientes
-- [ ] **Conseguir el informe completo** de Stop Bales de Goma (PDF) para confirmar nombres y fechas exactas de los 8 muertos 1976-2000.
-- [ ] Identificar el nombre del menor de Parla (Madrid).
 - [ ] Buscar cobertura hemerográfica de cada caso histórico.
 - [ ] Confirmar si Andoni Fagoaga murió en Donostia 1985 o es otro nombre.
-- [ ] Revisar el archivo de Egin / Berria / La Vanguardia.
-- [ ] Cruzar con el archivo del **CIEMEN** (Centre Internacional Escarré per a les Minories Ètniques i les Nacions).

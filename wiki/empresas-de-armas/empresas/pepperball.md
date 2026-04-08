@@ -35,5 +35,4 @@ Fabricante **estadounidense** de **lanzadores de balas/bolas con polvo de gas pi
 
 ## Pendientes
 - [ ] Datos financieros y corporativos.
-- [ ] Cruzar con casos en España (probable presencia tras la importación de Saborit).
 - [ ] Documentar la composición exacta del polvo en sus proyectiles.

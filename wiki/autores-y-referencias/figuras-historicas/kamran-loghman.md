@@ -54,9 +54,5 @@ Ambos son **actores centrales** de la historia del gas como arma policial, pero 
 - ↔ [[../../historia/cronologia-completa]] — entrada de 2011.
 
 ## Pendientes
-- [ ] Localizar la **cita íntegra** de Loghman sobre Occupy 2011 en fuente primaria.
 - [ ] Documentar su trayectoria en el FBI y US Army.
-- [ ] Cruzar con el vídeo del **UC Davis pepper-spray incident** (John Pike).
 - [ ] Buscar entrevistas posteriores con Loghman (ha seguido hablando públicamente).
-- [ ] Documentar si ha sido demandado por empresas del sector.
-- [ ] ¿Ha publicado un libro o memoria?

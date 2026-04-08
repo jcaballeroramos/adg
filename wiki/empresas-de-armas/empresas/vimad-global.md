@@ -62,5 +62,3 @@ La llegada de **Fernández de Mesa** como asesor coincidió con un **incremento 
 ## Pendientes
 - [ ] Documentar TODOS los contratos públicos de Vimad.
 - [ ] Investigación sobre Fernández de Mesa: trayectoria GC → Vimad.
-- [ ] Cruzar con compras documentadas en LATAM o Marruecos.
-- [ ] Lista completa de marcas representadas.

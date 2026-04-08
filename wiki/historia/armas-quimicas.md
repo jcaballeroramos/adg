@@ -36,4 +36,3 @@ Líquido **pestilente y putrefacto** desarrollado por Israel para usar contra lo
 ## Pendientes
 - [ ] Verificar fechas y referencias bibliográficas (Haber, Churchill).
 - [ ] Confirmar el quote de Loghman con su fuente original.
-- [ ] Buscar fabricantes del agente Skunk (Odortec / Beit Alfa Technologies).

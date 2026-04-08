@@ -51,8 +51,5 @@ El escándalo fue tan grande que **Alliot-Marie tuvo que dimitir** semanas despu
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sitúa el inicio de la ola aquí.
 
 ## Pendientes
-- [ ] Informe completo de la Comisión ONU sobre Túnez 2011.
 - [ ] Lista nominal de víctimas.
-- [ ] Documentar la cita Alliot-Marie con cita literal del Journal Officiel.
-- [ ] Cruzar con informes de la FIDH y Amnistía sobre Túnez.
 - [ ] Fotografías y vídeos de la represión con gas en Kasserine, Thala.

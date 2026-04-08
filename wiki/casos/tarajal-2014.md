@@ -81,9 +81,5 @@ La organización **[[../autores-y-referencias/organizaciones/caminando-fronteras
 - ↔ [[../historia/cronologia-completa]] — entrada de febrero 2014.
 
 ## Pendientes
-- [ ] Descargar el **Informe Caminando Fronteras 2014**.
 - [ ] Obtener los **nombres de las 14 víctimas** para contextualización humana.
-- [ ] Documental "Tarajal: Desmontando la impunidad" (2016) — ver, citar, contactar autores.
 - [ ] Confirmar el estado actual del caso ante **Estrasburgo** (TEDH).
-- [ ] Cruzar con el archivo del **Observatorio DESC** y del **Instituto de DDHH de Catalunya**.
-- [ ] Cruzar con la lista de víctimas documentadas en el [[../autores-y-referencias/organizaciones/stop-bales-de-goma|informe Stop Bales de Goma]] (Ceuta = 45% de los casos).

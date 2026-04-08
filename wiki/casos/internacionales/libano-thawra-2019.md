@@ -75,6 +75,3 @@ Aunque la documentación es parcial, se ha confirmado el uso de:
 ## Pendientes
 - [ ] Confirmar los **fabricantes** del armamento usado (investigación periodística pendiente).
 - [ ] Documentar el caso de **Alaa Abou Fakher**.
-- [ ] Cruzar con informes de **Legal Agenda Lebanon** y **SKeyes Center**.
-- [ ] Contexto de la **explosión del puerto** (agosto 2020) como secuela.
-- [ ] Documentar la dimensión feminista del movimiento.

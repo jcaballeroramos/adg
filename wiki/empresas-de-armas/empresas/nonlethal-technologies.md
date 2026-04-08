@@ -35,4 +35,3 @@ Fabricante **estadounidense** de armas menos letales. Cuestionada por su nombre 
 ## Pendientes
 - [ ] Datos corporativos (sede, propietarios, fundación).
 - [ ] Lista completa de productos.
-- [ ] Otros casos documentados (Egipto, Palestina).

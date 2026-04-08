@@ -102,7 +102,4 @@ Dilemas morales sobre **delegar decisiones de vida o muerte a máquinas**.
 - ↔ [[vframe]] — el contraejemplo civil.
 
 ## Pendientes
-- [ ] Descargar el documento CCW/GGE.1/2023/CRP.1.
-- [ ] Localizar el informe de Heyns 2013.
 - [ ] Buscar pronunciamientos de Stop Killer Robots.
-- [ ] Cruzar con la postura de la UE sobre LAWS.

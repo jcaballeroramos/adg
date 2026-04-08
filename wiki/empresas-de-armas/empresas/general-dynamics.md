@@ -43,6 +43,4 @@ Empresa **estadounidense gigante** fabricante de **tanques, barcos, submarinos, 
 - ↔ [[../feindef/00-overview]] — expositor.
 
 ## Pendientes
-- [ ] Investigar líneas "menos letales" específicas del catálogo.
-- [ ] Cruzar con compras del Ministerio de Defensa español.
 - [ ] Documentar TEWS en mayor profundidad.

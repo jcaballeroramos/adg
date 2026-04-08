@@ -28,6 +28,4 @@ tags: [dsei, londres, reino-unido, condor, spark, expulsión-2019]
 
 ## Pendientes
 - [ ] Localizar la cobertura mediática del incidente Condor 2019.
-- [ ] Cruzar con casos documentados del 'Spark' Condor en uso.
 - [ ] Listar otras empresas latinoamericanas/asiáticas excluidas.
-- [ ] Buscar conexión con CAAT (Campaign Against Arms Trade).

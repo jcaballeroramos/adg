@@ -28,6 +28,4 @@ tags: [omega, mapa, ferias, tableau, visualización, comercio-armas]
 
 ## Pendientes
 - [ ] Descargar/exportar el mapa en su versión más reciente.
-- [ ] Identificar las **5 ferias clave** para visitar / cubrir mediáticamente.
-- [ ] Cruzar con expositores españoles documentados.
 - [ ] Contrastar con la lista del informe de Centre Delàs.

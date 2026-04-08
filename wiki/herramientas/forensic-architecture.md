@@ -35,5 +35,3 @@ tags: [forensic-architecture, weizman, goldsmiths, ddhh, reconstrucción, vfame]
 ## Pendientes
 - [ ] Localizar casos específicos sobre armas menos letales.
 - [ ] Buscar colaboraciones con Amnistía e Irídia.
-- [ ] Cruzar metodologías con VFRAME.
-- [ ] Posible contacto para colaboración o asesoría técnica.

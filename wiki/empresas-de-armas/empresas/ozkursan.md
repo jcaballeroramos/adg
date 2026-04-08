@@ -37,7 +37,4 @@ tags: [ozkursan, turquia, fogueo, traumatica, 9mm, colombia, intermediarios]
 - ↔ [[../../casos/latam/colombia-2021]].
 
 ## Pendientes
-- [ ] Catálogo completo de productos Özkursan.
-- [ ] Cifras de exportación 2015-2025.
-- [ ] Cruzar con otros países receptores (no solo Colombia).
 - [ ] Documentación sobre regulación turca de exportación de munición.
