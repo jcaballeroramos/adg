@@ -1,0 +1,39 @@
+---
+tipo: herramienta
+estado: stub
+nombre: Forensic Architecture
+sede: Goldsmiths University of London
+fundador: Eyal Weizman
+tags: [forensic-architecture, weizman, goldsmiths, ddhh, reconstrucción, vfame]
+---
+
+# Forensic Architecture
+
+**Forensic Architecture** es una agencia de investigación con sede en **Goldsmiths University of London** que utiliza **arquitectura, modelado 3D, análisis audiovisual y open-source intelligence** para reconstruir y exponer **violaciones de derechos humanos**, crímenes de guerra y violencia estatal.
+
+## Datos
+- 🌐 https://forensic-architecture.org/
+- **Sede**: Goldsmiths University of London.
+- **Fundador**: Eyal Weizman.
+
+## Por qué nos importa
+- Es **el modelo metodológico** que combina arquitectura, IA y derechos humanos.
+- **Pionera** en usar herramientas de **reconstrucción 3D y análisis open-source** para investigar casos de violencia policial y militar (Black Lives Matter, Palestina, Siria, Belarús).
+- Su trabajo es **directamente paralelo** al de [[vframe]] (detección automatizada de munición) y al de [[../autores-y-referencias/organizaciones/iridia|Irídia]] (análisis manual del caso Roger Español).
+
+## Casos relevantes
+- **Black Lives Matter** — reconstrucciones de protestas reprimidas.
+- **Palestina** — investigaciones sobre uso de armas contra civiles.
+- Trabajo continuo con **Amnistía Internacional**, **Bellingcat**, **Berliner Zeitung**.
+
+## Conexiones
+- ↔ [[vframe]] — la herramienta open-source de detección.
+- ↔ [[../autores-y-referencias/organizaciones/iridia]] — el caso Roger Español como **el embrión** del tipo de proyectos forenses audiovisuales que Forensic Architecture industrializa.
+- ↔ [[yolo-v3-weapon-detection]] — la tecnología base.
+- ↔ [[laws-armas-autonomas]].
+
+## Pendientes
+- [ ] Localizar casos específicos sobre armas menos letales.
+- [ ] Buscar colaboraciones con Amnistía e Irídia.
+- [ ] Cruzar metodologías con VFRAME.
+- [ ] Posible contacto para colaboración o asesoría técnica.

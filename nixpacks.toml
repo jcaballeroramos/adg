@@ -1,0 +1,13 @@
+# Nixpacks override — fuerza Python 3.11 (Railway/Cloudflare/etc.)
+
+[phases.setup]
+nixPkgs = ["python311", "python311Packages.pip"]
+
+[phases.install]
+cmds = ["pip install markdown pyyaml"]
+
+[phases.build]
+cmds = ["python build.py"]
+
+[start]
+cmd = "cd site && python -m http.server $PORT"

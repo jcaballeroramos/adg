@@ -1,0 +1,13 @@
+# Railway deployment config — sitio estático Artefactos de Guerra
+# Railway compila el sitio con build.py y luego sirve `site/` con un mini-servidor Python.
+
+[build]
+builder = "NIXPACKS"
+buildCommand = "pip install markdown pyyaml && python build.py"
+
+[deploy]
+startCommand = "cd site && python -m http.server $PORT"
+healthcheckPath = "/index.html"
+healthcheckTimeout = 30
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 3
