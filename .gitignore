@@ -12,6 +12,9 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Obsidian vault config (personal, no compartir)
+.obsidian/
+
 # Editor
 .vscode/
 .idea/
