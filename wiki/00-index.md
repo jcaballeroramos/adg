@@ -64,6 +64,8 @@
 - [Özkursan](empresas-de-armas/empresas/ozkursan.md) (Turquía) — munición fogueo/traumática 9mm para Colombia.
 - [Zira Silah Sanayi](empresas-de-armas/empresas/zira-silah-sanayi.md) (Turquía) — pistolas Blow F92, **125.000 unidades a Colombia**.
 - [Aardvark Tactical](empresas-de-armas/empresas/aardvark-tactical.md) (EE.UU.) — **$62M en contratos con CBP** frontera sur.
+- [AASIAS — Armas Auxiliares SIAS](empresas-de-armas/empresas/aasias.md) (España) — distribuidor armamento policial.
+- [Target Dynamics International](empresas-de-armas/empresas/target-dynamics-international.md) (Reino Unido) — **GL06 / LBD40**, el lanzagranadas que deja ciegos en Francia y Cataluña.
 - [Azimuth Medical Devices](empresas-de-armas/empresas/azimuth-medical-devices.md) (Chile) — empresa "médica" que vendió gas pimienta a Carabineros 2019.
 - [Saab Bofors Dynamics](empresas-de-armas/empresas/saab-bofors-dynamics.md) (Suecia) — NLAW, Carl-Gustaf, estrella de Ucrania 2022.
 - [Diehl Defence](empresas-de-armas/empresas/diehl-defence.md) (Alemania) — IRIS-T, el complejo militar del «Zeitenwende».
@@ -92,7 +94,9 @@
 - [Carles Guillot](casos/carles-guillot.md) — víctima + fundador de Stop Bales de Goma.
 - [Roger Español (Catalunya, 1-O 2017)](casos/roger-espanol.md) — pelota de goma, identificación del agente, juicio 2026.
 - [Antonio C. (Badalona, 2021)](casos/antonio-c-badalona.md) — primera muerte por taser en Catalunya.
-- [África (protestas Pablo Hasél, 2021)](casos/africa-pablo-hasel.md) — bala de foam a 22 m, perdió un ojo.
+- [África (protestas Pablo Hasél, 2021)](casos/africa-pablo-hasel.md) — bala de foam a 22 m, perdió un ojo. Testimonio en Carne Cruda 2024.
+- [Roger García (Proces, octubre 2019)](casos/roger-garcia-foam-2019.md) — foam SIR-X Mossos, pérdida de visión.
+- [Abdelillah (Proces, octubre 2019)](casos/abdelillah-foam-2019.md) — foam SIR-X, perfilado racial.
 - [Olga (Procés 2019)](casos/olga-proces.md) — bala de foam, ganó por vía administrativa.
 - [Masacre de Melilla, junio 2022](casos/melilla-2022.md) — 37 muertos, 77 desaparecidos.
 
@@ -195,10 +199,12 @@
 - [Relatora ONU contra la Tortura](marco-legal/onu-relatora-tortura.md) — tres categorías de armas (torturantes / indiscriminadas / doble uso).
 - [ONU · Orientaciones armas menos letales (2020)](marco-legal/onu-orientaciones-2020.md) — Categoría A prohibida, Categoría B controlada.
 - [Amnistía Internacional · Demandas](marco-legal/amnistia-internacional.md) — tratado sin tortura, cadena de mando, identificación.
+- [Mossos d'Esquadra · Instrucciones oficiales](marco-legal/mossos-instrucciones-armamento.md) — Instruccions 16/2013, 11/2014, 4/2018.
 - [Bibliografía / fuentes — índice maestro](marco-legal/bibliografia.md) — Heyns, Melzer, TEDH, INCLO, Amnistía, OSCE, BMJ Open, Egner, etc.
 
 #### Bibliografía individual
-- [Egner 1977 — primer paper crítico](marco-legal/bibliografia/egner-1977.md) · [Lethal in Disguise 2 (INCLO 2023)](marco-legal/bibliografia/lethal-in-disguise-2.md) · [Amnistía «Me estalló el ojo»](marco-legal/bibliografia/me-estallo-el-ojo-amnistia.md) · [Haar et al. (BMJ Open 2017)](marco-legal/bibliografia/haar-bmj-2017.md) · [McEvoy, Corney & Haar](marco-legal/bibliografia/mcevoy-corney-haar.md) · [Melzer ONU 2017](marco-legal/bibliografia/melzer-onu-2017.md) · [TEDH Kilici c. Turquía](marco-legal/bibliografia/tedh-kilici-vs-turquia.md) · [TEDH Yasa c. Turquía](marco-legal/bibliografia/tedh-yasa-vs-turquia.md) · [Síndic de Greuges (Catalunya)](marco-legal/bibliografia/sindic-greuges-resoluciones.md) · [Centre Delàs — Armas potencialmente letales](marco-legal/bibliografia/centre-delas-armas-letales.md) · [OSCE Policing Assemblies](marco-legal/bibliografia/osce-policing-assemblies.md) · [Access Info Europe 2015](marco-legal/bibliografia/access-info-europe.md) · [OMCT 2021 «Police brutality as torture»](marco-legal/bibliografia/omct-2021.md) · [**CCW 1980 + Protocolo IV láser cegadoras**](marco-legal/bibliografia/ccw-1980-protocolo-iv.md) · [**CICR Guía armas químicas**](marco-legal/bibliografia/cicr-guia-armas-quimicas.md)
+- [Egner 1977 — primer paper crítico](marco-legal/bibliografia/egner-1977.md) · [Lethal in Disguise 2 (INCLO 2023)](marco-legal/bibliografia/lethal-in-disguise-2.md) · [Amnistía «Me estalló el ojo»](marco-legal/bibliografia/me-estallo-el-ojo-amnistia.md) · [Haar et al. (BMJ Open 2017)](marco-legal/bibliografia/haar-bmj-2017.md) · [McEvoy, Corney & Haar](marco-legal/bibliografia/mcevoy-corney-haar.md) · [Melzer ONU 2017](marco-legal/bibliografia/melzer-onu-2017.md) · [TEDH Kilici c. Turquía](marco-legal/bibliografia/tedh-kilici-vs-turquia.md) · [TEDH Yasa c. Turquía](marco-legal/bibliografia/tedh-yasa-vs-turquia.md) · [Síndic de Greuges (Catalunya)](marco-legal/bibliografia/sindic-greuges-resoluciones.md) · [Centre Delàs — Armas potencialmente letales](marco-legal/bibliografia/centre-delas-armas-letales.md) · [OSCE Policing Assemblies](marco-legal/bibliografia/osce-policing-assemblies.md) · [Access Info Europe 2015](marco-legal/bibliografia/access-info-europe.md) · [OMCT 2021 «Police brutality as torture»](marco-legal/bibliografia/omct-2021.md) · [CCW 1980 + Protocolo IV láser cegadoras](marco-legal/bibliografia/ccw-1980-protocolo-iv.md) · [CICR Guía armas químicas](marco-legal/bibliografia/cicr-guia-armas-quimicas.md)
+- **Lote Irídia / España / supervisión policial (abril 2026)**: [**Irídia · Mecanismos independientes**](marco-legal/bibliografia/iridia-mecanismos-independientes.md) · [**Irídia · Plan de acción**](marco-legal/bibliografia/iridia-pla-accio.md) · [**Irídia · Transparencia dels cossos de seguretat**](marco-legal/bibliografia/iridia-transparencia-cossos-seguretat.md) · [**Irídia · Defensa del espai civil**](marco-legal/bibliografia/iridia-defensa-espai-civil.md) · [**CoE · Comisario DDHH**](marco-legal/bibliografia/coe-comisario-ddhh.md) · [**UNODC+OHCHR · Manual uso de la fuerza**](marco-legal/bibliografia/unodc-ohchr-manual-uso-fuerza.md) · [**Amnistía · La policía bajo la lupa**](marco-legal/bibliografia/amnistia-policia-bajo-la-lupa.md) · [**OSJI · Who polices the police?**](marco-legal/bibliografia/osji-who-polices-the-police.md) · [**Transparencia cuerpos policiales en España**](marco-legal/bibliografia/transparencia-cuerpos-policiales-espana.md)
 
 ## Historia / genealogía
 - [**Cronología completa 1850-2026**](historia/cronologia-completa.md) — línea de tiempo consolidada, 80+ entradas.

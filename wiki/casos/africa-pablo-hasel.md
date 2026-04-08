@@ -38,14 +38,42 @@ Le **dispararon a 22 metros** de distancia. **Perdió un ojo**.
 ## Lo que cambió
 A raíz de este caso, en el marco del litigio estratégico de **Iridia**, **se prohíbe el uso de munición SIRX en Cataluña**.
 
+## El testimonio personal (Carne Cruda · noviembre 2024)
+En **noviembre de 2024**, **Áfrika** da **por primera vez su testimonio** en un medio de comunicación. Lo hace en el programa **«Carne Cruda · T12x47 — Tu palabra contra la de la policía»** (26 de noviembre de 2024), en colaboración con [[../autores-y-referencias/organizaciones/iridia|Irídia]].
+
+Su testimonio, en primera persona:
+
+> *«Estaba ejerciendo mi derecho a manifestarme, de repente escuché una detonación. Al día siguiente me dijeron que iba a perder el ojo. Desde entonces tengo miedo. No he vuelto a ir a una manifestación. Me llaman terrorista.»*
+
+Cuatro años después del impacto, Áfrika describe:
+- **El miedo como secuela crónica** — no solo la pérdida del ojo, sino el **miedo permanente** a volver a un espacio público de protesta.
+- **La criminalización mediática** — ser llamada «terrorista» tras recibir un disparo policial.
+- **El silencio institucional** — el caso archivado, sin responsables, sin reparación.
+- **La impunidad** — ni los mossos, ni el gobierno catalán, ni la Generalitat han reconocido la responsabilidad.
+
+## El programa Carne Cruda (T12x47)
+«**Tu palabra contra la de la policía**» es un episodio especial del pódcast **Carne Cruda** (dirigido por Javier Gallego), producido en **colaboración con Irídia**. El programa:
+1. Recoge los testimonios de **Áfrika**, **Roger García** y **Abdelillah** — tres víctimas del foam SIR-X.
+2. Pone en cuestión la **narrativa oficial** que siempre prioriza «la palabra de la policía» sobre la de la víctima.
+3. Entrevista a **Anaïs Franquesa** (Irídia) sobre el litigio estratégico.
+4. Cierra con un **llamamiento** a la creación de mecanismos independientes de control.
+
+Es **la primera pieza sonora importante** del ecosistema mediático español que aborda el problema de forma sistemática.
+
 ## Material disponible
+- **Instagram Áfrika — primer testimonio público**: https://www.instagram.com/p/DRhSqTqjUav/
+- **Carne Cruda T12x47** (26 nov 2024): «Tu palabra contra la de la policía» — pódcast.
 - **Carta escrita por África** tras el archivo de su caso (pendiente de localizar y archivar).
 - **Padre — Eric Cuesta** — entrevista realizada por nosotros (pendiente de localizar archivo).
+- **Som Defensores** campaign: https://x.com/SomDefensores/status/1978476832812118154
 
 ## Conexiones
+- ↔ [[roger-garcia-foam-2019]] · [[abdelillah-foam-2019]] — las otras víctimas de foam de los Mossos que también dieron testimonio en el mismo programa de Carne Cruda.
 - ↔ [[olga-proces]] — otra víctima de bala de foam de los Mossos en protestas.
 - ↔ [[ester-quintana]] y [[roger-espanol]] — el ciclo bala de goma → bala de foam, "el remplazo que también ciega".
 - ↔ [[../autores-y-referencias/organizaciones/iridia]] — quien lleva el litigio estratégico.
-- ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la fisiología clínica del estallido ocular por proyectiles de alta energía.
+- ↔ [[../casos/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología clínica del estallido ocular por proyectiles de alta energía.
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — capítulo "el reemplazo".
+- ↔ [[mossos-instrucciones-armamento]] — los protocolos oficiales.
+- ↔ [[../marco-legal/bibliografia/iridia-pla-accio]] · [[../marco-legal/bibliografia/iridia-mecanismos-independientes]].
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"las armas no letales propician el gatillo fácil"*.

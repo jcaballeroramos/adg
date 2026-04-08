@@ -479,16 +479,26 @@ CATEGORY_LABELS = {
 }
 
 CATEGORY_ORDER = [
-    "_root",  # 00-index, 00-pendientes
-    "ferias-de-armas",
-    "empresas-de-armas",
-    "casos",
-    "usos-de-armas",
-    "autores-y-referencias",
-    "herramientas",
-    "marco-legal",
-    "historia",
+    "_root",            # 00-index (arriba del todo)
+    "historia",         # 1. De dónde vienen las armas
+    "casos",            # 2. Las víctimas
+    "empresas-de-armas",# 3. Quién las fabrica
+    "ferias-de-armas",  # 4. Dónde se venden
+    "usos-de-armas",    # 5. Cómo se entrena su uso
+    "marco-legal",      # 6. Qué dice la ley
+    "autores-y-referencias",  # 7. Quién analiza y documenta
+    "herramientas",     # 8. Infraestructura periodística / técnica
 ]
+
+# Sub-category ordering (narrativamente, no alfabético)
+SUBCAT_ORDER = {
+    "casos": ["internacionales", "latam", "oftalmologa-estrella-fernandez"],
+    "empresas-de-armas": ["empresas", "publicidad", "renders"],
+    "ferias-de-armas": ["feindef"],
+    "usos-de-armas": ["entrenamientos", "testimonios"],
+    "autores-y-referencias": ["paul-rocher", "figuras-historicas", "organizaciones"],
+    "marco-legal": ["bibliografia"],
+}
 PENDIENTES_LABEL = "✓ Pendientes (auto)"
 
 
@@ -555,9 +565,11 @@ def build_sidebar(tree):
                 )
             parts.append("</ul>")
 
-        # subcategories
+        # subcategories — narrative order if defined, else alphabetical
         subs = [k for k in tree[cat].keys() if k != "_direct"]
-        for sub in sorted(subs):
+        preferred = SUBCAT_ORDER.get(cat, [])
+        subs = [s for s in preferred if s in subs] + sorted([s for s in subs if s not in preferred])
+        for sub in subs:
             sub_label = CATEGORY_LABELS.get(sub, sub)
             parts.append(f'<details open class="nav-subgroup"><summary>{html.escape(sub_label)}</summary><ul>')
             for n in sorted(tree[cat][sub], key=lambda x: x["title"].lower()):
@@ -1148,6 +1160,9 @@ def graph_page_html(graph_data):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Grafo — Artefactos de Guerra</title>
 <link rel="stylesheet" href="assets/style.css">
+<script>
+(function(){{try{{var t=localStorage.getItem('adg-theme')||'dark';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
+</script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body class="graph-page">
@@ -1163,6 +1178,7 @@ def graph_page_html(graph_data):
       <option value="literal">Solo literal</option>
     </select>
     <button id="graph-reset" title="Reset">↺ Reset</button>
+    <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐ Tema</button>
   </div>
 </header>
 <aside class="graph-panel">
@@ -1178,6 +1194,18 @@ def graph_page_html(graph_data):
 </aside>
 <div id="graph"></div>
 <script>{js}</script>
+<script>
+(function(){{
+  var btn = document.getElementById('theme-toggle');
+  if (!btn) return;
+  btn.addEventListener('click', function(){{
+    var cur = document.documentElement.getAttribute('data-theme') || 'dark';
+    var nxt = cur === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', nxt);
+    try {{ localStorage.setItem('adg-theme', nxt); }} catch (e) {{}}
+  }});
+}})();
+</script>
 </body>
 </html>
 """
@@ -1584,14 +1612,15 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .home-card li:last-child { border-bottom: none; }
 
 .graph-page { background: var(--bg); overflow: hidden; color: var(--fg); }
-.graph-page svg text { fill: var(--fg); }
+.graph-page svg text { fill: var(--fg); paint-order: stroke; stroke: var(--bg); stroke-width: 3px; stroke-linejoin: round; }
 .graph-page .g-node-label { fill: var(--fg); }
 .graph-page .g-node-circle { stroke: var(--bg); }
 .graph-page .arrow-path { fill: var(--fg-dim); }
 .graph-page .arrow-path-hot { fill: var(--accent); }
-.graph-page .links line { stroke: var(--fg-dim); stroke-opacity: 0.35; }
+.graph-page .links line { stroke: var(--fg-dim) !important; stroke-opacity: 0.35; }
 .graph-page .links line.dim { stroke-opacity: 0.06; }
-.graph-page .links line.highlight { stroke: var(--accent); stroke-opacity: 0.95; stroke-width: 2; }
+.graph-page .links line.highlight { stroke: var(--accent) !important; stroke-opacity: 0.95; stroke-width: 2; }
+.graph-page .nodes .node.highlight circle { stroke: var(--fg) !important; stroke-width: 2.5; }
 .graph-header { display:flex; align-items:center; gap:18px; padding:14px 22px; background:var(--bg-panel); border-bottom:1px solid var(--border); position: relative; z-index: 10; }
 .graph-header .graph-actions { margin-left: auto; }
 .graph-header button,
@@ -1610,18 +1639,15 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .graph-panel { position: fixed; top: 80px; left: 20px; width: 240px; background: var(--bg-panel); border:1px solid var(--border); border-radius: 10px; padding: 14px 16px; z-index: 5; backdrop-filter: blur(6px); }
 .graph-panel h4 { margin: 0 0 8px 0; font-size: 11px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); }
 .graph-panel .legend-btn { display: flex; align-items: center; gap: 8px; width: 100%; background: transparent; border: 1px solid transparent; color: var(--fg); padding: 6px 8px; border-radius: 6px; cursor: pointer; font-size: 13px; text-align: left; margin-bottom: 2px; transition: background .15s; }
-.graph-panel .legend-btn:hover { background: rgba(255,255,255,.04); }
+.graph-panel .legend-btn:hover { background: var(--bg-hover); }
 .graph-panel .legend-btn.off { opacity: .35; text-decoration: line-through; }
-.graph-panel .swatch { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; border: 1px solid #0b0b0e; }
+.graph-panel .swatch { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; border: 1px solid var(--border); }
 .graph-help { margin: 14px 0 0 0; padding-top: 12px; border-top: 1px solid var(--border); font-size: 11px; line-height: 1.6; color: var(--fg-dim); }
 .graph-help b { color: var(--fg); }
 #graph { width:100vw; height:calc(100vh - 60px); }
-.links line { stroke: #555; transition: stroke .2s, stroke-opacity .2s, stroke-width .2s; }
-.links line.dim { stroke-opacity: 0.06; }
-.links line.highlight { stroke: #e05d3d; stroke-opacity: 0.95; stroke-width: 2; }
+.links line { transition: stroke .2s, stroke-opacity .2s, stroke-width .2s; }
 .nodes .node { cursor: pointer; transition: opacity .2s; }
 .nodes .node.dim { opacity: 0.14; }
-.nodes .node.highlight circle { stroke: #fff; stroke-width: 2.5; }
 .nodes .node text { pointer-events: none; font-family: -apple-system, sans-serif; }
 
 /* Local graph embedded in note page */
