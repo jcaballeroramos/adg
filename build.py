@@ -648,7 +648,8 @@ svg.append('defs').append('marker')
   .append('path').attr('d', 'M0,-4 L10,0 L0,4').attr('class', 'arrow-path-hot');
 
 const g = svg.append('g');
-svg.call(d3.zoom().scaleExtent([0.15, 4]).on('zoom', (e) => g.attr('transform', e.transform)));
+const zoomBehavior = d3.zoom().scaleExtent([0.15, 4]).on('zoom', (e) => g.attr('transform', e.transform));
+svg.call(zoomBehavior);
 
 // background click = clear focus
 svg.on('click', (e) => { if (e.target.tagName === 'svg') clearFocus(); });
@@ -786,6 +787,46 @@ document.getElementById('graph-reset').onclick = () => {
 document.getElementById('graph-state-filter').addEventListener('change', (e) => {
   stateFilter = e.target.value;
   applyCategoryFilter();
+});
+
+// search input — highlights + centers matching nodes
+const searchInput = document.getElementById('graph-search');
+const norm = s => (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+function applySearchHighlight(query) {
+  const q = norm((query || '').trim());
+  if (!q) {
+    node.classed('g-match', false).classed('g-search-dim', false);
+    link.classed('g-search-dim', false);
+    return;
+  }
+  const matches = new Set();
+  nodes.forEach(n => {
+    if (norm(n.title).includes(q) || norm(n.id).includes(q)) matches.add(n.id);
+  });
+  node.classed('g-match', d => matches.has(d.id))
+      .classed('g-search-dim', d => !matches.has(d.id));
+  link.classed('g-search-dim', l => !matches.has(l.source.id) && !matches.has(l.target.id));
+  // center on first match
+  if (matches.size > 0) {
+    const firstId = matches.values().next().value;
+    const first = nodes.find(n => n.id === firstId);
+    if (first && first.x !== undefined) {
+      const scale = 1.4;
+      const tx = width / 2 - first.x * scale;
+      const ty = height / 2 - first.y * scale;
+      svg.transition().duration(500).call(
+        zoomBehavior.transform,
+        d3.zoomIdentity.translate(tx, ty).scale(scale)
+      );
+    }
+  }
+}
+searchInput.addEventListener('input', (e) => applySearchHighlight(e.target.value));
+searchInput.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    searchInput.value = '';
+    applySearchHighlight('');
+  }
 });
 """
 
@@ -1114,6 +1155,7 @@ def graph_page_html(graph_data):
   <a class="brand" href="index.html">◂ Artefactos de Guerra</a>
   <span class="graph-title">Grafo de conexiones</span>
   <div class="graph-actions">
+    <input id="graph-search" type="search" placeholder="🔍 Buscar nodo…" autocomplete="off" spellcheck="false">
     <select id="graph-state-filter" title="Filtrar por estado">
       <option value="">Todos los estados</option>
       <option value="borrador">Solo borrador</option>
@@ -1557,6 +1599,13 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .graph-header button:hover,
 .graph-header select:hover { border-color:var(--accent); }
 .graph-header select { margin-right: 6px; }
+.graph-header #graph-search { background: var(--bg-hover); color: var(--fg); border: 1px solid var(--border); border-radius: 6px; padding: 6px 12px; font-size: 12px; margin-right: 6px; width: 180px; outline: none; }
+.graph-header #graph-search::placeholder { color: var(--fg-dim); }
+.graph-header #graph-search:focus { border-color: var(--accent); }
+.nodes .node.g-match circle { stroke: #ffd54a !important; stroke-width: 3.5 !important; filter: drop-shadow(0 0 6px rgba(255, 213, 74, 0.9)); }
+.nodes .node.g-match text { fill: #ffd54a !important; font-weight: 700; font-size: 13px !important; }
+.nodes .node.g-search-dim { opacity: 0.1; }
+.links line.g-search-dim { stroke-opacity: 0.04; }
 .graph-title { color: var(--fg-dim); font-size:13px; text-transform:uppercase; letter-spacing:.6px; }
 .graph-panel { position: fixed; top: 80px; left: 20px; width: 240px; background: var(--bg-panel); border:1px solid var(--border); border-radius: 10px; padding: 14px 16px; z-index: 5; backdrop-filter: blur(6px); }
 .graph-panel h4 { margin: 0 0 8px 0; font-size: 11px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); }
