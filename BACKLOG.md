@@ -6,25 +6,20 @@ Estado del wiki a 2026-04-08: **175 notas** en la rama `main` de `github.com/jca
 
 ---
 
-## 🔴 Crítico — material importante que aún no tiene ficha
+## ✅ Lote crítico 2026-04-08 — COMPLETO
 
-### Casos pendientes de crear
-- [ ] **Yemen 2011-presente** — escenario de prueba de la coalición saudí. Granadas Krušik, lacrimógenos, drones. La pieza que falta para cerrar el arco Primavera Árabe + Golfo.
-- [ ] **Ucrania 2022-presente** — uso de "menos letales" como cobertura inicial antes de la guerra abierta, y campo de prueba para nuevos sistemas (Anduril, Shield AI).
-- [ ] **Chile 1973** — el golpe de Pinochet y los primeros usos sistemáticos de gas lacrimógeno contra población civil en dictadura.
-- [ ] **Argentina 1976** — dictadura militar, represión de la oposición con armamento químico.
-- [ ] **Tarajal 2014** — completar con los **nombres reales de las 14 víctimas** (la ficha existe pero la lista nominal aún no).
-- [ ] **Stop Bales 1976-2024** — el listado histórico existe pero faltan nombres confirmados de varios casos antiguos.
-
-### Autores/voces sin ficha
-- [ ] **Agnès Callamard** — Relatora ONU posterior a Heyns; caso Khashoggi; directora de Amnistía Internacional desde 2021.
-- [ ] **Stuart Casey-Maslen** — *Weapons under International Human Rights Law* (Cambridge UP). Referencia jurídica clave.
-- [ ] **Rohini Haar** — médica autora del estudio BMJ Open 2017 sobre KIPs. Investigadora clave en Torture Journal.
-- [ ] **Sven Lindqvist** — *Historia de los bombardeos*. Genealogía colonial del armamento.
-
-### Empresas por crear
-- [ ] **Saab Bofors Dynamics** (Suecia) — perfil completo.
-- [ ] **Diehl Defence** (Alemania) — perfil completo.
+- ✅ **Yemen 2011-presente** → `casos/internacionales/yemen-2011-presente.md`
+- ✅ **Ucrania 2022-presente** → `casos/internacionales/ucrania-2022-presente.md`
+- ✅ **Chile 1973-1990 (Pinochet)** → `casos/internacionales/chile-1973-pinochet.md`
+- ✅ **Argentina 1976-1983** → `casos/internacionales/argentina-1976-dictadura.md`
+- ✅ **Tarajal 2014** — 14 víctimas con nombres añadidos.
+- ✅ **Stop Bales 1976-2000** — nombres confirmados añadidos.
+- ✅ **Agnès Callamard** → `autores-y-referencias/agnes-callamard.md`
+- ✅ **Stuart Casey-Maslen** → `autores-y-referencias/stuart-casey-maslen.md`
+- ✅ **Rohini Haar** → `autores-y-referencias/rohini-haar.md`
+- ✅ **Sven Lindqvist** → `autores-y-referencias/sven-lindqvist.md`
+- ✅ **Saab Bofors Dynamics** → `empresas-de-armas/empresas/saab-bofors-dynamics.md`
+- ✅ **Diehl Defence** → `empresas-de-armas/empresas/diehl-defence.md`
 
 ---
 
