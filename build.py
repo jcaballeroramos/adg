@@ -479,15 +479,15 @@ CATEGORY_LABELS = {
 }
 
 CATEGORY_ORDER = [
-    "_root",            # 00-index (arriba del todo)
-    "historia",         # 1. De dónde vienen las armas
-    "casos",            # 2. Las víctimas
-    "empresas-de-armas",# 3. Quién las fabrica
-    "ferias-de-armas",  # 4. Dónde se venden
-    "usos-de-armas",    # 5. Cómo se entrena su uso
-    "marco-legal",      # 6. Qué dice la ley
-    "autores-y-referencias",  # 7. Quién analiza y documenta
-    "herramientas",     # 8. Infraestructura periodística / técnica
+    "_root",                   # 0. General (índice)
+    "historia",                # 1. De dónde vienen las armas
+    "autores-y-referencias",   # 2. Quién analiza y documenta
+    "ferias-de-armas",         # 3. Dónde se venden
+    "empresas-de-armas",       # 4. Quién las fabrica
+    "usos-de-armas",           # 5. Cómo se entrena su uso
+    "casos",                   # 6. Las víctimas
+    "marco-legal",             # 7. Qué dice la ley
+    "herramientas",            # 8. Infraestructura periodística / técnica
 ]
 
 # Sub-category ordering (narrativamente, no alfabético)
@@ -1533,7 +1533,7 @@ a:hover { text-decoration: underline; }
 .nav-subgroup summary { cursor: pointer; font-weight:500; color:#c4b8a8; padding:4px 4px; font-size:11px; text-transform: uppercase; letter-spacing:.4px; }
 .nav-subgroup ul { padding-left: 6px; }
 .nav-direct { margin-bottom: 4px; }
-.home-subcat { margin: 14px 0 6px 0; font-size: 12px; text-transform: uppercase; letter-spacing: .6px; color: #c4b8a8; font-weight: 600; }
+.home-subcat { margin: 14px 0 6px 0; font-size: 12px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); font-weight: 600; }
 .graph-link { display:block; margin-top:14px; padding:10px 12px; background:var(--bg-hover); border:1px solid var(--border); border-radius:8px; font-size:13px; text-align:center; color:var(--fg); }
 .graph-link:hover { border-color:var(--accent); text-decoration:none; }
 .sidebar-footer { margin-top: 14px; display: flex; flex-direction: column; gap: 8px; }
@@ -1606,9 +1606,9 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .cta-btn.primary:hover { background: var(--accent); filter: brightness(1.1); }
 .home-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px; margin-top: 28px; }
 .home-card { background: var(--bg-panel); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; }
-.home-card h2 { margin:0 0 10px 0; font-size: 15px; text-transform: uppercase; letter-spacing:.6px; color:#f3c79f; border:none; padding:0; }
+.home-card h2 { margin:0 0 10px 0; font-size: 15px; text-transform: uppercase; letter-spacing:.6px; color: var(--accent); border:none; padding:0; }
 .home-card ul { list-style:none; padding:0; margin:0; }
-.home-card li { padding: 5px 0; border-bottom: 1px dashed #22232a; font-size: 14px; display:flex; align-items:center; gap:6px; }
+.home-card li { padding: 5px 0; border-bottom: 1px dashed var(--border); font-size: 14px; display:flex; align-items:center; gap:6px; }
 .home-card li:last-child { border-bottom: none; }
 
 .graph-page { background: var(--bg); overflow: hidden; color: var(--fg); }
