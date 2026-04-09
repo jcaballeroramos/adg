@@ -9,7 +9,7 @@ victimas_confirmadas: "34+ muertes por gas lacrimógeno documentadas por PHR"
 tags: [bahrein, 2011, primavera-arabe, gas-lacrimogeno, phr, perla, chiitas, represion]
 ---
 
-# Bahréin 2011 — la masacre química silenciada
+# Caso · Bahréin 2011 — la masacre química silenciada
 
 ## Contexto
 **14 de febrero de 2011** — inspirados por Túnez y Egipto, miles de bahreiníes (**mayoría chiíes** en un país gobernado por una **monarquía suní**, los **Al Khalifa**) ocupan la **Plaza de la Perla** (Pearl Roundabout) en Manama exigiendo reformas democráticas.

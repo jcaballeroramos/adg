@@ -9,7 +9,7 @@ victimas_confirmadas: "338 muertos y 2.174 heridos (datos ONU)"
 tags: [tunez, 2011, primavera-arabe, jazmin, bouazizi, ben-ali, gas-lacrimogeno, inicio]
 ---
 
-# Túnez 2010-2011 — la chispa de la Primavera Árabe
+# Caso · Túnez 2010-2011 — la chispa de la Primavera Árabe
 
 ## Contexto
 **17 de diciembre de 2010**. **Mohamed Bouazizi**, un vendedor ambulante de **Sidi Bouzid** de 26 años, **se prende fuego** frente al edificio del gobernador tras sufrir la **confiscación de su carrito y bofetadas** de una funcionaria municipal. Murió el **4 de enero de 2011**.

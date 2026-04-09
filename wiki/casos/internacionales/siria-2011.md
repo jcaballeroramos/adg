@@ -9,7 +9,7 @@ victimas_confirmadas: "Cientos de miles (guerra civil)"
 tags: [siria, 2011, primavera-arabe, assad, daraa, gas-lacrimogeno, guerra-civil]
 ---
 
-# Siria 2011 — de Daraa a la guerra más larga
+# Caso · Siria 2011 — de Daraa a la guerra más larga
 
 ## Contexto
 **Marzo de 2011** — en **Daraa**, sur de Siria, un grupo de **niños de entre 10 y 15 años** pintan en una pared del colegio la frase **«El pueblo quiere la caída del régimen»** (الشعب يريد إسقاط النظام), eslogan que ya circulaba en Túnez y Egipto.

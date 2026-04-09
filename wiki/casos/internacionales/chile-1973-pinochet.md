@@ -9,7 +9,7 @@ victimas_confirmadas: "3.216 muertos/desaparecidos (Rettig+Valech), 38.254 tortu
 tags: [chile, 1973, pinochet, allende, dictadura, gas-lacrimogeno, tortura, cono-sur]
 ---
 
-# Chile 1973-1990 — la dictadura de Pinochet y el gas como política
+# Caso · Chile 1973-1990 — Pinochet y el gas como política
 
 ## Contexto
 **11 de septiembre de 1973** — el general **Augusto Pinochet** encabeza el **golpe de Estado** contra el gobierno democráticamente elegido de **Salvador Allende**. La aviación chilena **bombardea La Moneda**. Allende muere en el palacio presidencial.

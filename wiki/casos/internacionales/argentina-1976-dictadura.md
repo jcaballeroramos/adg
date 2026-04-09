@@ -9,7 +9,7 @@ victimas_confirmadas: "+30.000 desaparecidos (organismos de DDHH)"
 tags: [argentina, 1976, videla, dictadura, cono-sur, proceso, esma, desaparecidos]
 ---
 
-# Argentina 1976-1983 — la dictadura y los 30.000 desaparecidos
+# Caso · Argentina 1976-1983 — la dictadura y los 30.000 desaparecidos
 
 ## Contexto
 **24 de marzo de 1976** — una **junta militar** encabezada por el general **Jorge Rafael Videla** derroca a la presidenta **María Estela «Isabelita» Martínez de Perón**. Empieza el llamado **«Proceso de Reorganización Nacional»**, la dictadura más sangrienta de la historia argentina.

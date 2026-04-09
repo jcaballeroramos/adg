@@ -3,7 +3,7 @@ tipo: caso
 estado: borrador
 pais: Líbano
 fecha_inicio: 2019-10-17
-contexto: "Thawra" (revolución) contra la corrupción del establishment político-confesional
+contexto: "\"Thawra\" (revolución) contra la corrupción del establishment político-confesional"
 fuerzas: Policía libanesa + Fuerzas de Seguridad Interior (FSI) + Ejército
 armas:
   - gas lacrimógeno

@@ -9,7 +9,7 @@ victimas_confirmadas: "+377.000 muertos (ONU, directos e indirectos)"
 tags: [yemen, 2011, primavera-arabe, arabia-saudi, coalicion, huthies, krusik, hambruna]
 ---
 
-# Yemen 2011-presente — de la Plaza del Cambio a la catástrofe humanitaria
+# Caso · Yemen 2011-presente — la catástrofe humanitaria
 
 ## Contexto
 **27 de enero de 2011** — inspirados por Túnez y Egipto, miles de yemeníes ocupan la **Plaza del Cambio** (Sahat al-Taghyir) en Saná exigiendo la caída de **Ali Abdullah Saleh**, en el poder desde 1978. La represión con **gas lacrimógeno y munición real** comienza en pocos días.

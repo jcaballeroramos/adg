@@ -10,7 +10,7 @@ mecanismo: Porra (PR-24), patadas, taser, palos de béisbol
 tags: [rodney-king, los-angeles, 1991, taser, lapd, video, disturbios-92]
 ---
 
-# Rodney King — Los Ángeles, 3 de marzo de 1991
+# Caso · Rodney King (Los Ángeles, 1991)
 
 ## El caso
 **3 de marzo de 1991**. **Rodney Glen King** (1965-2012), **conductor afroamericano** de 25 años, es perseguido en su Hyundai por la **California Highway Patrol** y luego por agentes del **Los Angeles Police Department (LAPD)** tras una **persecución a alta velocidad** en la **interestatal 210**.

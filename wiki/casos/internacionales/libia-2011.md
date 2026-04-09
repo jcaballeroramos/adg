@@ -9,7 +9,7 @@ victimas_confirmadas: "Miles (conflicto armado)"
 tags: [libia, 2011, primavera-arabe, gaddafi, gas-lacrimogeno, otan, intervencion]
 ---
 
-# Libia 2011 — de la protesta al conflicto armado
+# Caso · Libia 2011 — de la protesta al conflicto armado
 
 ## Contexto
 **15 de febrero de 2011** — en **Bengasi**, familias de presos políticos desaparecidos en la **masacre de la prisión de Abu Salim (1996)** protestan frente a la comisaría. La policía del régimen de **Muamar el Gaddafi** (en el poder desde 1969) responde con **gas lacrimógeno** y **munición real**.

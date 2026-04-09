@@ -8,7 +8,7 @@ contexto: Invasión rusa y campo de prueba de armamento occidental
 tags: [ucrania, 2022, rusia, invasion, anduril, shield-ai, drones, campo-prueba]
 ---
 
-# Ucrania 2022-presente — el campo de prueba de las nuevas armas
+# Caso · Ucrania 2022-presente — el campo de prueba
 
 ## Contexto
 **24 de febrero de 2022** — **Rusia** lanza la **invasión a gran escala** de Ucrania. Lo que comenzó en **2014** (Crimea y Donbás) se convierte en la **mayor guerra convencional en Europa desde 1945**.
