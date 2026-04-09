@@ -415,10 +415,10 @@ def page_template(note, content_html, sidebar_html, backlinks_html, outlinks_htm
     <a class="brand" href="{up}index.html">Artefactos de Guerra</a>
     <div class="search-box"><input id="search" type="search" placeholder="Buscar…" autocomplete="off"></div>
     <div class="sidebar-tools">
-      <a href="{up}graph.html" title="Grafo">▣ Grafo</a>
-      <a href="{up}timeline.html" title="Timeline">📅 Timeline</a>
-      <a href="{up}map.html" title="Mapa">🌍 Mapa</a>
-      <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐</button>
+      <a href="{up}graph.html">Grafo</a>
+      <a href="{up}timeline.html">Timeline</a>
+      <a href="{up}map.html">Mapa</a>
+      <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◑</button>
     </div>
     <nav class="nav">{sidebar_html}</nav>
   </aside>
@@ -499,19 +499,17 @@ PENDIENTES_LABEL = "✓ Pendientes (auto)"
 
 
 def build_toc(body: str) -> str:
-    """Generate a floating TOC from h2 headings. Only if 5+ headings."""
-    # match h2 and h3 (## Header and ### Sub), skip h1
+    """Generate an inline collapsible TOC from h2 headings. Only if 5+ headings."""
     headings = re.findall(r"^(#{2,3})\s+(.+?)$", body, re.MULTILINE)
     if len(headings) < 5:
         return ""
     items = []
     for lvl, text in headings:
-        # skip "Pendientes" and "Conexiones" which are always at end
         clean = re.sub(r"[`*_]", "", text).strip()
         slug = re.sub(r"[^\w\s-]", "", clean.lower()).strip().replace(" ", "-")
         cls = "toc-h2" if len(lvl) == 2 else "toc-h3"
         items.append(f'<li class="{cls}"><a href="#{slug}">{html.escape(clean)}</a></li>')
-    return f'<aside class="note-toc"><h4>En esta nota</h4><ul>{"".join(items)}</ul></aside>'
+    return f'<details class="note-toc"><summary>Contenido de esta nota</summary><ul>{"".join(items)}</ul></details>'
 
 
 def _pending_chip(note):
@@ -749,12 +747,11 @@ function clearHighlight() {
 }
 function clearFocus() { focused = null; clearHighlight(); }
 
-let stateFilter = '';
 function applyCategoryFilter() {
-  node.style('display', n => (hiddenCats.has(n.category) || (stateFilter && n.estado !== stateFilter)) ? 'none' : null);
+  node.style('display', n => hiddenCats.has(n.category) ? 'none' : null);
   link.style('display', l => {
-    const hideSrc = hiddenCats.has(l.source.category) || (stateFilter && l.source.estado !== stateFilter);
-    const hideTgt = hiddenCats.has(l.target.category) || (stateFilter && l.target.estado !== stateFilter);
+    const hideSrc = hiddenCats.has(l.source.category);
+    const hideTgt = hiddenCats.has(l.target.category);
     return (hideSrc || hideTgt) ? 'none' : null;
   });
 }
@@ -784,18 +781,10 @@ orderedCats.filter(c => categories.includes(c)).forEach(c => {
 document.getElementById('graph-reset').onclick = () => {
   hiddenCats.clear();
   document.querySelectorAll('.legend-btn').forEach(b => b.classList.remove('off'));
-  stateFilter = '';
-  document.getElementById('graph-state-filter').value = '';
   applyCategoryFilter();
   clearFocus();
   sim.alpha(0.8).restart();
 };
-
-// state filter
-document.getElementById('graph-state-filter').addEventListener('change', (e) => {
-  stateFilter = e.target.value;
-  applyCategoryFilter();
-});
 
 // search input — highlights + centers matching nodes
 const searchInput = document.getElementById('graph-search');
@@ -1166,13 +1155,7 @@ def graph_page_html(graph_data):
   <a class="brand" href="index.html">◂ Artefactos de Guerra</a>
   <span class="graph-title">Grafo de conexiones</span>
   <div class="graph-actions">
-    <input id="graph-search" type="search" placeholder="🔍 Buscar nodo…" autocomplete="off" spellcheck="false">
-    <select id="graph-state-filter" title="Filtrar por estado">
-      <option value="">Todos los estados</option>
-      <option value="borrador">Solo borrador</option>
-      <option value="stub">Solo stub</option>
-      <option value="literal">Solo literal</option>
-    </select>
+    <input id="graph-search" type="search" placeholder="Buscar nodo…" autocomplete="off" spellcheck="false">
     <button id="graph-reset" title="Reset">↺ Reset</button>
     <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐ Tema</button>
   </div>
@@ -1376,10 +1359,10 @@ def index_page(tree, notes, sidebar_html):
     <a class="brand" href="index.html">Artefactos de Guerra</a>
     <div class="search-box"><input id="search" type="search" placeholder="Buscar…" autocomplete="off"></div>
     <div class="sidebar-tools">
-      <a href="graph.html" title="Grafo">▣ Grafo</a>
-      <a href="timeline.html" title="Timeline">📅 Timeline</a>
-      <a href="map.html" title="Mapa">🌍 Mapa</a>
-      <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐</button>
+      <a href="graph.html">Grafo</a>
+      <a href="timeline.html">Timeline</a>
+      <a href="map.html">Mapa</a>
+      <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◑</button>
     </div>
     <nav class="nav">{sidebar_rendered}</nav>
   </aside>
@@ -1438,12 +1421,12 @@ CSS = r"""
   --shadow: 0 6px 18px rgba(0,0,0,.08);
 }
 * { box-sizing: border-box; }
-html, body { margin:0; padding:0; background:var(--bg); color:var(--fg); font:16px/1.6 -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif; }
+html, body { margin:0; padding:0; background:var(--bg); color:var(--fg); font: 15px/1.65 -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-.layout { display: grid; grid-template-columns: 280px 1fr; min-height: 100vh; }
-.sidebar { background: var(--bg-panel); border-right: 1px solid var(--border); padding: 22px 16px; position: sticky; top:0; height:100vh; overflow-y:auto; }
+.layout { display: grid; grid-template-columns: 260px 1fr; min-height: 100vh; }
+.sidebar { background: var(--bg-panel); border-right: 1px solid var(--border); padding: 18px 14px; position: sticky; top:0; height:100vh; overflow-y:auto; font-size: 13px; }
 .brand { font-weight:700; font-size:17px; display:block; margin-bottom:18px; color:var(--fg); letter-spacing:.2px; }
 .search-box input { width:100%; padding:9px 12px; background:var(--bg); color:var(--fg); border:1px solid var(--border); border-radius:8px; font-size:14px; }
 .search-box input:focus { outline:none; border-color:var(--accent); }
@@ -1463,8 +1446,11 @@ a:hover { text-decoration: underline; }
 .file-warning a { color: #6e3a00; font-weight: 700; }
 
 /* TOC lateral (notas largas) */
-.note-toc { position: fixed; top: 80px; right: 16px; width: 180px; max-height: calc(100vh - 120px); overflow-y: auto; padding: 10px 12px; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; font-size: 11px; z-index: 4; opacity: 0.85; }
-.note-toc:hover { opacity: 1; }
+.note-toc { margin: 0 0 24px 0; padding: 0; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; font-size: 13px; }
+.note-toc summary { padding: 12px 16px; cursor: pointer; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .4px; color: var(--fg-dim); }
+.note-toc summary:hover { color: var(--accent); }
+.note-toc ul { padding: 0 16px 12px 16px; margin: 0; list-style: none; columns: 2; column-gap: 24px; }
+.note-toc li { break-inside: avoid; padding: 3px 0; }
 .note-toc h4 { margin: 0 0 8px 0; font-size: 10px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); }
 .note-toc ul { list-style: none; margin: 0; padding: 0; }
 .note-toc li { line-height: 1.4; margin: 3px 0; }
@@ -1472,7 +1458,7 @@ a:hover { text-decoration: underline; }
 .note-toc li a:hover { color: var(--accent); }
 .toc-h2 { font-weight: 500; }
 .toc-h3 { padding-left: 12px; font-size: 11px; color: var(--fg-dim); }
-@media (max-width: 1400px) { .note-toc { display: none; } }
+@media (max-width: 600px) { .note-toc ul { columns: 1; } }
 
 /* Timeline visual page */
 .timeline-page { background: var(--bg); color: var(--fg); }
@@ -1565,9 +1551,9 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .source-text { padding: 10px 14px; background: var(--panel-strong); border: 1px solid var(--border); border-radius: 8px; font-size: 13px; word-break: break-all; }
 
 .content { padding: 42px 52px 80px 52px; max-width: 1100px; }
-.note-header { margin-bottom: 26px; border-bottom: 1px solid var(--border); padding-bottom: 16px; }
-.breadcrumb { font-size: 12px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .8px; margin-bottom: 6px; }
-.note-header h1 { margin: 0 0 10px 0; font-size: 30px; line-height: 1.2; letter-spacing: -.3px; }
+.note-header { margin-bottom: 28px; border-bottom: 1px solid var(--border); padding-bottom: 18px; }
+.breadcrumb { font-size: 11px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .6px; margin-bottom: 8px; }
+.note-header h1 { margin: 0 0 10px 0; font-size: 28px; line-height: 1.25; letter-spacing: -.2px; font-weight: 700; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip { display:inline-block; padding:2px 8px; border-radius:10px; background:var(--chip-bg); border:1px solid var(--border); font-size:11px; color:var(--fg-dim); }
 .chip-tipo { background: rgba(232,196,155,0.15); color: var(--fg-dim); border-color: rgba(232,196,155,0.3); }
@@ -1577,15 +1563,16 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .chip-stub { background: rgba(255,138,122,0.15); color: var(--fg-dim); border-color: rgba(255,138,122,0.3); }
 
 .note-body h1 { display:none; }  /* title already rendered in header */
-.note-body h2 { margin-top: 32px; font-size: 22px; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
-.note-body h3 { margin-top: 26px; font-size: 17px; color: #f3e6cf; }
+.note-body h2 { margin-top: 36px; font-size: 20px; border-bottom: 1px solid var(--border); padding-bottom: 6px; color: var(--fg); }
+.note-body h3 { margin-top: 28px; font-size: 16px; color: var(--fg); }
 .note-body h4 { font-size: 14px; color: var(--fg-dim); text-transform: uppercase; letter-spacing:.6px; }
-.note-body blockquote { border-left: 3px solid var(--accent); padding: 2px 16px; color:#cfcbc1; background:#17181d; margin-left:0; border-radius: 0 8px 8px 0; }
+.note-body blockquote { border-left: 3px solid var(--accent); padding: 8px 16px; color: var(--fg-dim); background: var(--bg-hover); margin: 16px 0; margin-left: 0; border-radius: 0 8px 8px 0; }
 .note-body code { background:var(--bg-hover); padding:2px 6px; border-radius:4px; font-size:.9em; }
 .note-body pre { background:var(--bg); padding:14px; border-radius:8px; overflow:auto; border:1px solid var(--border); }
-.note-body table { border-collapse: collapse; width: 100%; margin: 14px 0; }
-.note-body th, .note-body td { border: 1px solid var(--border); padding: 8px 10px; text-align: left; }
-.note-body th { background:var(--bg-hover); }
+.note-body table { border-collapse: collapse; width: 100%; margin: 18px 0; font-size: 14px; }
+.note-body th, .note-body td { border: 1px solid var(--border); padding: 10px 12px; text-align: left; vertical-align: top; }
+.note-body th { background: var(--bg-hover); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .3px; }
+.note-body td { line-height: 1.5; }
 .note-body ul, .note-body ol { padding-left: 22px; }
 .note-body a.wikilink { color: var(--accent); border-bottom:1px dashed var(--fg-dim); }
 .note-body a.wikilink.broken, .note-body .wikilink.broken { color: #c0392b; border-bottom:1px dashed #c0392b; cursor:help; }
