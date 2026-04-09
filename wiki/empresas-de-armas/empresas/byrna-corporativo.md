@@ -10,7 +10,6 @@ tags: [byrna, eeuu, argentina, defensa-personal, mission-4, niños, normalizaci�
 
 # Byrna Technologies — perfil corporativo
 
-> 🚧 **Stub corporativo** — los productos específicos están en [[../feindef/03-byrna]] y [[../publicidad/byrna-bad-guy-repellent]]. Ver [[../../BACKLOG]].
 
 Empresa **estadounidense** (con presencia comercial en Argentina) especializada en **lanzadores de aire comprimido y proyectiles "menos letales"** para el mercado de **defensa personal civil**. Es **el caso más radical** de **normalización doméstica** del armamento "menos letal".
 

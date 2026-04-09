@@ -73,4 +73,4 @@ Organización **sin fines de lucro registrada en Inglaterra y Gales** (1990). Es
 - ↔ [[stop-bales-de-goma]].
 - ↔ [[../../marco-legal/onu-orientaciones-2020]] — la ONU cita a Omega Research Foundation.
 - ↔ [[../../marco-legal/amnistia-internacional]] — Omega es socio histórico.
-- ↔ [[mapa-ferias-armas-omega]] — Omega también mantiene el mapa mundial de ferias de armas.
+- ↔ [[../../herramientas/mapa-omega-ferias-armas]] — Omega también mantiene el mapa mundial de ferias de armas.

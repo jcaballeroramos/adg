@@ -20,7 +20,6 @@ tags: [falken, españa, etienne-lacroix, pirotecnia, granadas-gas, feindef-2025,
 
 # Falken S.A.
 
-> 🚧 **Stub expandido** — datos básicos completos, pendiente análisis crítico y casos. Ver [[../../BACKLOG]].
 
 Empresa **española** fundada el **24 de noviembre de 1981**, especializada en **productos de pirotecnia no letales** para usos policiales y militares. Desde **2020 forma parte del grupo francés Etienne Lacroix**.
 

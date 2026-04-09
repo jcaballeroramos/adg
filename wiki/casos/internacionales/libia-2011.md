@@ -47,11 +47,9 @@ Pero a diferencia de casos como Bahréin o Egipto, **el gas lacrimógeno duró m
 - **Desintegración del Estado** — guerra civil prolongada hasta hoy.
 - **Armamento libio** (incluyendo **stocks lacrimógenos** y munición) **disperso** por todo el Sahel — llegó a **Mali, Níger, Chad, Nigeria** alimentando insurgencias.
 - **Éxodo masivo** de migrantes hacia Europa — ruta central del Mediterráneo.
-- **Lampedusa** (Italia) recibe miles de llegadas → ver [[lampedusa-naufragios]].
 
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[tunez-2011]] · [[egipto-tahrir-2011]] · [[bahrein-2011]] · [[siria-2011]] — Primavera Árabe.
-- ↔ [[../../empresas-de-armas/empresas/ruag-ammotec]] — suministros europeos previos.
+- ↔ [[../../empresas-de-armas/empresas/rheinmetall]] — suministros europeos previos.
 - ↔ [[../../empresas-de-armas/empresas/krusik-serbia]] — granadas balcánicas documentadas.
-- ↔ [[lampedusa-naufragios]] — consecuencia migratoria.

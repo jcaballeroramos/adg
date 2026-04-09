@@ -12,7 +12,6 @@ tags: [fn-herstal, belgica, valonia, browning, smart-protector, evolys, hiper, l
 
 # FN Herstal — perfil corporativo
 
-> 🚧 **Stub corporativo** — la ficha del producto FN Smart Protector está en [[../feindef/04-fn-smart-protector]]. Ver [[../../BACKLOG]].
 
 Fabricante **belga** de armas de fuego y armas menos letales. Fundada en **1889**. Propiedad del **FN Browning Group**, a su vez **propiedad del gobierno regional de Valonia** (Bélgica). Una de las **15 empresas dominantes** del sector menos letal mundial.
 

@@ -37,15 +37,15 @@ El escándalo fue tan grande que **Alliot-Marie tuvo que dimitir** semanas despu
 ## Por qué importa para el documental
 - **Túnez es el inicio de la ola global 2010-2020** que analiza [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista|Paul Rocher]].
 - **Primer uso masivo de gas lacrimógeno** documentado en la Primavera Árabe.
-- **Francia** aparece **explícitamente** ofreciendo sus técnicas policiales — cierra el círculo con [[francia-2018-2019-chalecos-amarillos]].
+- **Francia** aparece **explícitamente** ofreciendo sus técnicas policiales — cierra el círculo con [[../../autores-y-referencias/david-dufresne]].
 - **Combined Systems** (EE.UU.) inicia aquí el rastro que seguirá en Egipto, Bahréin, Turquía, etc.
 - **Los tunecinos derrocaron la dictadura** — único caso "exitoso" de la Primavera Árabe.
 
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[egipto-tahrir-2011]] · [[bahrein-2011]] · [[libia-2011]] · [[siria-2011]] — resto de la Primavera Árabe.
-- ↔ [[francia-2018-2019-chalecos-amarillos]] — la frase de Alliot-Marie conecta ambos casos.
-- ↔ [[../../empresas-de-armas/empresas/cac-systems]] — proveedor francés histórico.
+- ↔ [[../../autores-y-referencias/david-dufresne]] — la frase de Alliot-Marie conecta ambos casos.
+- ↔ [[../../empresas-de-armas/empresas/alsetex]] — proveedor francés histórico.
 - ↔ [[../../empresas-de-armas/empresas/combined-systems]].
 - ↔ [[../../historia/cronologia-completa]] — 17 dic 2010 / 14 ene 2011.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sitúa el inicio de la ola aquí.

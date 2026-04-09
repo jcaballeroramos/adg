@@ -39,7 +39,7 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 - Aerosoles, municiones irritantes, granadas de destello, granadas de picadura, proyectiles, lanzadoras.
 - Sistema **VENOM** (multiplicador de fuerza). Subsidiarias: CTS y Penn Arms.
 - **Casos documentados**: usado en Bolivia, Chile, Ecuador, Guatemala, México, Venezuela. Vinculada a casos de corrupción en Bolivia. Suministra armamento muchas veces caducado a LATAM.
-- → ver [[../../casos/latam-compilacion]] y [[../../casos/intermediarios-latam]].
+- → ver [[../../casos/latam/00-compilacion-latam]] y [[../../casos/intermediarios-latam]].
 - → ya descrito en [[../feindef/02-cts-venom]].
 
 ### PepperBall Technologies
@@ -133,7 +133,7 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 - Fundada en **1985**. Líder global en armamento no letal. Presencia en **+80 países**. Considerada **estratégica por el gobierno brasileño**.
 - Casos: Sudán 2021, Bahréin 2011, Brasil (Recife 2021), Chile (Fabiola Campillai), Colombia, Venezuela.
 - **Expulsada de DSEI 2019** (UK) por promocionar el arma 'Spark', prohibida en UK/UE.
-- → ver [[../../casos/latam-compilacion]].
+- → ver [[../../casos/latam/00-compilacion-latam]].
 
 ## Canadá
 
@@ -148,7 +148,7 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 - Casos clave: Venezuela (contrato 500 M$ en 2012). La bomba que mató a Juan Pablo Pernalete era Norinco.
 
 ## Conexiones
-- ↔ [[../../casos/latam-compilacion]] — casos LATAM por país.
+- ↔ [[../../casos/latam/00-compilacion-latam]] — casos LATAM por país.
 - ↔ [[../../casos/intermediarios-latam]] — empresas intermediarias en cada país.
 - ↔ [[../../casos/transferencias-cross-country]] — préstamos de armas entre países.
 - ↔ [[../feindef/00-overview]] — quién expone en FEINDEF.

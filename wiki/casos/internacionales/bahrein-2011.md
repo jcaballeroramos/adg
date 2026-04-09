@@ -60,5 +60,5 @@ A diferencia de Egipto y Túnez, Bahréin fue **casi completamente ignorada** po
 - ↔ [[00-indice]]
 - ↔ [[egipto-tahrir-2011]] · [[tunez-2011]] · [[libia-2011]] · [[siria-2011]] · [[libano-thawra-2019]] — contexto Primavera Árabe.
 - ↔ [[../../empresas-de-armas/empresas/combined-systems]] · [[../../empresas-de-armas/empresas/nonlethal-technologies]] — fabricantes identificados.
-- ↔ [[../../marco-legal/bibliografia/phr-bahrein-2012]] — el informe PHR.
+- ↔ [[../../autores-y-referencias/rohini-haar]] — el informe PHR.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita Bahréin como ejemplo clave.

@@ -1530,7 +1530,7 @@ a:hover { text-decoration: underline; }
 #map-tooltip { display: none; position: absolute; pointer-events: none; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 8px 12px; font-size: 12px; color: var(--fg); z-index: 100; max-width: 280px; box-shadow: var(--shadow); }
 #map-tooltip .tt-country { color: var(--fg-dim); font-size: 11px; }
 .nav-subgroup { margin: 4px 0 4px 6px; padding-left: 8px; border-left: 1px solid var(--border); }
-.nav-subgroup summary { cursor: pointer; font-weight:500; color:#c4b8a8; padding:4px 4px; font-size:11px; text-transform: uppercase; letter-spacing:.4px; }
+.nav-subgroup summary { cursor: pointer; font-weight:500; color:var(--fg-dim); padding:4px 4px; font-size:11px; text-transform: uppercase; letter-spacing:.4px; }
 .nav-subgroup ul { padding-left: 6px; }
 .nav-direct { margin-bottom: 4px; }
 .home-subcat { margin: 14px 0 6px 0; font-size: 12px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); font-weight: 600; }

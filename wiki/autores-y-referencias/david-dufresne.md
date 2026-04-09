@@ -36,7 +36,7 @@ Cada caso era publicado como un **hilo en Twitter** con foto, vídeo, fecha, ubi
 - **Modelo replicable** para Cataluña, Chile, Colombia, etc.: si Stop Bales y Iridia son la versión catalana, Dufresne es la versión francesa, **en escala mucho mayor**.
 
 ## Conexiones
-- ↔ [[../casos/internacionales/francia-2018-2019-chalecos-amarillos]]
+- ↔ [[../casos/remi-fraisse]]
 - ↔ [[paul-rocher/paul-rocher-entrevista]] — antecedente y compañero de generación.
 - ↔ [[organizaciones/stop-bales-de-goma]] — paralelismo metodológico.
 - ↔ [[organizaciones/iridia]] — paralelismo en Cataluña.

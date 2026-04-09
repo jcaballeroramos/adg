@@ -10,7 +10,6 @@ tags: [anna-montull-garcia, centre-delas, investigadora, ddhh]
 
 # Anna Montull García
 
-> ⚠️ **Stub** — pendiente de desarrollo completo. Esta nota existe para asegurar trazabilidad. Ver [[../BACKLOG]].
 
 Investigadora del **Centre Delàs d'Estudis per la Pau**, especializada en industria de defensa, derechos humanos y armas no letales. Coautora del informe **"Armas potencialmente letales. Sobre cómo militarizar el espacio público y traumatizar los cuerpos"** del Centre Delàs.
 
