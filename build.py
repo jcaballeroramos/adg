@@ -1335,9 +1335,7 @@ def index_page(tree, notes, sidebar_html):
     def render_items(note_list):
         items = []
         for n in sorted(note_list, key=lambda x: x["title"].lower()):
-            estado = n["frontmatter"].get("estado", "")
-            chip = f'<span class="chip chip-estado chip-{html.escape(str(estado))}">{html.escape(str(estado))}</span>' if estado else ""
-            items.append(f'<li><a href="{n["slug"]}.html">{html.escape(n["title"])}</a> {chip}</li>')
+            items.append(f'<li><a href="{n["slug"]}.html">{html.escape(n["title"])}</a></li>')
         return "".join(items)
 
     cards_html = []
@@ -1571,11 +1569,11 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .note-header h1 { margin: 0 0 10px 0; font-size: 30px; line-height: 1.2; letter-spacing: -.3px; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip { display:inline-block; padding:2px 8px; border-radius:10px; background:var(--chip-bg); border:1px solid var(--border); font-size:11px; color:var(--fg-dim); }
-.chip-tipo { background:#2b2118; color:#e8c49b; border-color:#4a3821; }
+.chip-tipo { background: rgba(232,196,155,0.15); color: var(--fg-dim); border-color: rgba(232,196,155,0.3); }
 .chip-estado { font-weight:600; }
-.chip-borrador { background:#2a220b; color:#f1c460; border-color:#524014; }
-.chip-literal { background:#0f2a1a; color:#77d491; border-color:#205032; }
-.chip-stub { background:#2a0e0e; color:#ff8a7a; border-color:#5a1f1f; }
+.chip-borrador { background: rgba(241,196,96,0.15); color: var(--fg-dim); border-color: rgba(241,196,96,0.3); }
+.chip-literal { background: rgba(119,212,145,0.15); color: var(--fg-dim); border-color: rgba(119,212,145,0.3); }
+.chip-stub { background: rgba(255,138,122,0.15); color: var(--fg-dim); border-color: rgba(255,138,122,0.3); }
 
 .note-body h1 { display:none; }  /* title already rendered in header */
 .note-body h2 { margin-top: 32px; font-size: 22px; border-bottom: 1px solid var(--border); padding-bottom: 5px; }
@@ -1588,8 +1586,8 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .note-body th, .note-body td { border: 1px solid var(--border); padding: 8px 10px; text-align: left; }
 .note-body th { background:var(--bg-hover); }
 .note-body ul, .note-body ol { padding-left: 22px; }
-.note-body a.wikilink { color:#f6c187; border-bottom:1px dashed #8a6842; }
-.note-body a.wikilink.broken, .note-body .wikilink.broken { color:#ff8c8c; border-bottom:1px dashed #8a3a3a; cursor:help; }
+.note-body a.wikilink { color: var(--accent); border-bottom:1px dashed var(--fg-dim); }
+.note-body a.wikilink.broken, .note-body .wikilink.broken { color: #c0392b; border-bottom:1px dashed #c0392b; cursor:help; }
 
 /* legacy .sources rule — replaced by embed-aware version below */
 
