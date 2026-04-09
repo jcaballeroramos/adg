@@ -81,8 +81,26 @@ Tras la presión sostenida de [[../autores-y-referencias/organizaciones/iridia|I
 - **Identificación visible** y obligatoria del NOP (Número de Operativo Policial).
 - **Responsabilidad de la cadena de mando**, no solo del agente individual.
 
+## Opinión pública en Catalunya sobre despesa militar
+Según datos del **Parlament de Catalunya** (https://www.parlament.cat/document/dspcp/429052452.pdf):
+
+> *«El 57,9% de la ciutadania veu amb preocupació l'augment de la despesa militar. La majoria considera que es destinen massa recursos en defensa i només un 5% donaria suport a incrementar aquest pressupost.»*
+
+Este dato refuerza que la **prohibición de 2014** tenía un apoyo social real y que la percepción catalana sobre armamento es **significativamente más crítica** que la media estatal.
+
+## Víctimas del foam SIR-X (Proces octubre 2019)
+Durante las protestas de octubre 2019 tras la sentencia del Procés:
+- La **Policía Nacional** usó balas de goma.
+- Los **Mossos d'Esquadra** usaron **proyectiles de foam SIR-X**.
+- **Al menos 4 personas** perdieron la visión de un ojo: [[../casos/roger-garcia-foam-2019|Roger García]], [[../casos/abdelillah-foam-2019|Abdelillah]], y al menos 2 más.
+- **Al menos 2 personas** sufrieron traumatismos craneoencefálicos graves.
+- **El protocolo de uso no respetaba las indicaciones del fabricante** del proyectil (ver investigación de [[../autores-y-referencias/organizaciones/iridia|Irídia]]: https://iridia.cat/es/el-protocol-dus-dels-projectils-de-foam-no-respecta-les-indicacions-del-fabricant-de-larma/).
+
+## Instrucciones oficiales de los Mossos
+Ver [[mossos-instrucciones-armamento]] para las 3 instrucciones oficiales (16/2013, 11/2014, 4/2018) y sus lagunas críticas.
+
 ## Conexiones
-- ↔ Casos: [[../casos/inigo-cabacas]], [[../casos/ester-quintana]], [[../casos/carles-guillot]], [[../casos/roger-espanol]], [[../casos/africa-pablo-hasel]], [[../casos/olga-proces]], [[../casos/antonio-c-badalona]], [[../casos/melilla-2022]].
+- ↔ Casos: [[../casos/inigo-cabacas]], [[../casos/ester-quintana]], [[../casos/carles-guillot]], [[../casos/roger-espanol]], [[../casos/africa-pablo-hasel]], [[../casos/olga-proces]], [[../casos/antonio-c-badalona]], [[../casos/melilla-2022]], [[../casos/roger-garcia-foam-2019]], [[../casos/abdelillah-foam-2019]].
 - ↔ [[../casos/compilacion-espana]] — datos agregados.
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la pieza médica clave del proceso.
 - ↔ [[../autores-y-referencias/organizaciones/stop-bales-de-goma]], [[../autores-y-referencias/organizaciones/iridia]], [[../autores-y-referencias/organizaciones/novact]].
