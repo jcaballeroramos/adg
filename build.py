@@ -365,12 +365,6 @@ def page_template(note, content_html, sidebar_html, backlinks_html, outlinks_htm
     meta_chips = []
     if fm.get("tipo"):
         meta_chips.append(f'<span class="chip chip-tipo">{html.escape(str(fm["tipo"]))}</span>')
-    if fm.get("estado"):
-        meta_chips.append(f'<span class="chip chip-estado chip-{html.escape(str(fm["estado"]))}">{html.escape(str(fm["estado"]))}</span>')
-    tags = fm.get("tags") or []
-    if isinstance(tags, list):
-        for t in tags:
-            meta_chips.append(f'<span class="chip chip-tag">#{html.escape(str(t))}</span>')
 
     sources_html = ""
     fuentes = fm.get("fuentes") or fm.get("fuente") or []
@@ -420,11 +414,13 @@ def page_template(note, content_html, sidebar_html, backlinks_html, outlinks_htm
   <aside class="sidebar">
     <a class="brand" href="{up}index.html">Artefactos de Guerra</a>
     <div class="search-box"><input id="search" type="search" placeholder="Buscar…" autocomplete="off"></div>
-    <nav class="nav">{sidebar_html}</nav>
-    <div class="sidebar-footer">
-      <a class="graph-link" href="{up}graph.html">▣ Grafo de conexiones</a>
-      <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐ Tema</button>
+    <div class="sidebar-tools">
+      <a href="{up}graph.html" title="Grafo">▣ Grafo</a>
+      <a href="{up}timeline.html" title="Timeline">📅 Timeline</a>
+      <a href="{up}map.html" title="Mapa">🌍 Mapa</a>
+      <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐</button>
     </div>
+    <nav class="nav">{sidebar_html}</nav>
   </aside>
   <main class="content">
     <header class="note-header">
@@ -1379,17 +1375,19 @@ def index_page(tree, notes, sidebar_html):
   <aside class="sidebar">
     <a class="brand" href="index.html">Artefactos de Guerra</a>
     <div class="search-box"><input id="search" type="search" placeholder="Buscar…" autocomplete="off"></div>
-    <nav class="nav">{sidebar_rendered}</nav>
-    <div class="sidebar-footer">
-      <a class="graph-link" href="graph.html">▣ Grafo de conexiones</a>
-      <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐ Tema</button>
+    <div class="sidebar-tools">
+      <a href="graph.html" title="Grafo">▣ Grafo</a>
+      <a href="timeline.html" title="Timeline">📅 Timeline</a>
+      <a href="map.html" title="Mapa">🌍 Mapa</a>
+      <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐</button>
     </div>
+    <nav class="nav">{sidebar_rendered}</nav>
   </aside>
   <main class="content">
     <header class="home-header">
       <h1>Artefactos de Guerra</h1>
       <p class="tagline">Vademécum de investigación — una película de Jorge Caballero.</p>
-      <div class="stats"><span>{stats['total']} notas</span> · <span>{stats['categorias']} categorías</span> · <span>{stats['casos']} casos</span> · <span>{stats['empresas']} fichas de industria</span> · <span>{stats['pendientes']} pendientes abiertos</span></div>
+      <div class="stats"><span>{stats['total']} notas</span> · <span>{stats['categorias']} categorías</span> · <span>{stats['casos']} casos</span> · <span>{stats['empresas']} fichas de industria</span></div>
       <div class="home-cta">
         <a class="cta-btn primary" href="timeline.html">📅 Cronología visual 1850 → 2026</a>
         <a class="cta-btn" href="map.html">🌍 Mapa mundial de casos</a>
@@ -1465,7 +1463,8 @@ a:hover { text-decoration: underline; }
 .file-warning a { color: #6e3a00; font-weight: 700; }
 
 /* TOC lateral (notas largas) */
-.note-toc { position: fixed; top: 120px; right: 30px; width: 220px; max-height: calc(100vh - 160px); overflow-y: auto; padding: 14px 16px; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 10px; font-size: 12px; z-index: 4; }
+.note-toc { position: fixed; top: 80px; right: 16px; width: 180px; max-height: calc(100vh - 120px); overflow-y: auto; padding: 10px 12px; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; font-size: 11px; z-index: 4; opacity: 0.85; }
+.note-toc:hover { opacity: 1; }
 .note-toc h4 { margin: 0 0 8px 0; font-size: 10px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); }
 .note-toc ul { list-style: none; margin: 0; padding: 0; }
 .note-toc li { line-height: 1.4; margin: 3px 0; }
@@ -1534,8 +1533,10 @@ a:hover { text-decoration: underline; }
 .home-subcat { margin: 14px 0 6px 0; font-size: 12px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); font-weight: 600; }
 .graph-link { display:block; margin-top:14px; padding:10px 12px; background:var(--bg-hover); border:1px solid var(--border); border-radius:8px; font-size:13px; text-align:center; color:var(--fg); }
 .graph-link:hover { border-color:var(--accent); text-decoration:none; }
-.sidebar-footer { margin-top: 14px; display: flex; flex-direction: column; gap: 8px; }
-.theme-toggle { padding: 8px 12px; background: var(--bg-hover); border: 1px solid var(--border); border-radius: 8px; font-size: 12px; color: var(--fg); cursor: pointer; }
+.sidebar-tools { display: flex; gap: 6px; margin: 10px 0; flex-wrap: wrap; }
+.sidebar-tools a, .sidebar-tools button { flex: 1; min-width: 0; padding: 7px 4px; background: var(--bg-hover); border: 1px solid var(--border); border-radius: 6px; font-size: 11px; text-align: center; color: var(--fg); cursor: pointer; text-decoration: none; white-space: nowrap; }
+.sidebar-tools a:hover, .sidebar-tools button:hover { border-color: var(--accent); color: var(--accent); }
+.theme-toggle { padding: 7px 4px; background: var(--bg-hover); border: 1px solid var(--border); border-radius: 6px; font-size: 12px; color: var(--fg); cursor: pointer; }
 .theme-toggle:hover { border-color: var(--accent); }
 
 /* Sticky audio player */
@@ -1563,7 +1564,7 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .source-link { font-size: 12px; color: var(--fg-dim); word-break: break-all; margin-top: 4px; }
 .source-text { padding: 10px 14px; background: var(--panel-strong); border: 1px solid var(--border); border-radius: 8px; font-size: 13px; word-break: break-all; }
 
-.content { padding: 42px 52px 80px 52px; max-width: 880px; }
+.content { padding: 42px 52px 80px 52px; max-width: 1100px; }
 .note-header { margin-bottom: 26px; border-bottom: 1px solid var(--border); padding-bottom: 16px; }
 .breadcrumb { font-size: 12px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .8px; margin-bottom: 6px; }
 .note-header h1 { margin: 0 0 10px 0; font-size: 30px; line-height: 1.2; letter-spacing: -.3px; }

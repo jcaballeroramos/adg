@@ -58,6 +58,33 @@ Ver [[bibliografia/iridia-transparencia-cossos-seguretat]] y [[bibliografia/tran
 Los Mossos han centralizado la documentación pública en:
 https://mossos.gencat.cat/ca/els_mossos_desquadra/Eines-policials/us-darmes-i-eines-policials/
 
+## Comissió d'Interior i Seguretat Pública del Parlament (4 feb 2026)
+**Sessió ordinària** de la Comissió d'Interior i Seguretat Pública del Parlament de Catalunya, 4 de febrero de 2026. Vídeo disponible en Canal Parlament:
+https://www.parlament.cat/ext/f?p=700:15:0:::15:P15_ID_VIDEO,P15_ID_AGRUPACIO:16852750,17489
+
+Esta sesión es relevante porque aborda directamente el uso de armas y herramientas policiales por parte de los Mossos, incluyendo los debates sobre los protocolos vigentes y su cumplimiento.
+
+## Catálogo completo de armas y herramientas (Instrucció 16/2013)
+Según el texto oficial actualizado (última revisión **28 mayo 2025**), las armas y herramientas reguladas son:
+
+| # | Arma / herramienta | Sección |
+|---|---|---|
+| 3.1 | **Defensa o bastó policial** | Porra reglamentaria |
+| 3.2 | **Defensa o bastó extensible** | Porra telescópica (tipo ASP) |
+| 3.3 | **Defensa elèctrica** | Porra eléctrica de contacto |
+| 3.4 | **Esprais de defensa personal** | Spray pimienta OC |
+| 3.5 | **Manilles i brides** | Esposas metálicas, bridas, cintas de contención, casco para detenidos |
+| 3.6 | **Artefactes lacrimògens, fumígens i esprais OC** | Gas lacrimógeno CS, humo |
+| 3.7 | **Armes de impulsió i projecció** | Lanzadoras de pelotas de caucho, botes lacrimógenos y fumígenos |
+| 3.8 | **Granades stun** | Granadas de aturdimiento (luz + sonido) |
+| 3.9 | **Camions llançadors d'aigua** | Cañones de agua — incorporados vía Instruccions 8/2012 y 10/2012 |
+
+**Incorporaciones posteriores** (Instrucció 11/2014):
+- **Dispositiu acústic de llarg abast (LRAD)** — incorporado como respuesta a la Resolución 476/X del Parlament que ordenó la retirada de las pelotas de goma antes del 30 de abril de 2014.
+
+**Incorporaciones posteriores** (Instrucció 4/2018):
+- **Dispositius conductors d'energia (DCE)** — pistolas eléctricas tipo Taser. Solo para situaciones de «riesgo grave e inminente».
+
 ## Por qué importa para el documental
 - **Textos oficiales** a los que se puede citar directamente.
 - **Contradicción** entre el marco oficial y la práctica documentada en los casos (Áfrika, Roger García, Abdelillah, Olga).
