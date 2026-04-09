@@ -154,6 +154,7 @@
 ### Paul Rocher
 - [Ficha del autor](autores-y-referencias/paul-rocher/paul-rocher.md) — economista, autor de *Gazer, mutiler, soumettre*. Tesis: las armas "no letales" no sustituyeron, amplificaron.
 - [Entrevista íntegra + "Lo que me interesa más"](autores-y-referencias/paul-rocher/paul-rocher-entrevista.md) — transcripción literal en inglés (≈52 min, **audio incluido**) + selección de pasajes traducidos al castellano.
+- [*Qué hace la policía y cómo vivir sin ella*](autores-y-referencias/paul-rocher/paul-rocher-que-hace-la-policia.md) — resumen completo del segundo libro de Rocher (Katakrak 2023): forma policía, orden sin policía, datos Francia, Sudáfrica, Irlanda del Norte.
 
 ### Otras autoras
 - [Anna Montull García](autores-y-referencias/anna-montull-garcia.md) — Centre Delàs d'Estudis per la Pau.

@@ -4,7 +4,8 @@ estado: borrador
 nombre: Paul Rocher
 disciplina: Economista
 libros_clave:
-  - "Gazer, mutiler, soumettre — Politique de l'arme non létale"
+  - "Gazer, mutiler, soumettre — Politique de l'arme non létale (2020)"
+  - "Que fait la police, et comment s'en passer (2022)"
 entrevista: 2022-05-22
 audio: media/audio/Paul_Rocher_220522.m4a
 tags: [paul-rocher, economista, armas-no-letales, neoliberalismo, francia, autor]
@@ -82,7 +83,12 @@ Punto que Rocher no conocía y descubrió en esta entrevista: en países como Co
 - ↔ [[../marco-legal/onu-relatora-tortura]] — Rocher da el marco económico-político que la Relatora da en clave de derechos.
 - ↔ [[../historia/armas-quimicas]], [[../historia/balas-goma]], [[../historia/armas-acusticas]] — su libro es fuente primaria para estos arcos.
 
+## Obras
+- 📕 **Libro 1** — *Gasear, mutilar, someter: la política de las armas no letales* (Katakrak, 2021). Análisis de las armas «menos letales» como tecnología represiva.
+- 📗 **Libro 2** — [[paul-rocher-que-hace-la-policia|*Qué hace la policía y cómo vivir sin ella*]] (Katakrak, 2023). Análisis de la policía como forma social capitalista + alternativas. **Ficha completa con todo el contenido del libro.**
+
 ## Material disponible
 - 🎧 **Audio (M4A / AAC 128 kbps):** `media/audio/Paul_Rocher_220522.m4a` — 41 MB, ~52 min, calidad voz perfecta
 - 📄 **Transcripción completa:** [[paul-rocher-entrevista]]
-- 📘 **Notas del libro:** integradas en la sección "Lo que me interesa más" de [[paul-rocher-entrevista]]
+- 📘 **Notas del libro 1:** integradas en la sección "Lo que me interesa más" de [[paul-rocher-entrevista]]
+- 📘 **Ficha del libro 2:** [[paul-rocher-que-hace-la-policia]] — resumen completo con datos, citas y conexiones
