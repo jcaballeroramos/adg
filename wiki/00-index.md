@@ -2,7 +2,7 @@
 
 > Mapa navegable de toda la wiki. Cada entrada lleva una línea de gancho.
 >
-> 📅 **Cronología visual 1850-2026** (`site/timeline.html`) · 🌍 **Mapa mundial** (`site/map.html`) · ▣ **Grafo de conexiones** (`site/graph.html`) · 📊 **[Impacto agregado](casos/impacto-agregado.md)** · 📜 **[Listado histórico de víctimas](casos/stop-bales-listado-historico.md)**
+> 📅 **Cronología visual 1850-2026** (`site/timeline.html`) · 🌍 **Mapa mundial** (`site/map.html`) · ▣ **Grafo de conexiones** (`site/graph.html`) · 📊 **[Impacto agregado](casos/espana-europa/impacto-agregado.md)** · 📜 **[Listado histórico de víctimas](casos/espana-europa/stop-bales-listado-historico.md)**
 >
 > 📋 **[Ver pendientes auto-generados](00-pendientes.md)** — todos los `## Pendientes` de todas las notas, agregados automáticamente en cada build.
 >
@@ -85,7 +85,7 @@
 ## Casos
 
 ### Compilación general
-- [**Impacto agregado — todas las cifras**](casos/impacto-agregado.md) — dashboard curado de muertes, heridos, ojos perdidos, por país y periodo.
+- [**Impacto agregado — todas las cifras**](casos/espana-europa/impacto-agregado.md) — dashboard curado de muertes, heridos, ojos perdidos, por país y periodo.
 - [Compilación España — cifras agregadas](casos/compilacion-espana.md) — fuente única de datos del documental para España.
 
 ### Casos catalanes / españoles

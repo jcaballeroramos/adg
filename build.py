@@ -466,7 +466,8 @@ CATEGORY_LABELS = {
     "entrenamientos": "Entrenamientos",
     "paul-rocher": "Paul Rocher",
     "organizaciones": "Organizaciones",
-    "oftalmologa-estrella-fernandez": "Dra. Estrella Fernández",
+    "testimonios": "Testimonios",
+    "espana-europa": "España y Europa",
     "empresas": "Empresas",
     "latam": "América Latina",
     "internacionales": "Internacionales",
@@ -488,11 +489,11 @@ CATEGORY_ORDER = [
 
 # Sub-category ordering (narrativamente, no alfabético)
 SUBCAT_ORDER = {
-    "casos": ["internacionales", "latam", "oftalmologa-estrella-fernandez"],
+    "casos": ["espana-europa", "internacionales", "latam"],
+    "autores-y-referencias": ["paul-rocher", "testimonios", "figuras-historicas", "organizaciones"],
     "empresas-de-armas": ["empresas", "publicidad", "renders"],
     "ferias-de-armas": ["feindef"],
     "usos-de-armas": ["entrenamientos", "testimonios"],
-    "autores-y-referencias": ["paul-rocher", "figuras-historicas", "organizaciones"],
     "marco-legal": ["bibliografia"],
 }
 PENDIENTES_LABEL = "✓ Pendientes (auto)"
@@ -967,29 +968,29 @@ def timeline_page_html(crono_note, all_slugs, link_map):
 # Country positions [lng, lat] for the world map (curated)
 COUNTRY_DATA = [
     # España
-    {"slug": "casos/inigo-cabacas", "title": "Iñigo Cabacas (Bilbao 2012)", "country": "España", "lng": -2.9253, "lat": 43.2630, "type": "muerto", "year": 2012},
-    {"slug": "casos/ester-quintana", "title": "Ester Quintana (Barcelona 2012)", "country": "España", "lng": 2.1734, "lat": 41.3851, "type": "ojo", "year": 2012},
-    {"slug": "casos/juan-andres-benitez", "title": "Juan Andrés Benítez (Raval 2013)", "country": "España", "lng": 2.1700, "lat": 41.3793, "type": "muerto", "year": 2013},
-    {"slug": "casos/roger-espanol", "title": "Roger Español (1-O 2017)", "country": "España", "lng": 2.1850, "lat": 41.4030, "type": "ojo", "year": 2017},
-    {"slug": "casos/africa-pablo-hasel", "title": "África (Pablo Hasél 2021)", "country": "España", "lng": 2.1734, "lat": 41.3851, "type": "ojo", "year": 2021},
-    {"slug": "casos/olga-proces", "title": "Olga (Procés 2019)", "country": "España", "lng": 2.1734, "lat": 41.3851, "type": "lesion", "year": 2019},
-    {"slug": "casos/antonio-c-badalona", "title": "Antonio C. (Badalona 2021, taser)", "country": "España", "lng": 2.2454, "lat": 41.4500, "type": "muerto", "year": 2021},
-    {"slug": "casos/carles-guillot", "title": "Carles Guillot", "country": "España", "lng": 2.1734, "lat": 41.3851, "type": "ojo", "year": 2010},
-    {"slug": "casos/tarajal-2014", "title": "Tarajal — 14 muertos (2014)", "country": "España", "lng": -5.3625, "lat": 35.8894, "type": "masacre", "year": 2014},
-    {"slug": "casos/roger-garcia-foam-2019", "title": "Roger García (Proces 2019, foam)", "country": "España", "lng": 2.1750, "lat": 41.3880, "type": "ojo", "year": 2019},
-    {"slug": "casos/abdelillah-foam-2019", "title": "Abdelillah (Proces 2019, foam)", "country": "España", "lng": 2.1780, "lat": 41.3860, "type": "ojo", "year": 2019},
-    {"slug": "casos/melilla-2022", "title": "Melilla — 37 muertos (2022)", "country": "España", "lng": -2.9381, "lat": 35.2923, "type": "masacre", "year": 2022},
+    {"slug": "casos/espana-europa/inigo-cabacas", "title": "Iñigo Cabacas (Bilbao 2012)", "country": "España", "lng": -2.9253, "lat": 43.2630, "type": "muerto", "year": 2012},
+    {"slug": "casos/espana-europa/ester-quintana", "title": "Ester Quintana (Barcelona 2012)", "country": "España", "lng": 2.1734, "lat": 41.3851, "type": "ojo", "year": 2012},
+    {"slug": "casos/espana-europa/juan-andres-benitez", "title": "Juan Andrés Benítez (Raval 2013)", "country": "España", "lng": 2.1700, "lat": 41.3793, "type": "muerto", "year": 2013},
+    {"slug": "casos/espana-europa/roger-espanol", "title": "Roger Español (1-O 2017)", "country": "España", "lng": 2.1850, "lat": 41.4030, "type": "ojo", "year": 2017},
+    {"slug": "casos/espana-europa/africa-pablo-hasel", "title": "África (Pablo Hasél 2021)", "country": "España", "lng": 2.1734, "lat": 41.3851, "type": "ojo", "year": 2021},
+    {"slug": "casos/espana-europa/olga-proces", "title": "Olga (Procés 2019)", "country": "España", "lng": 2.1734, "lat": 41.3851, "type": "lesion", "year": 2019},
+    {"slug": "casos/espana-europa/antonio-c-badalona", "title": "Antonio C. (Badalona 2021, taser)", "country": "España", "lng": 2.2454, "lat": 41.4500, "type": "muerto", "year": 2021},
+    {"slug": "casos/espana-europa/carles-guillot", "title": "Carles Guillot", "country": "España", "lng": 2.1734, "lat": 41.3851, "type": "ojo", "year": 2010},
+    {"slug": "casos/espana-europa/tarajal-2014", "title": "Tarajal — 14 muertos (2014)", "country": "España", "lng": -5.3625, "lat": 35.8894, "type": "masacre", "year": 2014},
+    {"slug": "casos/espana-europa/roger-garcia-foam-2019", "title": "Roger García (Proces 2019, foam)", "country": "España", "lng": 2.1750, "lat": 41.3880, "type": "ojo", "year": 2019},
+    {"slug": "casos/espana-europa/abdelillah-foam-2019", "title": "Abdelillah (Proces 2019, foam)", "country": "España", "lng": 2.1780, "lat": 41.3860, "type": "ojo", "year": 2019},
+    {"slug": "casos/espana-europa/melilla-2022", "title": "Melilla — 37 muertos (2022)", "country": "España", "lng": -2.9381, "lat": 35.2923, "type": "masacre", "year": 2022},
     # Francia
-    {"slug": "casos/remi-fraisse", "title": "Rémi Fraisse (Sivens 2014)", "country": "Francia", "lng": 1.8, "lat": 43.9, "type": "muerto", "year": 2014},
-    {"slug": "casos/steve-maia-canico", "title": "Steve Maia Caniço (Nantes 2019)", "country": "Francia", "lng": -1.5536, "lat": 47.2184, "type": "muerto", "year": 2019},
+    {"slug": "casos/espana-europa/remi-fraisse", "title": "Rémi Fraisse (Sivens 2014)", "country": "Francia", "lng": 1.8, "lat": 43.9, "type": "muerto", "year": 2014},
+    {"slug": "casos/espana-europa/steve-maia-canico", "title": "Steve Maia Caniço (Nantes 2019)", "country": "Francia", "lng": -1.5536, "lat": 47.2184, "type": "muerto", "year": 2019},
     # UK
-    {"slug": "casos/stephen-geddis", "title": "Stephen Geddis (Belfast 1975)", "country": "Reino Unido", "lng": -5.9301, "lat": 54.5973, "type": "muerto", "year": 1975},
-    {"slug": "casos/rodney-king-1991", "title": "Rodney King (Los Ángeles 1991)", "country": "Estados Unidos", "lng": -118.2437, "lat": 34.0522, "type": "lesion", "year": 1991},
+    {"slug": "casos/espana-europa/stephen-geddis", "title": "Stephen Geddis (Belfast 1975)", "country": "Reino Unido", "lng": -5.9301, "lat": 54.5973, "type": "muerto", "year": 1975},
+    {"slug": "casos/internacionales/rodney-king-1991", "title": "Rodney King (Los Ángeles 1991)", "country": "Estados Unidos", "lng": -118.2437, "lat": 34.0522, "type": "lesion", "year": 1991},
     # LATAM
-    {"slug": "casos/fabiola-campillai", "title": "Fabiola Campillai (Chile 2019)", "country": "Chile", "lng": -70.6483, "lat": -33.4489, "type": "ceguera", "year": 2019},
+    {"slug": "casos/latam/fabiola-campillai", "title": "Fabiola Campillai (Chile 2019)", "country": "Chile", "lng": -70.6483, "lat": -33.4489, "type": "ceguera", "year": 2019},
     {"slug": "casos/latam/chile-estallido-2019", "title": "Chile estallido 2019 — 460+ ojos", "country": "Chile", "lng": -70.6483, "lat": -33.4489, "type": "masacre", "year": 2019},
-    {"slug": "casos/rufo-chacon", "title": "Rufo Chacón (Venezuela 2019)", "country": "Venezuela", "lng": -72.2225, "lat": 7.7669, "type": "ceguera", "year": 2019},
-    {"slug": "casos/juan-pablo-pernalete", "title": "Juan Pablo Pernalete (Caracas 2017)", "country": "Venezuela", "lng": -66.9036, "lat": 10.4806, "type": "muerto", "year": 2017},
+    {"slug": "casos/latam/rufo-chacon", "title": "Rufo Chacón (Venezuela 2019)", "country": "Venezuela", "lng": -72.2225, "lat": 7.7669, "type": "ceguera", "year": 2019},
+    {"slug": "casos/latam/juan-pablo-pernalete", "title": "Juan Pablo Pernalete (Caracas 2017)", "country": "Venezuela", "lng": -66.9036, "lat": 10.4806, "type": "muerto", "year": 2017},
     {"slug": "casos/latam/venezuela-2017-2019", "title": "Venezuela 2017-2019 — 248 muertos", "country": "Venezuela", "lng": -66.9036, "lat": 10.4806, "type": "masacre", "year": 2018},
     {"slug": "casos/latam/bolivia-2019", "title": "Bolivia 2019 — 37 muertos", "country": "Bolivia", "lng": -68.1500, "lat": -16.5000, "type": "masacre", "year": 2019},
     {"slug": "casos/latam/colombia-2021", "title": "Colombia Paro Nacional 2021", "country": "Colombia", "lng": -76.6044, "lat": 2.4448, "type": "masacre", "year": 2021},
@@ -1378,7 +1379,7 @@ def index_page(tree, notes, sidebar_html):
         <a class="cta-btn primary" href="timeline.html">📅 Cronología visual 1850 → 2026</a>
         <a class="cta-btn" href="map.html">🌍 Mapa mundial de casos</a>
         <a class="cta-btn" href="graph.html">▣ Grafo de conexiones</a>
-        <a class="cta-btn" href="casos/impacto-agregado.html">📊 Impacto agregado — las cifras del daño</a>
+        <a class="cta-btn" href="casos/espana-europa/impacto-agregado.html">📊 Impacto agregado — las cifras del daño</a>
       </div>
     </header>
     <div class="home-grid">
