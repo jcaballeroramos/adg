@@ -2031,6 +2031,7 @@ def main():
         import http.server, socketserver
         os.chdir(SITE)
         port = 8765
+        socketserver.TCPServer.allow_reuse_address = True
         with socketserver.TCPServer(("", port), http.server.SimpleHTTPRequestHandler) as httpd:
             print(f"\n  Serving at http://localhost:{port}  (Ctrl+C to stop)")
             try:

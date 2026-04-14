@@ -6,11 +6,11 @@ nixPkgs = ["python311", "python311Packages.pip", "python311Packages.virtualenv"]
 [phases.install]
 cmds = [
   "python -m venv /opt/venv",
-  ". /opt/venv/bin/activate && pip install --upgrade pip && pip install markdown pyyaml"
+  ". /opt/venv/bin/activate && pip install --upgrade pip && pip install markdown pyyaml fastapi 'uvicorn[standard]' python-multipart itsdangerous bcrypt"
 ]
 
 [phases.build]
 cmds = [". /opt/venv/bin/activate && python build.py"]
 
 [start]
-cmd = ". /opt/venv/bin/activate && cd site && python -m http.server $PORT"
+cmd = ". /opt/venv/bin/activate && python -m uvicorn admin.server:app --host 0.0.0.0 --port $PORT"
