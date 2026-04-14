@@ -473,6 +473,7 @@ CATEGORY_LABELS = {
     "internacionales": "Internacionales",
     "bibliografia": "Bibliografía",
     "figuras-historicas": "Figuras históricas",
+    "referentes": "Referentes audiovisuales",
 }
 
 CATEGORY_ORDER = [
@@ -490,7 +491,7 @@ CATEGORY_ORDER = [
 # Sub-category ordering (narrativamente, no alfabético)
 SUBCAT_ORDER = {
     "casos": ["espana-europa", "internacionales", "latam"],
-    "autores-y-referencias": ["paul-rocher", "testimonios", "figuras-historicas", "organizaciones"],
+    "autores-y-referencias": ["paul-rocher", "testimonios", "figuras-historicas", "organizaciones", "referentes"],
     "empresas-de-armas": ["empresas", "publicidad", "renders"],
     "ferias-de-armas": ["feindef"],
     "usos-de-armas": ["entrenamientos", "testimonios"],
