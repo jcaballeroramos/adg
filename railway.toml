@@ -5,7 +5,7 @@
 builder = "NIXPACKS"
 
 [deploy]
-healthcheckPath = "/index.html"
+healthcheckPath = "/"
 healthcheckTimeout = 30
 restartPolicyType = "ON_FAILURE"
 restartPolicyMaxRetries = 3

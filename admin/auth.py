@@ -70,7 +70,11 @@ def login(body: LoginBody, response: Response):
     token = secrets.token_hex(24)
     _sessions[token] = body.username
     signed = _sign(token)
-    response.set_cookie(COOKIE_NAME, signed, httponly=True, samesite="lax", max_age=86400 * 7)
+    is_prod = os.environ.get("RAILWAY_ENVIRONMENT") or os.environ.get("PORT")
+    response.set_cookie(
+        COOKIE_NAME, signed, httponly=True, samesite="lax",
+        max_age=86400 * 7, secure=bool(is_prod),
+    )
     return {"ok": True, "username": body.username}
 
 

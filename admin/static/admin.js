@@ -24,9 +24,12 @@ let currentFilter = null;
 
 // ── API helpers ──
 async function api(path, opts = {}) {
+  const headers = { ...opts.headers };
+  if (opts.body && typeof opts.body === 'string') headers['Content-Type'] = 'application/json';
   const res = await fetch(path, {
-    headers: { 'Content-Type': 'application/json', ...opts.headers },
+    credentials: 'same-origin',
     ...opts,
+    headers,
   });
   if (res.status === 401) { showLogin(); throw new Error('No auth'); }
   const data = await res.json();
@@ -170,14 +173,23 @@ function renderNotesList(search = '') {
 }
 
 // ── Editor ──
+function destroyEditor() {
+  if (editor) {
+    try { editor.toTextArea(); } catch(e) {}
+    editor = null;
+  }
+  // Clean up any orphaned EasyMDE instances
+  document.querySelectorAll('.EasyMDEContainer').forEach(el => el.remove());
+}
+
 async function openEditor(slug) {
   const note = await api(`/api/notes/${slug}`);
-  if (editor) { editor.toTextArea(); editor = null; }
+  destroyEditor();
 
   let html = '<div class="editor-header">';
   html += `<h2>${esc(note.title)}</h2>`;
   html += '<div class="editor-actions">';
-  html += `<button class="btn" onclick="renderNotesList()">Volver</button>`;
+  html += `<button class="btn" onclick="destroyEditor();renderNotesList()">Volver</button>`;
   html += `<button class="btn btn-danger" onclick="deleteNote('${esc(slug)}')">Borrar</button>`;
   html += `<button class="btn" onclick="showMoveModal('${esc(slug)}')">Mover</button>`;
   html += `<button class="btn btn-accent" onclick="saveNote('${esc(slug)}')">Guardar</button>`;
@@ -352,7 +364,7 @@ async function doMove(oldSlug) {
 
 // ── Create note ──
 function showCreateForm() {
-  if (editor) { editor.toTextArea(); editor = null; }
+  destroyEditor();
 
   // Build category options from existing notes
   const dirs = new Set();
@@ -364,7 +376,7 @@ function showCreateForm() {
   let html = '<div class="editor-header">';
   html += '<h2>Nueva nota</h2>';
   html += '<div class="editor-actions">';
-  html += `<button class="btn" onclick="renderNotesList()">Volver</button>`;
+  html += `<button class="btn" onclick="destroyEditor();renderNotesList()">Volver</button>`;
   html += `<button class="btn btn-accent" onclick="createNote()">Crear</button>`;
   html += '</div></div>';
 
@@ -439,7 +451,7 @@ async function showMediaBrowser() {
   let html = '<div class="editor-header">';
   html += '<h2>Media</h2>';
   html += '<div class="editor-actions">';
-  html += `<button class="btn" onclick="renderNotesList()">Volver</button>`;
+  html += `<button class="btn" onclick="destroyEditor();renderNotesList()">Volver</button>`;
   html += '</div></div>';
 
   html += '<div style="margin-bottom:16px">';
@@ -474,7 +486,7 @@ async function uploadMedia() {
   formData.append('file', file);
   formData.append('subdir', subdir);
   try {
-    await fetch('/api/media/upload', { method: 'POST', body: formData });
+    await fetch('/api/media/upload', { method: 'POST', body: formData, credentials: 'same-origin' });
     toast('Archivo subido');
     showMediaBrowser();
   } catch (e) { toast('Error subiendo archivo', true); }
