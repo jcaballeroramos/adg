@@ -1,59 +1,59 @@
 ---
 tipo: bibliografía
-estado: stub
+estado: completo
 editor: Consejo de Europa · Comisario para los Derechos Humanos
-ambito: Europa (46 Estados miembros)
-archivo: 168075ae1a.pdf
-nombre_completo: "Opinion of the Commissioner for Human Rights on independent and effective determination of complaints against the police"
-tags: [coe, comisario-ddhh, consejo-europa, policia, denuncias, control-externo]
+año: 2017
+ambito: Europa / España
+autor: Nils Muižnieks
+nombre_completo: "Carta del Comisario de DDHH del Consejo de Europa al Ministro del Interior de España sobre uso desproporcionado de fuerza en Cataluña (1-O, 2017)"
+tags: [coe, comisario-ddhh, consejo-europa, policia, cataluna, 1-octubre, balas-goma, uso-de-fuerza, muiznieks, 2017]
+fuentes:
+  - https://rm.coe.int/ref/CommHR/NM/jp036-2017
 ---
 
-# Consejo de Europa · Comisario para los Derechos Humanos
+# Consejo de Europa · Carta del Comisario Muižnieks al Ministro del Interior (2017)
 
-Documento del **Comisario para los Derechos Humanos del Consejo de Europa** (cargo independiente creado en 1999) sobre la **investigación independiente y efectiva de denuncias contra la policía** en los Estados miembros.
+Carta del **Comisario para los Derechos Humanos del Consejo de Europa, Nils Muižnieks**, dirigida al Ministro del Interior de España, **Juan Ignacio Zoido Álvarez**, fechada el **4 de octubre de 2017**, tres días después del referéndum del 1 de octubre en Cataluña.
 
-## El Consejo de Europa
-**46 Estados miembros** (todos los europeos salvo Bielorrusia y Rusia, expulsada en marzo 2022 tras la invasión de Ucrania). Custodio del **Convenio Europeo de Derechos Humanos (CEDH)** y del **Tribunal Europeo de Derechos Humanos (TEDH)**.
+**Referencia**: CommHR/NM/jp 036-2017
 
-El **Comisario** es una figura independiente que:
-- Publica **informes temáticos** sobre derechos humanos en los Estados miembros.
-- Visita **países** y redacta informes específicos.
-- Interviene como **amicus curiae** ante el TEDH en casos estratégicos.
+## Contenido de la carta
 
-## Los «Cinco Principios» del Comisario
-El documento establece **cinco principios mínimos** que cualquier mecanismo de investigación de denuncias policiales debe cumplir:
+### Preocupaciones expresadas
+- **Uso desproporcionado de la fuerza** por las fuerzas de seguridad en Cataluña el 1 de octubre de 2017.
+- Reportes de fuerza excesiva contra **manifestantes pacíficos** y personas en **resistencia pasiva**.
+- Personas sometidas a fuerza desproporcionada **dentro de locales** donde pretendían votar, mientras se les impedía salir.
+- Uso de **armas antidisturbios, incluyendo balas de goma**, con reportes de uso impropio que resultó en lesiones.
 
-1. **Independencia** — ausencia de vínculos institucionales o jerárquicos entre los investigadores y los agentes denunciados.
-2. **Adecuación** — capacidad real (recursos, competencias jurídicas) de investigar hechos complejos.
-3. **Prontitud** — investigaciones ágiles, sin dilaciones injustificadas.
-4. **Escrutinio público** — transparencia hacia la sociedad civil y los medios.
-5. **Participación de la víctima** — derecho de la víctima a ser escuchada, informada y a recurrir.
+### Referencia al informe de 2013
+El Comisario recuerda que en su **informe tras la visita a España en 2013** ya había:
+- Subrayado el **peligro claro** que las balas de goma representan para la seguridad de los manifestantes, evidenciado por **ocurrencias fatales anteriores**.
+- Reiterado la posición del **Comité de Prevención de la Tortura (CPT)**: los criterios de uso de armas de proyectil deben corresponder **al menos** a los de las armas de fuego.
 
-## Los estados que incumplen
-El informe señala que **casi ninguno** de los 46 Estados miembros cumple los cinco principios en conjunto. **España se menciona explícitamente** como uno de los países donde:
-- No existe un mecanismo independiente.
-- Las investigaciones internas son la norma.
-- Los tiempos son excesivos.
-- La transparencia es mínima.
+### Demandas al gobierno español
+1. **Instrucciones claras** a los agentes sobre necesidad de moderación y uso proporcional de la fuerza, conforme a los **Principios Básicos de la ONU sobre Uso de Fuerza (1990)** y la jurisprudencia del **TEDH**.
+2. **Investigaciones rápidas, independientes y efectivas** de todas las denuncias de mala conducta policial y uso desproporcionado de la fuerza durante el 1-O.
+3. Establecimiento de un **mecanismo independiente de quejas policiales** — recomendación ya formulada en 2013 y reiterada aquí con urgencia. Propone ampliar competencias del Defensor del Pueblo o crear un nuevo organismo.
 
-El mismo informe cita los casos de **tortura en detención** (Irlanda del Norte, España vasca, Grecia, Turquía) y de **uso abusivo de la fuerza en protestas** como áreas donde el incumplimiento es más flagrante.
-
-## Jurisprudencia TEDH citada
-El Comisario cita varias sentencias del **TEDH** que han condenado a Estados por **investigación defectuosa** de denuncias policiales bajo el **artículo 3 del CEDH** (prohibición de la tortura y los tratos inhumanos o degradantes):
-- **Kılıç c. Turquía** — ver [[tedh-kilici-vs-turquia]].
-- **Abdullah Yaşa c. Turquía** — ver [[tedh-yasa-vs-turquia]].
-- **Bati y otros c. Turquía**.
-- **McShane c. Reino Unido** (Irlanda del Norte).
-- **McCann c. Reino Unido** (Gibraltar 1988).
+### Contexto político
+- El Comisario reconoce la "dificultad para los agentes de policía de hacer su trabajo en el tenso contexto" de Cataluña.
+- Pero insiste en que la **rendición de cuentas** es "esencial para preservar la confianza pública en el trabajo policial".
 
 ## Por qué importa para el documental
-- **Autoridad europea oficial** que respalda exactamente la tesis de Irídia: la investigación interna no basta.
-- **España nombrada explícitamente** entre los Estados que incumplen los estándares europeos.
-- **Puente con el TEDH**: permite articular los casos individuales (Roger Español, Áfrika, Melilla, Tarajal) con jurisprudencia europea vinculante.
+- **Máxima autoridad europea de DDHH** dirigiéndose directamente al gobierno español — legitimidad institucional absoluta.
+- Conecta directamente con los **casos del 1-O** documentados en el wiki.
+- La **recomendación de mecanismo independiente** (2013 y 2017) sigue sin cumplirse en 2026 — demuestra **inacción sistemática** del Estado español.
+- Las **balas de goma** explícitamente mencionadas como peligrosas, citando muertes anteriores.
 
 ## Conexiones
-- ↔ [[iridia-mecanismos-independientes]] — misma tesis desde Cataluña.
-- ↔ [[tedh-kilici-vs-turquia]] · [[tedh-yasa-vs-turquia]].
-- ↔ [[osji-who-polices-the-police]] — paralelo OSJI.
-- ↔ [[transparencia-cuerpos-policiales-espana]].
-- ↔ [[../../autores-y-referencias/fionnuala-ni-aolain]] · [[../../autores-y-referencias/nils-melzer]] — Relatores ONU que comparten el análisis.
+- ↔ [[iridia-mecanismos-independientes]] — misma demanda: mecanismo independiente de control policial.
+- ↔ [[osji-who-polices-the-police]] — paralelo: ¿quién vigila a la policía?
+- ↔ [[amnistia-policia-bajo-la-lupa]] — convergencia de recomendaciones.
+- ↔ [[transparencia-cuerpos-policiales-espana]] — mismo diagnóstico de opacidad.
+- ↔ [[unodc-ohchr-manual-uso-fuerza]] — base normativa ONU citada en la carta.
+- ↔ [[../../casos/espana-europa/roger-espanol]] — víctima de bala de goma del 1-O.
+- ↔ [[../../casos/espana-europa/ester-quintana]] — caso anterior de bala de goma citado implícitamente.
+- ↔ [[../../casos/espana-europa/inigo-cabacas]] — muerte por bala de goma (ocurrencia fatal anterior).
+- ↔ [[../../autores-y-referencias/nils-melzer]] — otro Relator que comparte el análisis.
+- ↔ [[../../autores-y-referencias/fionnuala-ni-aolain]] — Relatora ONU sobre tortura y armas less-lethal.
+- ↔ [[../../historia/balas-goma]] — genealogía del arma explícitamente criticada.

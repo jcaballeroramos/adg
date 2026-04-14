@@ -1,75 +1,92 @@
 ---
 tipo: bibliografía
-estado: stub
+estado: completo
 editor: Amnistía Internacional
 año: 2021
-ambito: Estado español
-archivo: AMR0148102021SPANISH.pdf
-codigo: AMR01/4810/2021
-nombre_completo: "La policía bajo la lupa: estándares internacionales sobre el uso de la fuerza y las armas de fuego en España"
-tags: [amnistia, espana, policia, uso-de-fuerza, informe, 2021, lupa]
+ambito: América Latina y Caribe
+codigo: AMR 01/4810/2021
+nombre_completo: "Policías bajo la lupa: Cinco claves para la supervisión y la rendición de cuentas de la policía en las Américas"
+tags: [amnistia, americas, policia, uso-de-fuerza, informe, 2021, supervisión, rendicion-cuentas, protocolo-minnesota, indecom, jamaica, open-society]
+fuentes:
+  - https://www.amnesty.org/es/documents/amr01/4810/2021/es/
 ---
 
-# Amnistía Internacional · «La policía bajo la lupa» (2021)
+# Amnistía Internacional · «Policías bajo la lupa» (2021)
 
-Informe de **Amnistía Internacional España** publicado en **2021** (código **AMR01/4810/2021**) que examina el **cumplimiento por parte del Estado español** de los estándares internacionales sobre el uso de la fuerza y las armas de fuego.
+Informe de **Amnistía Internacional** publicado en octubre de **2021** (código **AMR 01/4810/2021**) que presenta **cinco claves para la supervisión y rendición de cuentas de la policía en las Américas**. Elaborado a partir de los diálogos regionales virtuales organizados por AI, la **Universidad de Essex** y la **Independent Commission of Investigations (INDECOM)** de Jamaica, con el apoyo de **Open Society Foundations**, donde participaron casi 100 activistas, académicos y funcionarios públicos en enero de 2021.
 
-## Metodología
-- **Análisis legal** del marco normativo español (Ley Orgánica 4/2015 «mordaza», protocolos de los cuerpos, instrucciones internas filtradas).
-- **Casos emblemáticos** documentados en los últimos 10 años.
-- **Entrevistas** a víctimas, abogados (Irídia), sindicatos policiales, organizaciones de derechos humanos.
-- **Cruce** con los estándares de Naciones Unidas (Manual UNODC+OHCHR, Código de Conducta 1979, Principios Básicos 1990).
+## Las cinco claves
 
-## Los 7 hallazgos principales
+### 1. Establecer mecanismos eficaces de supervisión independiente
+- La violencia policial en América Latina es una "epidemia" (Agnès Callamard).
+- Los mecanismos internos de la policía (Asuntos Internos) son insuficientes e inherentemente parciales.
+- Caso destacado: **INDECOM** (Jamaica) — creada tras el caso de **Michael Gayle** (1999), redujo las muertes por disparos policiales en un **53%** entre 2007-2016.
+- Seis rasgos de un mecanismo eficaz: independencia política/funcional, financiamiento, legitimación por ley, acceso a información, facultades proactivas de revisión de patrones, transparencia.
 
-### 1. Marco legal inadecuado
-La ley española **no incorpora explícitamente** los principios de necesidad y proporcionalidad del derecho internacional. La Ley Orgánica 4/2015 **amplía los poderes policiales** sin aumentar las garantías.
+### 2. Involucrar a la sociedad civil y organizaciones de víctimas
+- Construir redes entre organizaciones e instituciones.
+- Fortalecer experiencia técnica (ej: **Insyde** en México con paneles civiles de revisión de expedientes disciplinarios policiales).
+- Potenciar litigio estratégico: caso **Mujeres de Atenco** (Corte IDH 2018) — tortura sexual por policías, sentencia histórica.
+- Documentar y monitorear: plataforma **GRITA** (ONG Temblores, Colombia) para denunciar violencia policial.
+- Incidencia política y cambio de narrativas.
 
-### 2. Ausencia de protocolos públicos
-Los **protocolos operativos internos** de la Policía Nacional, Guardia Civil y Mossos d'Esquadra **no son públicos**, lo que impide el control democrático.
+### 3. Utilizar protocolos para la debida investigación del abuso policial
+- **Protocolo de Minnesota** (ONU, revisado 2016): guía para investigar muertes potencialmente ilícitas.
+- Principios: prontitud, efectividad/exhaustividad, transparencia, participación de familiares.
+- Aplicado en: caso **Ayotzinapa** (México), **Campo Algodonero** (Corte IDH), fiscalías de Guatemala.
+- Brasil: GAESP (Ministerio Público Río de Janeiro) — disuelto en 2021 por el Fiscal General.
+- **Protocolo de Estambul** para investigación de tortura.
 
-### 3. Formación insuficiente
-La formación en uso de la fuerza es **escasa** (pocas horas en la academia, reciclaje casi inexistente) y **centrada en tácticas**, no en derechos humanos.
+### 4. Enfrentar la violencia policial como fenómeno estructural — análisis de patrones
+- No basta con casos individuales: hay que revelar patrones.
+- INDECOM: informes trimestrales sobre tendencias (registros policiales, armamento less-lethal, implantación de evidencia).
+- Informe **"Ojos sobre Chile"** (Amnistía, 2020): combinó análisis de patrones + caso Gustavo Gatica + verificación digital de 200+ piezas audiovisuales.
+- **Crisis Evidence Lab** de Amnistía: verificación de videos de Hong Kong, Iraq, Chile.
+- Mapa global **"Tear Gas: An Investigation"**: 500 videos, 80 eventos, 22 países.
+- Plataforma GRITA (Temblores, Colombia).
+- Técnicas OSINT: búsqueda avanzada, verificación de contenido (reverse image search), protección de identidad, metadatos, identificación de armamento.
 
-### 4. Impunidad estructural
-**Casi ninguna denuncia** por abuso policial se traduce en una sanción disciplinaria o penal. El 95-98% se archiva en fase de investigación interna o en el juzgado de instrucción.
+### 5. El rol de los mandos policiales
+- Responsabilidad de mando: los superiores son responsables cuando saben (o deberían saber) de abusos y no actúan.
+- Caso Chile 2019: General Director de Carabineros mantuvo escopetas antidisturbios pese a informe interno de 2012 sobre su peligrosidad. Audio filtrado: "A nadie voy a dar de baja por un procedimiento policial."
+- Colombia: Manual ESMAD prioriza fuerza sobre facilitación del derecho de reunión.
+- Pactos de silencio: cultura policial de no denunciar a pares. Los mandos tienen el deber de romperlos.
 
-### 5. Uso excesivo de armas «menos letales»
-- **Balas de goma** — casos documentados: **Iñigo Cabacas, Roger Español, Ester Quintana, Áfrika, Carles Guillot**. Cataluña las prohibió en 2014, pero la Policía Nacional sigue usándolas.
-- **Foam (SIR-X)** — introducido en Cataluña como reemplazo, pero **también causa lesiones graves**: Roger García y Abdelillah (Proces 2019).
-- **Gas lacrimógeno** — uso desproporcionado en manifestaciones pacíficas.
-- **Taser** — autorizado sin protocolo público suficiente (muerte de Antonio C. en Badalona 2021).
+## Datos clave
 
-### 6. Identificación insuficiente de agentes
-Los agentes antidisturbios **no llevan identificación visible frontalmente** — obstáculo sistémico para identificar autores de abusos. Solo en el caso de Roger Español (tras 4 años de trabajo forense) se consiguió individualizar a un agente.
+| País | Dato |
+|---|---|
+| **Brasil** | 4.670 muertes por policía en 2017 (tasa 2.3/100k) |
+| **El Salvador** | 617 muertes por policía en 2016 (tasa 9.5/100k) |
+| **Jamaica** | Hasta 2014: +200 muertes/año por policía. Post-INDECOM: reducción 53% |
+| **Chile 2019** | 300+ traumas oculares, 8.000+ investigaciones abiertas |
+| **Colombia 2019-2020** | Múltiples denuncias de abuso, muerte de Javier Ordóñez |
 
-### 7. Investigación policial interna, no independiente
-No existe ningún **mecanismo externo de control**. Las denuncias las investigan los mismos cuerpos denunciados (Asuntos Internos), generando **corporativismo y archivos sistemáticos**.
+## Recomendaciones
 
-## Las 12 recomendaciones de Amnistía
-1. Revisar la Ley Orgánica 4/2015 («ley mordaza»).
-2. Publicar todos los protocolos de uso de la fuerza.
-3. Evaluación independiente del material adquirido.
-4. Prohibición efectiva de las balas de goma y limitación estricta del foam.
-5. Taser: protocolo público vinculante y registro de cada uso.
-6. Identificación visible y permanente de todos los agentes.
-7. Formación continua en derechos humanos.
-8. Mecanismo independiente de investigación de denuncias.
-9. Registro público centralizado de incidentes.
-10. Derecho efectivo de las víctimas a ser escuchadas.
-11. Transparencia presupuestaria sobre compras de material antidisturbios.
-12. Reforma del Código Penal para tipificar explícitamente el uso abusivo de la fuerza.
+**Para Estados**: crear mecanismos independientes, aplicar Protocolo de Minnesota, incluir responsabilidad de mando en la ley, garantizar análisis de patrones.
 
-## Por qué importa
-- **Fuente autoritativa** que un juez europeo puede citar sin restricciones.
-- **Marco comparativo** con los estándares internacionales ONU y Consejo de Europa.
-- **Hoja de ruta política** muy concreta — lo que habría que cambiar.
+**Para sociedad civil**: fortalecer redes, litigio estratégico, OSINT, incidencia política, invocar Protocolo de Minnesota.
+
+**Para donantes**: priorizar inversión en supervisión civil, capacitación de liderazgos policiales, producción de información sobre patrones.
+
+## Por qué importa para el documental
+- **Marco conceptual completo** para entender por qué falla el control policial en democracias.
+- **Casos emblemáticos** (Michael Gayle, Atenco, Ayotzinapa, Chile 2019) que conectan directamente con los del wiki.
+- Las **técnicas OSINT** descritas son exactamente las que usa el toolkit de *Artefactos de Guerra*.
+- El concepto de **responsabilidad de mando** es clave para el argumento del documental.
 
 ## Conexiones
-- ↔ [[../amnistia-internacional]] — la institución en general.
-- ↔ [[me-estallo-el-ojo-amnistia]] — el otro informe clave de Amnistía España sobre KIPs.
-- ↔ [[iridia-mecanismos-independientes]] · [[iridia-pla-accio]] — coincidencia total de demandas.
-- ↔ [[transparencia-cuerpos-policiales-espana]] — el mismo diagnóstico.
-- ↔ [[coe-comisario-ddhh]] — paralelo europeo.
-- ↔ [[unodc-ohchr-manual-uso-fuerza]] — base normativa.
-- ↔ [[../../casos/roger-espanol]] · [[../../casos/inigo-cabacas]] · [[../../casos/antonio-c-badalona]].
+- ↔ [[../../autores-y-referencias/agnes-callamard]] — citada como ex-Relatora sobre ejecuciones extrajudiciales.
+- ↔ [[../../autores-y-referencias/organizaciones/amnistia-internacional]] — institución editora.
+- ↔ [[osji-who-polices-the-police]] — paralelo: "¿quién vigila a la policía?"
+- ↔ [[coe-comisario-ddhh]] — los cinco principios europeos coinciden.
+- ↔ [[iridia-mecanismos-independientes]] — misma demanda desde Cataluña.
+- ↔ [[unodc-ohchr-manual-uso-fuerza]] — base normativa ONU citada.
+- ↔ [[../../casos/latam/chile-estallido-2019]] — 300+ traumas oculares documentados.
+- ↔ [[../../casos/latam/colombia-2021]] — Paro Nacional, ESMAD.
+- ↔ [[../../casos/latam/gustavo-gatica]] — caso central del informe "Ojos sobre Chile".
+- ↔ [[../../casos/latam/fabiola-campillai]] — víctima ocular Chile.
+- ↔ [[../../autores-y-referencias/referentes/tear-gas-investigation-amnistia-berkeley]] — investigación citada.
+- ↔ [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]] — impactos postraumáticos de violencia ocular.
+- ↔ [[me-estallo-el-ojo-amnistia]] — informe Amnistía sobre Chile.
