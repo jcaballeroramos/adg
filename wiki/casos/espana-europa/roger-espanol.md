@@ -77,8 +77,44 @@ La conversación de Anaïs con Júlia Nueno revela que **el caso Roger Español 
 
 Los Mossos también usaron sus herramientas para **calcular distancias** a partir del vídeo.
 
+## El colectivo Stop Balas de Goma se acerca a Roger
+
+Tras el 1-O de 2017, cuando la Policía Nacional le sacó el ojo a Roger, el colectivo **Stop Balas de Goma** (Ester Quintana, Carlos Guillot, Nicola y otros) se acercó a él. La red de apoyo entre víctimas de armas less-lethal sigue activa.
+
+Roger lleva **9 años** en el proceso judicial — frente a los **5 años** de Ester o los **14 años** de Carlos Guillot. La duración se ha convertido en una herramienta más de impunidad.
+
+## La red internacional
+
+Roger se ha incorporado al esfuerzo del colectivo para construir **redes internacionales de víctimas** de armas less-lethal:
+
+- **MOCAO** (Colombia): 150 mutilados en un mes durante el Paro Nacional 2021.
+- **Coordinadora de Traumas Oculares de Chile**: 500 personas. Algunas se suicidaron por no soportar la situación.
+- **Encuentro de Bogotá** (2024): 60 personas mutiladas de Bolivia, Argentina, Chile, España, Colombia y Bangladesh.
+- **Bangladesh**: 1.500 mutilados identificados.
+- **Tratado libre de tortura**: campaña contra el comercio de armas que mutilan.
+
+## El patrón mundial
+
+El colectivo ha identificado un **patrón histórico**:
+- **1967**: balas de madera probadas en Hong Kong.
+- **1970s**: Irlanda del Norte — 16 muertos, 9 niños.
+- **1976**: Sudáfrica (apartheid).
+- **Hasta 2000**: 23 personas muertas en España.
+
+> *"Estas armas se fabrican en el norte y se prueban en el sur global."*
+
+> *"Primero deshumanizas la protesta. Son vándalos, son malos, tú eres el culpable. Tú te has situado en la trayectoria de la bala."*
+
 ## Conexiones
-- ↔ [[../testimonios/oftalmologa-estrella-fernandez]] (la cirujana que opera estallidos como el suyo).
-- ↔ [[../historia/balas-goma]] (genealogía de la munición).
-- ↔ [[../marco-legal/onu-orientaciones-2020]] (las balas de goma deben evaluarse por precisión real, no por etiqueta).
-- ↔ [[fabiola-campillai]] (otro caso paradigmático en otro continente).
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez]] — cirujana que opera estallidos oculares.
+- ↔ [[../../historia/balas-goma]] — genealogía de la munición.
+- ↔ [[../../marco-legal/bibliografia/ciivo-falsa-menor-letalidad-2026]] — las balas de goma deben evaluarse por precisión real.
+- ↔ [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]] — impactos postraumáticos.
+- ↔ [[ester-quintana]] — compañera de Stop Balas de Goma.
+- ↔ [[carlos-guillot]] — Casa de la Montaña 2001, compañero.
+- ↔ [[nicola-celebracion-mundial]] — cofundador de Stop Balas de Goma.
+- ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo.
+- ↔ [[../latam/fabiola-campillai]] — Chile, caso paradigmático.
+- ↔ [[../latam/colombia-2021]] — MOCAO, 150 mutilados.
+- ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — organización.
+- ↔ [[../../empresas-de-armas/empresas/condor]] — fabricante (hacía armas a medida).
