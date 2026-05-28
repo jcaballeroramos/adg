@@ -703,38 +703,62 @@ svg.append('defs').append('marker')
   .append('path').attr('d', 'M0,-4 L10,0 L0,4').attr('class', 'arrow-path-hot');
 
 const g = svg.append('g');
-const zoomBehavior = d3.zoom().scaleExtent([0.15, 4]).on('zoom', (e) => {
-  g.attr('transform', e.transform);
-  currentZoom = e.transform.k;
-  updateLabelVisibility();
-});
-svg.call(zoomBehavior);
 
 let currentZoom = 1;
 
-svg.on('click', (e) => { if (e.target.tagName === 'svg' || e.target.classList?.contains('column-bg') || e.target.classList?.contains('column-label')) clearFocus(); });
+svg.on('click', (e) => { if (e.target.tagName === 'svg' || e.target.classList?.contains('column-bg')) clearFocus(); });
 
-// --- Column bands (background tint per category) ---
+// --- Column bands inside the zoomable g (they pan/zoom with the graph) ---
 const columnG = g.append('g').attr('class', 'columns');
 const colBg = columnG.selectAll('rect').data(catList).enter().append('rect')
   .attr('class', 'column-bg')
   .attr('data-cat', d => d)
   .attr('x', d => catX[d] - colWidth / 2 + 8)
-  .attr('y', 0)
+  .attr('y', 60)
   .attr('width', colWidth - 16)
-  .attr('height', H)
+  .attr('height', H - 60)
   .attr('fill', d => color(d))
   .attr('fill-opacity', 0.045)
   .attr('rx', 14)
   .on('click', (e, d) => { e.stopPropagation(); toggleIsolate(d); });
 
-const colTitle = columnG.selectAll('text').data(catList).enter().append('text')
-  .attr('class', 'column-label')
-  .attr('x', d => catX[d])
-  .attr('y', 30)
+// --- Column TITLES on a fixed overlay layer (do NOT zoom/pan with the graph).
+//     This guarantees nodes can never overlap the headers visually. ---
+const titlesLayer = svg.append('g').attr('class', 'titles-fixed').attr('pointer-events', 'all');
+const colTitle = titlesLayer.selectAll('g').data(catList).enter().append('g')
+  .attr('class', 'column-title-wrap')
+  .attr('data-cat', d => d)
+  .style('cursor', 'pointer')
+  .on('click', (e, d) => { e.stopPropagation(); toggleIsolate(d); });
+colTitle.append('rect').attr('class', 'column-title-bg').attr('rx', 6).attr('ry', 6);
+colTitle.append('text')
+  .attr('class', 'column-title-text')
   .attr('text-anchor', 'middle')
   .attr('fill', d => color(d))
+  .attr('y', 26)
   .text(d => (CAT_LABELS[d] || d).toUpperCase());
+
+function positionTitles() {
+  const t = d3.zoomTransform(svg.node());
+  colTitle.attr('transform', d => 'translate(' + t.applyX(catX[d]) + ', 8)');
+  // size the bg pill to wrap the text
+  colTitle.each(function() {
+    const txt = d3.select(this).select('text').node();
+    if (!txt) return;
+    const bb = txt.getBBox();
+    d3.select(this).select('rect')
+      .attr('x', bb.x - 10).attr('y', bb.y - 5)
+      .attr('width', bb.width + 20).attr('height', bb.height + 10);
+  });
+}
+
+const zoomBehavior = d3.zoom().scaleExtent([0.15, 4]).on('zoom', (e) => {
+  g.attr('transform', e.transform);
+  currentZoom = e.transform.k;
+  updateLabelVisibility();
+  positionTitles();
+});
+svg.call(zoomBehavior);
 
 const hiddenCats = new Set();
 
@@ -897,7 +921,11 @@ function toggleIsolate(c) {
   setTimeout(() => fitToView(), 250);
 }
 
+// Top safety margin so nodes never enter the title area
+const TOP_MARGIN = 90;
 sim.on('tick', () => {
+  // Clamp y so the topmost nodes never collide with the column titles
+  nodes.forEach(n => { if (n.y < TOP_MARGIN) n.y = TOP_MARGIN; });
   link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
       .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
   node.attr('transform', d => 'translate(' + d.x + ',' + d.y + ')');
@@ -1156,7 +1184,9 @@ window.addEventListener('resize', () => {
 });
 
 // Initial fit-to-view after simulation settles a bit
-setTimeout(() => fitToView('all'), 800);
+setTimeout(() => { fitToView('all'); positionTitles(); }, 800);
+setTimeout(positionTitles, 100);
+positionTitles();
 updateLabelVisibility();
 """
 
@@ -2064,8 +2094,14 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 /* Column bands + titles in graph */
 .graph-page .column-bg { transition: fill-opacity .3s; cursor: pointer; }
 .graph-page .column-bg:hover { fill-opacity: 0.085 !important; }
-.graph-page .column-label { font-size: 14px; font-weight: 700; letter-spacing: 2px; opacity: .5; pointer-events: none; paint-order: stroke; stroke: var(--bg); stroke-width: 4px; stroke-linejoin: round; }
 .graph-page .nodes .node.neighbor circle { stroke: var(--fg) !important; stroke-opacity: .6; stroke-width: 2; }
+
+/* Fixed column titles overlay — never zoom/pan, always readable on top of nodes */
+.graph-page .titles-fixed { pointer-events: all; }
+.graph-page .column-title-wrap { transition: opacity .2s; }
+.graph-page .column-title-bg { fill: var(--bg-panel); fill-opacity: 0.92; stroke: var(--border); stroke-width: 1; transition: fill-opacity .15s, stroke-width .15s; }
+.graph-page .column-title-wrap:hover .column-title-bg { fill-opacity: 1; stroke-width: 1.5; }
+.graph-page .column-title-text { font-size: 12px; font-weight: 700; letter-spacing: 1.8px; stroke: none; }
 
 /* Collapsible help */
 .graph-panel .panel-help { font-size: 11px; color: var(--fg-dim); margin-top: 4px; }
