@@ -1496,7 +1496,9 @@ def graph_page_html(graph_data):
     <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐</button>
   </div>
 </header>
+<button id="graph-panel-open" class="graph-panel-open" title="Abrir panel (P)" aria-label="Abrir panel">☰</button>
 <aside class="graph-panel">
+  <button id="graph-panel-close" class="graph-panel-close" title="Ocultar panel (P)" aria-label="Ocultar panel">◂</button>
   <div class="panel-section">
     <h4>Categorías</h4>
     <div id="graph-legend"></div>
@@ -1513,6 +1515,7 @@ def graph_page_html(graph_data):
       <li><b>Doble click</b>: abre la nota.</li>
       <li><b>/</b> o <b>f</b>: buscar.</li>
       <li><b>+ / −</b>: zoom. <b>0</b>: centrar. <b>Esc</b>: reset.</li>
+      <li><b>P</b>: mostrar / ocultar este panel.</li>
       <li><b>Click leyenda</b>: ocultar categoría.</li>
       <li><b>Aislar</b>: muestra solo esa categoría.</li>
     </ul>
@@ -1525,12 +1528,31 @@ def graph_page_html(graph_data):
 <script>
 (function(){{
   var btn = document.getElementById('theme-toggle');
-  if (!btn) return;
-  btn.addEventListener('click', function(){{
+  if (btn) btn.addEventListener('click', function(){{
     var cur = document.documentElement.getAttribute('data-theme') || 'dark';
     var nxt = cur === 'dark' ? 'light' : 'dark';
     document.documentElement.setAttribute('data-theme', nxt);
     try {{ localStorage.setItem('adg-theme', nxt); }} catch (e) {{}}
+  }});
+
+  // Panel toggle (collapse / expand the left sidebar)
+  var body = document.body;
+  var openBtn = document.getElementById('graph-panel-open');
+  var closeBtn = document.getElementById('graph-panel-close');
+  function setPanel(collapsed) {{
+    body.classList.toggle('panel-collapsed', collapsed);
+    try {{ localStorage.setItem('adg-graph-panel', collapsed ? 'off' : 'on'); }} catch (e) {{}}
+  }}
+  try {{
+    if (localStorage.getItem('adg-graph-panel') === 'off') body.classList.add('panel-collapsed');
+  }} catch (e) {{}}
+  if (openBtn) openBtn.addEventListener('click', function(){{ setPanel(false); }});
+  if (closeBtn) closeBtn.addEventListener('click', function(){{ setPanel(true); }});
+  document.addEventListener('keydown', function(e){{
+    if (e.key === 'p' || e.key === 'P') {{
+      if (document.activeElement && document.activeElement.tagName === 'INPUT') return;
+      setPanel(!body.classList.contains('panel-collapsed'));
+    }}
   }});
 }})();
 </script>
@@ -2001,7 +2023,19 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .links line.g-search-dim { stroke-opacity: 0.04; }
 
 /* Left panel — categorías + aislar + ayuda */
-.graph-panel { position: fixed; top: 78px; left: 20px; width: 250px; background: var(--bg-panel); border:1px solid var(--border); border-radius: 12px; padding: 14px 14px 8px 14px; z-index: 8; backdrop-filter: blur(6px); box-shadow: 0 4px 18px rgba(0,0,0,.25); max-height: calc(100vh - 100px); overflow-y: auto; }
+.graph-panel { position: fixed; top: 78px; left: 20px; width: 250px; background: var(--bg-panel); border:1px solid var(--border); border-radius: 12px; padding: 14px 14px 8px 14px; z-index: 8; backdrop-filter: blur(6px); box-shadow: 0 4px 18px rgba(0,0,0,.25); max-height: calc(100vh - 100px); overflow-y: auto; transition: transform .25s ease, opacity .2s; }
+
+/* Floating "open panel" button (visible only when panel is collapsed) */
+.graph-panel-open { position: fixed; top: 78px; left: 20px; width: 36px; height: 36px; background: var(--bg-panel); color: var(--fg); border: 1px solid var(--border); border-radius: 8px; font-size: 16px; cursor: pointer; z-index: 9; display: none; align-items: center; justify-content: center; box-shadow: 0 4px 12px rgba(0,0,0,.3); transition: border-color .15s, background .15s; }
+.graph-panel-open:hover { border-color: var(--accent); background: var(--bg-hover); }
+
+/* Close button inside the panel */
+.graph-panel-close { position: absolute; top: 10px; right: 10px; width: 24px; height: 24px; background: transparent; color: var(--fg-dim); border: 0; border-radius: 4px; font-size: 13px; cursor: pointer; line-height: 1; padding: 0; display: flex; align-items: center; justify-content: center; }
+.graph-panel-close:hover { color: var(--fg); background: var(--bg-hover); }
+
+/* Collapsed state: hide panel, show open button */
+.panel-collapsed .graph-panel { transform: translateX(calc(-100% - 30px)); opacity: 0; pointer-events: none; }
+.panel-collapsed .graph-panel-open { display: inline-flex; }
 .graph-panel .panel-section { margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid var(--border); }
 .graph-panel .panel-section:last-of-type { border-bottom: none; }
 .graph-panel h4 { margin: 0 0 6px 0; font-size: 10px; text-transform: uppercase; letter-spacing: .8px; color: var(--fg-dim); font-weight: 600; }
