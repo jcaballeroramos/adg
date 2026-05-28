@@ -788,13 +788,19 @@ node.append('circle')
   .attr('stroke-width', d => topByCategory[d.category]?.has(d.id) ? 2 : 1.4)
   .attr('stroke-dasharray', d => d.estado === 'stub' ? '2 2' : null);
 
+// Labels are centered BELOW the node and truncated to fit the column width,
+// so they never bleed into a neighbouring column.
+const CHAR_PX = 5.5;
+const maxLabelChars = Math.max(10, Math.floor((colWidth - 24) / CHAR_PX));
+function truncate(s, n) { return (s || '').length > n ? s.slice(0, n - 1) + '…' : (s || ''); }
 node.append('text')
-  .attr('x', d => 7 + Math.sqrt(d.degree) * 2.1)
-  .attr('y', 4)
+  .attr('x', 0)
+  .attr('y', d => 16 + Math.sqrt(d.degree) * 2.1)
+  .attr('text-anchor', 'middle')
   .attr('class', d => 'g-node-label' + (topByCategory[d.category]?.has(d.id) ? ' g-label-major' : ' g-label-minor'))
   .attr('font-size', d => topByCategory[d.category]?.has(d.id) ? '12px' : '10.5px')
   .attr('pointer-events', 'none')
-  .text(d => d.title);
+  .text(d => truncate(d.title, maxLabelChars));
 
 node.append('title').text(d => d.title + ' — ' + (CAT_LABELS[d.category] || d.category) + ' · ' + d.degree + ' conexiones');
 
