@@ -739,15 +739,29 @@ const colTitle = columnG.selectAll('text').data(catList).enter().append('text')
 const hiddenCats = new Set();
 
 // --- Simulation with column anchors + degree-based y ---
+// HARD column lock: every node gets a fixed X within its category column band.
+// This guarantees columns are pure — no node bleeds into a neighbor category
+// just because it shares many links with it.
+const colInnerWidth = colWidth * 0.55;
+function seededRand(s) { let h = 2166136261; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return ((h >>> 0) % 10000) / 10000; }
+function columnX(d) {
+  const base = catX[d.category] || W / 2;
+  // deterministic offset within the column band so repeated builds look identical
+  return base + (seededRand(d.id) - 0.5) * colInnerWidth;
+}
+nodes.forEach(n => {
+  n.fx = columnX(n);
+  n.x = n.fx;
+  n.y = 100 + (n._rankPct || 0.5) * (H - 180);
+});
+
 const sim = d3.forceSimulation(nodes)
-  .force('link', d3.forceLink(links).id(d => d.id).distance(70).strength(0.06))
-  .force('charge', d3.forceManyBody().strength(-280).distanceMax(380))
-  .force('collide', d3.forceCollide().radius(d => 18 + Math.sqrt(d.degree) * 3.2).strength(0.98))
-  // Strong horizontal anchor: each node firmly pulled to its category column
-  .force('x', d3.forceX(d => catX[d.category] || W/2).strength(0.85))
-  // Vertical: high-degree → higher up (smaller y). Low-degree → lower.
-  .force('y', d3.forceY(d => 100 + (d._rankPct || 0.5) * (H - 180)).strength(0.18))
-  .alphaDecay(0.018);
+  .force('link', d3.forceLink(links).id(d => d.id).distance(70).strength(0.08))
+  .force('charge', d3.forceManyBody().strength(-160).distanceMax(280))
+  .force('collide', d3.forceCollide().radius(d => 16 + Math.sqrt(d.degree) * 2.8).strength(1))
+  // Y only — X is locked via fx
+  .force('y', d3.forceY(d => 100 + (d._rankPct || 0.5) * (H - 180)).strength(0.22))
+  .alphaDecay(0.025);
 
 const link = g.append('g').attr('class', 'links').selectAll('line')
   .data(links).enter().append('line')
@@ -758,9 +772,14 @@ const node = g.append('g').attr('class', 'nodes').selectAll('g')
   .data(nodes).enter().append('g')
   .attr('class', 'node')
   .call(d3.drag()
-    .on('start', (event, d) => { if (!event.active) sim.alphaTarget(0.25).restart(); d.fx = d.x; d.fy = d.y; })
+    .on('start', (event, d) => { if (!event.active) sim.alphaTarget(0.25).restart(); d.fy = d.y; })
     .on('drag',  (event, d) => { d.fx = event.x; d.fy = event.y; })
-    .on('end',   (event, d) => { if (!event.active) sim.alphaTarget(0); if (!d.pinned) { d.fx = null; d.fy = null; } }));
+    .on('end',   (event, d) => {
+      if (!event.active) sim.alphaTarget(0);
+      // re-anchor to the category column; free Y
+      d.fx = columnX(d);
+      d.fy = null;
+    }));
 
 node.append('circle')
   .attr('r', d => 5 + Math.sqrt(d.degree) * 2.1)
