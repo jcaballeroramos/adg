@@ -634,38 +634,6 @@ GRAPH_JS_TEMPLATE = r"""
 const data = __DATA__;
 const CAT_LABELS = __CAT_LABELS__;
 
-const width = window.innerWidth;
-const height = window.innerHeight - 60;
-
-const svg = d3.select('#graph').append('svg')
-  .attr('width', width).attr('height', height);
-
-svg.append('defs').append('marker')
-  .attr('id', 'arrow').attr('viewBox', '0 -5 10 10')
-  .attr('refX', 20).attr('refY', 0)
-  .attr('markerWidth', 6).attr('markerHeight', 6)
-  .attr('orient', 'auto')
-  .append('path').attr('d', 'M0,-4 L10,0 L0,4').attr('class', 'arrow-path');
-
-svg.append('defs').append('marker')
-  .attr('id', 'arrow-hot').attr('viewBox', '0 -5 10 10')
-  .attr('refX', 20).attr('refY', 0)
-  .attr('markerWidth', 7).attr('markerHeight', 7)
-  .attr('orient', 'auto')
-  .append('path').attr('d', 'M0,-4 L10,0 L0,4').attr('class', 'arrow-path-hot');
-
-const g = svg.append('g');
-const zoomBehavior = d3.zoom().scaleExtent([0.1, 5]).on('zoom', (e) => {
-  g.attr('transform', e.transform);
-  currentZoom = e.transform.k;
-  updateLabelVisibility();
-});
-svg.call(zoomBehavior);
-
-let currentZoom = 1;
-
-svg.on('click', (e) => { if (e.target.tagName === 'svg') clearFocus(); });
-
 const PALETTE = {
   'ferias-de-armas':      '#e05d3d',
   'empresas-de-armas':    '#f0a94a',
@@ -677,13 +645,17 @@ const PALETTE = {
   'historia':             '#5fd49e',
   '_root':                '#aaaaaa',
 };
+// Order chosen to tell a story left → right:
+// Historia → Marco legal → Empresas → Ferias → Usos → Casos → Autores → Herramientas
 const ORDERED_CATS = ['historia','marco-legal','empresas-de-armas','ferias-de-armas','usos-de-armas','casos','autores-y-referencias','herramientas'];
 const categories = [...new Set(data.nodes.map(n => n.category))];
+const catList = ORDERED_CATS.filter(c => categories.includes(c));
 const color = (c) => PALETTE[c] || '#999';
 
 const links = data.edges.map(d => Object.assign({}, d));
 const nodes = data.nodes.map(d => Object.assign({}, d));
 
+// neighbors index (undirected)
 const neighbors = {};
 nodes.forEach(n => neighbors[n.id] = new Set([n.id]));
 links.forEach(l => {
@@ -691,94 +663,213 @@ links.forEach(l => {
   neighbors[l.target].add(l.source);
 });
 
-const hiddenCats = new Set();
-
-// Cluster by category: each category has an anchor point on a ring around center
-const catList = ORDERED_CATS.filter(c => categories.includes(c));
-const catAnchor = {};
-const ringR = Math.min(width, height) * 0.32;
-catList.forEach((c, i) => {
-  const a = (i / catList.length) * Math.PI * 2 - Math.PI / 2;
-  catAnchor[c] = { x: width / 2 + Math.cos(a) * ringR, y: height / 2 + Math.sin(a) * ringR };
+// degree-rank inside each category — for hierarchy
+const ranked = {};
+nodes.forEach(n => { (ranked[n.category] = ranked[n.category] || []).push(n); });
+const topByCategory = {};
+Object.keys(ranked).forEach(c => {
+  ranked[c].sort((a,b) => b.degree - a.degree);
+  topByCategory[c] = new Set(ranked[c].slice(0, Math.max(3, Math.ceil(ranked[c].length * 0.18))).map(n => n.id));
+  ranked[c].forEach((n, i) => { n._rank = i; n._rankPct = ranked[c].length > 1 ? i / (ranked[c].length - 1) : 0.5; });
 });
 
+const viewW = window.innerWidth;
+const viewH = window.innerHeight - 60;
+
+// Virtual canvas — wider than viewport, so we have room to spread
+const W = Math.max(viewW * 1.6, 2400);
+const H = Math.max(viewH * 1.2, 1300);
+
+// One column per category
+const colWidth = W / catList.length;
+const catX = {};
+catList.forEach((c, i) => { catX[c] = (i + 0.5) * colWidth; });
+
+const svg = d3.select('#graph').append('svg')
+  .attr('width', viewW).attr('height', viewH);
+
+// Defs: arrow + soft column tint gradients (we'll render bands behind nodes)
+svg.append('defs').append('marker')
+  .attr('id', 'arrow').attr('viewBox', '0 -5 10 10')
+  .attr('refX', 22).attr('refY', 0)
+  .attr('markerWidth', 5).attr('markerHeight', 5)
+  .attr('orient', 'auto')
+  .append('path').attr('d', 'M0,-4 L10,0 L0,4').attr('class', 'arrow-path');
+svg.append('defs').append('marker')
+  .attr('id', 'arrow-hot').attr('viewBox', '0 -5 10 10')
+  .attr('refX', 22).attr('refY', 0)
+  .attr('markerWidth', 7).attr('markerHeight', 7)
+  .attr('orient', 'auto')
+  .append('path').attr('d', 'M0,-4 L10,0 L0,4').attr('class', 'arrow-path-hot');
+
+const g = svg.append('g');
+const zoomBehavior = d3.zoom().scaleExtent([0.15, 4]).on('zoom', (e) => {
+  g.attr('transform', e.transform);
+  currentZoom = e.transform.k;
+  updateLabelVisibility();
+});
+svg.call(zoomBehavior);
+
+let currentZoom = 1;
+
+svg.on('click', (e) => { if (e.target.tagName === 'svg' || e.target.classList?.contains('column-bg') || e.target.classList?.contains('column-label')) clearFocus(); });
+
+// --- Column bands (background tint per category) ---
+const columnG = g.append('g').attr('class', 'columns');
+const colBg = columnG.selectAll('rect').data(catList).enter().append('rect')
+  .attr('class', 'column-bg')
+  .attr('data-cat', d => d)
+  .attr('x', d => catX[d] - colWidth / 2 + 8)
+  .attr('y', 0)
+  .attr('width', colWidth - 16)
+  .attr('height', H)
+  .attr('fill', d => color(d))
+  .attr('fill-opacity', 0.045)
+  .attr('rx', 14)
+  .on('click', (e, d) => { e.stopPropagation(); toggleIsolate(d); });
+
+const colTitle = columnG.selectAll('text').data(catList).enter().append('text')
+  .attr('class', 'column-label')
+  .attr('x', d => catX[d])
+  .attr('y', 30)
+  .attr('text-anchor', 'middle')
+  .attr('fill', d => color(d))
+  .text(d => (CAT_LABELS[d] || d).toUpperCase());
+
+const hiddenCats = new Set();
+
+// --- Simulation with column anchors + degree-based y ---
 const sim = d3.forceSimulation(nodes)
-  .force('link', d3.forceLink(links).id(d => d.id).distance(d => 70 + 6 * Math.log(1 + (d.source.degree||0) + (d.target.degree||0))).strength(0.55))
-  .force('charge', d3.forceManyBody().strength(-240))
-  .force('collide', d3.forceCollide().radius(d => 12 + Math.sqrt(d.degree) * 2.5))
-  .force('clusterX', d3.forceX(d => (catAnchor[d.category] || {x: width/2}).x).strength(0.18))
-  .force('clusterY', d3.forceY(d => (catAnchor[d.category] || {y: height/2}).y).strength(0.18));
+  .force('link', d3.forceLink(links).id(d => d.id).distance(70).strength(0.06))
+  .force('charge', d3.forceManyBody().strength(-280).distanceMax(380))
+  .force('collide', d3.forceCollide().radius(d => 18 + Math.sqrt(d.degree) * 3.2).strength(0.98))
+  // Strong horizontal anchor: each node firmly pulled to its category column
+  .force('x', d3.forceX(d => catX[d.category] || W/2).strength(0.85))
+  // Vertical: high-degree → higher up (smaller y). Low-degree → lower.
+  .force('y', d3.forceY(d => 100 + (d._rankPct || 0.5) * (H - 180)).strength(0.18))
+  .alphaDecay(0.018);
 
 const link = g.append('g').attr('class', 'links').selectAll('line')
   .data(links).enter().append('line')
-  .attr('stroke-width', 1.1)
+  .attr('stroke-width', 1)
   .attr('marker-end', 'url(#arrow)');
 
 const node = g.append('g').attr('class', 'nodes').selectAll('g')
   .data(nodes).enter().append('g')
   .attr('class', 'node')
   .call(d3.drag()
-    .on('start', (event, d) => { if (!event.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+    .on('start', (event, d) => { if (!event.active) sim.alphaTarget(0.25).restart(); d.fx = d.x; d.fy = d.y; })
     .on('drag',  (event, d) => { d.fx = event.x; d.fy = event.y; })
     .on('end',   (event, d) => { if (!event.active) sim.alphaTarget(0); if (!d.pinned) { d.fx = null; d.fy = null; } }));
 
 node.append('circle')
-  .attr('r', d => 6 + Math.sqrt(d.degree) * 2.2)
+  .attr('r', d => 5 + Math.sqrt(d.degree) * 2.1)
   .attr('fill', d => color(d.category))
   .attr('class', 'g-node-circle')
-  .attr('stroke-width', 1.6)
+  .attr('stroke-width', d => topByCategory[d.category]?.has(d.id) ? 2 : 1.4)
   .attr('stroke-dasharray', d => d.estado === 'stub' ? '2 2' : null);
 
-const LABEL_DEGREE_THRESHOLD = 5;
 node.append('text')
-  .attr('x', d => 8 + Math.sqrt(d.degree) * 2.2)
+  .attr('x', d => 7 + Math.sqrt(d.degree) * 2.1)
   .attr('y', 4)
-  .attr('class', d => 'g-node-label' + (d.degree >= LABEL_DEGREE_THRESHOLD ? ' g-label-major' : ' g-label-minor'))
-  .attr('font-size', d => d.degree >= 10 ? '12px' : '11px')
+  .attr('class', d => 'g-node-label' + (topByCategory[d.category]?.has(d.id) ? ' g-label-major' : ' g-label-minor'))
+  .attr('font-size', d => topByCategory[d.category]?.has(d.id) ? '12px' : '10.5px')
   .attr('pointer-events', 'none')
   .text(d => d.title);
 
 node.append('title').text(d => d.title + ' — ' + (CAT_LABELS[d.category] || d.category) + ' · ' + d.degree + ' conexiones');
 
+function isolatedMode() {
+  return hiddenCats.size === catList.length - 1;
+}
 function updateLabelVisibility() {
-  const showMinor = currentZoom >= 1.35;
+  const showMinor = isolatedMode() || currentZoom >= 1.5;
   g.selectAll('text.g-label-minor').style('opacity', showMinor ? 1 : 0);
+  // Column titles always visible
+  colTitle.style('opacity', currentZoom < 0.7 ? 0.4 : 1);
 }
 
 let focused = null;
-node.on('mouseover', (e, d) => { if (!focused) highlight(d.id); })
+node.on('mouseover', (e, d) => { if (!focused) highlight(d.id, true); })
     .on('mouseout',  () => { if (!focused) clearHighlight(); })
     .on('click',     (e, d) => {
       e.stopPropagation();
       if (focused === d.id) { clearFocus(); return; }
       focused = d.id;
-      highlight(focused);
+      highlight(focused, false);
       renderInfo(d);
     })
     .on('dblclick',  (e, d) => { e.stopPropagation(); window.location.href = d.id + '.html'; });
 
-function highlight(id) {
+function highlight(id, tempHover) {
   node.classed('dim', n => !neighbors[id].has(n.id))
-      .classed('highlight', n => n.id === id);
+      .classed('highlight', n => n.id === id)
+      .classed('neighbor', n => n.id !== id && neighbors[id].has(n.id));
   link.classed('dim', l => l.source.id !== id && l.target.id !== id)
       .classed('highlight', l => l.source.id === id || l.target.id === id)
       .attr('marker-end', l => (l.source.id === id || l.target.id === id) ? 'url(#arrow-hot)' : 'url(#arrow)');
+  // While focused, force-show neighbor labels even if minor
+  g.selectAll('text.g-label-minor').style('opacity', function(d) {
+    if (!d) return null;
+    if (neighbors[id].has(d.id)) return 1;
+    return isolatedMode() || currentZoom >= 1.5 ? 1 : 0;
+  });
 }
 function clearHighlight() {
-  node.classed('dim', false).classed('highlight', false);
-  link.classed('dim', false).classed('highlight', false)
-      .attr('marker-end', 'url(#arrow)');
+  node.classed('dim', false).classed('highlight', false).classed('neighbor', false);
+  link.classed('dim', false).classed('highlight', false).attr('marker-end', 'url(#arrow)');
+  updateLabelVisibility();
 }
 function clearFocus() { focused = null; clearHighlight(); renderInfo(null); }
 
 function applyCategoryFilter() {
   node.style('display', n => hiddenCats.has(n.category) ? 'none' : null);
-  link.style('display', l => {
-    const hideSrc = hiddenCats.has(l.source.category);
-    const hideTgt = hiddenCats.has(l.target.category);
-    return (hideSrc || hideTgt) ? 'none' : null;
-  });
+  link.style('display', l => (hiddenCats.has(l.source.category) || hiddenCats.has(l.target.category)) ? 'none' : null);
+  colBg.attr('fill-opacity', d => hiddenCats.has(d) ? 0.01 : (isolatedMode() ? 0.1 : 0.045));
+  colTitle.style('opacity', d => hiddenCats.has(d) ? 0.15 : 1);
+  updateLabelVisibility();
   renderMini();
+}
+
+function fitToView(target) {
+  // target: 'isolated' (only visible nodes), 'all' (full graph), or undefined
+  const targets = (target === 'isolated' || (target === undefined && hiddenCats.size > 0))
+    ? nodes.filter(n => !hiddenCats.has(n.category))
+    : nodes;
+  if (!targets.length) return;
+  let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+  targets.forEach(n => {
+    if (typeof n.x !== 'number') return;
+    minX = Math.min(minX, n.x); maxX = Math.max(maxX, n.x);
+    minY = Math.min(minY, n.y); maxY = Math.max(maxY, n.y);
+  });
+  if (!isFinite(minX)) return;
+  const padX = 120, padY = 80;
+  const bw = (maxX - minX) + padX * 2;
+  const bh = (maxY - minY) + padY * 2;
+  const scale = Math.min(viewW / bw, viewH / bh, 1.8);
+  const tx = viewW / 2 - ((minX + maxX) / 2) * scale;
+  const ty = viewH / 2 - ((minY + maxY) / 2) * scale;
+  svg.transition().duration(650).call(zoomBehavior.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));
+}
+
+function toggleIsolate(c) {
+  const wasIsolated = isolatedMode() && !hiddenCats.has(c);
+  if (wasIsolated) {
+    // un-isolate
+    hiddenCats.clear();
+    document.querySelectorAll('.legend-btn').forEach(b => b.classList.remove('off'));
+  } else {
+    hiddenCats.clear();
+    catList.forEach(other => { if (other !== c) hiddenCats.add(other); });
+    document.querySelectorAll('.legend-btn').forEach(btn => {
+      if (btn.dataset.cat === c) btn.classList.remove('off');
+      else btn.classList.add('off');
+    });
+  }
+  applyCategoryFilter();
+  sim.alpha(0.4).restart();
+  setTimeout(() => fitToView(), 250);
 }
 
 sim.on('tick', () => {
@@ -788,6 +879,7 @@ sim.on('tick', () => {
   renderMini();
 });
 
+// --- Legend with category counts ---
 const legendEl = document.getElementById('graph-legend');
 const catCount = {};
 nodes.forEach(n => { catCount[n.category] = (catCount[n.category]||0) + 1; });
@@ -810,27 +902,20 @@ const isoEl = document.getElementById('graph-isolate');
 if (isoEl) {
   const allBtn = document.createElement('button');
   allBtn.className = 'iso-btn iso-all';
-  allBtn.textContent = 'Todas';
+  allBtn.textContent = '↺ Todas';
   allBtn.onclick = () => {
     hiddenCats.clear();
     document.querySelectorAll('.legend-btn').forEach(b => b.classList.remove('off'));
     applyCategoryFilter();
+    setTimeout(() => fitToView('all'), 100);
   };
   isoEl.appendChild(allBtn);
   catList.forEach(c => {
     const b = document.createElement('button');
     b.className = 'iso-btn';
     b.title = 'Aislar ' + (CAT_LABELS[c]||c);
-    b.innerHTML = '<span class="swatch" style="background:'+color(c)+'"></span>';
-    b.onclick = () => {
-      hiddenCats.clear();
-      catList.forEach(other => { if (other !== c) hiddenCats.add(other); });
-      document.querySelectorAll('.legend-btn').forEach(btn => {
-        if (btn.dataset.cat === c) btn.classList.remove('off');
-        else btn.classList.add('off');
-      });
-      applyCategoryFilter();
-    };
+    b.innerHTML = '<span class="swatch" style="background:'+color(c)+'"></span><span class="iso-label">'+(CAT_LABELS[c]||c)+'</span>';
+    b.onclick = () => toggleIsolate(c);
     isoEl.appendChild(b);
   });
 }
@@ -866,19 +951,14 @@ function renderInfo(d) {
   infoEl.classList.add('visible');
   infoEl.querySelector('.info-close').onclick = () => clearFocus();
   infoEl.querySelectorAll('.info-nbr').forEach(a => {
-    a.addEventListener('mouseenter', () => {
-      const id = a.dataset.node;
-      node.classed('hover-trace', n => n.id === id);
-    });
-    a.addEventListener('mouseleave', () => {
-      node.classed('hover-trace', false);
-    });
+    a.addEventListener('mouseenter', () => { node.classed('hover-trace', n => n.id === a.dataset.node); });
+    a.addEventListener('mouseleave', () => { node.classed('hover-trace', false); });
     a.addEventListener('click', (e) => {
       if (!e.metaKey && !e.ctrlKey) {
         e.preventDefault();
         const id = a.dataset.node;
         const n = nodes.find(x => x.id === id);
-        if (n) { focused = id; highlight(id); centerOn(n); renderInfo(n); }
+        if (n) { focused = id; highlight(id, false); centerOn(n); renderInfo(n); }
       }
     });
   });
@@ -887,10 +967,10 @@ function escapeHtml(s) {
   return (s+'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 function centerOn(n) {
-  if (n.x === undefined) return;
+  if (typeof n.x !== 'number') return;
   const scale = Math.max(currentZoom, 1.3);
-  const tx = width / 2 - n.x * scale;
-  const ty = height / 2 - n.y * scale;
+  const tx = viewW / 2 - n.x * scale;
+  const ty = viewH / 2 - n.y * scale;
   svg.transition().duration(450).call(zoomBehavior.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));
 }
 
@@ -901,8 +981,8 @@ document.getElementById('graph-reset').onclick = () => {
   clearFocus();
   searchInput.value = '';
   applySearchHighlight('');
-  svg.transition().duration(450).call(zoomBehavior.transform, d3.zoomIdentity);
-  sim.alpha(0.7).restart();
+  sim.alpha(0.6).restart();
+  setTimeout(() => fitToView('all'), 300);
 };
 
 const searchInput = document.getElementById('graph-search');
@@ -943,7 +1023,7 @@ function applySearchHighlight(query) {
           const id = b.dataset.id;
           const n = nodes.find(x => x.id === id);
           if (!n) return;
-          focused = id; highlight(id); centerOn(n); renderInfo(n);
+          focused = id; highlight(id, false); centerOn(n); renderInfo(n);
           searchResultsEl.classList.remove('visible');
         };
       });
@@ -954,16 +1034,13 @@ function applySearchHighlight(query) {
 }
 searchInput.addEventListener('input', (e) => applySearchHighlight(e.target.value));
 searchInput.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') {
-    searchInput.value = ''; applySearchHighlight(''); searchInput.blur();
-  } else if (e.key === 'Enter') {
+  if (e.key === 'Escape') { searchInput.value = ''; applySearchHighlight(''); searchInput.blur(); }
+  else if (e.key === 'Enter') {
     const first = searchResultsEl && searchResultsEl.querySelector('.search-item');
     if (first) first.click();
   }
 });
-searchInput.addEventListener('focus', () => {
-  if (searchInput.value) applySearchHighlight(searchInput.value);
-});
+searchInput.addEventListener('focus', () => { if (searchInput.value) applySearchHighlight(searchInput.value); });
 document.addEventListener('click', (e) => {
   if (searchResultsEl && !searchResultsEl.contains(e.target) && e.target !== searchInput) {
     searchResultsEl.classList.remove('visible');
@@ -974,7 +1051,7 @@ document.addEventListener('keydown', (e) => {
   if (document.activeElement === searchInput) return;
   if (e.key === '/' || e.key === 'f') { e.preventDefault(); searchInput.focus(); }
   else if (e.key === 'Escape') { clearFocus(); searchInput.value = ''; applySearchHighlight(''); }
-  else if (e.key === '0') { svg.transition().duration(400).call(zoomBehavior.transform, d3.zoomIdentity); }
+  else if (e.key === '0') { fitToView('all'); }
   else if (e.key === '+' || e.key === '=') { svg.transition().duration(200).call(zoomBehavior.scaleBy, 1.3); }
   else if (e.key === '-') { svg.transition().duration(200).call(zoomBehavior.scaleBy, 0.7); }
 });
@@ -984,10 +1061,11 @@ const zoomOutBtn = document.getElementById('zoom-out');
 const zoomFitBtn = document.getElementById('zoom-fit');
 if (zoomInBtn) zoomInBtn.onclick = () => svg.transition().duration(200).call(zoomBehavior.scaleBy, 1.3);
 if (zoomOutBtn) zoomOutBtn.onclick = () => svg.transition().duration(200).call(zoomBehavior.scaleBy, 0.7);
-if (zoomFitBtn) zoomFitBtn.onclick = () => svg.transition().duration(400).call(zoomBehavior.transform, d3.zoomIdentity);
+if (zoomFitBtn) zoomFitBtn.onclick = () => fitToView('all');
 
+// Mini-map
 const miniSvg = d3.select('#graph-mini svg');
-const miniW = 180, miniH = 130;
+const miniW = 200, miniH = 140;
 var miniNodes = null, miniViewport = null, miniBounds = null, miniLast = 0;
 if (miniSvg.size()) {
   miniSvg.attr('viewBox', '0 0 ' + miniW + ' ' + miniH).append('rect')
@@ -1004,27 +1082,26 @@ if (miniSvg.size()) {
     const sy = (maxY - minY) / miniH;
     const gx = minX + px * sx;
     const gy = minY + py * sy;
-    const tx = width / 2 - gx * currentZoom;
-    const ty = height / 2 - gy * currentZoom;
+    const tx = viewW / 2 - gx * currentZoom;
+    const ty = viewH / 2 - gy * currentZoom;
     svg.transition().duration(300).call(zoomBehavior.transform, d3.zoomIdentity.translate(tx, ty).scale(currentZoom));
   });
 }
 function renderMini() {
   if (!miniNodes) return;
   const now = performance.now();
-  if (now - miniLast < 80) return;
+  if (now - miniLast < 100) return;
   miniLast = now;
-  const visible = nodes.filter(n => !hiddenCats.has(n.category));
+  const visible = nodes.filter(n => !hiddenCats.has(n.category) && typeof n.x === 'number');
   if (!visible.length) return;
   let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
   visible.forEach(n => {
-    if (n.x === undefined) return;
     if (n.x < minX) minX = n.x; if (n.x > maxX) maxX = n.x;
     if (n.y < minY) minY = n.y; if (n.y > maxY) maxY = n.y;
   });
   if (!isFinite(minX)) return;
-  const padX = (maxX - minX) * 0.08 || 40;
-  const padY = (maxY - minY) * 0.08 || 40;
+  const padX = (maxX - minX) * 0.06 || 40;
+  const padY = (maxY - minY) * 0.06 || 40;
   minX -= padX; minY -= padY; maxX += padX; maxY += padY;
   miniBounds = [minX, minY, maxX, maxY];
   const sx = miniW / (maxX - minX);
@@ -1040,11 +1117,10 @@ function renderMini() {
   const t = d3.zoomTransform(svg.node());
   const vx = (-t.x / t.k - minX) * sx;
   const vy = (-t.y / t.k - minY) * sy;
-  const vw = (width / t.k) * sx;
-  const vh = (height / t.k) * sy;
+  const vw = (viewW / t.k) * sx;
+  const vh = (viewH / t.k) * sy;
   miniViewport
-    .attr('x', Math.max(0, vx))
-    .attr('y', Math.max(0, vy))
+    .attr('x', Math.max(0, vx)).attr('y', Math.max(0, vy))
     .attr('width', Math.min(miniW, Math.max(0, vw)))
     .attr('height', Math.min(miniH, Math.max(0, vh)));
 }
@@ -1054,6 +1130,8 @@ window.addEventListener('resize', () => {
   svg.attr('width', w).attr('height', h);
 });
 
+// Initial fit-to-view after simulation settles a bit
+setTimeout(() => fitToView('all'), 800);
 updateLabelVisibility();
 """
 
@@ -1916,12 +1994,19 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .graph-panel .swatch { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; border: 1px solid var(--border); }
 
 /* Isolate row */
-.graph-panel .isolate-row { display: flex; flex-wrap: wrap; gap: 4px; }
-.graph-panel .iso-btn { background: transparent; border: 1px solid var(--border); border-radius: 6px; width: 26px; height: 26px; padding: 0; display: inline-flex; align-items: center; justify-content: center; cursor: pointer; transition: border-color .15s, transform .1s; }
-.graph-panel .iso-btn:hover { transform: scale(1.1); border-color: var(--accent); }
-.graph-panel .iso-btn .swatch { width: 12px; height: 12px; border: 0; }
-.graph-panel .iso-btn.iso-all { width: auto; padding: 0 8px; font-size: 11px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .6px; }
+.graph-panel .isolate-row { display: flex; flex-direction: column; gap: 2px; }
+.graph-panel .iso-btn { display: flex; align-items: center; gap: 8px; width: 100%; background: transparent; border: 1px solid var(--border); border-radius: 6px; padding: 5px 8px; cursor: pointer; transition: border-color .15s, background .15s; color: var(--fg); font-size: 12px; text-align: left; }
+.graph-panel .iso-btn:hover { border-color: var(--accent); background: var(--bg-hover); }
+.graph-panel .iso-btn .swatch { width: 11px; height: 11px; border-radius: 50%; border: 0; flex-shrink: 0; }
+.graph-panel .iso-btn .iso-label { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.graph-panel .iso-btn.iso-all { color: var(--fg-dim); font-size: 11px; text-transform: uppercase; letter-spacing: .6px; justify-content: center; margin-bottom: 4px; }
 .graph-panel .iso-btn.iso-all:hover { color: var(--fg); }
+
+/* Column bands + titles in graph */
+.graph-page .column-bg { transition: fill-opacity .3s; cursor: pointer; }
+.graph-page .column-bg:hover { fill-opacity: 0.085 !important; }
+.graph-page .column-label { font-size: 14px; font-weight: 700; letter-spacing: 2px; opacity: .5; pointer-events: none; paint-order: stroke; stroke: var(--bg); stroke-width: 4px; stroke-linejoin: round; }
+.graph-page .nodes .node.neighbor circle { stroke: var(--fg) !important; stroke-opacity: .6; stroke-width: 2; }
 
 /* Collapsible help */
 .graph-panel .panel-help { font-size: 11px; color: var(--fg-dim); margin-top: 4px; }
