@@ -640,7 +640,6 @@ const height = window.innerHeight - 60;
 const svg = d3.select('#graph').append('svg')
   .attr('width', width).attr('height', height);
 
-// arrow marker (themed via CSS)
 svg.append('defs').append('marker')
   .attr('id', 'arrow').attr('viewBox', '0 -5 10 10')
   .attr('refX', 20).attr('refY', 0)
@@ -656,13 +655,17 @@ svg.append('defs').append('marker')
   .append('path').attr('d', 'M0,-4 L10,0 L0,4').attr('class', 'arrow-path-hot');
 
 const g = svg.append('g');
-const zoomBehavior = d3.zoom().scaleExtent([0.15, 4]).on('zoom', (e) => g.attr('transform', e.transform));
+const zoomBehavior = d3.zoom().scaleExtent([0.1, 5]).on('zoom', (e) => {
+  g.attr('transform', e.transform);
+  currentZoom = e.transform.k;
+  updateLabelVisibility();
+});
 svg.call(zoomBehavior);
 
-// background click = clear focus
+let currentZoom = 1;
+
 svg.on('click', (e) => { if (e.target.tagName === 'svg') clearFocus(); });
 
-// High-contrast palette ordered to match CATEGORY_ORDER
 const PALETTE = {
   'ferias-de-armas':      '#e05d3d',
   'empresas-de-armas':    '#f0a94a',
@@ -674,13 +677,13 @@ const PALETTE = {
   'historia':             '#5fd49e',
   '_root':                '#aaaaaa',
 };
+const ORDERED_CATS = ['historia','marco-legal','empresas-de-armas','ferias-de-armas','usos-de-armas','casos','autores-y-referencias','herramientas'];
 const categories = [...new Set(data.nodes.map(n => n.category))];
 const color = (c) => PALETTE[c] || '#999';
 
 const links = data.edges.map(d => Object.assign({}, d));
 const nodes = data.nodes.map(d => Object.assign({}, d));
 
-// neighbors index
 const neighbors = {};
 nodes.forEach(n => neighbors[n.id] = new Set([n.id]));
 links.forEach(l => {
@@ -688,20 +691,27 @@ links.forEach(l => {
   neighbors[l.target].add(l.source);
 });
 
-// hidden categories (legend filter)
 const hiddenCats = new Set();
 
+// Cluster by category: each category has an anchor point on a ring around center
+const catList = ORDERED_CATS.filter(c => categories.includes(c));
+const catAnchor = {};
+const ringR = Math.min(width, height) * 0.32;
+catList.forEach((c, i) => {
+  const a = (i / catList.length) * Math.PI * 2 - Math.PI / 2;
+  catAnchor[c] = { x: width / 2 + Math.cos(a) * ringR, y: height / 2 + Math.sin(a) * ringR };
+});
+
 const sim = d3.forceSimulation(nodes)
-  .force('link', d3.forceLink(links).id(d => d.id).distance(d => 90 + 8 * Math.log(1 + (d.source.degree||0) + (d.target.degree||0))))
-  .force('charge', d3.forceManyBody().strength(-300))
-  .force('center', d3.forceCenter(width / 2, height / 2))
-  .force('collide', d3.forceCollide().radius(d => 14 + Math.sqrt(d.degree) * 3))
-  .force('x', d3.forceX(width / 2).strength(0.03))
-  .force('y', d3.forceY(height / 2).strength(0.03));
+  .force('link', d3.forceLink(links).id(d => d.id).distance(d => 70 + 6 * Math.log(1 + (d.source.degree||0) + (d.target.degree||0))).strength(0.55))
+  .force('charge', d3.forceManyBody().strength(-240))
+  .force('collide', d3.forceCollide().radius(d => 12 + Math.sqrt(d.degree) * 2.5))
+  .force('clusterX', d3.forceX(d => (catAnchor[d.category] || {x: width/2}).x).strength(0.18))
+  .force('clusterY', d3.forceY(d => (catAnchor[d.category] || {y: height/2}).y).strength(0.18));
 
 const link = g.append('g').attr('class', 'links').selectAll('line')
   .data(links).enter().append('line')
-  .attr('stroke-width', 1.2)
+  .attr('stroke-width', 1.1)
   .attr('marker-end', 'url(#arrow)');
 
 const node = g.append('g').attr('class', 'nodes').selectAll('g')
@@ -710,29 +720,41 @@ const node = g.append('g').attr('class', 'nodes').selectAll('g')
   .call(d3.drag()
     .on('start', (event, d) => { if (!event.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
     .on('drag',  (event, d) => { d.fx = event.x; d.fy = event.y; })
-    .on('end',   (event, d) => { if (!event.active) sim.alphaTarget(0); d.fx = null; d.fy = null; }));
+    .on('end',   (event, d) => { if (!event.active) sim.alphaTarget(0); if (!d.pinned) { d.fx = null; d.fy = null; } }));
 
 node.append('circle')
-  .attr('r', d => 7 + Math.sqrt(d.degree) * 2.5)
+  .attr('r', d => 6 + Math.sqrt(d.degree) * 2.2)
   .attr('fill', d => color(d.category))
   .attr('class', 'g-node-circle')
-  .attr('stroke-width', 1.8)
+  .attr('stroke-width', 1.6)
   .attr('stroke-dasharray', d => d.estado === 'stub' ? '2 2' : null);
 
+const LABEL_DEGREE_THRESHOLD = 5;
 node.append('text')
-  .attr('x', d => 9 + Math.sqrt(d.degree) * 2.5)
+  .attr('x', d => 8 + Math.sqrt(d.degree) * 2.2)
   .attr('y', 4)
-  .attr('class', 'g-node-label')
-  .attr('font-size', '11px')
+  .attr('class', d => 'g-node-label' + (d.degree >= LABEL_DEGREE_THRESHOLD ? ' g-label-major' : ' g-label-minor'))
+  .attr('font-size', d => d.degree >= 10 ? '12px' : '11px')
   .attr('pointer-events', 'none')
   .text(d => d.title);
 
 node.append('title').text(d => d.title + ' — ' + (CAT_LABELS[d.category] || d.category) + ' · ' + d.degree + ' conexiones');
 
+function updateLabelVisibility() {
+  const showMinor = currentZoom >= 1.35;
+  g.selectAll('text.g-label-minor').style('opacity', showMinor ? 1 : 0);
+}
+
 let focused = null;
 node.on('mouseover', (e, d) => { if (!focused) highlight(d.id); })
     .on('mouseout',  () => { if (!focused) clearHighlight(); })
-    .on('click',     (e, d) => { e.stopPropagation(); focused = (focused === d.id ? null : d.id); if (focused) highlight(focused); else clearHighlight(); })
+    .on('click',     (e, d) => {
+      e.stopPropagation();
+      if (focused === d.id) { clearFocus(); return; }
+      focused = d.id;
+      highlight(focused);
+      renderInfo(d);
+    })
     .on('dblclick',  (e, d) => { e.stopPropagation(); window.location.href = d.id + '.html'; });
 
 function highlight(id) {
@@ -747,7 +769,7 @@ function clearHighlight() {
   link.classed('dim', false).classed('highlight', false)
       .attr('marker-end', 'url(#arrow)');
 }
-function clearFocus() { focused = null; clearHighlight(); }
+function clearFocus() { focused = null; clearHighlight(); renderInfo(null); }
 
 function applyCategoryFilter() {
   node.style('display', n => hiddenCats.has(n.category) ? 'none' : null);
@@ -756,21 +778,26 @@ function applyCategoryFilter() {
     const hideTgt = hiddenCats.has(l.target.category);
     return (hideSrc || hideTgt) ? 'none' : null;
   });
+  renderMini();
 }
 
 sim.on('tick', () => {
   link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
       .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
   node.attr('transform', d => 'translate(' + d.x + ',' + d.y + ')');
+  renderMini();
 });
 
-// clickable legend
 const legendEl = document.getElementById('graph-legend');
-const orderedCats = ['ferias-de-armas','empresas-de-armas','casos','usos-de-armas','autores-y-referencias','herramientas','marco-legal','historia'];
-orderedCats.filter(c => categories.includes(c)).forEach(c => {
+const catCount = {};
+nodes.forEach(n => { catCount[n.category] = (catCount[n.category]||0) + 1; });
+catList.forEach(c => {
   const btn = document.createElement('button');
   btn.className = 'legend-btn';
-  btn.innerHTML = '<span class="swatch" style="background:' + color(c) + '"></span>' + (CAT_LABELS[c] || c);
+  btn.dataset.cat = c;
+  btn.innerHTML = '<span class="swatch" style="background:' + color(c) + '"></span>' +
+                  '<span class="legend-label">' + (CAT_LABELS[c] || c) + '</span>' +
+                  '<span class="legend-count">' + (catCount[c]||0) + '</span>';
   btn.onclick = () => {
     if (hiddenCats.has(c)) { hiddenCats.delete(c); btn.classList.remove('off'); }
     else { hiddenCats.add(c); btn.classList.add('off'); }
@@ -779,54 +806,255 @@ orderedCats.filter(c => categories.includes(c)).forEach(c => {
   legendEl.appendChild(btn);
 });
 
-// reset button
+const isoEl = document.getElementById('graph-isolate');
+if (isoEl) {
+  const allBtn = document.createElement('button');
+  allBtn.className = 'iso-btn iso-all';
+  allBtn.textContent = 'Todas';
+  allBtn.onclick = () => {
+    hiddenCats.clear();
+    document.querySelectorAll('.legend-btn').forEach(b => b.classList.remove('off'));
+    applyCategoryFilter();
+  };
+  isoEl.appendChild(allBtn);
+  catList.forEach(c => {
+    const b = document.createElement('button');
+    b.className = 'iso-btn';
+    b.title = 'Aislar ' + (CAT_LABELS[c]||c);
+    b.innerHTML = '<span class="swatch" style="background:'+color(c)+'"></span>';
+    b.onclick = () => {
+      hiddenCats.clear();
+      catList.forEach(other => { if (other !== c) hiddenCats.add(other); });
+      document.querySelectorAll('.legend-btn').forEach(btn => {
+        if (btn.dataset.cat === c) btn.classList.remove('off');
+        else btn.classList.add('off');
+      });
+      applyCategoryFilter();
+    };
+    isoEl.appendChild(b);
+  });
+}
+
+const infoEl = document.getElementById('graph-info');
+function renderInfo(d) {
+  if (!infoEl) return;
+  if (!d) { infoEl.classList.remove('visible'); infoEl.innerHTML = ''; return; }
+  const nbrs = [...neighbors[d.id]].filter(id => id !== d.id);
+  const byCat = {};
+  nbrs.forEach(id => {
+    const n = nodes.find(x => x.id === id);
+    if (!n) return;
+    (byCat[n.category] = byCat[n.category] || []).push(n);
+  });
+  let html = '<div class="info-head">'
+    + '<span class="info-swatch" style="background:'+color(d.category)+'"></span>'
+    + '<div class="info-titles"><div class="info-title">'+escapeHtml(d.title)+'</div>'
+    + '<div class="info-cat">'+(CAT_LABELS[d.category]||d.category)+' · '+d.degree+' conexiones</div></div>'
+    + '<button class="info-close" title="Cerrar">×</button></div>'
+    + '<a class="info-open" href="'+d.id+'.html">Abrir nota →</a>';
+  if (nbrs.length) {
+    html += '<div class="info-section-title">Conectado con</div>';
+    Object.keys(byCat).sort((a,b) => catList.indexOf(a) - catList.indexOf(b)).forEach(c => {
+      html += '<div class="info-group"><div class="info-group-head"><span class="swatch" style="background:'+color(c)+'"></span>'+(CAT_LABELS[c]||c)+' <span class="info-count">'+byCat[c].length+'</span></div><ul>';
+      byCat[c].sort((a,b)=>a.title.localeCompare(b.title)).forEach(n => {
+        html += '<li><a href="'+n.id+'.html" data-node="'+n.id+'" class="info-nbr">'+escapeHtml(n.title)+'</a></li>';
+      });
+      html += '</ul></div>';
+    });
+  }
+  infoEl.innerHTML = html;
+  infoEl.classList.add('visible');
+  infoEl.querySelector('.info-close').onclick = () => clearFocus();
+  infoEl.querySelectorAll('.info-nbr').forEach(a => {
+    a.addEventListener('mouseenter', () => {
+      const id = a.dataset.node;
+      node.classed('hover-trace', n => n.id === id);
+    });
+    a.addEventListener('mouseleave', () => {
+      node.classed('hover-trace', false);
+    });
+    a.addEventListener('click', (e) => {
+      if (!e.metaKey && !e.ctrlKey) {
+        e.preventDefault();
+        const id = a.dataset.node;
+        const n = nodes.find(x => x.id === id);
+        if (n) { focused = id; highlight(id); centerOn(n); renderInfo(n); }
+      }
+    });
+  });
+}
+function escapeHtml(s) {
+  return (s+'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function centerOn(n) {
+  if (n.x === undefined) return;
+  const scale = Math.max(currentZoom, 1.3);
+  const tx = width / 2 - n.x * scale;
+  const ty = height / 2 - n.y * scale;
+  svg.transition().duration(450).call(zoomBehavior.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));
+}
+
 document.getElementById('graph-reset').onclick = () => {
   hiddenCats.clear();
   document.querySelectorAll('.legend-btn').forEach(b => b.classList.remove('off'));
   applyCategoryFilter();
   clearFocus();
-  sim.alpha(0.8).restart();
+  searchInput.value = '';
+  applySearchHighlight('');
+  svg.transition().duration(450).call(zoomBehavior.transform, d3.zoomIdentity);
+  sim.alpha(0.7).restart();
 };
 
-// search input — highlights + centers matching nodes
 const searchInput = document.getElementById('graph-search');
-const norm = s => (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+const searchResultsEl = document.getElementById('graph-search-results');
+const norm = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+
 function applySearchHighlight(query) {
   const q = norm((query || '').trim());
   if (!q) {
     node.classed('g-match', false).classed('g-search-dim', false);
     link.classed('g-search-dim', false);
+    if (searchResultsEl) { searchResultsEl.innerHTML = ''; searchResultsEl.classList.remove('visible'); }
     return;
   }
-  const matches = new Set();
+  const matches = [];
   nodes.forEach(n => {
-    if (norm(n.title).includes(q) || norm(n.id).includes(q)) matches.add(n.id);
+    if (norm(n.title).includes(q) || norm(n.id).includes(q)) matches.push(n);
   });
-  node.classed('g-match', d => matches.has(d.id))
-      .classed('g-search-dim', d => !matches.has(d.id));
-  link.classed('g-search-dim', l => !matches.has(l.source.id) && !matches.has(l.target.id));
-  // center on first match
-  if (matches.size > 0) {
-    const firstId = matches.values().next().value;
-    const first = nodes.find(n => n.id === firstId);
-    if (first && first.x !== undefined) {
-      const scale = 1.4;
-      const tx = width / 2 - first.x * scale;
-      const ty = height / 2 - first.y * scale;
-      svg.transition().duration(500).call(
-        zoomBehavior.transform,
-        d3.zoomIdentity.translate(tx, ty).scale(scale)
-      );
+  matches.sort((a,b) => b.degree - a.degree);
+  const matchSet = new Set(matches.map(n => n.id));
+  node.classed('g-match', d => matchSet.has(d.id))
+      .classed('g-search-dim', d => !matchSet.has(d.id));
+  link.classed('g-search-dim', l => !matchSet.has(l.source.id) && !matchSet.has(l.target.id));
+  if (searchResultsEl) {
+    if (matches.length === 0) {
+      searchResultsEl.innerHTML = '<div class="search-empty">Sin resultados</div>';
+    } else {
+      const top = matches.slice(0, 12);
+      searchResultsEl.innerHTML = top.map(n =>
+        '<button class="search-item" data-id="'+n.id+'">' +
+        '<span class="swatch" style="background:'+color(n.category)+'"></span>' +
+        '<span class="search-item-title">'+escapeHtml(n.title)+'</span>' +
+        '<span class="search-item-cat">'+(CAT_LABELS[n.category]||n.category)+'</span>' +
+        '</button>'
+      ).join('') + (matches.length > 12 ? '<div class="search-empty">+'+(matches.length-12)+' más…</div>' : '');
+      searchResultsEl.querySelectorAll('.search-item').forEach(b => {
+        b.onclick = () => {
+          const id = b.dataset.id;
+          const n = nodes.find(x => x.id === id);
+          if (!n) return;
+          focused = id; highlight(id); centerOn(n); renderInfo(n);
+          searchResultsEl.classList.remove('visible');
+        };
+      });
     }
+    searchResultsEl.classList.add('visible');
   }
+  if (matches.length > 0) centerOn(matches[0]);
 }
 searchInput.addEventListener('input', (e) => applySearchHighlight(e.target.value));
 searchInput.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') {
-    searchInput.value = '';
-    applySearchHighlight('');
+    searchInput.value = ''; applySearchHighlight(''); searchInput.blur();
+  } else if (e.key === 'Enter') {
+    const first = searchResultsEl && searchResultsEl.querySelector('.search-item');
+    if (first) first.click();
   }
 });
+searchInput.addEventListener('focus', () => {
+  if (searchInput.value) applySearchHighlight(searchInput.value);
+});
+document.addEventListener('click', (e) => {
+  if (searchResultsEl && !searchResultsEl.contains(e.target) && e.target !== searchInput) {
+    searchResultsEl.classList.remove('visible');
+  }
+});
+
+document.addEventListener('keydown', (e) => {
+  if (document.activeElement === searchInput) return;
+  if (e.key === '/' || e.key === 'f') { e.preventDefault(); searchInput.focus(); }
+  else if (e.key === 'Escape') { clearFocus(); searchInput.value = ''; applySearchHighlight(''); }
+  else if (e.key === '0') { svg.transition().duration(400).call(zoomBehavior.transform, d3.zoomIdentity); }
+  else if (e.key === '+' || e.key === '=') { svg.transition().duration(200).call(zoomBehavior.scaleBy, 1.3); }
+  else if (e.key === '-') { svg.transition().duration(200).call(zoomBehavior.scaleBy, 0.7); }
+});
+
+const zoomInBtn = document.getElementById('zoom-in');
+const zoomOutBtn = document.getElementById('zoom-out');
+const zoomFitBtn = document.getElementById('zoom-fit');
+if (zoomInBtn) zoomInBtn.onclick = () => svg.transition().duration(200).call(zoomBehavior.scaleBy, 1.3);
+if (zoomOutBtn) zoomOutBtn.onclick = () => svg.transition().duration(200).call(zoomBehavior.scaleBy, 0.7);
+if (zoomFitBtn) zoomFitBtn.onclick = () => svg.transition().duration(400).call(zoomBehavior.transform, d3.zoomIdentity);
+
+const miniSvg = d3.select('#graph-mini svg');
+const miniW = 180, miniH = 130;
+var miniNodes = null, miniViewport = null, miniBounds = null, miniLast = 0;
+if (miniSvg.size()) {
+  miniSvg.attr('viewBox', '0 0 ' + miniW + ' ' + miniH).append('rect')
+    .attr('width', miniW).attr('height', miniH).attr('class', 'mini-bg');
+  miniNodes = miniSvg.append('g');
+  miniViewport = miniSvg.append('rect').attr('class', 'mini-viewport').attr('fill', 'none');
+  miniSvg.on('click', function(e) {
+    const rect = miniSvg.node().getBoundingClientRect();
+    const px = (e.clientX - rect.left) / rect.width * miniW;
+    const py = (e.clientY - rect.top) / rect.height * miniH;
+    if (!miniBounds) return;
+    const [minX, minY, maxX, maxY] = miniBounds;
+    const sx = (maxX - minX) / miniW;
+    const sy = (maxY - minY) / miniH;
+    const gx = minX + px * sx;
+    const gy = minY + py * sy;
+    const tx = width / 2 - gx * currentZoom;
+    const ty = height / 2 - gy * currentZoom;
+    svg.transition().duration(300).call(zoomBehavior.transform, d3.zoomIdentity.translate(tx, ty).scale(currentZoom));
+  });
+}
+function renderMini() {
+  if (!miniNodes) return;
+  const now = performance.now();
+  if (now - miniLast < 80) return;
+  miniLast = now;
+  const visible = nodes.filter(n => !hiddenCats.has(n.category));
+  if (!visible.length) return;
+  let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+  visible.forEach(n => {
+    if (n.x === undefined) return;
+    if (n.x < minX) minX = n.x; if (n.x > maxX) maxX = n.x;
+    if (n.y < minY) minY = n.y; if (n.y > maxY) maxY = n.y;
+  });
+  if (!isFinite(minX)) return;
+  const padX = (maxX - minX) * 0.08 || 40;
+  const padY = (maxY - minY) * 0.08 || 40;
+  minX -= padX; minY -= padY; maxX += padX; maxY += padY;
+  miniBounds = [minX, minY, maxX, maxY];
+  const sx = miniW / (maxX - minX);
+  const sy = miniH / (maxY - minY);
+  const dots = miniNodes.selectAll('circle').data(visible, d => d.id);
+  dots.enter().append('circle')
+    .merge(dots)
+    .attr('cx', d => (d.x - minX) * sx)
+    .attr('cy', d => (d.y - minY) * sy)
+    .attr('r', d => Math.max(0.8, Math.sqrt(d.degree) * 0.45))
+    .attr('fill', d => color(d.category));
+  dots.exit().remove();
+  const t = d3.zoomTransform(svg.node());
+  const vx = (-t.x / t.k - minX) * sx;
+  const vy = (-t.y / t.k - minY) * sy;
+  const vw = (width / t.k) * sx;
+  const vh = (height / t.k) * sy;
+  miniViewport
+    .attr('x', Math.max(0, vx))
+    .attr('y', Math.max(0, vy))
+    .attr('width', Math.min(miniW, Math.max(0, vw)))
+    .attr('height', Math.min(miniH, Math.max(0, vh)));
+}
+
+window.addEventListener('resize', () => {
+  const w = window.innerWidth, h = window.innerHeight - 60;
+  svg.attr('width', w).attr('height', h);
+});
+
+updateLabelVisibility();
 """
 
 
@@ -1159,23 +1387,42 @@ def graph_page_html(graph_data):
 <header class="graph-header">
   <a class="brand" href="index.html">◂ Artefactos de Guerra</a>
   <span class="graph-title">Grafo de conexiones</span>
+  <div class="graph-search-wrap">
+    <input id="graph-search" type="search" placeholder="Buscar nodo…  (atajo: /)" autocomplete="off" spellcheck="false">
+    <div id="graph-search-results" class="search-results"></div>
+  </div>
   <div class="graph-actions">
-    <input id="graph-search" type="search" placeholder="Buscar nodo…" autocomplete="off" spellcheck="false">
-    <button id="graph-reset" title="Reset">↺ Reset</button>
-    <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐ Tema</button>
+    <button id="zoom-out" title="Zoom out (-)">−</button>
+    <button id="zoom-fit" title="Centrar (0)">⊙</button>
+    <button id="zoom-in" title="Zoom in (+)">+</button>
+    <button id="graph-reset" title="Reset todo">↺</button>
+    <button id="theme-toggle" class="theme-toggle" type="button" title="Cambiar tema">◐</button>
   </div>
 </header>
 <aside class="graph-panel">
-  <h4>Categorías</h4>
-  <div id="graph-legend"></div>
-  <p class="graph-help">
-    <b>Hover</b> un nodo → resalta sus vecinos.<br>
-    <b>Click</b> → fija el foco.<br>
-    <b>Doble click</b> → abre la nota.<br>
-    <b>Drag</b> → mover. <b>Rueda</b> → zoom.<br>
-    <b>Click en leyenda</b> → ocultar categoría.
-  </p>
+  <div class="panel-section">
+    <h4>Categorías</h4>
+    <div id="graph-legend"></div>
+  </div>
+  <div class="panel-section">
+    <h4>Aislar</h4>
+    <div id="graph-isolate" class="isolate-row"></div>
+  </div>
+  <details class="panel-help">
+    <summary>Cómo navegar</summary>
+    <ul>
+      <li><b>Hover</b>: resalta vecinos.</li>
+      <li><b>Click</b>: fija foco y abre panel.</li>
+      <li><b>Doble click</b>: abre la nota.</li>
+      <li><b>/</b> o <b>f</b>: buscar.</li>
+      <li><b>+ / −</b>: zoom. <b>0</b>: centrar. <b>Esc</b>: reset.</li>
+      <li><b>Click leyenda</b>: ocultar categoría.</li>
+      <li><b>Aislar</b>: muestra solo esa categoría.</li>
+    </ul>
+  </details>
 </aside>
+<aside id="graph-info" class="graph-info"></aside>
+<div id="graph-mini" class="graph-mini" title="Mini-mapa — clic para centrar"><svg></svg></div>
 <div id="graph"></div>
 <script>{js}</script>
 <script>
@@ -1618,41 +1865,114 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .graph-page { background: var(--bg); overflow: hidden; color: var(--fg); }
 .graph-page svg text { fill: var(--fg); paint-order: stroke; stroke: var(--bg); stroke-width: 3px; stroke-linejoin: round; }
 .graph-page .g-node-label { fill: var(--fg); }
+.graph-page .g-label-major { font-weight: 600; }
+.graph-page .g-label-minor { opacity: 0; transition: opacity .25s; }
 .graph-page .g-node-circle { stroke: var(--bg); }
 .graph-page .arrow-path { fill: var(--fg-dim); }
 .graph-page .arrow-path-hot { fill: var(--accent); }
-.graph-page .links line { stroke: var(--fg-dim) !important; stroke-opacity: 0.35; }
-.graph-page .links line.dim { stroke-opacity: 0.06; }
+.graph-page .links line { stroke: var(--fg-dim) !important; stroke-opacity: 0.3; }
+.graph-page .links line.dim { stroke-opacity: 0.05; }
 .graph-page .links line.highlight { stroke: var(--accent) !important; stroke-opacity: 0.95; stroke-width: 2; }
-.graph-page .nodes .node.highlight circle { stroke: var(--fg) !important; stroke-width: 2.5; }
-.graph-header { display:flex; align-items:center; gap:18px; padding:14px 22px; background:var(--bg-panel); border-bottom:1px solid var(--border); position: relative; z-index: 10; }
-.graph-header .graph-actions { margin-left: auto; }
-.graph-header button,
-.graph-header select { background:var(--bg-hover); color:var(--fg); border:1px solid var(--border); border-radius:6px; padding:6px 12px; font-size:12px; cursor:pointer; }
-.graph-header button:hover,
-.graph-header select:hover { border-color:var(--accent); }
-.graph-header select { margin-right: 6px; }
-.graph-header #graph-search { background: var(--bg-hover); color: var(--fg); border: 1px solid var(--border); border-radius: 6px; padding: 6px 12px; font-size: 12px; margin-right: 6px; width: 180px; outline: none; }
+.graph-page .nodes .node.highlight circle { stroke: var(--fg) !important; stroke-width: 3; filter: drop-shadow(0 0 8px var(--accent)); }
+.graph-page .nodes .node.hover-trace circle { stroke: #ffd54a !important; stroke-width: 3; filter: drop-shadow(0 0 8px rgba(255, 213, 74, .8)); }
+
+/* Header */
+.graph-header { display:flex; align-items:center; gap:14px; padding:12px 22px; background:var(--bg-panel); border-bottom:1px solid var(--border); position: relative; z-index: 20; }
+.graph-header .graph-actions { margin-left: auto; display:flex; gap:6px; }
+.graph-header button { background:var(--bg-hover); color:var(--fg); border:1px solid var(--border); border-radius:6px; padding:6px 10px; font-size:13px; cursor:pointer; min-width: 32px; height: 32px; display: inline-flex; align-items: center; justify-content: center; }
+.graph-header button:hover { border-color:var(--accent); }
+.graph-header .graph-search-wrap { position: relative; }
+.graph-header #graph-search { background: var(--bg-hover); color: var(--fg); border: 1px solid var(--border); border-radius: 6px; padding: 7px 12px; font-size: 13px; width: 260px; outline: none; }
 .graph-header #graph-search::placeholder { color: var(--fg-dim); }
 .graph-header #graph-search:focus { border-color: var(--accent); }
+.graph-title { color: var(--fg-dim); font-size:13px; text-transform:uppercase; letter-spacing:.6px; }
+
+/* Search dropdown */
+.graph-page .search-results { display: none; position: absolute; top: calc(100% + 6px); left: 0; width: 360px; max-height: 60vh; overflow-y: auto; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 8px 24px rgba(0,0,0,.4); z-index: 50; padding: 4px; }
+.graph-page .search-results.visible { display: block; }
+.graph-page .search-item { display: flex; align-items: center; gap: 10px; width: 100%; background: transparent; border: 0; border-radius: 6px; padding: 8px 10px; cursor: pointer; text-align: left; color: var(--fg); font-size: 13px; }
+.graph-page .search-item:hover { background: var(--bg-hover); }
+.graph-page .search-item .swatch { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.graph-page .search-item-title { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.graph-page .search-item-cat { font-size: 11px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .4px; }
+.graph-page .search-empty { padding: 10px 12px; font-size: 12px; color: var(--fg-dim); }
+
+/* Search highlight on graph */
 .nodes .node.g-match circle { stroke: #ffd54a !important; stroke-width: 3.5 !important; filter: drop-shadow(0 0 6px rgba(255, 213, 74, 0.9)); }
-.nodes .node.g-match text { fill: #ffd54a !important; font-weight: 700; font-size: 13px !important; }
+.nodes .node.g-match text { fill: #ffd54a !important; font-weight: 700; font-size: 13px !important; opacity: 1 !important; }
 .nodes .node.g-search-dim { opacity: 0.1; }
 .links line.g-search-dim { stroke-opacity: 0.04; }
-.graph-title { color: var(--fg-dim); font-size:13px; text-transform:uppercase; letter-spacing:.6px; }
-.graph-panel { position: fixed; top: 80px; left: 20px; width: 240px; background: var(--bg-panel); border:1px solid var(--border); border-radius: 10px; padding: 14px 16px; z-index: 5; backdrop-filter: blur(6px); }
-.graph-panel h4 { margin: 0 0 8px 0; font-size: 11px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); }
-.graph-panel .legend-btn { display: flex; align-items: center; gap: 8px; width: 100%; background: transparent; border: 1px solid transparent; color: var(--fg); padding: 6px 8px; border-radius: 6px; cursor: pointer; font-size: 13px; text-align: left; margin-bottom: 2px; transition: background .15s; }
+
+/* Left panel — categorías + aislar + ayuda */
+.graph-panel { position: fixed; top: 78px; left: 20px; width: 250px; background: var(--bg-panel); border:1px solid var(--border); border-radius: 12px; padding: 14px 14px 8px 14px; z-index: 8; backdrop-filter: blur(6px); box-shadow: 0 4px 18px rgba(0,0,0,.25); max-height: calc(100vh - 100px); overflow-y: auto; }
+.graph-panel .panel-section { margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px solid var(--border); }
+.graph-panel .panel-section:last-of-type { border-bottom: none; }
+.graph-panel h4 { margin: 0 0 6px 0; font-size: 10px; text-transform: uppercase; letter-spacing: .8px; color: var(--fg-dim); font-weight: 600; }
+.graph-panel .legend-btn { display: flex; align-items: center; gap: 8px; width: 100%; background: transparent; border: 1px solid transparent; color: var(--fg); padding: 5px 8px; border-radius: 6px; cursor: pointer; font-size: 13px; text-align: left; margin-bottom: 1px; transition: background .15s; }
 .graph-panel .legend-btn:hover { background: var(--bg-hover); }
 .graph-panel .legend-btn.off { opacity: .35; text-decoration: line-through; }
+.graph-panel .legend-label { flex: 1; }
+.graph-panel .legend-count { font-size: 11px; color: var(--fg-dim); font-variant-numeric: tabular-nums; }
 .graph-panel .swatch { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; border: 1px solid var(--border); }
-.graph-help { margin: 14px 0 0 0; padding-top: 12px; border-top: 1px solid var(--border); font-size: 11px; line-height: 1.6; color: var(--fg-dim); }
-.graph-help b { color: var(--fg); }
+
+/* Isolate row */
+.graph-panel .isolate-row { display: flex; flex-wrap: wrap; gap: 4px; }
+.graph-panel .iso-btn { background: transparent; border: 1px solid var(--border); border-radius: 6px; width: 26px; height: 26px; padding: 0; display: inline-flex; align-items: center; justify-content: center; cursor: pointer; transition: border-color .15s, transform .1s; }
+.graph-panel .iso-btn:hover { transform: scale(1.1); border-color: var(--accent); }
+.graph-panel .iso-btn .swatch { width: 12px; height: 12px; border: 0; }
+.graph-panel .iso-btn.iso-all { width: auto; padding: 0 8px; font-size: 11px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .6px; }
+.graph-panel .iso-btn.iso-all:hover { color: var(--fg); }
+
+/* Collapsible help */
+.graph-panel .panel-help { font-size: 11px; color: var(--fg-dim); margin-top: 4px; }
+.graph-panel .panel-help summary { cursor: pointer; padding: 4px 0; font-size: 10px; text-transform: uppercase; letter-spacing: .8px; user-select: none; }
+.graph-panel .panel-help summary::marker { color: var(--fg-dim); }
+.graph-panel .panel-help ul { list-style: none; padding: 6px 0 0 0; margin: 0; line-height: 1.7; }
+.graph-panel .panel-help b { color: var(--fg); background: var(--bg-hover); padding: 1px 5px; border-radius: 3px; font-size: 10.5px; }
+
+/* Right info panel */
+.graph-info { position: fixed; top: 78px; right: 20px; width: 320px; max-height: calc(100vh - 100px); overflow-y: auto; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 12px; padding: 0; z-index: 8; box-shadow: 0 4px 24px rgba(0,0,0,.35); opacity: 0; transform: translateX(20px); transition: opacity .25s, transform .25s; pointer-events: none; }
+.graph-info.visible { opacity: 1; transform: translateX(0); pointer-events: auto; }
+.graph-info .info-head { display: flex; align-items: flex-start; gap: 10px; padding: 14px 16px 12px 16px; border-bottom: 1px solid var(--border); }
+.graph-info .info-swatch { width: 14px; height: 14px; border-radius: 50%; margin-top: 4px; flex-shrink: 0; border: 1.5px solid var(--bg); }
+.graph-info .info-titles { flex: 1; }
+.graph-info .info-title { font-size: 15px; font-weight: 600; line-height: 1.25; color: var(--fg); }
+.graph-info .info-cat { font-size: 11px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .6px; margin-top: 4px; }
+.graph-info .info-close { background: transparent; border: 0; color: var(--fg-dim); cursor: pointer; font-size: 22px; line-height: 1; padding: 0 6px; }
+.graph-info .info-close:hover { color: var(--fg); }
+.graph-info .info-open { display: block; margin: 10px 16px; padding: 8px 12px; background: var(--accent); color: var(--bg); border-radius: 6px; text-align: center; font-size: 13px; font-weight: 600; text-decoration: none; }
+.graph-info .info-open:hover { filter: brightness(1.15); }
+.graph-info .info-section-title { font-size: 10px; text-transform: uppercase; letter-spacing: .8px; color: var(--fg-dim); padding: 8px 16px 4px 16px; border-top: 1px solid var(--border); margin-top: 8px; }
+.graph-info .info-group { padding: 4px 16px 8px 16px; }
+.graph-info .info-group-head { display: flex; align-items: center; gap: 6px; font-size: 11px; text-transform: uppercase; letter-spacing: .5px; color: var(--fg-dim); padding: 6px 0 4px 0; font-weight: 600; }
+.graph-info .info-group-head .swatch { width: 8px; height: 8px; border-radius: 50%; border: 0; }
+.graph-info .info-group-head .info-count { margin-left: auto; opacity: .8; }
+.graph-info .info-group ul { list-style: none; padding: 0; margin: 0; }
+.graph-info .info-group li { padding: 0; }
+.graph-info .info-nbr { display: block; padding: 4px 8px; font-size: 13px; color: var(--fg); text-decoration: none; border-radius: 4px; line-height: 1.3; }
+.graph-info .info-nbr:hover { background: var(--bg-hover); color: var(--accent); }
+
+/* Mini-map */
+.graph-mini { position: fixed; bottom: 18px; right: 20px; width: 200px; height: 150px; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; padding: 8px; z-index: 7; box-shadow: 0 4px 12px rgba(0,0,0,.3); }
+.graph-mini svg { width: 100%; height: 100%; cursor: pointer; }
+.graph-mini .mini-bg { fill: var(--bg); }
+.graph-mini .mini-viewport { stroke: var(--accent); stroke-width: 1.2; fill: rgba(255,255,255,.04); pointer-events: none; }
+[data-theme="light"] .graph-mini .mini-viewport { fill: rgba(0,0,0,.04); }
+
 #graph { width:100vw; height:calc(100vh - 60px); }
 .links line { transition: stroke .2s, stroke-opacity .2s, stroke-width .2s; }
 .nodes .node { cursor: pointer; transition: opacity .2s; }
 .nodes .node.dim { opacity: 0.14; }
 .nodes .node text { pointer-events: none; font-family: -apple-system, sans-serif; }
+
+@media (max-width: 1100px) {
+  .graph-info { width: 280px; }
+}
+@media (max-width: 900px) {
+  .graph-mini { display: none; }
+  .graph-info { display: none; }
+  .graph-panel { position: static; width: auto; margin: 14px; max-height: none; }
+}
 
 /* Local graph embedded in note page */
 .local-graph-wrap { margin-top: 40px; padding: 16px 20px; background:var(--bg-panel); border:1px solid var(--border); border-radius: 14px; }
@@ -1677,21 +1997,21 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 
 @media (max-width: 900px) {
   .links-block { grid-template-columns: 1fr; }
-  .graph-panel { position: static; width: auto; margin: 14px; }
 }
 
-.search-results { position: fixed; top: 0; left: 280px; right: 0; background: rgba(14,14,16,.97); padding: 24px 52px; max-height: 80vh; overflow-y: auto; display:none; z-index:100; border-bottom: 1px solid var(--border); }
-.search-results.open { display: block; }
-.search-results h3 { margin-top: 0; }
-.search-result { padding: 10px 0; border-bottom: 1px solid var(--border); }
-.search-result b { color: var(--accent); }
-.search-result .cat { font-size: 11px; color: var(--fg-dim); text-transform: uppercase; }
+/* Global site-search results (NOT graph-page). Specificity-scoped to body:not(.graph-page) via cascade order. */
+body:not(.graph-page) .search-results { position: fixed; top: 0; left: 280px; right: 0; background: rgba(14,14,16,.97); padding: 24px 52px; max-height: 80vh; overflow-y: auto; display:none; z-index:100; border-bottom: 1px solid var(--border); }
+body:not(.graph-page) .search-results.open { display: block; }
+body:not(.graph-page) .search-results h3 { margin-top: 0; }
+body:not(.graph-page) .search-result { padding: 10px 0; border-bottom: 1px solid var(--border); }
+body:not(.graph-page) .search-result b { color: var(--accent); }
+body:not(.graph-page) .search-result .cat { font-size: 11px; color: var(--fg-dim); text-transform: uppercase; }
 
 @media (max-width: 800px) {
   .layout { grid-template-columns: 1fr; }
   .sidebar { position: static; height: auto; }
   .content { padding: 24px 22px 60px 22px; }
-  .search-results { left: 0; padding: 18px 22px; }
+  body:not(.graph-page) .search-results { left: 0; padding: 18px 22px; }
 }
 """
 

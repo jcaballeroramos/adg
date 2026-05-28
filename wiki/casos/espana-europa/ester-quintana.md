@@ -92,7 +92,7 @@ Ester creó la campaña **"Ojo con tu ojo"** desde 2010 para empezar la comunica
 
 ## Conexiones
 - ↔ [[inigo-cabacas]] y [[roger-espanol]] — los tres casos canónicos.
-- ↔ [[carlos-guillot]] — Casa de la Montaña 2001, compañero en Stop Balas de Goma.
+- ↔ [[carles-guillot]] — Casa de la Montaña 2001, compañero en Stop Balas de Goma.
 - ↔ [[nicola-celebracion-mundial]] — cofundador de Stop Balas de Goma.
 - ↔ [[juan-andres-benitez]] — el otro caso que impulsó la prohibición 2014.
 - ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo.

@@ -111,7 +111,7 @@ El colectivo ha identificado un **patrón histórico**:
 - ↔ [[../../marco-legal/bibliografia/ciivo-falsa-menor-letalidad-2026]] — las balas de goma deben evaluarse por precisión real.
 - ↔ [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]] — impactos postraumáticos.
 - ↔ [[ester-quintana]] — compañera de Stop Balas de Goma.
-- ↔ [[carlos-guillot]] — Casa de la Montaña 2001, compañero.
+- ↔ [[carles-guillot]] — Casa de la Montaña 2001, compañero.
 - ↔ [[nicola-celebracion-mundial]] — cofundador de Stop Balas de Goma.
 - ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo.
 - ↔ [[../latam/fabiola-campillai]] — Chile, caso paradigmático.

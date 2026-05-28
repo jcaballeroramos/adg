@@ -68,7 +68,7 @@ La campaña se inserta en un momento de **represión en Italia** marcado por los
 ## Conexiones
 - ↔ [[../espana-europa/ester-quintana]] — caso paralelo en Barcelona 2012
 - ↔ [[../espana-europa/roger-espanol]] — 1-O 2017, pelota de goma
-- ↔ [[../espana-europa/carlos-guillot]] — Casa de la Montaña 2001
+- ↔ [[../espana-europa/carles-guillot]] — Casa de la Montaña 2001
 - ↔ [[../latam/fabiola-campillai]] — Chile 2019
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — campaña "Ojo con tu ojo"
 - ↔ [[../../historia/balas-goma]] — genealogía del arma

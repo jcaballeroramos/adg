@@ -70,7 +70,7 @@ El colectivo tiene como principios:
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — organización cofundada por Nicola
 - ↔ [[ester-quintana]] — colaboran en "Ojo con tu ojo"
 - ↔ [[roger-espanol]] — mismo colectivo de apoyo
-- ↔ [[carlos-guillot]] — otro mutilado de Barcelona
+- ↔ [[carles-guillot]] — caso paralelo de mutilación en Barcelona
 - ↔ [[juan-andres-benitez]] — detonante de la eliminación de un proyectil
 - ↔ [[inigo-cabacas]] — acompañamiento a la familia
 - ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo
