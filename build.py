@@ -722,33 +722,66 @@ const colBg = columnG.selectAll('rect').data(catList).enter().append('rect')
   .attr('rx', 14)
   .on('click', (e, d) => { e.stopPropagation(); toggleIsolate(d); });
 
+// Short variants used when the column is too narrow to display the full label
+const CAT_SHORT = {
+  'historia':              'HISTORIA',
+  'marco-legal':           'LEGAL',
+  'empresas-de-armas':     'EMPRESAS',
+  'ferias-de-armas':       'FERIAS',
+  'usos-de-armas':         'USOS',
+  'casos':                 'CASOS',
+  'autores-y-referencias': 'AUTORES',
+  'herramientas':          'HERRAM.',
+};
+
 // --- Column TITLES on a fixed overlay layer (do NOT zoom/pan with the graph).
-//     This guarantees nodes can never overlap the headers visually. ---
+//     Pills are sized to the column width, never to the text width. ---
 const titlesLayer = svg.append('g').attr('class', 'titles-fixed').attr('pointer-events', 'all');
 const colTitle = titlesLayer.selectAll('g').data(catList).enter().append('g')
   .attr('class', 'column-title-wrap')
   .attr('data-cat', d => d)
   .style('cursor', 'pointer')
   .on('click', (e, d) => { e.stopPropagation(); toggleIsolate(d); });
-colTitle.append('rect').attr('class', 'column-title-bg').attr('rx', 6).attr('ry', 6);
+colTitle.append('rect').attr('class', 'column-title-bg').attr('rx', 8).attr('ry', 8);
 colTitle.append('text')
   .attr('class', 'column-title-text')
   .attr('text-anchor', 'middle')
-  .attr('fill', d => color(d))
-  .attr('y', 26)
-  .text(d => (CAT_LABELS[d] || d).toUpperCase());
+  .attr('fill', d => color(d));
+
+const PILL_H = 28;
+const PILL_GAP = 8;     // gap between adjacent pills
+const PILL_PAD_X = 14;  // inner horizontal padding for text
 
 function positionTitles() {
   const t = d3.zoomTransform(svg.node());
-  colTitle.attr('transform', d => 'translate(' + t.applyX(catX[d]) + ', 8)');
-  // size the bg pill to wrap the text
-  colTitle.each(function() {
-    const txt = d3.select(this).select('text').node();
-    if (!txt) return;
-    const bb = txt.getBBox();
-    d3.select(this).select('rect')
-      .attr('x', bb.x - 10).attr('y', bb.y - 5)
-      .attr('width', bb.width + 20).attr('height', bb.height + 10);
+  const screenColW = colWidth * t.k;
+  // Pill width: tight to its column, minus a small gap on each side
+  const pillW = Math.max(40, screenColW - PILL_GAP);
+  colTitle.each(function(d) {
+    const wrap = d3.select(this);
+    const cx = t.applyX(catX[d]);
+    wrap.attr('transform', 'translate(' + (cx - pillW / 2) + ', 8)');
+    wrap.select('rect')
+      .attr('x', 0).attr('y', 0)
+      .attr('width', pillW).attr('height', PILL_H);
+    const txt = wrap.select('text')
+      .attr('x', pillW / 2)
+      .attr('y', PILL_H / 2 + 4)
+      .attr('font-size', null);
+    // Try full label first; if too wide, fall back to short; if still too wide, shrink font.
+    const fullLabel = (CAT_LABELS[d] || d).toUpperCase();
+    txt.text(fullLabel);
+    let bbW = txt.node().getBBox().width;
+    const inner = pillW - PILL_PAD_X;
+    if (bbW > inner) {
+      const shortLabel = (CAT_SHORT[d] || fullLabel).toUpperCase();
+      txt.text(shortLabel);
+      bbW = txt.node().getBBox().width;
+      if (bbW > inner) {
+        const scale = inner / bbW;
+        txt.attr('font-size', Math.max(8, Math.floor(12 * scale)) + 'px');
+      }
+    }
   });
 }
 
@@ -2099,9 +2132,9 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 /* Fixed column titles overlay — never zoom/pan, always readable on top of nodes */
 .graph-page .titles-fixed { pointer-events: all; }
 .graph-page .column-title-wrap { transition: opacity .2s; }
-.graph-page .column-title-bg { fill: var(--bg-panel); fill-opacity: 0.92; stroke: var(--border); stroke-width: 1; transition: fill-opacity .15s, stroke-width .15s; }
+.graph-page .column-title-bg { fill: var(--bg-panel); fill-opacity: 0.96; stroke: var(--border); stroke-width: 1; transition: fill-opacity .15s, stroke-width .15s; }
 .graph-page .column-title-wrap:hover .column-title-bg { fill-opacity: 1; stroke-width: 1.5; }
-.graph-page .column-title-text { font-size: 12px; font-weight: 700; letter-spacing: 1.8px; stroke: none; }
+.graph-page .column-title-text { font-size: 12px; font-weight: 700; letter-spacing: 1.4px; stroke: none; dominant-baseline: middle; }
 
 /* Collapsible help */
 .graph-panel .panel-help { font-size: 11px; color: var(--fg-dim); margin-top: 4px; }
