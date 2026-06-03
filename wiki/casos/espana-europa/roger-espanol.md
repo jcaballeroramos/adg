@@ -1,120 +1,220 @@
 ---
 tipo: caso
 estado: borrador
-victima: Roger Español
-arma: pelota de goma (Policía Nacional)
-lugar: Barcelona, calle Sardenya
+victima: Roger Español i Tor
+edad_hechos: 38
+pais: España
+ciudad: Barcelona
 fecha_hechos: 2017-10-01
-tags: [roger-espanol, 1-O, balas-de-goma, iridia, mossos, amnistía]
+lugar: Escola Ramon Llull, Eixample (calle Sardenya)
+contexto: Referéndum 1-O — Policía Nacional cargó contra el colegio electoral
+arma: pelota de goma (escopeta Franchi SPS 350)
+cuerpo: Policía Nacional · Unidad de Intervención Policial (UIP)
+agente: UC-563 (Carnet Profesional 110.843)
+resultado: pérdida total de visión del ojo derecho
+juicio_oral: 16-17-30 septiembre + 1 octubre 2026 — Sección 2ª Audiencia Provincial Barcelona
+tags: [roger-espanol, 1-O, balas-goma, iridia, policia-nacional, ramon-llull, amnistía, uc-563, juicio-2026]
 ---
 
-# Caso · Roger Español
+# Caso · Roger Español i Tor — 1-O Barcelona (2017)
 
-## Línea de tiempo
+**Víctima**: Roger Español i Tor (Tarragona, 1979 — residente en Barcelona)
+**Lugar**: Escola Ramon Llull, calle Sardenya, Eixample, Barcelona
+**Fecha**: 1 de octubre de 2017
+**Arma**: pelota de goma de la Policía Nacional (Unidad de Intervención Policial — UIP)
+**Resultado**: estallido y pérdida total de visión del ojo derecho
 
-### 1 oct 2017 — Los hechos
-Durante el referéndum de independencia de Cataluña, un escopetero de la **Policía Nacional** dispara con pelota de goma a Roger Español. La acusación (dirigida por **Irídia**) sostiene que disparó **desde 14 m** — la normativa establecía 50 m mínimo. El agente disparó **tres veces** hacia el lugar donde estaba Español. Fue el tercer pelotazo el que le provocó el **estallido del globo ocular derecho**.
+---
 
-Contexto crucial: las balas de goma estaban **prohibidas para los Mossos d'Esquadra por el Parlament desde 2014**. La Policía Nacional siguió usándolas.
+## Datos biográficos
 
-### Junio 2019 — Identificación del agente
-Casi dos años después, Roger Español comparece para anunciar que el agente ha sido identificado. La identificación fue posible gracias a un **informe de análisis audiovisual elaborado por Irídia** tras año y medio de trabajo, cruzando vídeos y fotos desde múltiples ángulos. Indicios: elementos diferenciales de la vestimenta, posición y características físicas.
+- **38 años** el 1-O 2017. Saxofonista de profesión: estudios en el Conservatorio del Liceu, donde trabajó como ordenanza. Tocaba en el grupo de ska jamaicano **Soweto** y en otras formaciones de fiestas mayores. La lesión interrumpió su trayectoria musical y la pandemia desmanteló los grupos en los que tocaba.
+- Cinco años después del 1-O trabajaba en la recepción y administración de un instituto de secundaria en **Fort Pienc (Barcelona)**, a diez minutos a pie del lugar donde fue disparado.
+- Activista independentista. Carrera política breve: candidato al Congreso por el Front Republicà (28-A 2019), cabeza de lista al Senado por JxCat por Barcelona (10-N 2019), vinculado a la **Coalición de Represaliadas** para las autonómicas de febrero de 2021.
+- **Creu de Sant Jordi 2018** (entregada por el president Quim Torra "por su defensa del referéndum"). La **devolvió en enero de 2024** en protesta por la ley de amnistía: *"He de encarar un juicio y quiero ir bien ligero, sin cargas."*
+- Episodio Vox: en Sant Jordi de 2019 militantes de Vox le espetaron *"¿Con qué ojo miras?"*.
 
-### 2022 — Procesados cuatro agentes
-El Juzgado de Instrucción nº 7 de Barcelona procesa a **dos comandantes intermedios** de la Policía Nacional además del escopetero, por haber dado la orden de disparar. **Cuatro agentes acusados** en total.
+---
 
-### Junio 2024 — La Fiscalía pide la absolución
-La Fiscalía exculpa a los cuatro al considerar que obraron en cumplimiento de su deber de impedir el referéndum y que su actuación fue "proporcional". Argumenta que el escopetero cumplió los requisitos técnicos y que la distancia era de "aproximadamente quince metros". Pide además **juzgar al propio Roger Español** por lanzar una valla contra los agentes justo antes del disparo.
+## Cronología del 1-O — Escola Ramon Llull
 
-### Febrero 2025 — La Fiscalía pide la amnistía
-Aunque la ley de amnistía excluye **explícitamente** los actos dolosos que provocan pérdida de un órgano, la Fiscalía presenta un informe defendiendo que se amnistíe a los agentes argumentando que el disparo "no sería un acto doloso porque los procesados no asumieron las consecuencias".
+El colegio electoral asignado a Roger era la **Escola Ramon Llull**, en la calle Sardenya del Eixample. Era uno de los **primeros centros públicos de Barcelona en recibir la incursión de la Policía Nacional**, y el que dejó el **herido más grave** de toda la jornada.
 
-### 19 mar 2025 — La Audiencia deniega la amnistía
-**Giro decisivo.** Los magistrados aplican el artículo que excluye los actos intencionales con pérdida de órgano. El escopetero disparó **tres veces** a 14 m: la **repetición** convierte el acto en doloso. El mismo criterio se aplica al inspector y a los dos subinspectores: autorizaron, ordenaron y permitieron el uso de balas de goma cuando "no era apropiado, ni necesario".
+- **9:00** — los colegios abren para el referéndum.
+- Más de **1.000 personas** se concentran pacíficamente más de dos horas para oponerse al operativo.
+- Entran **13 agentes de la UIP** del Cuerpo Nacional de Policía.
+- Tras llevarse urnas y papeletas, los agentes salen del centro.
+- En ese momento Roger es impactado en la cara por una pelota de goma.
+- Según peritaje en vídeo aportado por la defensa **y por la propia unidad forense audiovisual de los Mossos d'Esquadra**, la pelota **rebotó primero en el suelo** en dirección a Roger antes de impactarle.
+- El escopetero disparó **tres veces** hacia el lugar donde estaba Roger. Fue el tercer pelotazo el que estalló el globo ocular.
+- Mientras se le socorría, el dispositivo policial siguió disparando contra quienes lo asistían.
 
-Simultáneamente, la Audiencia **aplica la amnistía a Roger Español** (acusado de atentado por la valla) y archiva la causa contra él.
+**Cifras de la jornada (Departament de Salut, Generalitat)**: 1.066 personas atendidas entre el 1 y el 4 de octubre por consecuencias del operativo policial; **991 atendidas el mismo 1 de octubre**. Roger es el herido más grave.
+
+> *"Oí un disparo e inmediatamente recibí el impacto de la bala en el ojo."* — Roger Español
+
+---
+
+## Lesión y secuelas
+
+- **Rotura del globo ocular derecho** asociada a fracturas de la **pared lateral y suelo orbitario**, **arco cigomático** y **proceso nasal del maxilar derecho**.
+- Más de una semana hospitalizado.
+- Pérdida total de visión del ojo derecho.
+
+> *"Ha pasado un mes y sigo con dolor y mareos. Supongo que es pronto, pero no me acostumbro a ver con un ojo solo."* — un mes después del 1-O
+
+---
+
+## El agente — identificación pericial
+
+**Resultado de la identificación**:
+
+| Dato | Valor |
+|---|---|
+| Número Operativo Policial | **UC-563** |
+| Carnet Profesional | **110.843** |
+| Unidad | **Unidad de Intervención Policial (UIP)**, Cuerpo Nacional de Policía |
+
+**Roger Español es el único caso de los aproximadamente 40 de mutilación por bala de goma documentados en España en veinte años en el que se ha identificado al agente que apretó el gatillo.** Ni los mandos, ni los agentes presentes, ni el Cuerpo Nacional de Policía colaboraron.
+
+### Metodología de Irídia — cómo se llegó al UC-563
+
+**Fase 1 — Llamamiento ciudadano (2017-2019)**. Irídia llama por redes sociales a recibir fotos y vídeos del lugar. Durante **año y medio** acumulan material de múltiples ángulos en la calle Sardenya.
+
+> *"La Policía Nacional encara no porta la identificació davant […] Costa molt enganxar just en algun moment en què li agafes el número que té darrere."* — Anaïs Franquesa (Irídia)
+
+**Fase 2 — Análisis de vestimenta (2018-2019)**. Con los vídeos, descartan **9 de los 11 escopeteros** presentes. Elementos: guantes, rodilleras, gorra en el lateral. Reducen a **dos candidatos**.
+
+> *"Hemos podido identificar a los agentes a partir de la vestimenta, la única opción que podía individualizar al policía."* — Anaïs Franquesa
+
+**Fase 3 — Perito externo + confirmación de Mossos**. Perito especializado confirma la criba; coincide la altura. Dos informes independientes de la unidad forense audiovisual de los Mossos corroboran:
+- **Informe UCFA-00805/2019-VID** (9 ene 2020).
+- **Informe UCFA-00568/2021-FOT** (20 jun 2022).
+- 9 horas de vídeo y 390 fotos en el sumario.
+
+**La semilla del algoritmo**. La conversación de Anaïs Franquesa con Júlia Nueno revela que **este caso fue el detonante directo** del proyecto del algoritmo de identificación que después desarrollarían.
+
+> *"En el cas de Roger Espanyol, van ser un munt d'hores […] no poder fer aquest seguiment o recrear-lo, també seria molt molt útil."* — Anaïs Franquesa
+
+---
+
+## El arma — datos técnicos
+
+La Policía Nacional dispara las pelotas de goma con la escopeta **Franchi SPS 350** con un acoplamiento ("bocacha"). Proyectiles de **caucho vulcanizado sin marcaje identificativo**, 85 g, 54 mm de diámetro, **830 julios de energía cinética** — muy por encima del umbral de **522 J** fijado por la unidad STOA del Parlamento Europeo entre arma letal y "menos letal". El Ministerio del Interior se ha negado a publicar datos del fabricante alegando seguridad nacional. El Cuerpo Nacional adquirió **780.000 cartuchos** entre 2023 y 2025.
+
+→ ver [[../../historia/balas-goma]] · [[../../empresas-de-armas/empresas/maxam]] · [[../../empresas-de-armas/empresas/verney-carron]]
+
+---
+
+## Proceso judicial
+
+Juzgado de Instrucción **nº 7 de Barcelona** (juez Joaquín Aguirre). **Primer caso en España** en que se procesa al autor de un disparo en un caso de lesiones graves por bala de goma.
+
+| Hito | Fecha |
+|---|---|
+| El juez procesa al escopetero y al mando responsable | 2022 |
+| Imputación a 13 agentes UIP por las cargas del Ramon Llull | 2022-2024 |
+| Fiscalía exculpa a los 4 policías y pide juzgar a Roger por lanzar una valla | jun 2024 |
+| Fiscalía pide aplicar amnistía a los policías | feb 2025 |
+| **Audiencia rechaza amnistía a los 4 agentes + amnistía a Roger** | **19 mar 2025** |
+| Fechas de juicio oral fijadas (Sección 2ª) | oct 2025 |
+| **Juicio oral** | **16, 17 y 30 sept + 1 oct 2026** |
+
+**Procesados finales**: 4 policías nacionales — el escopetero (UC-563), un inspector y dos subinspectores.
+
+### El giro decisivo — 19 marzo 2025
+
+La Audiencia rechaza aplicar la amnistía a los policías porque la **ley excluye explícitamente** los actos dolosos con pérdida de órgano. El razonamiento clave: el escopetero **disparó tres veces** a 14 m — la **repetición** convierte el acto en doloso. El mismo criterio se aplica al inspector y a los dos subinspectores: autorizaron, ordenaron y permitieron el uso de balas de goma cuando "no era apropiado, ni necesario".
+
+Simultáneamente, la Audiencia **aplica la amnistía a Roger Español** por el cargo de atentado (lanzar una valla) y archiva la causa contra él.
 
 > Resultado: será **el único juicio contra policías españoles por vejaciones a ciudadanos el 1-O**, ya que la mayoría se beneficiaron de la amnistía.
 
-### Octubre 2025 — Fechas de juicio
-La Sección 2ª de la Audiencia de Barcelona fija: **16, 17 y 30 de septiembre y 1 de octubre de 2026**. El juicio concluirá exactamente en el **noveno aniversario del referéndum**.
+### Lo que pide la acusación particular (Irídia)
 
-## Lo que pide Roger Español
-- **9 años de prisión + inhabilitación** para cada uno de los cuatro agentes por lesiones con pérdida de órgano.
-- **+4 años adicionales por torturas.**
+- **9 años de prisión + inhabilitación** para cada uno de los 4 agentes por lesiones con pérdida de órgano.
+- **+4 años adicionales por torturas** (cualificada por abuso de cargo público).
 - **320.632 €** de indemnización:
   - 201.773 € por secuelas físicas y tratamiento médico.
-  - 30.000 € por abandono forzado de los estudios de medicina.
+  - 30.000 € por abandono forzado de estudios.
   - 88.709 € por incrementos derivados de su condición de discapacidad.
+- Responsabilidad civil subsidiaria del **Ministerio del Interior**.
 
-## Metodología de Irídia (cómo identificaron al agente)
+La acusación popular (ANC, Òmnium) pide **13 años para cada uno** de los 4 procesados.
 
-### Fase 1 — Llamamiento ciudadano (2017–2019)
-Irídia llama por redes sociales a recibir fotos y vídeos del lugar. Durante **año y medio** acumulan material de múltiples ángulos en la calle Sardenya.
+El juicio concluye exactamente en el **noveno aniversario del referéndum**.
 
-> "La Policía Nacional encara no porta la identificació davant […] Costa molt enganxar just en algun moment en què li agafes el número que té darrere." — Anaïs Franquesa
+---
 
-### Fase 2 — Análisis de vestimenta (2018–2019)
-Con los vídeos enviados, los abogados descartan **9 de los 11 escopeteros** presentes. Elementos analizados: guantes, rodilleras, gorra en el lateral. Reducen a **dos candidatos**.
+## Activismo y testimonio público
 
-> "Hemos podido identificar a los agentes a partir de la vestimenta, la única opción que podía individualizar al policía." — Anaïs Franquesa
+- En contacto con **Human Rights Watch** y **Amnistía Internacional** para impulsar una **campaña por la prohibición estatal** de las balas de goma. Las balas de goma están prohibidas en Catalunya desde 2014 (decisión del Parlament tras el caso Ester Quintana) y en Euskadi desde la muerte de **Iñigo Cabacas** (2012). Siguen activas en el resto del Estado.
+- Comparece en el **Congreso de los Diputados** junto a Ester Quintana y Carles Guillot reclamando la prohibición.
+- Apoyo continuado a Stop Bales de Goma.
+- Coro internacional: contactos con **MOCAO** (Colombia, 150 mutilados en un mes durante el Paro Nacional 2021), **Coordinadora de Traumas Oculares de Chile** (500 personas), **encuentro de Bogotá 2024** (60 mutiladas de Bolivia, Argentina, Chile, España, Colombia y Bangladesh), **Bangladesh** (1.500 mutilados identificados).
 
-### Fase 3 — Perito externo + confirmación de Mossos
-- Perito especializado confirma la criba; coincide la altura.
-- **Informe UCFA-00805/2019-VID** de los Mossos d'Esquadra (9 ene 2020).
-- **Informe UCFA-00568/2021-FOT** (20 jun 2022).
-- Dos informes independientes de la unidad forense audiovisual de los Mossos corroboran.
+> *"Quiero ser el último herido por bala de goma en el Estado español y Catalunya."* — rueda de prensa noviembre 2017
 
-## El dato más duro
-**Solo en el caso de Roger Español** se ha identificado al policía que apretó el gatillo, **de 40 casos** de víctimas de pelotas de goma en veinte años. Pese a tener al agente individualizado, ni los mandos ni los agentes presentes ni el Cuerpo Nacional de Policía colaboraron con la identificación.
+> *"Deseo que se prohíban las balas de goma a todos, no sólo por los Mossos y en Catalunya."* — entrevista en El Salto
 
-El escopetero pertenecía a la unidad **Camel 50**. Mientras se socorría a Roger Español, el dispositivo policial siguió disparando contra quienes lo socorrían.
+> *"Con el gobierno español ya no hay nada más que hablar."* — ElNacional.cat
 
-## La semilla del algoritmo
-La conversación de Anaïs con Júlia Nueno revela que **el caso Roger Español fue el detonante directo** del proyecto del algoritmo de identificación.
+> *"He perdido la visión de un ojo y el Gobierno ni me ha llamado."* — eldiario.es
 
-> "En el cas de Roger Espanyol, van ser un munt d'hores […] no poder fer aquest seguiment o recrear-lo, també seria molt molt útil." — Anaïs Franquesa
+> Sobre la amnistía: *"Deja la violencia [estatal] de aquel día prácticamente en nada."*
 
-Los Mossos también usaron sus herramientas para **calcular distancias** a partir del vídeo.
+> Sobre devolver la Creu de Sant Jordi: *"Las políticas independentistas desde el 1 de octubre se han dedicado a vaciar de contenido esta medalla."*
 
-## El colectivo Stop Balas de Goma se acerca a Roger
+---
 
-Tras el 1-O de 2017, cuando la Policía Nacional le sacó el ojo a Roger, el colectivo **Stop Balas de Goma** (Ester Quintana, Carlos Guillot, Nicola y otros) se acercó a él. La red de apoyo entre víctimas de armas less-lethal sigue activa.
+## Por qué importa para el documental
 
-Roger lleva **9 años** en el proceso judicial — frente a los **5 años** de Ester o los **14 años** de Carlos Guillot. La duración se ha convertido en una herramienta más de impunidad.
+- **Único caso identificado**: 1 sobre ~40 víctimas de pelota de goma en veinte años en España. El UC-563 rompe la impunidad estadística.
+- **Único juicio del 1-O por vejaciones**: la amnistía blindó a casi todo el aparato policial — Roger es la excepción.
+- **Detonante del algoritmo de identificación**: el método artesanal (vídeo + vestimenta + peritaje) abrió la puerta a la herramienta de IA forense que después desarrollarían Irídia + Júlia Nueno.
+- **Soledad política**: el escopetero está cobijado por sindicatos; la Fiscalía lo abandona; el Ministerio del Interior nunca le llamó; el independentismo institucional "vació" la medalla. Solo Irídia + Stop Bales + ANC/Òmnium sostienen el frente.
+- **Doctrina del "riesgo voluntario"**: la Fiscalía aplica a Roger la misma lógica que el Tribunal Supremo aplicó a [[carles-guillot|Carles Guillot]] en 2011 — el ciudadano "asume el riesgo" por estar presente. Continuidad de doctrina entre 2011 y 2025.
+- **El detalle del rebote**: la pelota rebotó en el suelo antes de impactarle. El protocolo de las pelotas dice disparo indirecto al suelo — pero "controlado". Confrontación directa con la etiqueta "menos letal".
 
-## La red internacional
+---
 
-Roger se ha incorporado al esfuerzo del colectivo para construir **redes internacionales de víctimas** de armas less-lethal:
+## Material audiovisual de referencia
 
-- **MOCAO** (Colombia): 150 mutilados en un mes durante el Paro Nacional 2021.
-- **Coordinadora de Traumas Oculares de Chile**: 500 personas. Algunas se suicidaron por no soportar la situación.
-- **Encuentro de Bogotá** (2024): 60 personas mutiladas de Bolivia, Argentina, Chile, España, Colombia y Bangladesh.
-- **Bangladesh**: 1.500 mutilados identificados.
-- **Tratado libre de tortura**: campaña contra el comercio de armas que mutilan.
+- Vídeo testimonial *"El relato de Roger Español, el chico que perdió la visión de un ojo el 1-O en Barcelona"* (YouTube).
+- Entrevista en *Carne Cruda* (eldiario.es).
+- Cobertura internacional en *Catalan News* (inglés). No localizada cobertura significativa en NYT, Guardian o Le Monde — la ausencia es en sí significativa.
 
-## El patrón mundial
-
-El colectivo ha identificado un **patrón histórico**:
-- **1967**: balas de madera probadas en Hong Kong.
-- **1970s**: Irlanda del Norte — 16 muertos, 9 niños.
-- **1976**: Sudáfrica (apartheid).
-- **Hasta 2000**: 23 personas muertas en España.
-
-> *"Estas armas se fabrican en el norte y se prueban en el sur global."*
-
-> *"Primero deshumanizas la protesta. Son vándalos, son malos, tú eres el culpable. Tú te has situado en la trayectoria de la bala."*
+---
 
 ## Conexiones
-- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez]] — cirujana que opera estallidos oculares.
-- ↔ [[../../historia/balas-goma]] — genealogía de la munición.
-- ↔ [[../../marco-legal/bibliografia/ciivo-falsa-menor-letalidad-2026]] — las balas de goma deben evaluarse por precisión real.
-- ↔ [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]] — impactos postraumáticos.
-- ↔ [[ester-quintana]] — compañera de Stop Balas de Goma.
-- ↔ [[carles-guillot]] — Casa de la Montaña 2001, compañero.
-- ↔ [[nicola-celebracion-mundial]] — cofundador de Stop Balas de Goma.
-- ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo.
-- ↔ [[../latam/fabiola-campillai]] — Chile, caso paradigmático.
-- ↔ [[../latam/colombia-2021]] — MOCAO, 150 mutilados.
-- ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — organización.
-- ↔ [[../../empresas-de-armas/empresas/condor]] — fabricante (hacía armas a medida).
+
+- ↔ [[carles-guillot]] — Casa de la Montaña 2001: víctima 16 años antes, mismo cuerpo (Policía Nacional), mismo ojo (derecho), misma doctrina judicial ("riesgo voluntario"). Carles acompañó a Roger desde el primer día.
+- ↔ [[ester-quintana]] — Procés 2012 Mossos; su caso disparó la prohibición catalana 2014.
+- ↔ [[inigo-cabacas]] — Bilbao 2012, Ertzaintza, muerto. Detonante de la retirada en Euskadi.
+- ↔ [[nicola-celebracion-mundial]] — cofundador de Stop Bales de Goma.
+- ↔ [[africa-pablo-hasel]] — foam 2021, perdió un ojo (sustituto de la bala de goma).
+- ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — colectivo que sostiene la lucha.
+- ↔ [[../../autores-y-referencias/organizaciones/iridia]] — acusación particular + metodología.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez]] — testimonio médico ante el Parlament.
+- ↔ [[../../historia/balas-goma]] — genealogía colonial del arma.
+- ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — el marco al que su caso quiere empujar al resto del Estado.
+- ↔ [[../../marco-legal/bibliografia/ciivo-falsa-menor-letalidad-2026]] · [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]].
+- ↔ [[../latam/fabiola-campillai]] · [[../latam/colombia-2021]] · [[../internacionales/iran-mahsa-amini-2022]] · [[../internacionales/bangladesh-2024]] — red internacional.
+- ↔ [[../../empresas-de-armas/empresas/condor]] · [[../../empresas-de-armas/empresas/maxam]] · [[../../empresas-de-armas/empresas/verney-carron]] — fabricantes.
+
+---
+
+## Fuentes principales (acceso jun 2026)
+
+- Stop Bales de Goma — ficha del caso: <https://stopbalasdegoma.wordpress.com/casos-2/849-2/>
+- El Salto Diario — identificación del agente: <https://www.elsaltodiario.com/violencia-policial/identificado-agente-disparo-bala-goma-referendum->
+- Público — defensa identifica al policía: <https://www.publico.es/politica/defensa-roger-espanol-identifica-policia-disparo-bala-goma-perdio-ojo-1-o.html>
+- elDiario.es — procesamiento del policía: <https://www.eldiario.es/catalunya/juez-procesa-policia-reventar-ojo-bala-goma-votante-1_1_9081585.html>
+- elDiario.es — Fiscalía exculpa y pide juzgar a Roger: <https://www.eldiario.es/catalunya/fiscalia-exculpa-policias-reventaron-ojo-independentista-1-pide-juzgar-joven_1_11425667.html>
+- El Nacional — Audiencia deniega amnistía a los policías: <https://www.elnacional.cat/es/politica/audiencia-rechaza-amnistiar-cuatro-policias-espanoles-acusados-reventar-ojo-roger-espanol_1383503_102.html>
+- Diario Socialista — juicio en 2026: <https://diariosocialista.net/2025/10/31/juicio-en-2026-contra-policias-que-causaron-lesion-ocular-grave-a-roger-espanol/>
+- El Triangle — devolución Creu de Sant Jordi: <https://www.eltriangle.eu/es/2024/01/13/roger-espanol-devuelve-la-creu-de-sant-jordi-tengo-que-enfrentar-un-juicio-y-quiero-ir-ligero/>
+- Salut — informe del operativo: <https://www.eldiario.es/catalunya/salut-presenta-informe-detallado-policiales_1_3121320.html>
+- Catalan News (EN): <https://www.catalannews.com/politics/item/spanish-officer-who-caused-activist-to-lose-an-eye-in-referendum-identified>
+- Amnistía Internacional España — 1-O: <https://www.es.amnesty.org/en-que-estamos/noticias/noticia/articulo/1-oamnistia-internacional-denuncia-uso-excesivo-de-la-fuerza-por-parte-de-policia-nacional-y-guar/>
+- Wikipedia (CA): <https://ca.wikipedia.org/wiki/Roger_Espa%C3%B1ol_i_Tor>
