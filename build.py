@@ -2213,12 +2213,15 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 }
 
 /* Global site-search results (NOT graph-page). Specificity-scoped to body:not(.graph-page) via cascade order. */
-body:not(.graph-page) .search-results { position: fixed; top: 0; left: 280px; right: 0; background: rgba(14,14,16,.97); padding: 24px 52px; max-height: 80vh; overflow-y: auto; display:none; z-index:100; border-bottom: 1px solid var(--border); }
+body:not(.graph-page) .search-results { position: fixed; top: 0; left: 280px; right: 0; background: var(--bg-panel); color: var(--fg); padding: 24px 52px; max-height: 80vh; overflow-y: auto; display:none; z-index:100; border-bottom: 1px solid var(--border); box-shadow: 0 8px 24px rgba(0,0,0,.25); }
 body:not(.graph-page) .search-results.open { display: block; }
-body:not(.graph-page) .search-results h3 { margin-top: 0; }
-body:not(.graph-page) .search-result { padding: 10px 0; border-bottom: 1px solid var(--border); }
-body:not(.graph-page) .search-result b { color: var(--accent); }
-body:not(.graph-page) .search-result .cat { font-size: 11px; color: var(--fg-dim); text-transform: uppercase; }
+body:not(.graph-page) .search-results h3 { margin-top: 0; color: var(--fg); }
+body:not(.graph-page) .search-result { padding: 10px 0; border-bottom: 1px solid var(--border); color: var(--fg); }
+body:not(.graph-page) .search-result a { color: var(--fg); text-decoration: none; font-weight: 600; display: block; margin: 2px 0; }
+body:not(.graph-page) .search-result a:hover { color: var(--accent); }
+body:not(.graph-page) .search-result > div:last-child { color: var(--fg-dim); font-size: 13px; line-height: 1.5; }
+body:not(.graph-page) .search-result b { color: var(--accent); background: transparent; padding: 0; }
+body:not(.graph-page) .search-result .cat { font-size: 11px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .5px; }
 
 @media (max-width: 800px) {
   .layout { grid-template-columns: 1fr; }
