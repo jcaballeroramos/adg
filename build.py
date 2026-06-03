@@ -405,7 +405,7 @@ def page_template(note, content_html, sidebar_html, backlinks_html, outlinks_htm
 <link rel="stylesheet" href="{up}assets/style.css">
 <script>
 // apply theme before paint to avoid flash
-(function(){{try{{var t=localStorage.getItem('adg-theme')||'dark';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
+(function(){{try{{var t=localStorage.getItem('adg-theme')||'light';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
 </script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
@@ -1338,7 +1338,7 @@ def timeline_page_html(crono_note, all_slugs, link_map):
 <title>Cronología visual — Artefactos de Guerra</title>
 <link rel="stylesheet" href="assets/style.css">
 <script>
-(function(){{try{{var t=localStorage.getItem('adg-theme')||'dark';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
+(function(){{try{{var t=localStorage.getItem('adg-theme')||'light';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
 </script>
 </head>
 <body class="timeline-page">
@@ -1427,7 +1427,7 @@ MAP_PAGE_TEMPLATE = r"""<!doctype html>
 <title>Mapa mundial — Artefactos de Guerra</title>
 <link rel="stylesheet" href="assets/style.css">
 <script>
-(function(){try{var t=localStorage.getItem('adg-theme')||'dark';document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+(function(){try{var t=localStorage.getItem('adg-theme')||'light';document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
 </script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
@@ -1545,7 +1545,7 @@ def graph_page_html(graph_data):
 <title>Grafo — Artefactos de Guerra</title>
 <link rel="stylesheet" href="assets/style.css">
 <script>
-(function(){{try{{var t=localStorage.getItem('adg-theme')||'dark';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
+(function(){{try{{var t=localStorage.getItem('adg-theme')||'light';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
 </script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
@@ -1790,7 +1790,7 @@ def index_page(tree, notes, sidebar_html):
 <title>Artefactos de Guerra — Investigación</title>
 <link rel="stylesheet" href="assets/style.css">
 <script>
-(function(){{try{{var t=localStorage.getItem('adg-theme')||'dark';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
+(function(){{try{{var t=localStorage.getItem('adg-theme')||'light';document.documentElement.setAttribute('data-theme',t);}}catch(e){{}}}})();
 </script>
 </head>
 <body>
@@ -2296,7 +2296,7 @@ SITE_JS = r"""
     root.setAttribute('data-theme', t);
     try { localStorage.setItem('adg-theme', t); } catch (e) {}
   }
-  const saved = (function () { try { return localStorage.getItem('adg-theme'); } catch (e) { return null; }})() || 'dark';
+  const saved = (function () { try { return localStorage.getItem('adg-theme'); } catch (e) { return null; }})() || 'light';
   setTheme(saved);
   const btn = document.getElementById('theme-toggle');
   if (btn) {
