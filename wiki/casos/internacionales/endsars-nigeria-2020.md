@@ -49,6 +49,42 @@ La **noche del 20 de octubre**, el ejército nigeriano disparó **munición real
 ## Lo que dice [[../../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]
 > Aquellos países que se consideran "democráticos" — los de Europa y Norteamérica — usan exactamente las mismas armas que los regímenes autoritarios. Esto crea una **globalización de la represión** que vuelve cada vez más difícil distinguir entre los unos y los otros.
 
+## Material visual
+
+### Fotos icónicas
+- **AFP/Getty · Pierre Favennec** — vista aérea de manifestantes en Lekki Toll Gate (15 oct 2020). <https://www.cfr.org/blog/nigerias-lekki-toll-gate-massacre-will-not-go-away>
+- **Reuters · Afolabi Sotunde** — cristales rotos en el Toll Gate (24 oct 2020).
+- **NurPhoto/Getty · Olukayode Jaiyeola** — visita del Panel Judicial al Toll Gate (30 oct 2020).
+- **Wikipedia** — galería con fotos del Toll Gate y manifestantes con bandera. <https://en.wikipedia.org/wiki/2020_Lekki_shooting>
+- **New Lines Magazine** — *Nigeria's Lekki Massacre: An Unsolved Case of Police Brutality*. <https://newlinesmag.com/reportage/nigerias-lekki-massacre-an-unsolved-case-of-police-brutality/>
+
+### Vídeos
+- ⭐ **BBC Africa Eye** — *Lekki Toll Gate: The Massacre Without Blood or Bodies* (documental investigativo clave). <https://www.youtube.com/watch?v=K5rVpz0QgkY>
+- **BBC Africa** — *Lekki toll gate shootings: What really happened?*. <https://www.youtube.com/watch?v=lVxwVfZ1Uxg>
+- **DJ Switch · testimonio** — *Her Side Of The Story On The Lagos Lekki Toll Gate Massacre*. <https://www.youtube.com/watch?v=K8MsYVXmDBQ>
+- **YouTube** — *Witness Plays Video That Claims Army Shot Protesters At Lekki*. <https://www.youtube.com/watch?v=9U110_p92jE>
+- **Apple TV · documental** — *EndSARS: Lekki Massacre*. <https://tv.apple.com/gb/movie/endsars-lekki-massacre/umc.cmc.4c9ziq11pkxctpiiu4iaiqact>
+- **TIME · perfil largo DJ Switch** con vídeo embebido. <https://time.com/5922305/dj-switch-nigeria-endsars/>
+
+### Archivo del lugar (Admiralty Circle Plaza · Lekki-Epe Expressway, Lagos)
+- **Wikipedia** — *Admiralty Circle Plaza*. <https://en.wikipedia.org/wiki/Admiralty_Circle_Plaza>
+- **AutoJosh** — 15 datos sobre el Toll Gate con fotos. <https://autojosh.com/15-things-to-know-about-the-admiralty-toll-gate-lekki/>
+
+### Capturas de prensa
+- **Al Jazeera (20 oct 2020)** — *Nigeria: Protesters shot dead by security forces in Lagos*. <https://www.aljazeera.com/news/2020/10/20/nigerian-security-forces-use-live-fire-to-disperse-protesters>
+- **CNN** — *How a bloody night of bullets at the Lekki toll gate quashed a young protest movement*. <https://www.cnn.com/2020/11/18/africa/lagos-nigeria-lekki-toll-gate-feature-intl/index.html>
+- **CNN** — *Nigerian judicial panel condemns shooting as a massacre*. <https://amp.cnn.com/cnn/2021/11/15/africa/lekki-tollgate-judicial-panel-report-intl/index.html>
+- **Human Rights Watch** — *A Year On, No Justice for #EndSARS Crackdown*. <https://www.hrw.org/news/2021/10/19/nigeria-year-no-justice-endsars-crackdown>
+- **Amnistía** — *Denials and cover up mark 100 days since Lekki shooting*. <https://www.amnesty.org/en/latest/news/2021/01/nigeria-denials-and-cover-up-mark-100-days-since-lekki-shooting/>
+- **Vanguard Nigeria** — *Lekki Tollgate incident was a massacre — Lagos ENDSARS Panel*. <https://www.vanguardngr.com/2021/11/lekki-tollgate-incident-was-a-massacre-lagos-endsars-panel/>
+
+### Material gráfico — verificación OSINT
+- **DFRLab (Atlantic Council)** — verificación open-source con mapas y geolocalización. <https://medium.com/dfrlab/nigerian-army-dismisses-lekki-toll-gate-massacre-as-fake-news-6e4665eed6d7>
+- **The Conversation** — análisis de evidencia digital. <https://theconversation.com/livestreaming-lekki-digital-evidence-of-endsars-shooting-in-nigeria-makes-impunity-much-harder-148696>
+- **Sahara Reporters** — análisis forense. <https://saharareporters.com/2020/10/24/lekki-massacre-forensic-analysis-proves-videos-killings-are-genuine>
+
+> ⚠️ La verificación open-source clave la hicieron **DFRLab + Sentinel Forensics** (no Forensic Architecture). El livestream original de DJ Switch (20 oct 2020) ya no está disponible en su cuenta — los fragmentos sobreviven embebidos en BBC Africa Eye y en el documental de Apple TV.
+
 ## Conexiones
 - ↔ [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] — la ola global 2019-2022.
 - ↔ [[../impacto-agregado]] — incluido en el dashboard global.

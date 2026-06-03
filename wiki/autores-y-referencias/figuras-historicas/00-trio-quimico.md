@@ -139,6 +139,61 @@ Argumentó que el spray estaba diseñado para **situaciones defensivas** —cuan
 
 ---
 
+## Material visual
+
+### 🧪 Fritz Haber
+- **Wikimedia Commons** — categoría matriz con 34 archivos (retratos, BASF, diploma Nobel). Dominio público. <https://commons.wikimedia.org/wiki/Category:Fritz_Haber>
+- Retrato canónico: <https://commons.wikimedia.org/wiki/File:Fritz_Haber.png>
+- Retrato vinculado a BASF (síntesis de amoníaco): <https://commons.wikimedia.org/wiki/File:Fritz_Haber_-_basf.jpg>
+- Diploma Nobel 1918: <https://commons.wikimedia.org/wiki/File:Nobel_Prize_Diploma_Fritz_Haber_1918.JPG>
+- **Clara Immerwahr** — categoría con retratos de la primera doctora en química de Alemania, esposa de Haber. <https://commons.wikimedia.org/wiki/Category:Clara_Immerwahr>
+- **Imperial War Museum** — *Second Battle of Ypres* con fotografías de archivo de las trincheras tras el ataque de cloro. <https://www.iwm.org.uk/history/first-world-war/second-ypres>
+- **National WWI Museum (Kansas City)** — primer uso de gas venenoso. <https://www.theworldwar.org/learn/about-wwi/spotlight-first-usage-poison-gas>
+- **Fritz-Haber-Institut (Berlín-Dahlem)** — historia oficial con fotos del edificio y de la residencia donde Clara se suicidó el 2 may 1915. <https://www.fhi.mpg.de/history>
+- **Smithsonian Magazine** — *Fritz Haber's Experiments in Life and Death*. <https://www.smithsonianmag.com/history/fritz-habers-experiments-in-life-and-death-114161301/>
+- **Chemical & Engineering News** — *100 Years of Chemical Weapons* con galería. <https://cen.acs.org/articles/93/i8/100-years-chemical-weapons.html>
+- **Science History Institute** — *Casualty of War* (perfil de Clara Immerwahr). <https://www.sciencehistory.org/stories/magazine/casualty-of-war/>
+- **Legion Magazine** — *The complicated life and career of Fritz Haber*. <https://legionmagazine.com/the-complicated-life-and-career-of-fritz-haber-father-of-chemical-warfare/>
+- **Wikipedia** — *Chemical weapons in World War I*: esquemas y diagramas del despliegue de cilindros de cloro en Ypres (~5.730 botellas, ~168 toneladas Cl₂). <https://en.wikipedia.org/wiki/Chemical_weapons_in_World_War_I>
+- **Wollheim Memorial** — cadena Haber → Degesch (1919) → Zyklon B → Auschwitz. <http://www.wollheim-memorial.de/en/zyklon_b_en_2>
+
+### 📣 Amos Fries
+- **chemworldwars.omeka.net** — retrato Brigadier General Amos Fries. <https://chemworldwars.omeka.net/exhibits/show/chem/item/6>
+- **Library of Congress (Underwood & Underwood, 1929)** — Fries recibe honor masónico. <https://www.loc.gov/item/90714301/>
+- **University of Oregon Special Collections** — *Amos Fries papers*. <https://scua.uoregon.edu/repositories/2/resources/542> · <https://archiveswest.orbiscascade.org/ark:/80444/xv38409>
+- **Arlington National Cemetery** — ficha con retrato uniformado. <http://www.arlingtoncemetery.net/aafries.htm>
+- **National Archives (RG 175)** — Records of the Chemical Warfare Service. <https://www.archives.gov/research/guide-fed-records/groups/175.html>
+- **Internet Archive** — libro doctrinal *Chemical Warfare* (Fries y Clarence J. West, 1921). <https://archive.org/details/chemicwar00frierich>
+- **Jacobin · entrevista a Anna Feigenbaum** (autora de *Tear Gas*) — *The Man Behind the Mask*. <https://jacobin.com/2018/01/tear-gas-policing-anna-feigenbaum>
+- **Longreads** — *How Lobbyists Normalized the Use of Chemical Weapons on American Civilians*. <https://longreads.com/2018/02/12/how-lobbyists-normalized-the-use-of-chemical-weapons-on-american-civilians/>
+- **Defending Rights & Dissent** — *Ban Tear Gas* (alianza Fries / Hoover / Lake Erie Chemical). <https://rightsanddissent.org/news/ban-tear-gas/>
+- **JSTOR Daily** — *Why Do Police Use Tear Gas When It Was Banned in War?*. <https://daily.jstor.org/why-do-police-use-tear-gas-when-it-was-banned-in-war/>
+
+#### Bonus Army — julio 1932 (episodio fundacional de la doctrina Fries)
+- *Anacostia Bonus Army camp goes up in flames: 1932* — Flickr alta resolución. <https://www.flickr.com/photos/washington_area_spark/35524599325>
+- **National Archives** — galería fotográfica Bonus Army. <https://prologue.blogs.archives.gov/2020/07/15/the-1932-bonus-army-black-and-white-americans-unite-in-march-on-washington/>
+- **PBS American Experience** — *The Bonus March (May-July, 1932)* con newsreels embebidos. <https://www.pbs.org/wgbh/americanexperience/features/macarthur-bonus-march-may-july-1932/>
+- **Universal Newsreels (Internet Archive)** — cobertura del 28-29 jul 1932 (MacArthur, Patton, Eisenhower dispersan con gas lacrimógeno). <https://archive.org/details/universal_newsreels>
+- **IMA-USA** — cartel original de Lake Erie Chemical Company (años 20). <https://www.ima-usa.com/products/original-u-s-pre-wwii-era-lake-erie-chemical-company-chemical-warfare-gas-warning-sign-circa-1920s-6-x-4>
+
+### 🪶 Kamran Loghman
+- **IMDb · ficha** con foto reciente. <https://www.imdb.com/name/nm4823912/>
+- **IMDb · biografía**. <https://www.imdb.com/name/nm4823912/bio/>
+- **YouTube · canal propio**. <https://www.youtube.com/user/kamranloghman>
+
+#### Vídeo viral de Occupy UC Davis (18 nov 2011)
+- **YouTube** — *UC Davis Police officer Lt. John Pike casually pepper sprays students*. <https://www.youtube.com/watch?v=pGwpNZBJ5f0>
+- Versión alternativa: <https://www.youtube.com/watch?v=6AdDLhPwpp4>
+- ⭐ **Democracy Now! (29 nov 2011)** — *Pepper Spray Creator Decries Use of Chemical Agent on Peaceful Occupy Wall Street Protesters*. Fuente primaria de las citas. <https://www.democracynow.org/2011/11/29/pepper_spray_creator_decries_use_of>
+
+#### Capturas de prensa
+- **Wikipedia** — *UC Davis pepper spray incident* con cronología, mapa del Quad, lista de oficiales. <https://en.wikipedia.org/wiki/UC_Davis_pepper_spray_incident>
+- **NPR** — *'Pepper Spray Cop' Is No Longer On UC Davis Police Force* (1 ago 2012). <https://www.npr.org/sections/thetwo-way/2012/08/01/157707227/pepper-spray-cop-is-no-longer-on-uc-davis-police-force>
+- **Shadowproof** — *Pepper Spray Developer: It Has Become Fashionable to Use Chemicals on People with Opinions*. <https://shadowproof.com/2011/11/29/pepper-spray-developer-it-has-become-fashionable-to-use-chemicals-on-people-with-opinions/>
+- **Boing Boing** — *Pepper-spray inventor: 'It's fashionable...'*. <https://boingboing.net/2011/11/30/pepper-spray-inventor-its.html>
+- **Washington Post** — *UC Davis thought it could pay to erase a scandal from the Internet* (gastaron $175.000 intentando borrar el vídeo). <https://www.washingtonpost.com/news/grade-point/wp/2016/04/14/uc-davis-scrubbed-negative-online-presence-after-2011-pepper-spraying-scandal/>
+- **Grunge** — *Why Kamran Loghman Regretted Inventing Pepper Spray*. <https://www.grunge.com/599358/why-kamran-loghman-regretted-inventing-pepper-spray/>
+
 ## Conexiones
 
 - ↔ [[../paul-rocher/paul-rocher-entrevista]] — Rocher cita a los tres explícitamente.

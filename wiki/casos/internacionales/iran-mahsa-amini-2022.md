@@ -73,6 +73,48 @@ Lo más documentado **médicamente** es la **estrategia sistemática del régime
 - **Las redes sociales** (Twitter especialmente) jugaron un papel crucial pese al bloqueo del régimen.
 - **Premio Nobel de la Paz 2023** a **Narges Mohammadi**, activista iraní encarcelada — reconocimiento internacional.
 
+## Material visual
+
+### Fotos retrato
+- **Abdi Media** — fotos exteriores del Hospital Kasra (Tehran) donde murió. <https://abdimedia.net/en/mahsa-amini/pictures-front-kasari-hospital-where-mehsa-amini-died>
+- **Niloofar Hamedi (USC Scalar)** — foto icónica de Mahsa inconsciente en cama de hospital, publicada por Hamedi (después encarcelada). <https://scalar.usc.edu/works/woman-life-freedom-uprising-/media/mahsa-unconscious-in-a-hospital-bed>
+- **Getty Images** — 9.021 fotos editoriales (retratos, protestas globales, vigilias). <https://www.gettyimages.com/photos/mahsa-amini>
+- **Iran International** — *Hijab Victim Suffered Repeated Blows To Her Head*. <https://www.iranintl.com/en/202209172983>
+- **Council on Foreign Relations** — galería curada. <https://www.cfr.org/articles/photos-iran-mahsa-amini-protest-uprising-women>
+- **TIME** — *Photos Show World Reactions to Mahsa Amini's Death*. <https://time.com/6216091/photos-mahsa-amini-world-reactions/>
+
+### Vídeos
+- **BBC World Service** — entrevista con la madre de Mahsa Amini. <https://www.facebook.com/bbcworldservice/videos/mahsa-aminis-mother-talks-about-her-daughters-life/1331561537763338/>
+- **Iran International** — protesta de septiembre 2022 en Tehran tras la muerte. <https://www.iranintl.com/en/202209165767>
+- **NBC News** — concentración masiva a los 40 días en el cementerio Aichi de Saqqez (26 oct 2022). <https://www.nbcnews.com/news/world/iran-clashes-crowds-mahsa-amini-grave-saqqez-rcna54043>
+- **CNN (26 oct 2022)** — vídeo de la mujer descubierta encima del coche en Saqqez. <https://www.cnn.com/2022/10/26/middleeast/iran-clashes-mahsa-amini-grave-intl/index.html>
+- **Al Jazeera** — vídeos del memorial en Saqqez. <https://www.aljazeera.com/news/2022/10/26/clashes-thousands-attend-mahsa-amini-memorial-iran-saqqez>
+- **Hadis Najafi · caso paralelo** — vídeo viral previo a su asesinato (21 sep 2022). <https://en.wikipedia.org/wiki/Death_of_Hadis_Najafi>
+
+### Archivo del lugar (Tehran / Saqqez · Kurdistán iraní)
+- **The National** — fotos del cementerio Aichi en Saqqez. <https://www.thenationalnews.com/mena/iran/2022/10/26/mourners-defy-iranian-police-to-gather-at-mahsa-aminis-grave-40-days-after-she-died/>
+- **KHRN** — tumba de Jina/Mahsa Amini vandalizada. <https://kurdistanhumanrights.org/en/news/2023/05/22/grave-of-zhina-mahsa-amini-vandalised-in-saqqez-iran>
+
+### Capturas de prensa
+- **Washington Post** — *Anger against Iran's morality police erupts*. <https://www.washingtonpost.com/world/2022/09/21/iran-protests-mahsa-amini-hijab/>
+- **NPR** — *How Mahsa Amini's death in Iranian police custody sparked widespread protest*. <https://www.npr.org/2022/09/21/1124237272/mahsa-amini-iran-women-protest-hijab-morality-police>
+- **Reporteros sin Fronteras** — *Niloofar Hamedi: the imprisoned journalist who covered the death*. <https://rsf.org/en/niloofar-hamedi-imprisoned-journalist-who-covered-death-mahsa-amini-iran>
+- **CNN (aniversario)** — *One year after Mahsa Amini's death*. <https://www.cnn.com/2023/09/17/middleeast/iran-protests-mahsa-amini-anniversary-intl-hnk/index.html>
+- **UN News** — *Iran: Repression continues two years after nationwide protests*. <https://news.un.org/en/story/2024/03/1147681>
+
+### Material gráfico — armas y víctimas oculares
+- ⭐ **The Lancet** — *Iran must stop the use of pellets to target and blind protesters*. Pieza médica esencial. <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02180-3/fulltext>
+- **Wikipedia · artículo monográfico** — *Eye injuries during 2022 Iranian protests*. <https://en.wikipedia.org/wiki/Eye_injuries_during_2022_Iranian_protests>
+- **UC Berkeley** — investigación con 120+ cegados confirmados. <https://news.berkeley.edu/2024/03/21/more-than-120-protesters-blinded-by-iranian-agents-probe-confirms/>
+- ⭐ **Iran Wire · serie *Blinding as a Weapon*** — decenas de retratos individuales con testimonios. <https://iranwire.com/en/blinding-as-a-weapon/115712-blinding-as-a-weapon-34-a-young-mothers-badge-of-honor/>
+- **Iran Wire** — *Blinded by Pellets: One Conscript's Story* (testimonio de un soldado). <https://iranwire.com/en/features/146272-blinded-by-pellets-one-conscripts-story-of-irans-brutal-crackdown/>
+- **Center for Human Rights in Iran** — informe. <https://iranhumanrights.org/2023/02/iran-scores-blinded-as-security-forces-aim-guns-at-protesters-eyes/>
+- **Iran Human Rights** — *Women Protester Eyes Intentionally and Systematically Targeted*. <https://iranhr.net/en/articles/6205/>
+- **The Conversation** — *Why security forces are shooting demonstrators straight in the eye*. <https://theconversation.com/irans-crackdown-why-security-forces-are-shooting-demonstrators-straight-in-the-eye-273508>
+- **Atlantic Council** — perfil de Elaheh Tavakolian (activista cegada). <https://www.atlanticcouncil.org/blogs/iransource/blinded-iranian-activist-elaheh-tavakolian-we-shouldnt-stop/>
+- **NCRI Women** — caso Ghazal Ranjkesh (estudiante de Derecho cegada). <https://wncri.org/2022/11/28/solidarity-with-ghazal-ranjkesh/>
+- **Graphic News** — infografía timeline de las protestas iraníes. <https://www.graphicnews.com/en/pages/43395/politics-iran-protest-timeline>
+
 ## Conexiones
 - ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] · [[bangladesh-2024]] · [[nepal-gen-z-2024]] — la ola global 2019-2024.
 - ↔ [[../fabiola-campillai]] · [[../carles-guillot]] · [[../roger-espanol]] · [[../africa-pablo-hasel]] — el ojo como blanco común.

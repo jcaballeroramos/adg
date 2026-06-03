@@ -66,6 +66,37 @@ La Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos pub
 - **Cobertura mediática internacional limitada** comparada con Hong Kong, Ucrania o Irán — habla de la **selectividad geopolítica**.
 - Bangladesh es un **gran importador de armas** (China, EE.UU., UK).
 
+## Material visual
+
+### Fotos icónicas
+- **Forensic Architecture + Drik Picture Library** — *Shoot Me, I Bare My Chest: The Killing of Abu Sayed*. Frame icónico de Abu Sayed con los brazos abiertos antes de los cuatro disparos en Begum Rokeya University, Rangpur (16 jul 2024). <https://forensic-architecture.org/investigation/the-killing-of-abu-sayed>
+- **Al Jazeera** — galería de víctimas con trauma ocular por perdigones policiales. <https://www.aljazeera.com/features/2024/7/29/shot-in-the-eyes-victims-of-bangladesh-protest-violence-face-dark-future>
+- **The Diplomat** — galería del 5 ago 2024 en Ganabhaban. <https://thediplomat.com/2024/08/in-photos-bangladesh-after-hasina-fled/>
+- **Wikipedia** — frames del vídeo original (Jamuna TV) del asesinato de Abu Sayed. <https://en.wikipedia.org/wiki/Killing_of_Abu_Sayed>
+
+### Vídeos y documentales
+- **BBC World Service** — *The Battle for Bangladesh: Fall of Sheikh Hasina*. Revela órdenes de fuego letal con grabaciones filtradas verificadas por BBC Eye Investigations y Earshot. <https://www.youtube.com/watch?v=gYXaPTDatis>
+- **DW Documentary** — *Bangladesh's Gen Z revolution: How student protests toppled Sheikh Hasina*. <https://www.youtube.com/watch?v=NcL6N6wZSQA>
+- **Forensic Architecture + Drik** — *SHOOT ME, I BARE MY CHEST* (vídeo de la investigación). <https://www.youtube.com/watch?v=7muR2uwL4yA>
+- **Al Jazeera Investigation** — *"Shoot them": Sheikh Hasina ordered firing on Bangladesh protesters in 2024*. <https://www.aljazeera.com/news/2025/7/24/shoot-them-sheikh-hasina-ordered-firing-on-bangladesh-protesters-in-2024>
+- **PBS NewsHour** — *The evolution of Bangladesh's anti-government protests*. <https://www.pbs.org/video/bangladesh-unrest-1722800257/>
+
+### Archivo / Wikimedia Commons
+- Begum Rokeya University, Rangpur: <https://commons.wikimedia.org/wiki/Category:Begum_Rokeya_University,_Rangpur>
+- Ganabhaban: <https://en.wikipedia.org/wiki/Ganabhaban>
+- **Gulf News** — la residencia convertida en museo. <https://gulfnews.com/world/bangladesh-converts-former-prime-minister-sheikh-hasinas-residence-into-museum-1.500223229>
+
+### Capturas de prensa
+- **Amnistía Internacional** — *"Witness testimony, video and photographic analysis confirm police used unlawful force"*. <https://www.amnesty.org/en/latest/news/2024/07/bangladesh-witness-testimony-video-and-photographic-analysis-confirm-police-used-unlawful-force-against-protesters/>
+- **The Daily Star** — *"Abu Sayed victim of extrajudicial killing by police: UN report"*. <https://www.thedailystar.net/news/bangladesh/news/abu-sayed-victim-extrajudicial-killing-police-un-report-3822701>
+- **ONU OHCHR** — *"Brutal, systematic repression of protests"*. <https://www.ohchr.org/en/press-releases/2025/02/bangladesh-un-report-finds-brutal-systematic-repression-protests-calls>
+- **Al Jazeera longform** — *How Bangladesh's Gen Z protests brought down PM Sheikh Hasina*. <https://www.aljazeera.com/news/longform/2024/8/7/how-bangladeshs-gen-z-protests-brought-down-pm-sheikh-hasina>
+
+### Material gráfico
+- **Lethal in Disguise (INCLO/PHR)** — infografía sobre armas de perdigones en Bangladesh. <https://lethalindisguise.org/case-studies/bangladesh-ban-pellet-guns-now/>
+- **Torture Journal** — estudio epidemiológico sobre heridas oculares. <https://tidsskrift.dk/torture-journal/article/view/152344>
+- **WITNESS** — análisis del rol del vídeo ciudadano. <https://blog.witness.org/2025/08/bangladesh-student-uprising-2024-protest-videos/>
+
 ## Conexiones
 - ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] · [[iran-mahsa-amini-2022]] · [[nepal-gen-z-2024]] — la ola global 2019-2024.
 - ↔ [[../impacto-agregado]] — incluido.

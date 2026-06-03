@@ -59,6 +59,42 @@ La paliza fue **grabada desde varios balcones** por vecinos del Raval. Las imág
 - **Placa en la calle Aurora**.
 - **Marchas anuales** el 5 de octubre.
 
+## Material visual
+
+### Fotos retrato
+- **Blog familiar #JustíciaJuanAndrés** — fotografías biográficas y colectivas. <https://juanandresbenitez.wordpress.com/>
+- **El Salto** — *"Qué jodido el destino"* (aniversario). <https://www.elsaltodiario.com/cataluna/juan-andres-benitez-aniversario-homicidio-mossos>
+- **Cuatro al Día** — material fotográfico del empresario. <https://www.cuatro.com/cuatroaldia/sociedad/raval-mossos-d-esquadra-juan-andres-benitez-muerte-empresario-catalan_18_2176680074.html>
+
+### Vídeos — el de los vecinos (pieza visual clave)
+- ⭐ **YouTube** — *#MossosAssassins. Agents dels Mossos apallissen a Juan Andrés Benítez*. Documento crudo, advertir contenido en el documental. <https://www.youtube.com/watch?v=VbJUuSFggHk>
+- **El Economista (oct 2013)** — *Vídeo | La paliza de los Mossos al empresario del Gayxample*. <https://www.eleconomista.es/politica-eD/noticias/5248953/10/13/Video-La-paliza-de-los-Mossos-al-empresario-del-Gayxample.html>
+- **EcoDiario** (misma pieza). <https://ecodiario.eleconomista.es/politica-eD/noticias/5248953/10/13/Video-La-paliza-de-los-Mossos-al-empresario-del-Gayxample.html>
+- **Público** — *Vídeos demuestran que los Mossos dieron una paliza al empresario antes de morir*. <https://www.publico.es/actualidad/videos-demuestran-mossos-dieron-paliza-empresario-gayxample-morir.html>
+- **Cuatro al Día** — *Los Mossos que mataron admiten su culpa para evitar la cárcel*. <https://www.cuatro.com/cuatroaldia/sociedad/raval-mossos-d-esquadra-juan-andres-benitez-muerte-empresario-catalan_18_2176680114.html>
+
+### Archivo del lugar (Calle Aurora · Raval · Àgora Juan Andrés Benítez)
+- **Fotomovimiento** — galería *Àgora Juan Andrés*. <https://fotomovimiento.org/agora-juan-andres/>
+- **Fotomovimiento** — mural homenaje. <http://fotomovimiento.org/mural-agora-juan-andres/>
+- **Web colectiva de la Àgora** con material visual del espacio recuperado. <https://agorajuanandres.wordpress.com/>
+- **APD (may 2025)** — amenaza de desalojo del espacio. <https://www.apd.cat/en/barcelona/el-raval-stands-up-agora-juan-andres-benitez-faces-eviction-on-may-14-despite-400-groups-and-12-years-of-use_11594_102.html>
+- **Público** — antigua vivienda de Benítez convertida en narcopiso. <https://www.publico.es/actualidad/antigua-vivienda-juan-andres-benitez-muerto-manos-mossos-d-esquadra-convertida-narcopiso.html>
+
+### Capturas de prensa
+- **eldiario.es** — *Dos vídeos demuestran que los Mossos golpearon al vecino del Raval*. <https://www.eldiario.es/catalunya/demuestran-mossos-golpearon-raval-muriendo_1_5847018.html>
+- **eldiario.es** — *Los testigos: los Mossos pegaron sin que él les agrediera*. <https://www.eldiario.es/catalunya/testigos-Mossos-pegaron-Raval-agrediera_0_191080924.html>
+- **eldiario.es · sentencia** — *Los Mossos admiten patadas, puñetazos y 28 lesiones*. <https://www.eldiario.es/catalunya/sentencia-benitez-mossos-punetazos-lesiones_1_4001227.html>
+- ⭐ **eldiario.es** — *Las imágenes de los Mossos matando a Juan Andrés no se olvidarán jamás*. <https://www.eldiario.es/catalunya/barcelona/imagenes-mossos-matando-benitez-olvidaran_128_4005643.html>
+- **Izquierda Diario** — *Los Mossos que asesinaron a un activista LGBTI evitan la cárcel*. <https://www.izquierdadiario.es/Los-Mossos-que-asesinaron-a-un-activista-LGBTI-en-2013-evitan-la-carcel>
+- **Diagonal** — *Los Mossos no entrarán en prisión*. <https://www.diagonalperiodico.net/libertades/30312-mossos-mataron-juan-andres-benitez-no-entraran-prision.html>
+- **El Nacional** — *Un símbolo contra la especulación en el Raval*. <https://www.elnacional.cat/es/sociedad/benitez-un-simbolo-contra-la-especulacion-en-el-raval_312021_102.html>
+
+### Material gráfico (Fotomovimiento)
+- Galería del juicio (CC para uso militante): <https://fotomovimiento.org/juicio-juan-andres-benitez/>
+- Primer aniversario: <https://fotomovimiento.org/un-ano-de-la-muerte-de-juan-andres-benitez/>
+- 4º aniversario: <https://fotomovimiento.org/cuarto-aniversario-de-la-muerte-de-juan-andres-benitez/>
+- Archivo etiqueta Àgora: <https://fotomovimiento.org/tag/agora-juan-andres/>
+
 ## Conexiones
 - ↔ [[ester-quintana]] — el caso paralelo que junto al suyo precipitó la prohibición.
 - ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — la cronología completa.

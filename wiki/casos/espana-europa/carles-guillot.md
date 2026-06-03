@@ -162,6 +162,35 @@ Antes de la prohibición: **7 ojos perdidos en 5 años en Catalunya**.
 
 ---
 
+## Material visual
+
+### Fotos retrato
+- **BcnMés · entrevista** con retrato editorial. <https://bcnmes.com/entrevista-con-carles-guillot-stopbalasdegoma/>
+- **Stop Bales de Goma** — fotos en actos y comparecencias (Edu Bayer principalmente). Licencia abierta para uso militante. <https://stopbalasdegoma.wordpress.com/>
+- **DateCuenta** — entrevista con foto. <http://www.datecuenta.org/carles-guillot-el-problema-de-fondo-es-como-esta-planteado-el-modelo-policial/>
+
+### Vídeos
+- ⭐ ***LES BALES DE GOMA A ESTRASBURG*** (15Mbcn, 1 jul 2013) — documental de la campaña Stop Bales de Goma centrado en el caso Guillot rumbo al TEDH. <https://archive.org/details/spanishrevolution-LESBALESDEGOMAAESTRASBURG-zWDngKXcLgY>
+  - Versión con subtítulos en castellano: <https://archive.org/details/spanishrevolution-LESBALESDEGOMAAESTRASBURG-SubCAST-T6uBcrkiW0k>
+- **INFO7 / Naiz (oct 2018)** — entrevista sobre el apoyo a la familia Cabacas. <https://info7.naiz.eus/es/info_i7/20181024/carles-guillot-desde-stop-bales-de-goma-sentimos-desde-el-minuto-cero-que-teniamos-que-apoyar-a-la-familia-de-inigo-cabacas>
+
+### Archivo del lugar (Kasa de la Muntanya · Plaça Mons, La Salut, Gràcia)
+- **Wikipedia** — *Kasa de la Muntanya* con fotos históricas (cuartel Guardia Civil 1909 → ocupación 1989). <https://en.wikipedia.org/wiki/Kasa_de_la_Muntanya>
+- **Metrópoli (El Español)** — *De caserna a icono okupa* (2021). <https://metropoliabierta.elespanol.com/vivir-en-barcelona/20211213/la-kasa-de-la-muntanya-caserna-icono-okupa/634436789_0.html>
+- **eldiario.es** — propuesta Ada Colau de convertirlo en vivienda social. <https://www.eldiario.es/catalunya/ada-colau-emblematica-kasa-muntanya_1_1830893.html>
+- **Squat.net** — archivo histórico del movimiento okupa, incluyendo 2001. <https://es.squat.net/tag/kasa-de-la-muntanya/>
+
+### Capturas de prensa
+- **eldiario.es** — *Stop Bales de Goma lleva el caso de Carles Guillot al Tribunal de Estrasburgo*. <https://www.eldiario.es/catalunya/bales-carles-guillot-tribunal-estrasburgo_1_5733661.html>
+- **Diagonal** — *Las balas de goma te pueden destrozar la vida*. <https://www.diagonalperiodico.net/libertades/22484-balas-goma-te-pueden-destrozar-la-vida.html>
+- **El Salto** — *Catalunya y Euskadi han retirado las balas de goma, no hay argumentos para mantenerlas*. <https://www.elsaltodiario.com/balas-de-goma/que-catalunya-y-euskadi-hayan-retirado-las-balas-de-goma-hace-que-no-haya-argumentos-para-mantener-estas-armas-en-el-estado>
+
+### Material gráfico
+- **OtrasRelecturas** — recopilación de casos (Guillot, Tanno, Alpuente, Quintana) con cronología de la doctrina del Supremo (2011 sobre "riesgo voluntario"). <https://otrasrelecturas.com/2021/04/30/stop-bales-de-goma-prohibicion-catalunya-brimo-carles-guillot-nicola-tanno-oscar-alpuente-ester-quintana-felip-puig-trapero-mossos-esquadra-seguridad-orden-publico/>
+- **Stop Bales de Goma en Issuu** — dossieres gráficos. <https://issuu.com/stopbalesdegoma>
+
+> ⚠️ Foto verificable del propio Guillot el día del incidente (17 jul 2001): no localizada públicamente. El material visual del desalojo de la Kasa de la Muntanya en 2001 está en archivos militantes y hemerotecas no completamente digitalizadas (La Vanguardia, El País, ABC, El Periódico). Recomendado: petición directa a hemerotecas.
+
 ## Conexiones
 
 - ↔ [[roger-espanol]] — mismo cuerpo, mismo ojo, misma doctrina judicial. Carles acompañó a Roger desde el primer día.

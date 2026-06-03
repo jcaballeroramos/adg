@@ -56,6 +56,35 @@ Cuando quedaban unas **400 personas** en el patio, las fuerzas marroquíes **ent
 - Documental de *El País*.
 - **Caminando Fronteras** publicó informes detallados.
 
+## Material visual
+
+### Fotos / reconstrucciones forenses
+- ⭐ **Lighthouse Reports** — *Reconstructing the Melilla Massacre*. Reconstrucción 3D del paso del Barrio Chino + 145 clips analizados. <https://www.lighthousereports.com/investigation/reconstructing-the-melilla-massacre/>
+- ⭐ **Border Forensics** — *The Nador-Melilla Border Trap*. Reconstrucción forense visual, material libre. <https://www.borderforensics.org/investigations/nadormelilla/>
+- **Irídia** — investigación conjunta con Border Forensics. <https://iridia.cat/en/new-investigation-by-iridia-and-border-forensics-points-to-the-responsibility-of-spain-and-morocco-in-the-massacre-of-melilla/>
+- **Wikipedia ES** — *Tragedia de la valla de Melilla* con fotografías embebidas (CC) y cronología verificada. <https://es.wikipedia.org/wiki/Tragedia_de_la_valla_de_Melilla>
+
+### Vídeos y documentales
+- ⭐ **BBC Africa Eye (nov 2022)** — *Death on the Border*. Documental completo en YouTube. <https://www.youtube.com/watch?v=MJoL7E4uvuU>
+- **El País + Lighthouse Reports** — *Reconstructing the truth about the deaths on the border of Melilla*. <https://www.youtube.com/watch?v=ijvy3LT-1dg>
+- *Lo que pasó en Melilla el 24 de junio de 2022*: <https://www.youtube.com/watch?v=9ipqFQmzBCY>
+- **Premio Voces por Refugio 2023** — presentación de *Reconstructing the Melilla Massacre*. <https://www.youtube.com/watch?v=UJXGo1yEQRo>
+
+### Archivo del lugar y datos
+- **Wikipedia EN · 2022 Melilla incident** — datos oficiales 23 muertes, cifras AMDH 37 desaparecidos/muertos, mapa del Barrio Chino. <https://en.wikipedia.org/wiki/2022_Melilla_incident>
+- **Human Rights Watch (30 jun 2022)** — informe inmediato. <https://www.hrw.org/es/news/2022/06/30/marruecos/espana-horrorosas-muertes-de-migrantes-en-la-frontera-de-melilla>
+- **BBC Africa · hilo original** con vídeos del operativo viralizados días después. <https://twitter.com/bbcafrica/status/1543631977399685124>
+
+### Capturas de prensa
+- **Público** — *Un año de mentiras e impunidad*. <https://www.publico.es/sociedad/aniversario-masacre-melilla-ano-mentiras-e-impunidad.html>
+- **Olive Press** — *BBC documentary about Spanish border tragedy prompts fresh calls*. <https://www.theolivepress.es/spain-news/2022/11/02/bbc-documentary-about-spanish-border-tragedy-prompts-fresh-calls-from-political-parties-for-explanations/>
+- **The Local** — *Spain under fire over BBC report on deadly border breach*. <https://www.thelocal.es/20221103/spains-government-under-fire-over-bbc-report-on-deadly-border-breach>
+- **Maldita.es** — verificación de las afirmaciones del Gobierno contra el documental BBC. <https://maldita.es/migracion/20221130/documental-bbc-valla-melilla-version-gobierno/>
+- **Newtral** — cronología verificada del salto a la valla. <https://www.newtral.es/cronologia-salto-valla-melilla/20221110/>
+
+### Material gráfico — clave
+- **Lighthouse Reports** — modelo 3D del Barrio Chino + geoposicionamiento de los 145 vídeos (en la página de investigación). El mejor material infográfico público sobre el caso.
+
 ## Conexiones
 - ↔ [[../autores-y-referencias/organizaciones/caminando-fronteras]] — la organización que documenta esta frontera.
 - ↔ [[compilacion-espana]] — datos agregados de la frontera sur.

@@ -186,6 +186,41 @@ El juicio concluye exactamente en el **noveno aniversario del referéndum**.
 
 ---
 
+## Material visual
+
+### Fotos retrato y de manifestación
+- **Sandra Lázaro · eldiario.es** — autora del retrato editorial más usado tras el incidente. <https://www.eldiario.es/autores/sandra_lazaro_fotos/>
+- **eldiario.es · etiqueta Roger Español** — todas las piezas con galería. <https://www.eldiario.es/temas/roger-espanol/>
+- **Stop Bales de Goma** — fotos en actos colectivos junto a Carles Guillot, Nicola Tanno y Ester Quintana (CC). <https://stopbalasdegoma.wordpress.com/>
+- **VilaWeb · etiqueta** — rueda de prensa de devolución de la Creu, banquillo. <https://www.vilaweb.cat/etiqueta/roger-espanyol/>
+
+### Vídeos
+- ⭐ **eldiario.es** — *"Roger Español: No he recibido ni una llamada del Ministerio del Interior"* (entrevista nov 2017). <https://www.youtube.com/watch?v=knTQgjbOej8>
+- **Parlament de Catalunya** — *Discurs de Roger Español en rebre la Medalla d'Honor del Parlament*. <https://www.dailymotion.com/video/x8436a9>
+- **VilaWeb / MetroMunster** — testimonio del 1-O. <https://www.vilaweb.cat/noticies/el-testimoni-de-roger-espanol-el-noi-que-va-perdre-la-visio-dun-ull-per-una-bala-de-goma-de-la-policia-espanyola-l1-o-referendum-video-metromunster/>
+- **VilaWeb** — vídeos de Mossos identificándolo en Meridiana (dic 2019). <https://www.vilaweb.cat/noticies/videos-els-mossos-fan-identificar-roger-espanol-i-mes-manifestants/>
+
+### Archivo del lugar (Escola Ramon Llull · Av. Diagonal 275)
+- **Ajuntament de Barcelona · ficha oficial** del centro modernista. <https://guia.barcelona.cat/es/detall/escola-ramon-llull_92168165958.html>
+- **Web oficial de la escola**. <https://www.escolaramonllull.com/escola>
+- **eldiario.es · galería editorial** del 1-O con fachada del Ramon Llull. <https://www.eldiario.es/catalunya/politica/fotos-cargas-policiales-impedir-referendum_3_3155332.html>
+- ⭐ **SpanishPolice (GitHub)** — archivo *805 Videos of the Repression* del 1-O. <https://spanishpolice.github.io/>
+- **NBC News** — galería con créditos Reuters/AP/Getty del 1-O Barcelona. <https://www.nbcnews.com/slideshow/hundreds-injured-spanish-police-try-block-catalan-referendum-n806421>
+
+### Capturas de prensa
+- **eldiario.es** — *"He perdido la visión de un ojo y el Gobierno ni me ha llamado"*. <https://www.eldiario.es/catalunya/recibido-llamada-ministerio-interior_128_3063072.html>
+- **El Triangle (ene 2024)** — *"Roger Español devuelve la Creu de Sant Jordi"*. <https://www.eltriangle.eu/es/2024/01/13/roger-espanol-devuelve-la-creu-de-sant-jordi-tengo-que-enfrentar-un-juicio-y-quiero-ir-ligero/>
+- **El Nacional** — *"Devuelve la Creu y carga contra la amnistía: deja la violencia en nada"*. <https://www.elnacional.cat/es/politica/roger-espanol-devuelve-creu-sant-jordi-carga-contra-amnistia-deja-violencia-nada_1145473_102.html>
+- **Público** — *"La Audiencia deniega la amnistía a cuatro policías"*. <https://www.publico.es/politica/audiencia-barcelona-deniega-amnistia-cuatro-policias-acusados-dejar-tuerto-votante-1-roger-espanol.html>
+- **El Nacional (oct 2025)** — fechas del juicio. <https://www.elnacional.cat/es/politica/cuatro-policias-acusados-mutilar-roger-espanol-seran-juzgados-coincidiendo-con-9o-aniversari-1-o_1507117_102.html>
+- **VilaWeb (CA)** — *L'Audiència denega l'amnistia al policia que va buidar l'ull a Roger Español*. <https://www.vilaweb.cat/noticies/audiencia-barcelona-denega-amnistia-policia-espanyol-buidar-ull-roger-espanol-judici/>
+
+### Material gráfico (identificación del agente)
+- **El Salto** — diagrama con la cadena de mando UC50/UC51/UC54. <https://www.elsaltodiario.com/violencia-policial/identificado-agente-disparo-bala-goma-referendum->
+- **Público** — material de identificación del escopetero por Irídia. <https://www.publico.es/politica/defensa-roger-espanol-identifica-policia-disparo-bala-goma-perdio-ojo-1-o.html>
+
+> ⚠️ Foto de agencia (Reuters/AP/EFE) del **momento exacto** del disparo en Ramon Llull: no localizada claramente atribuida. La galería NBC News con créditos AP/Reuters contiene material de Ramon Llull — contacto directo con agencias recomendado.
+
 ## Conexiones
 
 - ↔ [[carles-guillot]] — Casa de la Montaña 2001: víctima 16 años antes, mismo cuerpo (Policía Nacional), mismo ojo (derecho), misma doctrina judicial ("riesgo voluntario"). Carles acompañó a Roger desde el primer día.

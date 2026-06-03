@@ -90,6 +90,39 @@ Ester creó la campaña **"Ojo con tu ojo"** desde 2010 para empezar la comunica
 - Demuestra que los **vídeos ciudadanos pueden desmontar** el relato oficial — mismo patrón que Roger Español luego.
 - Su caso **cambió la ley** (prohibición Parlament 2014) — prueba de que el activismo puede lograr cambios.
 
+## Material visual
+
+### Fotos retrato
+- ⭐ **Stop Bales de Goma · ficha del caso** con retratos (créditos Edu Bayer). <https://stopbalasdegoma.wordpress.com/casos-2/ester-quintana/>
+- **eldiario.es · etiqueta** con cobertura y galería editorial. <https://www.eldiario.es/temas/ester-quintana/>
+- **15Mpedia** — foto + biografía (CC). <https://15mpedia.org/wiki/Ester_Quintana>
+- **Wikipedia** — *Caso Ester Quintana* con fotografía libre. <https://es.wikipedia.org/wiki/Caso_Ester_Quintana>
+
+### Vídeos y documental
+- ⭐ ***A tu què et sembla?*** (Pau Poch, EMAV, 2015, 70 min) — documental dedicado al caso. <https://www.filmaffinity.com/us/film271564.html>
+  - Tráiler: <https://www.youtube.com/watch?v=xL2W33ACBQ0>
+  - Versión completa/extendida: <https://www.youtube.com/watch?v=VQH1T5QKBk0>
+  - Estreno (Betevé, sept 2015): <https://beteve.cat/cultura/documental-ester-quintana-pilotes-goma-vaga-general/>
+- **Entrevista posterior al juicio** — *En mi caso no ha existido justicia, no quisieron encontrar culpable*. <https://www.youtube.com/watch?v=1qABArgEMbs>
+- **Vídeo entrevista Bernal Triviño (2015)**. <http://www.bernaltrivino.com/2015/11/17/video-entrevista-ester-quintana/>
+- **Playlist colectiva "Cas Ester Quintana. Ojo con tu ojo"**. <https://www.youtube.com/playlist?list=PLdhoBwgwU9reVsFDe3xqq0C40LX-rxDxk>
+
+### Archivo del lugar (Passeig de Gràcia con Gran Via · 14-N 2012, ~20:30 h)
+- **eldiario.es** — descripción del cruce + testimonio de acompañantes. <https://www.eldiario.es/catalunya/acompanantes-Esther-Quintana-relatan-agresion_0_69643132.html>
+- **15Mpedia** — cobertura visual de los disturbios del 14N (vídeo Dragó 40 BRIMO en BTV citado en sentencia). <https://15mpedia.org/wiki/Huelga_general_del_14_de_noviembre_de_2012>
+- **VICE** — reportaje con fotografías del 14N. <https://www.vice.com/es/article/huelga-general-14n-barcelona/>
+
+### Capturas de prensa
+- **Infolibre (abr 2016)** — *Espero que se haga justicia* (inicio del juicio). <https://www.infolibre.es/noticias/politica/2016/04/11/comienza_juicio_contra_los_mossos_acusados_disparar_ester_quintana_durante_una_huelga_2012_47960_1012.html>
+- **eldiario.es** — *No soy la primera víctima pero quiero ser la última*. <https://www.eldiario.es/catalunya/ester-quintana-primera-victima-ultima_1_5740892.html>
+- ⭐ **eldiario.es** — *"¿Tú has tirado bolas?"* — un jefe de Mossos a sus agentes tras la mutilación. <https://www.eldiario.es/catalunya/medicos-socorrieron-ester-quintana_1_4059738.html>
+- **eldiario.es** — *Un año del caso, muchas versiones policiales*. <https://www.eldiario.es/catalunya/ester-quintana-muchas-versiones-policiales_1_5167806.html>
+- **eldiario.es** — *El conseller me llamó… de forma personal, no oficial*. <https://www.eldiario.es/catalunya/conseller-decirme-sentia-personal-oficial_1_5174973.html>
+- **La Marea (dic 2012)** — inicio del recorrido judicial. <https://www.lamarea.com/2012/12/05/ester-quintana-presenta-una-querella-criminal-contra-los-mossos/>
+
+### Material gráfico
+- **Ojo con tu Ojo · blog** con carteles e infografías. <https://ojocontuojo.wordpress.com/>
+
 ## Conexiones
 - ↔ [[inigo-cabacas]] y [[roger-espanol]] — los tres casos canónicos.
 - ↔ [[carles-guillot]] — Casa de la Montaña 2001, compañero en Stop Balas de Goma.

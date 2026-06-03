@@ -66,6 +66,32 @@ El colectivo tiene como principios:
   - Hasta 2000: 23 muertos en España
 - **Sanidad pública**: operado 5 o 6 veces sin coste personal — patrón que contrasta con los casos italianos/chilenos donde los mutilados se endeudan.
 
+## Material visual
+
+### Fotos retrato
+- **Stop Bales de Goma · ficha del caso**. <https://stopbalasdegoma.wordpress.com/casos-2/nicola-tanno/>
+- ⭐ **Edu Bayer** — *Nicola Tanno durante una intervención en el Parlament de Catalunya*. Material esencial. <https://stopbalasdegoma.wordpress.com/casos-2/nicola-tanno/nicola-tanno-de-stop-bales-de-goma-durante-una-intervencion-en-el-parlament-de-catalunya-edu-bayer/>
+- **eldiario.es · etiqueta** con galería. <https://www.eldiario.es/temas/nicola-tanno/>
+- **El Salto · página de autor** (Tanno también escribe en el medio). <https://www.elsaltodiario.com/autor/nicola-tanno>
+
+### Vídeos
+- ⭐ **Entrevista (28 feb 2013)** — Jordi Naval y Nicola Tanno, los dos chicos que han perdido un ojo por pelota de goma. <https://www.youtube.com/watch?v=IV6LU-V8Mz0>
+- **Stop Bales de Goma · vídeo de campaña** (Tanno entre fundadores). <https://www.youtube.com/watch?v=T245Nm3HrRI>
+
+### Archivo del lugar (Plaza España · Fira de Barcelona, 10-11 jul 2010)
+- **El Economista (12 jul 2010)** — *Los Mossos cargan contra varios grupos de aficionados*. <https://www.eleconomista.es/mundial-2010-espana/noticias/2303540/07/10/Los-Mossos-dEsquadra-cargan-contra-varios-grupos-de-aficionados-en-Barcelona.html>
+- **El Nacional** — imágenes de TVE de la celebración del Mundial 2010 con disturbios en Fira. <https://www.elnacional.cat/enblau/es/television/tve-perdon-imagenes-fira-barcelona-llamas-2010-seleccion-espanola_430913_102.html>
+
+### Capturas de prensa
+- **Público** — *Alguien protege a los Mossos responsables de la agresión*. <https://www.publico.es/politica/nicola-tanno-victima-bala-goma.html>
+- **eldiario.es** — *El reconocimiento de las víctimas es ahora el gran problema*. <https://www.eldiario.es/catalunya/Nicola-Tanno_0_254775308.html>
+- **Diagonal** — *Dos Mossos imputados por dejar sin un ojo a un joven*. <https://www.diagonalperiodico.net/libertades/sargento-y-cabo-mossos-imputados-por-la-agresion-nicola-tanno.html>
+
+### Material gráfico
+- **OtrasRelecturas** — recopilación con esquema BRIMO Mossos y casos paralelos. <https://otrasrelecturas.com/2021/04/30/stop-bales-de-goma-prohibicion-catalunya-brimo-carles-guillot-nicola-tanno-oscar-alpuente-ester-quintana-felip-puig-trapero-mossos-esquadra-seguridad-orden-publico/>
+
+> ⚠️ Fotografía de agencia del momento exacto del impacto no localizada. Contacto recomendado: Stop Bales de Goma y el propio Tanno (escribe en El Salto).
+
 ## Conexiones
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — organización cofundada por Nicola
 - ↔ [[ester-quintana]] — colaboran en "Ojo con tu ojo"

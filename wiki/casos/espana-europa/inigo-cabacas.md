@@ -21,6 +21,46 @@ Es **la única condena conocida en España por un caso de bala de goma** (de los
 ## Importancia política
 Su muerte fue **decisiva para la prohibición de las balas de goma en Euskadi por parte de la Ertzaintza en abril de 2015**, una de las pocas prohibiciones reales en territorio español.
 
+## Material visual
+
+### Fotos retrato, familia y memoriales
+- **Naiz (9 abr 2022)** — descubrimiento de la placa en la plaza, Manu y Fina Liceranzu. <https://www.naiz.eus/en/info/noticia/20220409/inigo-cabacas-da-nombre-desde-hoy-a-la-plaza-donde-fue-herido-mortalmente>
+- **Naiz (12º aniversario, abr 2024)** — homenaje familiar. <https://www.naiz.eus/en/info/noticia/20240409/recuerdan-a-inigo-cabacas-en-el-lugar-en-que-un-pelotazo-de-la-ertzaintza-le-arrebato-la-vida>
+- **Naiz (2016)** — manifestación con fotos de Iñigo Gogoan. <https://www.naiz.eus/eu/info/noticia/20160410/una-manifestacion-reclama-justicia-para-inigo-cabacas>
+- **Naiz (2018)** — manifestación junto al Palacio de Justicia. <https://www.naiz.eus/es/info/noticia/20181108/una-manifestacion-reafirma-el-compromiso-por-que-inigo-cabacas-tenga-justicia>
+- ⭐ **ORAIN (nov 2024)** — vídeo de la madre Fina Liceranzu: *"Sabrán mucho de leyes, pero de humanidad cero patatero"*. <https://orain.eus/es/actualidad/sociedad/2024/11/20/video-fina-liceranzu-madre-de-inigo-cabacas-sabran-mucho-de-leyes-pero-de-humanidad-cero-patatero/>
+
+### Vídeos y documental
+- ⭐ ***Iñigo Cabacas. Crónica de una herida abierta*** (Karlos Trijueque, 2013) — documental con testimonios, imágenes inéditas y comunicaciones internas de la Ertzaintza reveladas por GARA. <https://www.youtube.com/watch?v=GwzxlON6aeo>
+  - Tráiler: <https://www.youtube.com/watch?v=c-kuHZm_-vQ>
+  - Mediateca Naiz: <https://www.naiz.eus/en/mediateca/video/inigo-cabacas-cronica-de-una-herida-abierta>
+- **EITB** — vídeos institucionales:
+  - Fallo de sentencia (nov 2018): <https://www.eitb.eus/es/noticias/sociedad/detalle/6026736/sentencia-caso-cabacas-dos-anos-carcel-mando-ertzaintza/>
+  - Conclusiones del juicio: <https://www.eitb.eus/es/noticias/sociedad/detalle/5978657/juicio-caso-inigo-cabacas-conclusiones-partes-9-noviembre-2018/>
+  - Manifestación Bilbao por justicia: <https://www.eitb.eus/es/noticias/sociedad/detalle/5978020/manifestacion-bilbao-pedir-justicia-cabacas-8-noviembre-2018/>
+  - Dossier monográfico: <https://www.eitb.eus/es/noticias/sociedad/inigo-cabacas/>
+- **Homenaje 6º aniversario (plaza Kirruli, Bilbao)**: <https://www.facebook.com/EcuadorEtxeaOficial/videos/homenaje-a-i%C3%B1igo-cabacas-en-la-plaza-kirruli-de-bilbao-al-cumplirse-6-a%C3%B1os-de-do/953589324791004/>
+
+### Archivo del lugar (Plaza Iñigo Cabacas Liceranzu · ex callejón María Díaz de Haro, San Mamés)
+- **Naiz** — fotografías de la plaza nombrada. <https://www.naiz.eus/en/info/noticia/20220409/inigo-cabacas-da-nombre-desde-hoy-a-la-plaza-donde-fue-herido-mortalmente>
+- Blog kaixo — fotos del callejón antes/después. <http://kaixo.blogspot.com/2022/04/plaza-inigo-cabacas-liceranzu.html>
+- **GARA / hemeroteca** (10 abr 2022) — *Una plaza a la memoria de Cabacas*. <https://www.naiz.eus/es/hemeroteca/gara/editions/2022-04-10/hemeroteca_articles/una-plaza-a-la-memoria-de-cabacas>
+- Cuenta Iñigo Cabacas Herri Harmaila (grada animación San Mamés): <https://www.instagram.com/ichharmaila/reels/>
+
+### Capturas de prensa
+- ⭐ **eldiario.es** — *Diez años de Cabacas: cuando la cúpula de la Ertzaintza negó el uso de pelotas de goma con un joven agonizando*. <https://www.eldiario.es/euskadi/diez-anos-cabacas-cupula-ertzaintza-nego-pelotas-goma-joven-agonizando_1_8884547.html>
+- **eldiario.es** — *El Supremo confirma 2 años de prisión para un mando*. <https://www.eldiario.es/euskadi/supremo-confirma-anos-prision-mando-ertzaintza-muerte-hincha-athletic-inigo-cabacas-pelotazo-goma_1_6854972.html>
+- **eldiario.es** — *Seis claves de la muerte y carencias de la Ertzaintza tras la que nunca disparó otra pelota de goma*. <https://www.eldiario.es/euskadi/cabacas-seis-claves-muerte-aireo-carencias-ertzaintza-disparo-pelota-goma_1_6872830.html>
+- **El Salto** — *Comienza el juicio seis años después*. <https://www.elsaltodiario.com/balas-de-goma/juicio-muerte-inigo-cabacas-seis-anos-despues>
+- **Público** — *El único ertzaina condenado se libra de la cárcel*. <https://www.publico.es/sociedad/ertzaina-condenado-muerte-cabacas.html>
+- **El Español** — *El ertzaina: No conocíamos el poder letal de las pelotas de goma*. <https://www.elespanol.com/deportes/futbol/20181015/ertzaina-inigo-cabacas-no-conociamos-letal-pelotas/345716365_0.html>
+- **Noticias de Gipuzkoa** — *Diez años, un antes y un después en la Ertzaintza*. <https://www.noticiasdegipuzkoa.eus/politica/2022/04/09/diez-anos-muerte-inigo-cabacas-3604515.html>
+
+### Material gráfico y cronología
+- **ORAIN** — cobertura 10º aniversario con fotos y cronología. <https://orain.eus/es/actualidad/sociedad/2022/04/09/sentido-recuerdo-y-peticion-de-justicia-en-decimo-aniversario-de-muerte-de-inigo-cabacas/>
+- **Deia** — pieza con fotografía del homenaje familiar. <https://www.deia.eus/politica/2022/04/09/familiares-amigos-cabacas-piden-justicia-1715644.html>
+- **CTXT** — esquema/cronología del caso. <https://ctxt.es/es/20161221/Deportes/10141/Inigo-Cabacas-juicio-responsables-Ertzaintza-Athletic-Bilbao.htm>
+
 ## Conexiones
 - ↔ [[ester-quintana]] y [[roger-espanol]] — junto con Iñigo, los tres casos que forzaron las prohibiciones autonómicas.
 - ↔ [[carles-guillot]] — fundador de Stop Bales de Goma, del que el caso de Iñigo es referencia constante.

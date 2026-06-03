@@ -92,6 +92,38 @@ El Skunk, las balas de goma metálicas, el uso de drones para "identificar" mani
 - **El puente conceptual** entre el "orden colonial" y el "orden neoliberal doméstico".
 - **La coincidencia temporal** con la ola global 2019-2024: mismas armas, mismos fabricantes, mismas imágenes.
 
+## Material visual
+
+### Fotos icónicas
+- **+972 Magazine · Activestills** — archivo fotográfico de violencia colona (Oren Ziv, Avishay Mohar). Licencia parcial CC. <https://www.972mag.com/topic/settler-violence/>
+- **B'Tselem** — archivo de vídeo y fotografía documentado. <https://www.btselem.org/video-channel/all>
+- **Washington Post** — investigación visual del asesinato de un adolescente palestino en Qusra (ene 2024). <https://www.washingtonpost.com/investigations/2024/01/09/israel-settler-violence-qusra-west-bank/>
+
+### Vídeos y documentales
+- **Forensic Architecture** — *The Israeli Military Campaign in the West Bank* (informe PDF con cartografía y vídeos): <https://content.forensic-architecture.org/wp-content/uploads/2025/04/2025.04.25_FA_West-Bank_report.pdf>. Web: <https://forensic-architecture.org/>
+- **Al Jazeera** — mapeo visual de la campaña militar. <https://www.aljazeera.com/news/2025/5/27/mapping-israels-military-campaign-in-the-occupied-west-bank>
+- **Al Jazeera** — cronología visual del asalto a Jenin (sept 2024). <https://www.aljazeera.com/news/2024/9/3/timeline-israels-deadly-seven-day-raid-in-occupied-west-banks-jenin>
+- **BBC Witness** — *How Jenin's youth is defying Israel's occupation* (oct 2024). <https://www.youtube.com/watch?v=3ZuOSIn6YdY>
+- **CBS News + B'Tselem** — vídeo de soldados ejecutando a palestinos rendidos. <https://www.cbsnews.com/news/israel-soldiers-execute-palestinian-men-surrender-west-bank-jenin-video-btselem/>
+- **B'Tselem** — ataque colono en Huwarah (jul 2024). <https://www.btselem.org/video/202407_the_israeli_military_enabled_settlers_to_attack_palestinians_homes_shops_and_cars_in_huwarah_in_two_separate_incidents>
+- **+972 Magazine** — vídeo del **Skunk (Odortec)** rociado sobre hogares y escuelas palestinas. <https://www.972mag.com/watch-police-spray-putrid-water-on-palestinian-homes-schools/>
+
+### Archivo / Wikimedia Commons
+- Campos de refugiados de Jenin: <https://commons.wikimedia.org/wiki/Category:Jenin_refugee_camp>
+- B'Tselem maps oficiales (Territorios Ocupados): <https://www.btselem.org/maps>
+
+### Capturas de prensa
+- **Al Jazeera** — *"Israel has killed 1,000 Palestinians in the West Bank since October 7, 2023"*. <https://www.aljazeera.com/news/2025/7/1/israel-has-killed-1000-palestinians-in-the-west-bank-since-october-7-2023>
+- **B'Tselem** — *Unleashed: Abuse of Palestinians by Israeli soldiers in the center of Hebron* (dic 2024). <https://www.btselem.org/publications/202412_unleashed>
+- **Al Jazeera** — *"Israel's war on the West Bank"*. <https://www.aljazeera.com/news/2024/8/28/israels-war-on-the-west-bank>
+- **+972** — *The West Bank villages wiped off the map by Israeli settler violence*. <https://www.972mag.com/west-bank-villages-israeli-settler-violence/>
+
+### Material gráfico
+- **B'Tselem** — cartografía oficial: asentamientos, barrera, áreas A/B/C. <https://www.btselem.org/maps>
+- **B'Tselem · base de datos** — víctimas y demoliciones con visualizaciones. <https://statistics.btselem.org/en/stats/since-cast-lead/by-date-of-incident>
+- **Joronen & Ghantous 2024** — *"Weathering violence: Atmospheric materialities and olfactory durations of 'skunk water' in Palestine"* (base académica sobre el Skunk de Odortec). <https://journals.sagepub.com/doi/10.1177/25148486241226923>
+- **Forensic Architecture** — cartografía del control espacial en Jenin, Tulkarem, Nur Shams, Al-Far'a. <https://content.forensic-architecture.org/wp-content/uploads/2025/04/2025.04.25_FA_West-Bank_report.pdf>
+
 ## Conexiones
 - ↔ [[../../empresas-de-armas/empresas/ispra]] — fabricante israelí principal.
 - ↔ [[../../historia/armas-quimicas]] — sección Skunk.

@@ -42,6 +42,27 @@ Es el caso paradigmático de cómo **el efecto combinado** de:
 - Demuestra que las "armas no letales" son **letales por contexto**: la lacrimógena no mata por el impacto pero **provoca la condición** que causa la muerte.
 - Encarna la **culpa diluida del Estado**: nadie aprieta el gatillo, pero el resultado es el mismo.
 
+## Material visual
+
+### Fotos / cronología
+- **Wikipedia FR** — *Affaire Steve Maia Caniço* con cronología verificada e iconografía. <https://fr.wikipedia.org/wiki/Affaire_Steve_Maia_Cani%C3%A7o>
+- **Disclose** — foto de Steve + reconstrucción judicial. <https://disclose.ngo/fr/article/mort-de-steve-expertise-judiciaire-demontre-responsabilite-de-la-police>
+
+### Vídeos
+- **Dailymotion** — *Une reconstitution à Nantes* (reconstrucción judicial filmada). <https://www.dailymotion.com/video/x7wohqv>
+- **France Bleu** — aniversario con material audiovisual del lugar + testimonios. <https://www.francebleu.fr/infos/faits-divers-justice/il-y-a-un-a-nantes-steve-maia-canico-trouvait-la-mort-lors-de-la-fete-de-la-musique-1592573772>
+- **France Info** — dossier *Mort de Steve Maia Caniço à Nantes* (todos los vídeos del caso). <https://www.franceinfo.fr/faits-divers/disparition-de-steve-a-nantes/>
+
+### Archivo del lugar (Quai Wilson · Île de Nantes · Fête de la Musique 21 jun 2019)
+- La carga ocurrió pasadas las 4h00 con **33 lacrimógenas, 12 flash-balls y 10 granadas de desencerclamiento** (cifras informe IGPN). 14 personas cayeron al Loira; Steve fue el único que no salió con vida.
+
+### Capturas de prensa
+- **Disclose** — *Une expertise judiciaire démontre la responsabilité de la police*. <https://disclose.ngo/fr/article/mort-de-steve-expertise-judiciaire-demontre-responsabilite-de-la-police>
+- **Lutte Ouvrière** — análisis del veredicto. <https://www.lutte-ouvriere.org/portail/breves/mort-steve-maia-canico-charge-policiere-ny-serait-rien-178161.html>
+- **Wikipedia FR · acquittement comisario Chassaing (sept 2024)** — como compendio de titulares. <https://fr.wikipedia.org/wiki/Affaire_Steve_Maia_Cani%C3%A7o>
+
+> ⚠️ No hay infografía pública estándar con el plano del Quai Wilson y posicionamiento de unidades. Disclose y Mediapart elaboraron reconstrucciones internas — recomienda solicitar a Disclose la cesión del material gráfico.
+
 ## Conexiones
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — citado en "Lo que me interesa más".
 - ↔ [[remi-fraisse]] — el otro caso francés icónico.

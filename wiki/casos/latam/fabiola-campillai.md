@@ -84,6 +84,37 @@ Articulada con organizaciones de derechos humanos para exigir:
 - Límites al empleo de gases lacrimógenos, escopetas antidisturbios y otras armas menos letales.
 - **Reparación integral** a las víctimas del estallido social.
 
+## Material visual
+
+### Fotos retrato
+- **Getty Images** — 13 fotos editoriales (juramentación 11-mar-2022, mitin). Copyright Getty (licencia editorial requerida). <https://www.gettyimages.com/photos/fabiola-campillai>
+- **INDH · foto institucional** — tras la condena (oct 2022). <https://www.indh.cl/justicia-condeno-a-12-anos-de-presidio-efectivo-a-ex-oficial-de-carabineros-autor-del-disparo-que-dejo-ciega-a-fabiola-campillai/>
+- **Senado / Radio U. de Chile** — momento del juramento (11 mar 2022). <https://radio.uchile.cl/2022/03/11/senadora-fabiola-campillai-el-pueblo-entra-al-senado-a-traves-de-una-mujer-que-fue-victima-de-la-represion-de-este-estado-y-de-este-gobierno/>
+- **France 24 / AFP** — Fabiola escuchando el veredicto contra Maturana (1 sep 2022). <https://www.france24.com/es/am%C3%A9rica-latina/20220901-chile-declaran-culpable-al-carabinero-que-dispar%C3%B3-contra-la-senadora-fabiola-campillai>
+- **Instagram oficial @fabiolacampillai_senadora** — uso editorial con citación. <https://www.instagram.com/fabiolacampillai_senadora/>
+
+### Vídeos
+- **24 Horas TVN** — testimonio cámara. <https://www.youtube.com/watch?v=BSonVCcY0cU>
+- **CNN Chile (ago 2020)** — *"Justicia sería que los culpables estuvieran en la cárcel"*. <https://www.youtube.com/watch?v=S269NsmtHFo>
+- **24 Horas TVN** — *"Estuve una semana sin recordar nada"*. <https://www.youtube.com/watch?v=DoJW9KeeulQ>
+- **TV Senado · Profundidad de Campos** — entrevista larga como senadora. <https://www.youtube.com/watch?v=ydH4xG_CtwM>
+- **CHV Noticias** — Fiscal Chong invoca el caso Campillai contra el general Yáñez. <https://www.youtube.com/watch?v=sJiARL3x55Y>
+- **La Hora · ene 2023** — vídeo de Patricio Maturana siendo trasladado al penal. <https://lahora.cl/cronica/2023/01/24/video-patricio-maturana-abandona-su-domicilio-para-cumplir-condena-de-12-anos-en-prision/>
+
+### Archivo del lugar (San Bernardo, calle Fermín Vivaceta · pasaje Ángel Guido)
+- **La Tercera** — reconstrucción de la calle con croquis y línea de tiro. <https://www.latercera.com/nacional/noticia/tribunal-condena-a-excarabinero-patricio-maturana-por-disparo-de-lacrimogena-que-cego-a-la-senadora-campillai/3MWBCWNBRVDFFBWMPB54YSVWKM/>
+- **La Tercera PM** — *Los rastros que dejó el capitán imputado* (incluye fotos de la 14ª Comisaría de San Bernardo). <https://www.latercera.com/la-tercera-pm/noticia/patricio-maturana-los-rastros-que-dejo-el-capitan-de-carabineros-imputado-por-dejar-ciega-a-fabiola-campillai/CHSRPIZ7DJBL3HXMVLMINIJHBE/>
+
+### Capturas de prensa
+- **Emol** — *"Condenan a 12 años de presidio"*. <https://www.emol.com/noticias/Nacional/2022/10/11/1075273/lectura-sentencia-maturana-campillai.html>
+- **CNN Chile** — *"Su propósito fue hacer daño"*. <https://www.cnnchile.com/pais/culpable-ex-carabinero-patricio-maturana-senadora-fabiola-campillai_20220901/>
+- **El Mostrador** — *"INDH pide 15 años de cárcel para Patricio Maturana"*. <https://www.elmostrador.cl/dia/2021/12/15/indh-pide-15-anos-de-carcel-para-patricio-maturana-el-carabinero-que-disparo-lacrimogena-y-dejo-ciega-a-fabiola-campillai/>
+- **Poder Judicial de Chile** — comunicado oficial de la condena. <https://www.pjud.cl/prensa-y-comunicaciones/noticias-del-poder-judicial/78278>
+
+### Material gráfico
+- **Pulitzer Center** — *"A Vision of Justice: Chile's First Blind Senator"* (reportaje con fotos editoriales de alta calidad). <https://pulitzercenter.org/stories/vision-justice-chiles-first-blind-senator>
+- **INDH** — cifras oficiales sobre el estallido (2.381 hospitalizados, 222 traumas oculares).
+
 ## Conexiones
 - ↔ [[roger-espanol]] (paralelismo: agente identificado, juicio largo, presión de DD.HH.).
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] (la fisiología del estallido ocular).

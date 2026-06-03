@@ -92,6 +92,34 @@ La organización **[[../autores-y-referencias/organizaciones/caminando-fronteras
 - **Documental "Tarajal: Desmontando la impunidad"** (2016) de Alba Muñoz, Xavier Artigas, Xapo Ortega.
 - Imágenes de los cuerpos en la playa (uso editorial sensible).
 
+## Material visual
+
+### Fotos
+- **Caminando Fronteras** — etiqueta "Tarajal" con fotos del operativo, listados de víctimas y familias. <https://caminandofronteras.org/etiqueta/tarajal/>
+- **Caminando Fronteras (feb 2026)** — retrospectiva *Tarajal Massacre: Twelve Years On*. <https://caminandofronteras.org/en/tarajal-massacre-twelve-years-on/>
+
+### Vídeos y documentales
+- ⭐ ***Tarajal: Desmontando la impunidad en la frontera Sur*** (2016) · Xavier Artigas y Xapo Ortega · Metromuster + Observatori DESC. **El** documental de referencia. <https://www.filmin.es/pelicula/tarajal-desmontando-la-impunidad-en-la-frontera-sur>
+  - Teaser: <https://www.youtube.com/watch?v=vTTNDqrgiLc>
+  - Presentación en la Eurocámara: <https://www.youtube.com/watch?v=4pv_jBd3jJ0>
+  - Debate *¿Tragedia, masacre o matanza?*: <https://www.youtube.com/watch?v=e8ffE37rI60>
+- ***Tarajal: transformar el dolor en justicia*** (2.º documental de Caminando Fronteras, rodado en Camerún con las familias). <https://caminandofronteras.org/en/tarajal-transforming-pain-into-justice/>
+- **Canal oficial · Caminando Fronteras**. <https://www.youtube.com/channel/UCg-RAbq41TXETylfWL8pidA>
+
+### Documentos judiciales
+- **ECCHR** — dossier judicial completo. <https://www.ecchr.eu/en/case/europes-treacherous-borders-seeking-justice-for-ceuta-victims/>
+- **ECCHR Case Report (abril 2019, PDF)** — reconstrucción minuto a minuto. <https://www.ecchr.eu/fileadmin/Fallbeschreibungen/Case_Report_Ceuta_April2019.pdf>
+- **Amnistía Internacional** — *Spain/Morocco: a tragedy at the border*. <https://www.amnesty.org/en/latest/campaigns/2015/02/spain-morocco-a-tragedy-at-the-border/>
+
+### Capturas de prensa
+- **Cuarto Poder** — *Un documental contra la conjura de la impunidad urdida por el poder*. <https://www.cuartopoder.es/espana/2017/01/15/tarajal-un-documental-contra-la-conjura-de-la-impunidad-urdida-por-el-poder/>
+- **IBTimes UK** — *Spanish Civil Guard's Ceuta Video 'Hides Truth of Asylum-Seekers' Shooting'*. <https://www.ibtimes.co.uk/spanish-civil-guards-cueta-video-hides-truth-asylum-seekers-shoooting-1437454>
+- **Adsis** — *Documental sobre la impunidad en la frontera de Ceuta*. <https://www.adsis.org/es/noticias/tarajal-documental-sobre-la-impunidad-en-la-frontera-de-ceuta>
+- **Cineteca Madrid** — ficha del documental. <https://www.cinetecamadrid.com/programacion/el-tarajal-desmontando-la-impunidad-en-la-frontera-sur>
+
+### Cifras oficiales
+- **145 pelotas de goma + 5 botes de humo** disparados por la Guardia Civil contra personas nadando — comparecencia del Secretario de Estado de Seguridad (ver ECCHR Case Report).
+
 ## Conexiones
 - ↔ [[melilla-2022]] — el caso hermano 8 años después.
 - ↔ [[../autores-y-referencias/organizaciones/caminando-fronteras]] — la organización que documenta.

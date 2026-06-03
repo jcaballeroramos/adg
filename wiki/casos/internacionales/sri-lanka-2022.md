@@ -51,6 +51,35 @@ Las imágenes del ataque circularon globalmente y **cuestionaron la promesa de "
 - Demuestra que las **armas menos letales** se usan **incluso por gobiernos que prometieron escuchar** al pueblo.
 - **Conexión clave**: la crisis económica → el armamento represivo es **comprado** con dinero público mientras el país se desangra. **Sri Lanka gastó millones en gas lacrimógeno** mientras los hospitales no tenían medicinas.
 
+## Material visual
+
+### Fotos icónicas
+- **Getty Images** — archivo de ~14.000 fotos (Buddhika Weerasinghe, Eranga Jayawardena/AP, Dinuka Liyanawatte/Reuters). Copyright Getty, licencia comercial requerida. <https://www.gettyimages.com/photos/sri-lanka-protest>
+- **CNN** — imágenes del desmantelamiento del campamento Galle Face. <https://www.cnn.com/2022/07/22/asia/sri-lanka-galle-face-protest-raid-intl-hnk/index.html>
+- **Global Voices** — evolución fotográfica de GotaGoGama. <https://globalvoices.org/2022/07/27/sri-lanka-the-evolution-of-the-gotagogama-protest-site-and-its-periphery-in-photos/>
+- **The Diplomat** — galería paralela (referencia visual). <https://thediplomat.com/2024/08/in-photos-bangladesh-after-hasina-fled/>
+
+### Vídeos y documentales
+- ***#GoHomeGota*** (Sulochana Peiris, 2023, 51 min) — documental sobre el hashtag y la organización del movimiento. <https://polity.lk/gohomegota-the-story-behind-sri-lankas-hashtagged-protest-movement/>
+- ***The People's Reign — A Documentary 2022***. <https://www.youtube.com/watch?v=9DRRQ94An-U>
+- **Al Jazeera** — *"Supreme power of people: Sri Lanka marks 100 days of protests"* (con vídeo integrado). <https://www.aljazeera.com/news/2022/7/18/supreme-power-of-people-sri-lanka-marks-100-days-of-protests>
+- Footage del asalto al palacio presidencial: <https://www.youtube.com/watch?v=lI9Y8cr8nwE>
+
+### Archivo / Wikimedia Commons
+- Galle Face Green (Colombo): <https://commons.wikimedia.org/wiki/Category:Galle_Face_Green>
+- Residencia presidencial: <https://commons.wikimedia.org/wiki/Category:President%27s_House,_Colombo>
+
+### Capturas de prensa
+- **Infobae** — *"Los impactantes vídeos de la toma de la residencia: usaron la piscina y se acostaron en su cama"*. <https://www.infobae.com/america/mundo/2022/07/09/los-impactantes-videos-de-la-toma-de-la-residencia-del-presidente-de-sri-lanka-usaron-la-piscina-y-se-acostaron-en-su-cama/>
+- **Público (ES)** — *"El espectacular asalto al palacio presidencial de Sri Lanka, en imágenes"*. <https://www.publico.es/internacional/espectacular-asalto-palacio-presidencial-sri-lanka-imagenes.html>
+- **Human Rights Watch** — *"Sri Lanka: Government Backers Attack Peaceful Protesters"*. <https://www.hrw.org/news/2022/05/10/sri-lanka-government-backers-attack-peaceful-protesters>
+- **Al Jazeera** — represión final del campamento. <https://www.aljazeera.com/news/2022/8/1/sri-lanka-protesters-divided-on-leaving-main-camp-amid-crackdown>
+
+### Material gráfico
+- **Wikipedia** — cronología con mapas embebidos (CC). <https://en.wikipedia.org/wiki/2022_Sri_Lankan_protests>
+- **Groundviews** — ensayo de archivo con material visual del Aragalaya. <https://groundviews.org/2024/02/07/documenting-and-understanding-a-peoples-uprising/>
+- **Saag Anthology** — *Scenes from Gotagogama*. <https://www.saaganthology.com/featured/scenes-from-gotagogama>
+
 ## Conexiones
 - ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] — la ola global 2019-2022.
 - ↔ [[../impacto-agregado]].
