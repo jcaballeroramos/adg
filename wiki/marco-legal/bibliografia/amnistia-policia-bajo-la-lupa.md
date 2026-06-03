@@ -87,6 +87,6 @@ Informe de **Amnistía Internacional** publicado en octubre de **2021** (código
 - ↔ [[../../casos/latam/colombia-2021]] — Paro Nacional, ESMAD.
 - ↔ [[../../casos/latam/gustavo-gatica]] — caso central del informe "Ojos sobre Chile".
 - ↔ [[../../casos/latam/fabiola-campillai]] — víctima ocular Chile.
-- ↔ [[../../autores-y-referencias/referentes/tear-gas-investigation-amnistia-berkeley]] — investigación citada.
+- ↔ [[../../autores-y-referencias/referentes/00-referentes]] — *Tear Gas: An Investigation* (Amnistía + UC Berkeley) y otros referentes audiovisuales.
 - ↔ [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]] — impactos postraumáticos de violencia ocular.
 - ↔ [[me-estallo-el-ojo-amnistia]] — informe Amnistía sobre Chile.

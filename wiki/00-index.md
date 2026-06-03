@@ -196,8 +196,8 @@ Cómo se entrena, cómo se aplica.
 
 ### 6.1 · Compilaciones agregadas
 
-- [**Impacto agregado — todas las cifras**](casos/espana-europa/impacto-agregado.md) — dashboard curado de muertes, heridos, ojos perdidos, por país y periodo.
-- [Compilación España — cifras agregadas](casos/espana-europa/compilacion-espana.md) — fuente única de datos del documental para España.
+- [**Compilación España — cifras agregadas**](casos/espana-europa/compilacion-espana.md) — **fuente única** del documental para el Estado español (víctimas, Stop Bales 2000-2020, impunidad, trazabilidad).
+- [Impacto agregado — dashboard mundial](casos/espana-europa/impacto-agregado.md) — cifras curadas por país y periodo (LATAM, Francia, Palestina, etc.). España remitida a *compilacion-espana*.
 - [Listado histórico de víctimas (España)](casos/espana-europa/stop-bales-listado-historico.md) — registro Stop Bales 1976-2020.
 
 ### 6.2 · España — Catalunya y Estado
@@ -278,9 +278,8 @@ Cómo se entrena, cómo se aplica.
 
 ### 7.1 · Paul Rocher (corazón teórico del documental)
 
-- [Ficha del autor](autores-y-referencias/paul-rocher/paul-rocher.md) — economista, autor de *Gazer, mutiler, soumettre*. Tesis: las armas "no letales" no sustituyeron, amplificaron.
-- [Entrevista íntegra + "Lo que me interesa más"](autores-y-referencias/paul-rocher/paul-rocher-entrevista.md) — transcripción literal en inglés (≈52 min, **audio incluido**) + selección de pasajes traducidos al castellano.
-- [*Qué hace la policía y cómo vivir sin ella*](autores-y-referencias/paul-rocher/paul-rocher-que-hace-la-policia.md) — resumen completo del segundo libro de Rocher (Katakrak 2023).
+- [**Paul Rocher**](autores-y-referencias/paul-rocher/paul-rocher.md) — economista francés, autor de *Gazer, mutiler, soumettre*. Tesis: las armas "no letales" no sustituyeron, amplificaron.
+  - Ver dentro: entrevista íntegra (~52 min, audio + transcripción) + resumen de *Qué hace la policía y cómo vivir sin ella* (Katakrak, 2023).
 
 ### 7.2 · Autoras y autores
 
@@ -296,9 +295,7 @@ Cómo se entrena, cómo se aplica.
 
 ### 7.3 · Figuras históricas
 
-- [Fritz Haber](autores-y-referencias/figuras-historicas/fritz-haber.md) — padre de la guerra química, Nobel 1918, Ypres 1915.
-- [Amos Fries](autores-y-referencias/figuras-historicas/amos-fries.md) — cruzado del gas lacrimógeno, arquitecto del discurso "humanitario" (años 20).
-- [Kamran Loghman](autores-y-referencias/figuras-historicas/kamran-loghman.md) — inventor arrepentido del spray OC, cita famosa sobre Occupy 2011.
+- [**Trío químico — Haber · Fries · Loghman**](autores-y-referencias/figuras-historicas/00-trio-quimico.md) — dosier consolidado: el científico que lo inventa (Ypres 1915), el burócrata que lo normaliza (años 20) y el inventor que lo reniega (Occupy 2011).
 
 ### 7.4 · Organizaciones
 
@@ -312,48 +309,29 @@ Cómo se entrena, cómo se aplica.
 
 ### 7.5 · Referentes audiovisuales — documentales, podcasts, debates
 
-Material existente que dialoga con el documental: contexto, antecedentes, formas narrativas, contra-investigaciones.
-
-#### Largometrajes documentales
-
-- [No More Killing (2007)](autores-y-referencias/referentes/no-more-killing-2007.md) — Wolfgang K. Bergmann, historia de less-lethal.
-- [Preempting Dissent (2014)](autores-y-referencias/referentes/preempting-dissent-2014.md) — Elmer & Opel, "Miami Model" → Occupy.
-- [Killing Them Safely (2015)](autores-y-referencias/referentes/killing-them-safely-2015.md) — Nick Berardini, Taser, Axon, muertes.
-- [All Light, Everywhere (2021)](autores-y-referencias/referentes/all-light-everywhere-2021.md) — Theo Anthony, cámaras corporales, sesgo.
-- [Riotsville, U.S.A. (2022)](autores-y-referencias/referentes/riotsville-usa-2022.md) — Sierra Pettengill, archivo 1960s, militarización policial.
-- [Nous sommes des champs de bataille (2025)](autores-y-referencias/referentes/nous-sommes-des-champs-de-bataille-2025.md) — Mathieu Rigouste, Milipol, ferias.
-
-#### Reportajes y proyectos multimedia
-
-- [Tear Gas: An Investigation (Amnistía + UC Berkeley, 2020)](autores-y-referencias/referentes/tear-gas-investigation-amnistia-berkeley.md) — OSINT, 22 países.
-- [Lethal in Disguise — INCLO / PHR / Omega (2016-2023)](autores-y-referencias/referentes/lethal-in-disguise-inclo-phr.md) — informes y plataforma.
-- [Unhealed Wounds — INCLO / PHR / Omega](autores-y-referencias/referentes/unhealed-wounds-inclo-phr.md) — retratos y testimonios de víctimas.
-- [Blood Parliament — BBC Africa Eye (2025)](autores-y-referencias/referentes/blood-parliament-bbc-africa-eye-2025.md) — Kenya, OSINT forense.
-- [Corto global de Amnistía sobre armas menos letales (2024)](autores-y-referencias/referentes/corto-amnistia-armas-menos-letales-2024.md) — Leidy Cadena.
-- [Contra-enquête GENI — Angelo Garand (≈2022)](autores-y-referencias/referentes/contra-enquete-geni-angelo-garand.md) — Groupe d'Enquête Indépendant.
-
-#### Mapas, podcasts, debates parlamentarios
-
-- [Mapa de la Policía — Ciudad de Buenos Aires (2022)](autores-y-referencias/referentes/mapa-policia-ciudad-buenos-aires.md) — CORREPI, CELS, EDiPo.
-- [Podcast — Ester Quintana + Irídia · supervisión policial](autores-y-referencias/referentes/podcast-ester-quintana-iridia-supervisión-policial.md).
-- [Debate TV — foam y pérdida de ojo (2024)](autores-y-referencias/referentes/debate-tv-foam-ojo-perdido.md) — Anaïs Franquesa.
-- [Sesión Parlament — Interior + Trapero (2024)](autores-y-referencias/referentes/parlament-cataluna-interior-trapero-2024.md).
+- [**Referentes audiovisuales — índice consolidado**](autores-y-referencias/referentes/00-referentes.md) — tabla unificada con los 16 materiales (documentales, reportajes OSINT, podcasts, debates, mapas) que sirven de contexto, contraejemplo o inspiración para el documental. *No More Killing, Preempting Dissent, Killing Them Safely, All Light Everywhere, Riotsville USA, Nous sommes des champs de bataille, Lethal in Disguise, Tear Gas Investigation, Unhealed Wounds, Blood Parliament, Corto Amnistía, GENI Garand, Mapa Policía CABA, Podcast Ester Quintana, Debate TV foam, Parlament Trapero.*
 
 ---
 
 ## 8 · Herramientas y entornos profesionales
 
-Plataformas, foros y agencias forenses que rodean el campo.
+### 8.1 · Tecnología forense y OSINT
 
 - [VFRAME — Visual Forensics and Metadata Extraction](herramientas/vframe.md) — detección de munición con ML al servicio de DDHH.
+- [Forensic Architecture](herramientas/forensic-architecture.md) — agencia forense audiovisual de DDHH.
 - [Paper · Weapon Detection Using YOLO V3](herramientas/yolo-v3-weapon-detection.md) — contraejemplo académico: IA para vigilancia policial.
+- [Mapa mundial de ferias de armas (Tableau Omega)](herramientas/mapa-omega-ferias-armas.md).
+
+### 8.2 · Redes y coaliciones de control
+
+- [IANSA — International Action Network on Small Arms](herramientas/iansa.md) — red internacional contra la proliferación.
+- [Control Arms](herramientas/control-arms.md) — coalición global por el ATT.
+- [Torture Journal (IRCT)](herramientas/torture-journal.md) — revista académica internacional sobre tortura y rehabilitación.
+- [Buccello y Asociados (Argentina)](herramientas/buccelloy-asociados.md) — estudio jurídico de violencia institucional.
+
+### 8.3 · Foros, ferias y proyectos investigativos
+
 - [European Symposium on Non-Lethal Weapons 2026](herramientas/symposium-non-lethal-weapons-2026.md) — el foro internacional de la industria + investigación.
 - [LAWS — Sistemas de Armas Autónomas Letales](herramientas/laws-armas-autonomas.md) — el siguiente paso del paradigma "menos letal".
 - [El Clip · "Humo en las calles / Negocio de la represión"](herramientas/el-clip-negocio-represion.md) — fuente periodística primaria de toda la sección LATAM.
-- [IANSA — International Action Network on Small Arms](herramientas/iansa.md) — red internacional contra la proliferación.
-- [Control Arms](herramientas/control-arms.md) — coalición global por el ATT.
-- [Forensic Architecture](herramientas/forensic-architecture.md) — agencia forense audiovisual de DDHH.
-- [Mapa mundial de ferias de armas (Tableau Omega)](herramientas/mapa-omega-ferias-armas.md).
 - [Apex Brasil](herramientas/apex-brasil.md) — promoción estatal de la industria represiva brasileña.
-- [Torture Journal (IRCT)](herramientas/torture-journal.md) — revista académica internacional sobre tortura y rehabilitación.
-- [Buccello y Asociados (Argentina)](herramientas/buccelloy-asociados.md) — estudio jurídico de violencia institucional.

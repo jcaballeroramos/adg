@@ -1,7 +1,7 @@
 ---
 tipo: estadísticas
 estado: borrador
-ámbito: global (con foco España + LATAM + Francia)
+ámbito: dashboard mundial (España remitido a compilacion-espana)
 fuentes_principales:
   - "Stop Bales de Goma 1976-2020"
   - "INCLO Lethal in Disguise 2 (2023)"
@@ -30,50 +30,11 @@ Página-**dashboard** con las cifras más importantes del daño producido por la
 - **945 incapacidades permanentes**.
 - **1.575 daños oculares** (el **65%** del total de heridos).
 
-## 🇪🇸 España (1976-2024)
+## 🇪🇸 España
 
-### Muertes totales
-- **24 muertos** por balas de goma (1978-2019) — fuente El Salto.
-- **+14 personas** muertas por ahogamiento en [[tarajal-2014|Tarajal]] (6 feb 2014).
-- **+37 personas** muertas en [[melilla-2022|Melilla]] (24 jun 2022).
-- **+1 muerto**: Iñigo Cabacas (Bilbao 2012) — la única condena.
-- **+1 muerto**: Antonio C. Badalona (2021) — primera muerte por taser en Catalunya.
+→ Fuente única para el Estado español: **[[compilacion-espana|Compilación España — cifras agregadas]]**. Este dashboard solo mantiene la cifra de muertes:
 
-**Total mínimo documentado**: **~77 muertes** directas por armas menos letales en España desde 1978.
-
-### Heridos graves (1976-2019, El Salto)
-- **45 heridos graves**.
-
-### Ojos perdidos
-- **22 personas perdieron un ojo** por bala de goma (1990-2012, eldiario.es).
-- De **13 impactos oculares** en los últimos 20 años (2004-2024, Iridia/Novact):
-  - **11 perdieron la visión** del ojo afectado.
-  - **7 perdieron el ojo completo**.
-- **5 casos de lesiones muy graves por foam** (Amnistía):
-  - 2 perdieron un ojo ([[africa-pablo-hasel|África]] + uno más).
-  - 2 traumatismos craneoencefálicos severos.
-  - 1 perdió un testículo.
-
-### Stop Bales de Goma (2000-2020)
-- **40 personas afectadas** por bala de goma.
-  - 37 hombres, 3 mujeres.
-  - Edad media: 30 años.
-- Solo **1 condena**: [[inigo-cabacas|Iñigo Cabacas]] (al mando de la Ertzaintza).
-- **82 agentes investigados** a 2024 (34 Mossos + 12 PN + 19 locales + 10 prisión + 7 seguridad privada).
-- **74 acusados** pendientes de juicio.
-
-### Reparto geográfico (2000-2020)
-- **45%** en Ceuta (frontera sur).
-- **40%** en Cataluña.
-- **7,4%** en Madrid.
-- **5%** en Euskadi.
-- **2,5%** en Navarra.
-
-### Reparto por cuerpo policial
-- **43,6%** Guardia Civil (frontera sur).
-- **35,9%** Mossos d'Esquadra.
-- **15,4%** Policía Nacional.
-- **5,1%** Ertzaintza.
+- **~77 muertes** documentadas por armas menos letales en España desde 1978 (24 por balas de goma + Tarajal 2014 + Melilla 2022 + Iñigo Cabacas + Antonio C. Badalona). El desglose completo, los heridos, los ojos perdidos, la geografía y el reparto por cuerpo policial están en *compilacion-espana*.
 
 ## 🇫🇷 Francia (David Dufresne, chalecos amarillos)
 - **+800 denuncias** contabilizadas.

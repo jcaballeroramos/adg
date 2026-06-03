@@ -47,8 +47,7 @@ Esta tesis es **la columna vertebral genealógica** de «Artefactos de Guerra»:
 
 ## Conexiones
 - ↔ [[../historia/armas-quimicas]] — el origen colonial del gas.
-- ↔ [[figuras-historicas/amos-fries]] — el discurso "humanitario" del gas.
-- ↔ [[figuras-historicas/fritz-haber]] — el padre de la guerra química.
+- ↔ [[figuras-historicas/00-trio-quimico]] — Haber, Fries y Loghman: el linaje químico-militar.
 - ↔ [[paul-rocher/paul-rocher-entrevista]] — Rocher lo cita.
 - ↔ [[../casos/internacionales/palestina-2023-2024]] — el laboratorio colonial contemporáneo.
 - ↔ [[../casos/stephen-geddis]] — Irlanda del Norte como colonia interior.

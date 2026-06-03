@@ -97,7 +97,7 @@ Ester creó la campaña **"Ojo con tu ojo"** desde 2010 para empezar la comunica
 - ↔ [[juan-andres-benitez]] — el otro caso que impulsó la prohibición 2014.
 - ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo.
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — organización.
-- ↔ [[../../autores-y-referencias/referentes/podcast-ester-quintana-iridia-supervisión-policial]] — podcast YouTube.
+- ↔ [[../../autores-y-referencias/referentes/00-referentes]] — incluye el podcast de Ester Quintana + Irídia y otros materiales relacionados.
 - ↔ [[../../marco-legal/bibliografia/cataluna-prohibicion-balas-goma]] — cronología legal.
 - ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez]] — la cirujana que comparece en el Parlament (2013).
 - ↔ [[../../marco-legal/bibliografia/iridia-mecanismos-independientes]] — mecanismo independiente.
