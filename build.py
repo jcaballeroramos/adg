@@ -410,8 +410,10 @@ def page_template(note, content_html, sidebar_html, backlinks_html, outlinks_htm
 <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
+<button id="sidebar-open-btn" class="sidebar-open-btn" title="Abrir menú (M)" aria-label="Abrir menú">☰</button>
 <div class="layout">
   <aside class="sidebar">
+    <button id="sidebar-close-btn" class="sidebar-close-btn" title="Ocultar menú (M)" aria-label="Ocultar menú">◂</button>
     <a class="brand" href="{up}index.html">Artefactos de Guerra</a>
     <div class="search-box"><input id="search" type="search" placeholder="Buscar…" autocomplete="off"></div>
     <div class="sidebar-tools">
@@ -443,6 +445,30 @@ def page_template(note, content_html, sidebar_html, backlinks_html, outlinks_htm
 </div>
 <script>window.__SITE_ROOT__ = "{up}";</script>
 <script src="{up}assets/site.js"></script>
+<script>
+(function(){{
+  var body = document.body;
+  var openBtn = document.getElementById('sidebar-open-btn');
+  var closeBtn = document.getElementById('sidebar-close-btn');
+  function setSidebar(collapsed) {{
+    body.classList.toggle('sidebar-collapsed', collapsed);
+    try {{ localStorage.setItem('adg-sidebar', collapsed ? 'off' : 'on'); }} catch (e) {{}}
+  }}
+  // Default: collapsed unless user has explicitly opened it before
+  try {{
+    if (localStorage.getItem('adg-sidebar') !== 'on') body.classList.add('sidebar-collapsed');
+  }} catch (e) {{ body.classList.add('sidebar-collapsed'); }}
+  if (openBtn) openBtn.addEventListener('click', function(){{ setSidebar(false); }});
+  if (closeBtn) closeBtn.addEventListener('click', function(){{ setSidebar(true); }});
+  document.addEventListener('keydown', function(e){{
+    if (e.key === 'm' || e.key === 'M') {{
+      var ae = document.activeElement;
+      if (ae && (ae.tagName === 'INPUT' || ae.tagName === 'TEXTAREA')) return;
+      setSidebar(!body.classList.contains('sidebar-collapsed'));
+    }}
+  }});
+}})();
+</script>
 </body>
 </html>
 """
@@ -1865,8 +1891,22 @@ html, body { margin:0; padding:0; background:var(--bg); color:var(--fg); font: 1
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-.layout { display: grid; grid-template-columns: 260px 1fr; min-height: 100vh; }
-.sidebar { background: var(--bg-panel); border-right: 1px solid var(--border); padding: 18px 14px; position: sticky; top:0; height:100vh; overflow-y:auto; font-size: 13px; }
+.layout { display: grid; grid-template-columns: 260px 1fr; min-height: 100vh; transition: grid-template-columns .25s ease; }
+.sidebar { background: var(--bg-panel); border-right: 1px solid var(--border); padding: 18px 14px; position: sticky; top:0; height:100vh; overflow-y:auto; font-size: 13px; transition: transform .25s ease, opacity .2s; }
+
+/* Sidebar collapsed state */
+body.sidebar-collapsed .layout { grid-template-columns: 0 1fr; }
+body.sidebar-collapsed .sidebar { transform: translateX(-100%); opacity: 0; pointer-events: none; }
+body.sidebar-collapsed .content { padding-left: 64px; }
+
+/* Floating "open menu" button (visible only when sidebar is collapsed) */
+.sidebar-open-btn { position: fixed; top: 16px; left: 16px; z-index: 50; width: 38px; height: 38px; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; cursor: pointer; display: none; align-items: center; justify-content: center; font-size: 16px; color: var(--fg); box-shadow: 0 2px 10px rgba(0,0,0,.18); transition: border-color .15s, background .15s; }
+.sidebar-open-btn:hover { border-color: var(--accent); background: var(--bg-hover); }
+body.sidebar-collapsed .sidebar-open-btn { display: inline-flex; }
+
+/* Close button inside the sidebar */
+.sidebar-close-btn { position: absolute; top: 12px; right: 10px; width: 26px; height: 26px; background: transparent; color: var(--fg-dim); border: 0; border-radius: 4px; font-size: 13px; cursor: pointer; padding: 0; display: flex; align-items: center; justify-content: center; }
+.sidebar-close-btn:hover { color: var(--fg); background: var(--bg-hover); }
 .brand { font-weight:700; font-size:17px; display:block; margin-bottom:18px; color:var(--fg); letter-spacing:.2px; }
 .search-box input { width:100%; padding:10px 14px; background:var(--bg); color:var(--fg); border:1px solid var(--border); border-radius:10px; font-size:14px; transition: border-color .15s; }
 .search-box input:focus { outline:none; border-color:var(--accent); box-shadow: 0 0 0 3px rgba(224,93,61,0.1); }
