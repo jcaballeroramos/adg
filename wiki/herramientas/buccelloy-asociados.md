@@ -17,7 +17,7 @@ tags: [buccello, argentina, abogacia, derechos-humanos, violencia-institucional]
 - Tipo: **estudio jurídico privado**.
 - Áreas: derechos humanos, violencia institucional, gatillo fácil, casos de violencia policial.
 
-## Por qué importa
+## Por qué importa para el documental
 Argentina tiene una **larga tradición** de violencia institucional desde la dictadura (1976-1983) hasta las represiones recientes contra movilizaciones sociales y casos de **gatillo fácil**. El estudio Buccello forma parte de la **infraestructura legal** que sostiene las querellas de las víctimas, en paralelo al trabajo de organizaciones más conocidas como **CELS** (Centro de Estudios Legales y Sociales).
 
 Para el documental es relevante porque:

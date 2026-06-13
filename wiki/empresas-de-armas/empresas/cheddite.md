@@ -25,7 +25,7 @@ Empresa **italiana** fabricante de **cartuchos y municiones** para caza y uso ci
 - Indica **importación o adquisición** por parte de las fuerzas de seguridad venezolanas para uso en control de disturbios, **a pesar de ser munición letal y no apta para esos fines**.
 - → ver [[../../casos/latam/venezuela-2017-2019]].
 
-## Por qué importa
+## Por qué importa para el documental
 - Caso paradigmático de **munición civil reutilizada como represiva**.
 - Cheddite no se promociona como armamento "menos letal", pero **acaba siendo el material que ciega a un manifestante**.
 - Demuestra que la frontera entre **caza/deporte** y **represión** se borra cuando los Estados compran sin trazabilidad.

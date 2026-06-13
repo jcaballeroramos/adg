@@ -2,7 +2,7 @@
 tipo: caso
 estado: borrador
 victima: Roger Español i Tor
-edad_hechos: 38
+edad: 38
 pais: España
 ciudad: Barcelona
 fecha_hechos: 2017-10-01
@@ -168,7 +168,6 @@ El juicio concluye exactamente en el **noveno aniversario del referéndum**.
 ---
 
 ## Por qué importa para el documental
-
 - **Único caso identificado**: 1 sobre ~40 víctimas de pelota de goma en veinte años en España. El UC-563 rompe la impunidad estadística.
 - **Único juicio del 1-O por vejaciones**: la amnistía blindó a casi todo el aparato policial — Roger es la excepción.
 - **Detonante del algoritmo de identificación**: el método artesanal (vídeo + vestimenta + peritaje) abrió la puerta a la herramienta de IA forense que después desarrollarían Irídia + Júlia Nueno.

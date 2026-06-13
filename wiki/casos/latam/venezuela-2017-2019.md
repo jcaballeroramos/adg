@@ -5,7 +5,7 @@ pais: Venezuela
 periodo: 2017-2019
 contexto: Protestas contra el gobierno de Nicolás Maduro
 victimas: 248 muertes en protestas, 33% por fuerza pública
-fabricante_principal: Norinco (China), Condor (Brasil)
+fabricante: Norinco (China), Condor (Brasil)
 tags: [venezuela, maduro, plan-zamora, norinco, ballena, rinoceronte, murcielago, juan-pablo-pernalete, rufo-chacon]
 ---
 

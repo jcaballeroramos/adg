@@ -7,8 +7,8 @@ ambito: internacional (11 AII + 3 fiscalías especializadas)
 archivo: osji-who-polices-the-police-es-20210507.pdf
 isbn: 978-1-940983-92-9
 doi: 10.34880/74m3-9s14
-autores: Ian Scott, Masha Lisitsyna
-nombre_completo: "¿Quién vigila a la policía? La función de las agencias independientes en las investigaciones penales que involucran a agentes del Estado"
+autor: Ian Scott, Masha Lisitsyna
+titulo: "¿Quién vigila a la policía? La función de las agencias independientes en las investigaciones penales que involucran a agentes del Estado"
 tags: [osji, open-society, who-polices-police, 2021, aii, supervision, independencia, casos-comparados, juvenal]
 ---
 

@@ -4,7 +4,7 @@ estado: stub
 editor: Comité Internacional de la Cruz Roja (CICR)
 año: 2006-presente
 ambito: internacional
-nombre_completo: "Guía sobre el examen de la licitud de las nuevas armas, medios y métodos de guerra (CICR)"
+titulo: "Guía sobre el examen de la licitud de las nuevas armas, medios y métodos de guerra (CICR)"
 tags: [cicr, armas-quimicas, cwc, onu, ginebra, dih, proliferacion]
 ---
 

@@ -4,10 +4,10 @@ estado: borrador
 pais: Francia
 ciudad: Seur, Loir-et-Cher
 año: 2017
-fecha_evento: 2017-03-30
+fecha_hechos: 2017-03-30
 victima: Angelo Garand
 mecanismo: Taser (pistola de impulsos eléctricos) + Glock 19 (arma de fuego)
-fuerzas: GIGN (Groupe d'Intervention de la Gendarmerie Nationale) — 5 agentes
+cuerpo: GIGN (Groupe d'Intervention de la Gendarmerie Nationale) — 5 agentes
 fuentes:
   - https://www.youtube.com/watch?v=24aK_s6WFmA
 tags: [angelo-garand, francia, gign, taser, glock, legitima-defensa, contra-enquete, geni, 2017, sobreuso-fuerza]

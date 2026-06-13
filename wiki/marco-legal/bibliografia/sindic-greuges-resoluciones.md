@@ -24,7 +24,7 @@ El **Síndic de Greuges de Catalunya** (defensor del pueblo catalán) emitió **
 - **Pide indemnización** para las víctimas.
 - Es uno de los **antecedentes inmediatos** de la prohibición de abril de 2014.
 
-## Por qué importa
+## Por qué importa para el documental
 - Demuestra que **las instituciones catalanas de garantías ya habían advertido** del problema **mucho antes** de que se actuara.
 - Refuerza la cronología de [[../cataluna-prohibicion-balas-goma]]: el activismo + la cirugía + el Síndic + los casos individuales = la prohibición.
 

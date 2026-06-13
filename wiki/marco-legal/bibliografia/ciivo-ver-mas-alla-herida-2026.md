@@ -4,10 +4,10 @@ estado: borrador
 editor: CIIVO — Centro Internacional de Investigación de Violencia Ocular
 año: 2026
 ambito: internacional (Colombia, Chile, España, Bangladesh, Brasil, EE.UU.)
-autores: Juan Pablo Fonseca Roa, Andrés Juan Guerrero Rubiano, Juan Carlos González Carpintero, Daniel Alejandro Jaimes Serna, Giovanny García Garrido
+autor: Juan Pablo Fonseca Roa, Andrés Juan Guerrero Rubiano, Juan Carlos González Carpintero, Daniel Alejandro Jaimes Serna, Giovanny García Garrido
 financiacion: Open Society Foundations
 archivo: pdf/Informe-impactos-postraumaticos-web.pdf
-nombre_completo: "Ver más allá de la herida: impactos postraumáticos de la violencia ocular"
+titulo: "Ver más allá de la herida: impactos postraumáticos de la violencia ocular"
 tags: [ciivo, violencia-ocular, postraumatico, trauma, colombia, chile, espana, open-society, reparacion, abolicion, testimonios, 2026]
 ---
 

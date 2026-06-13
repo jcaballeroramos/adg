@@ -1,5 +1,5 @@
 ---
-tipo: dosier
+tipo: dossier
 estado: vigente
 nombre: Trío químico — Haber · Fries · Loghman
 ambito: tres figuras que fundan, normalizan y reniegan del armamento químico de control

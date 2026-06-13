@@ -5,8 +5,8 @@ pais: Egipto
 fecha_inicio: 2011-01-25
 contexto: Primavera Árabe — caída de Hosni Mubarak
 victimas: +846 muertos, +6.000 heridos (cifras oficiales post-2011)
-fuerzas: Policía egipcia + Seguridad Estatal
-armas:
+cuerpo: Policía egipcia + Seguridad Estatal
+arma:
   - gas lacrimógeno (CS) — predominante
   - munición real
   - perdigones
@@ -65,7 +65,7 @@ La periodista italo-egipcia **Gabriele Zavi** reportaba desde la Plaza Tahrir. S
 
 Desde entonces, Egipto ha **recuperado** su posición como uno de los **mayores importadores de armas menos letales** del mundo, especialmente de Francia.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El caso paradigmático** de cómo un régimen autoritario usa armas "menos letales" **en combinación con munición real**.
 - **La prueba empírica** — a través del testimonio de Zavi — de que las "no letales" son **percibidas como más letales** por los médicos sobre el terreno.
 - **Conexión directa con Paul Rocher**: una de las citas más usadas en su libro.

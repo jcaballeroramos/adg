@@ -4,8 +4,8 @@ estado: borrador
 pais: Palestina (Territorios Ocupados)
 periodo: 2023-2024 (+ décadas previas)
 contexto: Guerra en Gaza + represión en Cisjordania + protestas contra el genocidio
-fuerzas: IDF (Fuerzas de Defensa de Israel) + Policía de Fronteras israelí
-armas:
+cuerpo: IDF (Fuerzas de Defensa de Israel) + Policía de Fronteras israelí
+arma:
   - munición real (guerra en Gaza)
   - balas de goma metálicas recubiertas
   - gas lacrimógeno
@@ -86,7 +86,7 @@ El Skunk, las balas de goma metálicas, el uso de drones para "identificar" mani
 - **Criminalización** del movimiento de solidaridad — detenciones, expulsiones universitarias.
 - → ver [[../../autores-y-referencias/organizaciones/defender-a-quien-defiende]] — en España, **desde 2023**, la solidaridad con Palestina se convierte en el **nuevo foco** de criminalización según el informe de Defender a quien defiende.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El laboratorio histórico** del armamento menos letal mundial.
 - **La prueba empírica** de la tesis de Rocher sobre la **globalización de la represión**.
 - **El puente conceptual** entre el "orden colonial" y el "orden neoliberal doméstico".

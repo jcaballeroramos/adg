@@ -4,7 +4,7 @@ estado: borrador
 editor: Centre Delàs d'Estudis per la Pau
 año: 2022
 informe_numero: 56
-autoras: Ainhoa Ruiz Benedicto, Anna Montull García
+autor: Ainhoa Ruiz Benedicto, Anna Montull García
 agradecimientos: Claudia Blanco López, Désarmons-les!
 isbn: 978-84-09-44573-8
 titulo: "Armas potencialmente letales. Sobre cómo militarizar el espacio público y traumatizar los cuerpos"

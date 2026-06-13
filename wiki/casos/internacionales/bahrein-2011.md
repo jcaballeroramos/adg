@@ -5,7 +5,7 @@ pais: Bahréin
 año: 2011
 fecha_inicio: 2011-02-14
 contexto: Primavera Árabe — protestas pro-democracia
-victimas_confirmadas: "34+ muertes por gas lacrimógeno documentadas por PHR"
+victimas: "34+ muertes por gas lacrimógeno documentadas por PHR"
 tags: [bahrein, 2011, primavera-arabe, gas-lacrimogeno, phr, perla, chiitas, represion]
 ---
 

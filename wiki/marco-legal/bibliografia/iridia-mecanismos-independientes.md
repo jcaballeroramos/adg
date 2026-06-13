@@ -4,8 +4,8 @@ estado: completo
 editor: Irídia — Centre per la Defensa dels Drets Humans + Novact
 año: 2025
 ambito: Estado español + internacional (Reino Unido, Bélgica, Canadá)
-nombre_completo: "Mecanismos independientes de control policial: estudio comparado y propuesta para el Estado español"
-autores: Anja Bienert, Neil Corney, Jorge del Cura Antón, GEBehatokia, Matthew McEvoy, Josep Noales Tintoré, Pierre-Arnaud Perrouty, Irene Urango Montilla, Joaquín Urías Martínez, Patrick G. Watson
+titulo: "Mecanismos independientes de control policial: estudio comparado y propuesta para el Estado español"
+autor: Anja Bienert, Neil Corney, Jorge del Cura Antón, GEBehatokia, Matthew McEvoy, Josep Noales Tintoré, Pierre-Arnaud Perrouty, Irene Urango Montilla, Joaquín Urías Martínez, Patrick G. Watson
 coordinacion: Irene Urango Montilla
 prologo: Anja Bienert (experta internacional en policía y DDHH)
 presentacion: Anaïs Franquesa Griso (directora de Irídia)

@@ -12,7 +12,7 @@ tags: [milipol, francia, parís, feria-mundial, less-lethal, acat, norinco]
 
 **Milipol** es la **Feria Mundial Bienal de Armamento y Seguridad Interior** más importante del mundo. Sede principal en **París**, con ediciones en **Singapur, Catar y Abu Dabi**. Es el escaparate global donde **se compran y venden** las armas que luego aparecen en cada manifestación reprimida del mundo.
 
-## Por qué importa
+## Por qué importa para el documental
 - Es **el principal evento** para la industria de armas no letales — Milipol es a Europa lo que [[../ferias-de-armas/feindef/00-overview|FEINDEF]] es a España, pero a escala mundial.
 - **Negó la acreditación** a la ONG **ACAT** (Acción de los Cristianos para la Abolición de la Tortura) — pese a ser un evento "público".
 

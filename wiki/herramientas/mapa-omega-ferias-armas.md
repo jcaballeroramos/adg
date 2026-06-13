@@ -13,7 +13,7 @@ tags: [omega, mapa, ferias, tableau, visualización, comercio-armas]
 
 🌐 https://public.tableau.com/app/profile/omega.research.foundation/viz/shared/FPMWBZ4C3
 
-## Por qué nos importa
+## Por qué importa para el documental
 - Es **la fuente más completa y actualizada** sobre ferias de armas a nivel mundial.
 - Permite **visualizar el patrón geográfico** de la industria.
 - Muestra cómo **Milipol, FEINDEF, DSEI, Eurosatory, IDEX** y todas las demás se distribuyen estratégicamente.

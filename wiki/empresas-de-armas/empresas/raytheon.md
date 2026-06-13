@@ -32,7 +32,7 @@ Empresa **estadounidense** gigante de defensa, ahora rebautizada **RTX** (RTX Co
 - Una **versión pequeña se ha comercializado entre fuerzas policiales**.
 - → ya en [[../../historia/tipos-de-armas-tabla]] y [[../../marco-legal/onu-orientaciones-2020]] (Categoría A: prohibida).
 
-## Por qué importa
+## Por qué importa para el documental
 - Encarna la **categoría más prohibida** por la ONU — armas de energía dirigida — pero sigue desarrollándose y comercializándose.
 - Es la **prueba más material** de que la regulación internacional no aplica a las grandes corporaciones estadounidenses de defensa.
 

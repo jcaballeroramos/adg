@@ -6,7 +6,7 @@ año: 2024
 ambito: Estado español
 idioma: Castellano / Catalán
 archivo: pla-accio-A5_CAST_digital.pdf
-nombre_completo: "Plan de Acción para la Mejora y Modernización de los Mecanismos de Transparencia y Rendición de Cuentas de los Cuerpos Policiales en el Estado español"
+titulo: "Plan de Acción para la Mejora y Modernización de los Mecanismos de Transparencia y Rendición de Cuentas de los Cuerpos Policiales en el Estado español"
 integrantes_mesa: "María Nieves Arrese Iriondo, Anja Bienert (Amnistía Internacional), Daniel Canales Anzola (Amnistía Internacional España), Jorge del Cura Antón (CPDT), Aina Estarellas Roca (Irídia), Cristina Fernández Bessa (ECRIM, U. de A Coruña), Rocío Fraga Sáenz (U. de A Coruña), Anaïs Franquesa Griso (Irídia), Iñaki Lasagabaster Herrarte (UPV/EHU), Sara López Martín (Centro Sir[a]), David Martín Abánades (Policía Local Fuenlabrada), Ignacio Fernández Soto (juez Audiencia Provincial Madrid), Matthew McEvoy (Omega Research Foundation), Benito Morentín Campillo (Instituto Vasco de Medicina Legal), Youssef M. Ouled (Rights International Spain / AlgoRace), Laura Pego Otero (Instituto Vasco de Criminología), Pau Pérez Sales (Torture Journal / Centro Sir[a]), Amadeu Recasens Brunet (ex-director Escuela de Policía de Catalunya)"
 tags: [iridia, novact, plan-accion, transparencia, rendicion-cuentas, mecanismo-independiente, policia, espana, 36-recomendaciones]
 ---

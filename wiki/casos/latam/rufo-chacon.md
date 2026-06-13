@@ -25,7 +25,7 @@ tags: [rufo-chacon, venezuela, tachira, cheddite, perdigones-plomo, ceguera, men
 - Fabricante: **[[../empresas-de-armas/empresas/cheddite|Cheddite]]** (Italia) — empresa que produce munición civil para caza/escopeta deportiva.
 - Indica que las fuerzas venezolanas **importaron munición civil italiana** y la usaron como armamento represivo contra civiles desarmados.
 
-## Por qué importa
+## Por qué importa para el documental
 - **16 años**: era un menor.
 - **64 perdigones en el rostro**: ningún protocolo de uso "menos letal" justifica este disparo.
 - **Munición italiana civil** usada como represiva en LATAM.

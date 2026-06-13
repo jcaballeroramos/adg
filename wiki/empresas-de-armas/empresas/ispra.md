@@ -34,7 +34,7 @@ Fabricante **israelí** de un catálogo amplio de armas menos letales. **Único 
 - **Azerbaiyán 2013** — protestas reprimidas con armas ISPRA.
 - → ver [[../../casos/latam/00-compilacion-latam]] (mencionada como fabricante israelí relevante).
 
-## Por qué importa
+## Por qué importa para el documental
 - Las armas de ISPRA encarnan una **doctrina específica**: la del **control de población ocupada**.
 - Israel es **laboratorio** de muchas de estas armas que luego se exportan al resto del mundo.
 - Conexión con el **agente Skunk** (no fabricado por ISPRA, sino por Odortec, pero parte del mismo ecosistema represivo).

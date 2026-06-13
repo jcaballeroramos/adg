@@ -22,7 +22,7 @@ Fabricante **canadiense** de armas menos letales. Una de las **15 empresas domin
 - Dispositivos de balas de goma.
 - Balas de goma y municiones.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Único productor canadiense** en el ranking global del sector.
 - Demuestra que el negocio de las armas menos letales tiene **alcance continental**, no solo concentrado en EE.UU.
 

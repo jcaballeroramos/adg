@@ -1,7 +1,7 @@
 ---
 tipo: bibliografía
 estado: stub
-autores: ["Matthew McEvoy", "Neil Corney", "Rohini Haar"]
+autor: ["Matthew McEvoy", "Neil Corney", "Rohini Haar"]
 titulo: "Crowd control techniques: perspectives on type and use of weapons by police around the world"
 url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003138754-88/
 tags: [mcevoy, corney, haar, taylor-francis, crowd-control, académico]
@@ -13,7 +13,7 @@ tags: [mcevoy, corney, haar, taylor-francis, crowd-control, académico]
 
 🌐 https://www.taylorfrancis.com/chapters/edit/10.1201/9781003138754-88/
 
-## Por qué importa
+## Por qué importa para el documental
 - **Capítulo académico** que sistematiza el uso de armas de control de multitudes a nivel mundial.
 - **Neil Corney** es figura clave de la **[[../../autores-y-referencias/organizaciones/omega-research-foundation|Omega Research Foundation]]**.
 - **Rohini Haar** también firma [[haar-bmj-2017|el estudio sistemático en BMJ Open 2017]].

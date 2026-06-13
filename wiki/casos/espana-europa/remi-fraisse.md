@@ -33,7 +33,7 @@ Un testigo de la noche:
 - Su sucesora, la **GM2L** (anunciada para 2021, efectiva desde 2018), **produce los mismos efectos**.
 - Impulsó una ola de denuncias sobre el armamento de la gendarmería francesa.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El caso emblema** del problema de las granadas híbridas (acústica + química + explosiva).
 - **Las manos arriba gritando "alto"** convierten al caso en **inapelable moralmente**.
 - Detonó la primera gran crisis pública en Francia sobre armamento policial.

@@ -5,8 +5,8 @@ pais: Myanmar (Birmania)
 fecha_hechos: 2021-02-01 a 2021-12
 contexto: Golpe militar del Tatmadaw + Movimiento de Desobediencia Civil
 victimas: +1.500 manifestantes muertos (AAPP)
-fuerzas: Ejército de Myanmar (Tatmadaw) + policía
-armas:
+cuerpo: Ejército de Myanmar (Tatmadaw) + policía
+arma:
   - munición real (predominante)
   - gas lacrimógeno
   - balas de goma
@@ -48,7 +48,7 @@ La represión fue **excepcionalmente letal**:
 - **Huelga general** ("Spring Revolution").
 - **Movimiento de Desobediencia Civil** sin precedentes en Asia.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Caso paradigmático** de cómo **un estado autoritario** combina **armas menos letales con munición real** desde el primer día.
 - **Demuestra el continuo** entre el "menos letal" y la represión militar abierta — no son categorías separadas.
 - **Niños y mujeres jóvenes** entre las víctimas más visibles.

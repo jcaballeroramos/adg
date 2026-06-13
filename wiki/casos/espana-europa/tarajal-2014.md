@@ -4,8 +4,8 @@ estado: borrador
 victimas: 14 personas migrantes muertas (+ 1 recuperado vivo, Abdulai)
 fecha_hechos: 2014-02-06
 lugar: Playa del Tarajal, Ceuta
-fuerzas: Guardia Civil (España) + Fuerzas Auxiliares (Marruecos)
-armas:
+cuerpo: Guardia Civil (España) + Fuerzas Auxiliares (Marruecos)
+arma:
   - balas de goma
   - salvas detonadoras
   - botes de humo
@@ -81,7 +81,7 @@ La organización **[[../autores-y-referencias/organizaciones/caminando-fronteras
 - **2020**: el Tribunal Constitucional rechaza el amparo de las familias.
 - **Ninguna condena**. Los disparos no se consideraron responsables de las muertes.
 
-## Por qué importa
+## Por qué importa para el documental
 1. **Primer aviso serio** del siglo XXI sobre el uso letal de armas "menos letales" contra personas migrantes en la frontera sur española.
 2. **Arco directo a [[melilla-2022|Melilla 2022]]**: lo que se denunció en Tarajal se repitió amplificado 8 años después.
 3. **Encaja en el patrón transversal** de [[../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]: las armas "menos letales" permiten **matar sin declarar la guerra**. En este caso: sin siquiera admitir que se disparó.

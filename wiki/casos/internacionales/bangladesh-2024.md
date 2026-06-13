@@ -4,9 +4,9 @@ estado: borrador
 pais: Bangladesh
 fecha_hechos: 2024-07 a 2024-08
 contexto: Protestas estudiantiles contra cuotas de empleo público + caída de Sheikh Hasina
-victimas_totales: +1.000 muertos (cifra preliminar UN OHCHR)
-fuerzas: Policía + Rapid Action Battalion (RAB) + Border Guards
-armas:
+victimas: +1.000 muertos (cifra preliminar UN OHCHR)
+cuerpo: Policía + Rapid Action Battalion (RAB) + Border Guards
+arma:
   - munición real (predominante)
   - perdigones de plomo
   - gas lacrimógeno
@@ -59,7 +59,7 @@ La Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos pub
 - **Disparos con munición real** ordenados desde altos mandos.
 - **Cómplice directa**: Sheikh Hasina y su círculo.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El caso más letal de represión contra protestas estudiantiles** del siglo XXI.
 - **+1.000 muertos en menos de un mes** — superando ampliamente a Bolivia 2019, Egipto 2011 o Sri Lanka 2022.
 - **Caso paradigmático** del paso del **uso "menos letal"** al **uso letal** sin línea divisoria visible.

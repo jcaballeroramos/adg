@@ -4,7 +4,7 @@ estado: stub
 pais: España (Cataluña)
 ciudad: Barcelona
 año: 2019
-fecha_evento: 2019-10
+fecha_hechos: 2019-10
 contexto: Protestas de octubre 2019 tras la sentencia del Procés
 victima: Roger García
 mecanismo: Proyectil de foam SIR-X disparado por Mossos d'Esquadra
@@ -55,7 +55,7 @@ Roger García apareció junto a **Áfrika** y **Abdelillah** en la campaña púb
 - **No ha habido procesamiento**.
 - Irídia sigue litigando en vía administrativa y europea.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Prueba que el foam no resuelve el problema** de las balas de goma — simplemente lo disfraza.
 - **La prohibición catalana de 2014** queda **vaciada de contenido** si el proyectil sustitutivo causa las mismas lesiones con otro nombre.
 - **Conexión directa** con la demanda de Irídia de prohibir todos los KIPs ([[../marco-legal/bibliografia/iridia-pla-accio]]).

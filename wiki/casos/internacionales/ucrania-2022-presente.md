@@ -15,8 +15,7 @@ tags: [ucrania, 2022, rusia, invasion, anduril, shield-ai, drones, campo-prueba]
 
 Ucrania no es un caso típico de este wiki — **no son protestas reprimidas con armas «menos letales»** — pero **es crítico** porque se ha convertido en el **mayor campo de prueba mundial** de las tecnologías que protagonizan la nueva fase del paradigma:
 
-## Por qué importa para «Artefactos de Guerra»
-
+## Por qué importa para el documental
 ### 1. Ucrania como campo de prueba de LAWS
 Las empresas de **Silicon Valley** — especialmente **Anduril Industries**, **Shield AI** y **Vannevar Labs** — han desplegado sus sistemas en Ucrania con el **apoyo del Pentágono** y de **USAID**:
 - **Anduril Ghost drones** (ver [[../../empresas-de-armas/empresas/anduril]]).

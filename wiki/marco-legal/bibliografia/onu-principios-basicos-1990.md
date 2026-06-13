@@ -13,7 +13,7 @@ tags: [onu, principios-basicos, 1990, la-habana, uso-fuerza, armas-fuego, funcio
 
 **Naciones Unidas**, *Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios encargados de hacer cumplir la Ley*, adoptados por el **8º Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente**, **La Habana, septiembre de 1990**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Es el documento internacional de referencia** sobre el uso de la fuerza policial.
 - Establece los **principios mínimos universales** que **todos los Estados** se han comprometido a respetar.
 - Es **citado en cada informe** de Amnistía Internacional, Human Rights Watch, INCLO y la propia Relatora ONU contra la Tortura.

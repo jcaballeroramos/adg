@@ -11,7 +11,7 @@ tags: [sides, francia, cañones-agua, hong-kong, mezclas-químicas]
 
 Empresa **francesa** especializada en la fabricación de **cañones de agua** para control de multitudes. Una de las pocas empresas europeas que conserva esta línea de producto.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Hong Kong, 2018**: el Estado francés autorizó la **exportación de cañones de agua Sides a Hong Kong** **a pesar de la represión** post-revolución de los paraguas (2014). El argumento del Estado fue que los **intereses económicos prevalecían**.
 - Implicada en la **creación de mezclas químicas peligrosas** (huesos triturados, sangre seca, pezuñas — ver [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]]).
 - Probable proveedor de cañones de agua de la Policía Nacional francesa.

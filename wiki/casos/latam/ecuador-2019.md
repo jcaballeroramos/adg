@@ -2,7 +2,7 @@
 tipo: caso
 estado: borrador
 pais: Ecuador
-fecha: 2019-10
+fecha_hechos: 2019-10
 contexto: Protestas indígenas contra eliminación de subsidios a combustibles
 victimas: 6 muertos, 22 lesiones severas, ojos perdidos
 tags: [ecuador, paro-octubre, conaie, lenín-moreno, perdigones, lacrimógenos-vencidos]

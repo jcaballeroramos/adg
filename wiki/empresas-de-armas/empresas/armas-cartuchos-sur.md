@@ -15,7 +15,7 @@ Empresa **española** dedicada a la **distribución de cartuchos** y munición. 
 - Tipo: distribuidor / fabricante.
 - Productos: cartuchos para escopeta, posibles cartuchos de impacto cinético.
 
-## Por qué importa
+## Por qué importa para el documental
 - Otra **pieza opaca de la cadena de suministro** policial española.
 - Su **mera existencia documentada** apoya la tesis del **mercado fragmentado** de pequeños proveedores que dificulta la **trazabilidad** del armamento usado en cada caso individual.
 - **Sin la munición trazable, no hay agente identificable** — ese es el patrón estructural que protege la impunidad.

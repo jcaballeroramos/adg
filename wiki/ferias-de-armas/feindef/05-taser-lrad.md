@@ -1,5 +1,5 @@
 ---
-tipo: feria-bloque
+tipo: feria-stand
 estado: borrador
 ubicacion: Columbus, Ohio (gimnasio policial + exteriores)
 tags: [taser, lrad, columbus, entrenamiento, dispositivos-acusticos]

@@ -83,7 +83,6 @@ Ester creó la campaña **"Ojo con tu ojo"** desde 2010 para empezar la comunica
 > *"Hay que leer la sentencia."*
 
 ## Por qué importa para el documental
-
 - **Caso canónico de la represión catalana** — punto de inflexión histórico.
 - Testimonio clave: la **impunidad estructural** de los cuerpos policiales.
 - **"Ojo con tu ojo"** es una de las primeras redes internacionales de víctimas de armas less-lethal.

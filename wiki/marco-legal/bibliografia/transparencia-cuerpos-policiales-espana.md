@@ -4,7 +4,7 @@ estado: stub
 editor: Irídia + Rights International Spain + otras organizaciones
 ambito: Estado español
 archivo: Transparencia-y-mecanismos-de-control-de-los-cuerpos-policiales-en-el-Estado-espanol-INFORME.pdf
-nombre_completo: "Transparencia y rendición de cuentas de los cuerpos policiales en el Estado español"
+titulo: "Transparencia y rendición de cuentas de los cuerpos policiales en el Estado español"
 tags: [transparencia, policia-espana, rendicion-de-cuentas, informe, iridia, rights-international-spain]
 ---
 
@@ -67,7 +67,7 @@ Existe una **Comisión Nacional de Deontología Policial** (no vinculante) y alg
 6. **Acceso efectivo** a los archivos históricos (especialmente dictadura franquista y transición).
 7. **Formación obligatoria** en derechos humanos con evaluación externa.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Diagnóstico consolidado** del problema español.
 - **Evidencia** de que ni siquiera la **Ley de Transparencia** se aplica al sector policial en la práctica.
 - **Respaldo a las demandas** de Irídia, Amnistía, OSJI y el Consejo de Europa.

@@ -8,7 +8,7 @@ fecha_hechos: 2024
 contexto: Reducción policial en locutorio — 6 agentes, gas irritante, ~10 descargas de Taser
 arma: Taser (pistola de conducción de energía), gas irritante
 resultado: Muerte (insuficiencia cardiorrespiratoria severa)
-fabricante_principal: Axon (Taser)
+fabricante: Axon (Taser)
 tags: [muerte-custodia, taser, gas-irritante, torremolinos, malaga, espana, policia, 2024, locutorio, reduccion, autopsia]
 fuentes:
   - https://www.youtube.com/watch?v=qcdS65mV6Xk

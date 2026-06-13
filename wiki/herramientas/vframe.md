@@ -13,7 +13,7 @@ tags: [vframe, computer-vision, munición, derechos-humanos, forensic, ml]
 
 **VFRAME (Visual Forensics and Metadata Extraction)** es una plataforma de código abierto que usa **visión por computador y aprendizaje automático** para ayudar a organizaciones de derechos humanos a **detectar, catalogar y verificar munición y armas** en grandes volúmenes de material audiovisual (vídeos de conflictos, redes sociales, archivos periodísticos).
 
-## Por qué nos importa para *Artefactos de Guerra*
+## Por qué importa para el documental
 - Es **exactamente la contrapartida ciudadana** a los sistemas de vigilancia algorítmica que compran las policías. En lugar de detectar "cabezas de manifestantes" como hace el [[../ferias-de-armas/feindef/04-fn-smart-protector|FN Smart Protector]], VFRAME detecta **el arma lanzada**.
 - Herramienta **open-source** → replicable, auditable, sin intereses comerciales.
 - Encarna la tesis que conecta el proyecto con [[../casos/roger-espanol|Roger Español]] y la **"semilla del algoritmo"** de Irídia: usar IA para identificar abusos policiales en vez de para multiplicarlos.

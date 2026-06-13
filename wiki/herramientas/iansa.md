@@ -15,7 +15,7 @@ tags: [iansa, internacional, armas-pequeñas, red, ddhh]
 - 🌐 https://iansa.org/
 - Ámbito: internacional, +800 organizaciones miembro en >120 países.
 
-## Por qué nos importa
+## Por qué importa para el documental
 - Marco internacional **complementario** a Omega Research Foundation: Omega = técnico/forense, IANSA = movilización política.
 - Coalición que **agrupa a víctimas, organizaciones de DDHH e investigadores**.
 - Coautora histórica del **Tratado sobre el Comercio de Armas (ATT)**.

@@ -4,10 +4,10 @@ estado: borrador
 pais: Irán
 fecha_inicio: 2022-09-16
 contexto: Movimiento «Mujer, Vida, Libertad» tras la muerte de Mahsa Jina Amini
-victima_emblematica: Mahsa Jina Amini (22 años)
-victimas_totales: +500 muertos (HRANA), +20.000 detenidos
-fuerzas: Basij + IRGC + policía moral
-armas:
+victima: Mahsa Jina Amini (22 años)
+victimas: +500 muertos (HRANA), +20.000 detenidos
+cuerpo: Basij + IRGC + policía moral
+arma:
   - munición real (predominante)
   - perdigones de plomo (al rostro)
   - balas de goma
@@ -60,7 +60,7 @@ Lo más documentado **médicamente** es la **estrategia sistemática del régime
 - **Hadis Najafi** — joven que se hizo viral atándose el pelo antes de protestar. Muerta de **6 disparos**.
 - **Armita Geravand** — joven de **16 años**, agredida por la policía moral en el metro de Teherán por no llevar hijab. Murió en octubre de 2023.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El caso de impacto cinético al ojo más extenso del mundo** — superando incluso a Chile 2019.
 - **Patrón de género explícito**: el blanco son **mujeres jóvenes**.
 - **Conexión médica** con el [[../testimonios/oftalmologa-estrella-fernandez|testimonio de la Dra. Estrella Fernández]]: la misma fisiología clínica del estallido del globo ocular.

@@ -38,7 +38,7 @@ Es el caso paradigmático de cómo **el efecto combinado** de:
 - Investigación administrativa y judicial — las conclusiones oficiales han sido **muy cuestionadas**.
 - Símbolo de la **brutalidad de las cargas nocturnas** sin necesidad operativa.
 
-## Por qué importa
+## Por qué importa para el documental
 - Demuestra que las "armas no letales" son **letales por contexto**: la lacrimógena no mata por el impacto pero **provoca la condición** que causa la muerte.
 - Encarna la **culpa diluida del Estado**: nadie aprieta el gatillo, pero el resultado es el mismo.
 

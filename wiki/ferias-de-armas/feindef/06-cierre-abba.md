@@ -1,5 +1,5 @@
 ---
-tipo: feria-cierre
+tipo: feria-stand
 estado: borrador
 tags: [feindef, cierre, abba, sumud, israel, musica-como-arma]
 ---

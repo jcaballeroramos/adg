@@ -21,7 +21,7 @@ La **Agência Brasileira de Promoção de Exportações e Investimentos (Apex Br
 - Pasó de empresa local brasileña (1985) a **líder global** con presencia en **+80 países**.
 - En **2011**, fue **invitada por la OTAN** — única empresa latinoamericana — a un evento internacional. Apex contribuyó.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Caso paradigmático** de **promoción estatal de la industria de armas menos letales**.
 - Demuestra que el **sector represivo** no solo es privado: los **Estados activamente financian la expansión** de "su" industria armamentística.
 - Conecta con la tesis de [[../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]] sobre el **Estado como cliente, regulador y promotor de exportaciones simultáneamente**.

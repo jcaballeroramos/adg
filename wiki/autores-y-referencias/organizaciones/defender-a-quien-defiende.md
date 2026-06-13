@@ -32,7 +32,7 @@ Plataforma estatal que **registra sistemáticamente las vulneraciones de derecho
 ## Informes
 - **Informe diagnóstico derecho a la protesta** (2024) — coautoría con [[iridia|Irídia]].
 
-## Por qué nos importa
+## Por qué importa para el documental
 - Es **la base de datos viva** de cómo el aparato represivo se mueve **siguiendo las prioridades políticas del momento**.
 - Permite ver el **pulso entre el Estado y los movimientos** sociales en tiempo real.
 - Encarna la tesis de [[../paul-rocher/paul-rocher|Rocher]]: la represión **no responde a un cambio en los manifestantes**, sino a un **giro autoritario del Estado**.

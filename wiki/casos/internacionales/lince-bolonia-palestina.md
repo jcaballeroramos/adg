@@ -59,9 +59,8 @@ La campaña se inserta en un momento de **represión en Italia** marcado por los
 - Está haciendo entrevistas, pero no sabe con quién hablar — cree que **es mejor hablar desde abajo**.
 
 ## Por qué importa para el documental
-
 - Caso reciente (2024) de **mutilación ocular en Italia** — amplía el mapa europeo de la violencia ocular.
-- Confirma el patrón internacional: **"Estas armas se fabrican en el norte y se prueban en el sur global"**.
+- Confirma el patrón internacional «norte fabrica / sur prueba» que articula [[../espana-europa/nicola-celebracion-mundial|Nicola Tanno]].
 - La amiga reconociéndola **por los anillos y el olor** es una imagen potente sobre la deshumanización que provoca el impacto.
 - Caso vinculado a la represión de protestas **pro-Palestina** — conecta la lucha antiimperialista con la violencia policial.
 

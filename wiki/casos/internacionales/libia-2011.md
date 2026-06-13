@@ -5,7 +5,7 @@ pais: Libia
 año: 2011
 fecha_inicio: 2011-02-15
 contexto: Primavera Árabe — protestas contra Gaddafi que derivan en guerra civil
-victimas_confirmadas: "Miles (conflicto armado)"
+victimas: "Miles (conflicto armado)"
 tags: [libia, 2011, primavera-arabe, gaddafi, gas-lacrimogeno, otan, intervencion]
 ---
 

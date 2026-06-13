@@ -2,7 +2,7 @@
 tipo: caso
 estado: borrador
 victima: Carles Guillot
-edad_hechos: 29
+edad: 29
 pais: España
 ciudad: Barcelona
 fecha_hechos: 2001-07-17
@@ -152,7 +152,6 @@ Antes de la prohibición: **7 ojos perdidos en 5 años en Catalunya**.
 ---
 
 ## Por qué importa para el documental
-
 - **El caso fundacional**: 2001 — once años antes del caso mediático de Ester Quintana (2012). Sin Carles no hay Stop Bales de Goma, sin Stop Bales no hay prohibición catalana de 2014.
 - **La doctrina del "riesgo voluntario"** (TS 13-12-2011) es el asidero jurídico que sigue protegiendo a la policía hoy. **Mismo argumento se aplica a Roger Español en 2025**.
 - **Identificación + impunidad**: tenía el número del agente. El sistema lo archivó. El TEDH lo desestimó sin motivación.

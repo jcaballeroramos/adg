@@ -1,7 +1,7 @@
 ---
 tipo: bibliografía
 estado: stub
-autores: [INCLO, Physicians for Human Rights]
+autor: [INCLO, Physicians for Human Rights]
 año: 2023
 titulo: "Lethal in Disguise 2: How Crowd-Control Weapons Impact Health and Human Rights"
 tags: [inclo, physicians-for-human-rights, lethal-in-disguise, 2023, informe, kips, gas-lacrimógeno]
@@ -24,7 +24,7 @@ Entre **2016 y 2021**, en todo el mundo:
 - **945 incapacidades permanentes**.
 - **1.575 daños oculares** (el **65%** de las heridas reportadas).
 
-## Por qué importa
+## Por qué importa para el documental
 - Es **el informe más completo y reciente** con cifras consolidadas.
 - Cubre **un periodo de 5 años** (2016-2021) con metodología homogénea.
 - **Demuestra que las "armas menos letales" no son menos letales** en la práctica: 12 muertos directos + ~1.000 incapacidades permanentes en solo 5 años, **solo en proyectiles cinéticos**.

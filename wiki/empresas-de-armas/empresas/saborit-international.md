@@ -52,7 +52,7 @@ tags: [saborit, españa, intermediario, distribuidor, taser, safariland, pepperb
 - Material para **cárceles**.
 - **Rapid Assault Tools** — kit de apertura hidráulico para ejército y policía.
 
-## Por qué nos importa
+## Por qué importa para el documental
 - Es el **canal de entrada** en España de productos como las **balas de foam de Defense Technology** y las **PepperBall** que están en el centro del debate por sus efectos lesivos.
 - Aparece directamente como **expositor en FEINDEF** (Pabellón 8A35).
 - Demuestra el patrón de **intermediarios opacos**: una empresa española de comercio al por mayor que compra armas en EE.UU. y las introduce al mercado europeo y latinoamericano.

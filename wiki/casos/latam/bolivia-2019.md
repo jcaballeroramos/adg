@@ -2,10 +2,10 @@
 tipo: caso
 estado: borrador
 pais: Bolivia
-fecha: 2019-10
+fecha_hechos: 2019-10
 contexto: Protestas post-electorales tras indicios de fraude — caída de Evo Morales
 victimas: 37 fallecidos (29 por arma de fuego), pérdida de ojos
-fabricantes: Combined Systems, Condor, Norinco, Falken, Santa Bárbara EP (Ecuador)
+fabricante: Combined Systems, Condor, Norinco, Falken, Santa Bárbara EP (Ecuador)
 tags: [bolivia, 2019, evo-morales, jeanine-añez, lanzagranadas, combined-systems, falken, corrupción]
 ---
 

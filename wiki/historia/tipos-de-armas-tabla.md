@@ -1,5 +1,5 @@
 ---
-tipo: historia-referencia
+tipo: historia
 estado: borrador
 tags: [historia, tipos-armas, tabla, taxonomía, kinetic, química, eléctrica, óptica, acústica, energía-dirigida, fabricantes]
 ---

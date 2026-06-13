@@ -41,7 +41,7 @@ Empresa **estatal china** fabricante de armas. Proveedor de equipos militares y 
 - En **2017**, los trabajadores de **Norinco expusieron en Milipol** mostrando los **vehículos y equipos** que ya estaban en uso en Venezuela.
 - → ver [[../ferias-de-armas/milipol]].
 
-## Por qué importa
+## Por qué importa para el documental
 - **Único proveedor estatal chino** del sector "menos letal" mundial.
 - Sus productos demuestran que el **negocio represivo** no es exclusivo del bloque occidental — China ocupa un nicho clave en países sin acceso a otros mercados.
 - El **bestiario mecánico** venezolano ("ballena", "rinoceronte", "murciélago") es **iconografía única** del sector — apariencia animal, función represora.

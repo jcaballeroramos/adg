@@ -1,5 +1,5 @@
 ---
-tipo: marco-legal-tecnología
+tipo: herramienta
 estado: borrador
 nombre: Lethal Autonomous Weapons Systems (LAWS) — Sistemas de Armas Autónomas Letales
 posicion_onu_general: políticamente inaceptables y moralmente repugnantes
@@ -87,7 +87,7 @@ Dilemas morales sobre **delegar decisiones de vida o muerte a máquinas**.
 ### Derechos humanos
 **Amenaza directa** a los derechos humanos y las libertades fundamentales.
 
-## Por qué importa para *Artefactos de Guerra*
+## Por qué importa para el documental
 1. Es **el arco que se abre** después del paradigma "menos letal": del *blanqueo lingüístico* al *blanqueo algorítmico*.
 2. Las empresas que dominan este nuevo mercado son las mismas — o de la misma generación — que las que aparecen en FEINDEF: **[[../empresas-de-armas/empresas/anduril|Anduril]], [[../empresas-de-armas/empresas/00-indice|Vannevar Labs, Shield AI]]**.
 3. **2026** — el año en que la ONU pide concluir el tratado — coincide con el año del juicio de [[../casos/roger-espanol|Roger Español]] y con el simposio europeo de [[symposium-non-lethal-weapons-2026|EWG-NLW]]. **Convergencia narrativa potente**.

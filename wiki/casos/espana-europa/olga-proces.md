@@ -25,7 +25,7 @@ Olga buscó **reparación simbólica** además de la económica. **Cada año** i
 
 > El gesto repetido de poner una placa que la policía desalojaba puede ser una imagen-síntesis del proyecto: el Estado prefiere borrar la memoria del daño antes que reconocerlo.
 
-## Por qué importa
+## Por qué importa para el documental
 - Una de las **primeras (y pocas) victorias** contra la Generalitat por uso de armas menos letales en territorio catalán.
 - Demuestra que la **vía administrativa** puede ser más eficaz que la penal cuando la cadena policial blinda al tirador.
 - Encarna el principio de Rocher: las víctimas no buscan castigo individual sino **reconocimiento institucional del daño sistémico**.

@@ -2,10 +2,10 @@
 tipo: caso
 estado: borrador
 pais: Colombia
-fecha: 2021-04
+fecha_hechos: 2021-04
 contexto: Paro Nacional contra reforma tributaria y desigualdad
 victimas: 146+ heridos en Popayán, 1 muerto, 11 lesiones oculares, suicidio de Alison
-arma_emblematica: Sistema VENOM (Combined Systems)
+arma: Sistema VENOM (Combined Systems)
 tags: [colombia, paro-nacional, popayan, esmad, venom, alison, violencia-sexual]
 ---
 

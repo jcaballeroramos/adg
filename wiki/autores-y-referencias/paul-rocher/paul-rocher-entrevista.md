@@ -1,6 +1,6 @@
 ---
 tipo: entrevista
-estado: literal
+estado: completo
 entrevistado: Paul Rocher
 entrevistadores: [Jorge Caballero, Anna]
 fecha: 2022-05-22

@@ -12,7 +12,7 @@ tags: [tedh, kilici, turquía, art-3, prohibición-tortura, balas-goma, jurispru
 
 El **Tribunal Europeo de Derechos Humanos (TEDH)** reconoció en el caso **Kilici c. Turquía** que el **uso de balas de goma viola el artículo 3** del **Convenio Europeo de Derechos Humanos** (prohibición de la tortura y de los tratos inhumanos o degradantes). **Parágrafo 32**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Es jurisprudencia europea vinculante** sobre balas de goma.
 - Establece el **precedente** que cualquier víctima europea puede invocar.
 - En la **lectura jurídica**, una bala de goma puede constituir **tortura legalmente** — no solo "uso desproporcionado de la fuerza".

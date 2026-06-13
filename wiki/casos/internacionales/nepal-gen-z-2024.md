@@ -4,8 +4,8 @@ estado: borrador
 pais: Nepal
 fecha_hechos: 2024
 contexto: Protestas contra la corrupción y el cierre de redes sociales (Gen Z)
-fuerzas: Nepal Police + Armed Police Force
-armas:
+cuerpo: Nepal Police + Armed Police Force
+arma:
   - gas lacrimógeno
   - cañones de agua
   - balas de goma
@@ -44,7 +44,7 @@ La **Nepal Police** y la **Armed Police Force** desplegaron las herramientas hab
 - Detenciones masivas de jóvenes.
 - **Bloqueo de redes sociales** como respuesta.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El caso paradigmático del nuevo activismo Gen Z** post-2024:
   - **Sin liderazgo formal**.
   - **Organizado en redes**.

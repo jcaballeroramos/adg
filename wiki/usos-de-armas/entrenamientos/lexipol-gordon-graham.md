@@ -41,7 +41,7 @@ Concepto clave: bajo estrés el cerebro deja de razonar y actúa por instinto / 
 ## Imagen-resumen
 > Un experto con décadas de experiencia hablándote desde una oficina de cristal. No hay armas físicas en pantalla, pero sus palabras construyen la urgencia. El vídeo es una advertencia: las armas "menos letales" pueden matar si el oficial no entrena su cuerpo para responder cuando el corazón late a 150 pulsaciones por minuto y los oídos dejan de escuchar.
 
-## Por qué importa
+## Por qué importa para el documental
 - Es **la propia industria** quien admite explícitamente la letalidad. Útil para contraponer a los discursos de marketing de Byrna, Expal, FN, etc.
 - Conecta con [[../testimonios/oftalmologa-estrella-fernandez]] y [[../marco-legal/onu-relatora-tortura]].
 

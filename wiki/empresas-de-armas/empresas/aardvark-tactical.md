@@ -32,7 +32,7 @@ Investigaciones documentaron que Aardvark Tactical ha firmado **contratos por ca
 3. Se documentan **abusos sistemáticos** contra migrantes, incluyendo menores de edad.
 4. Aardvark se convierte en **canal preferente** sin licitación pública competitiva.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Conexión directa** entre la industria privada y la **militarización fronteriza**.
 - **Contratos federales** sin escrutinio público adecuado.
 - **Cómplice estructural** de los abusos de la CBP — proveedor con conocimiento de cómo se usa su material.

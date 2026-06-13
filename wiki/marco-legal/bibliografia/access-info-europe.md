@@ -18,7 +18,7 @@ tags: [access-info-europe, 2015, transparencia, 42-países, derecho-acceso]
 
 Conclusión tras solicitar **acceso a información relativa a 42 países y territorios de Europa**.
 
-## Por qué importa
+## Por qué importa para el documental
 - Es **un estudio sistemático europeo** sobre la **opacidad del armamento policial**.
 - Sirve como **base metodológica** para evaluar a cualquier Estado europeo (incluida España) en términos de transparencia sobre armas menos letales.
 - Va **en la misma dirección** que el argumento transversal de LATAM: **el escudo de "seguridad nacional"** se usa para bloquear el acceso a información.

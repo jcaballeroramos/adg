@@ -5,7 +5,7 @@ editor: UNODC + OHCHR (Naciones Unidas)
 año: 2017
 ambito: internacional
 archivo: UNODC_OHCHR_Manual_de_referencia_sobre_el_uso_de_la_fuerza_y_las_armas_de_fuego.pdf
-nombre_completo: "Manual de referencia sobre el uso de la fuerza y las armas de fuego en la aplicación de la ley"
+titulo: "Manual de referencia sobre el uso de la fuerza y las armas de fuego en la aplicación de la ley"
 tags: [unodc, ohchr, onu, uso-de-fuerza, manual, principios-basicos, codigo-conducta]
 ---
 
@@ -49,7 +49,7 @@ Sección crítica que desarrolla **caso por caso** los límites de cada arma:
 - **Grilletes con peso**.
 - **Instrumentos de contención por aplastamiento**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Documento operativo de la ONU**: lo que cualquier gobierno del mundo debe aplicar si firma los compromisos internacionales.
 - **España lo ignora sistemáticamente**. Los protocolos de los [[mossos-instrucciones-armamento|Mossos d'Esquadra]], la Policía Nacional y la Guardia Civil **no cumplen** con varios puntos concretos del manual (distancias de disparo, prohibición de municiones múltiples, formación adecuada).
 - **Base técnica** para todos los litigios de Irídia, Amnistía y Omega Research Foundation.

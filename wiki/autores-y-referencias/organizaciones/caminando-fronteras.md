@@ -18,7 +18,7 @@ Organización que **monitoriza y documenta sistemáticamente** lo que ocurre en 
 - **Informe de análisis de hechos y recopilación de testimonios de la tragedia que tuvo lugar el 6 de febrero de 2014 en la zona fronteriza de Ceuta** (Tánger: Caminando Fronteras, 13 de marzo de 2014).
 - Recopilaciones anuales de víctimas en la frontera sur.
 
-## Por qué es indispensable
+## Por qué importa para el documental
 - En la frontera, **el aparato del Estado niega información** y los cuerpos.
 - Las víctimas son personas no identificadas, sin familias localizables en el territorio.
 - Sin organizaciones como Caminando Fronteras, **estos casos no existirían** en el registro público.

@@ -5,7 +5,7 @@ pais: Siria
 año: 2011
 fecha_inicio: 2011-03-15
 contexto: Primavera Árabe — protestas pro-democracia que derivan en guerra civil
-victimas_confirmadas: "Cientos de miles (guerra civil)"
+victimas: "Cientos de miles (guerra civil)"
 tags: [siria, 2011, primavera-arabe, assad, daraa, gas-lacrimogeno, guerra-civil]
 ---
 

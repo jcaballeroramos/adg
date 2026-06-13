@@ -13,7 +13,7 @@ tags: [egner, 1977, us-army, primer-paper-crítico, less-lethal, evaluación]
 
 **Donald Egner**, *The Evaluation of Less-Lethal Weapons: Technical Memorandum 37-77*, **U.S. Army Land Warfare Laboratory**, **1977**, página 24.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Es uno de los primeros documentos técnicos** que evalúa críticamente las armas "menos letales".
 - Procede del **propio U.S. Army Land Warfare Laboratory** — es decir, es **una crítica desde dentro de la institución que las desarrolla**.
 - Establece un precedente del **patrón que se repetirá durante 50 años**: las propias instituciones que producen las armas reconocen sus problemas, pero la producción y uso continúan.

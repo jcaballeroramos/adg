@@ -4,7 +4,7 @@ estado: stub
 pais: México / Estados Unidos
 ciudad: Tijuana / San Ysidro
 año: 2018
-fecha_evento: 2018-11-25
+fecha_hechos: 2018-11-25
 victima: María Meza Castro (hondureña) y sus hijos
 mecanismo: Gas lacrimógeno disparado por CBP
 tags: [maria-meza, tijuana, caravana-migrante, cbp, gas-lacrimogeno, foto-verguenza, 2018]

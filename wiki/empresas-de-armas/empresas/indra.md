@@ -25,7 +25,7 @@ Empresa **española** que desarrolla **herramientas tecnológicas para "segurida
 ### Sistemas forenses
 - Sistema de análisis forense que **analiza y da resultados en terreno**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Indra es la "Anduril española"** en el sentido del rol que ocupa: una empresa nacional de tecnología (originalmente civil/telecom) que se ha **especializado en defensa, vigilancia e inteligencia**.
 - Sus sistemas de **deep learning para vídeo** son **directamente comparables** a los del [[../feindef/04-fn-smart-protector|FN Smart Protector]] y al paper [[../../herramientas/yolo-v3-weapon-detection|YOLO V3]].
 - Es una de las **principales beneficiarias de los proyectos europeos** de control de fronteras.

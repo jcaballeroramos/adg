@@ -19,7 +19,7 @@ tags: [melzer, onu, relator-tortura, 2017, parágrafo-47, uso-fuerza]
 
 → Es una de las **formulaciones jurídicas más fuertes** sobre la responsabilidad de quien dispara una munición indiscriminada o de trayectoria impredecible (**balas de goma con rebote**, granadas múltiples, etc.).
 
-## Por qué importa
+## Por qué importa para el documental
 - **Nils Melzer** fue **Relator Especial de la ONU sobre la Tortura** y una de las voces internacionales más influyentes en la materia.
 - Su informe **construye el puente jurídico** entre el "uso indebido" de un arma menos letal y la **calificación legal de tortura**.
 - Argumenta que **la previsibilidad del daño** equivale a **intencionalidad jurídica** — clave para procesar agentes y mandos.

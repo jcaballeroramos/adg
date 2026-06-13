@@ -10,7 +10,7 @@ tags: [ojo-con-tu-ojo, organización, victimas, balas-goma, foam]
 
 Colectivo de víctimas y activistas que trabajan contra el uso de armas que provocan **lesiones oculares** (balas de goma, foam, perdigones de impacto cinético).
 
-## Por qué nos importa
+## Por qué importa para el documental
 - Junto con **[[stop-bales-de-goma|Stop Bales de Goma]]**, **[[iridia|Irídia]]** y **[[novact|Novact]]**, han sido **resultado directo** del activismo que impulsó la regulación en Catalunya.
 - Visibilizan el **patrón anatómico** del daño: el ojo como **objetivo predilecto** del impacto cinético "menos letal".
 

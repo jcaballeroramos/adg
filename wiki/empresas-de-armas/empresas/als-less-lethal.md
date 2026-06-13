@@ -24,7 +24,7 @@ Fabricante **estadounidense** especializado en una gama amplia de munición y di
 - **Granadas de dispersión y aturdimiento**.
 - **Balas de goma**.
 
-## Por qué importa
+## Por qué importa para el documental
 - Una de las **10 empresas estadounidenses** que dominan el mercado mundial.
 - Catálogo amplio: cubre prácticamente **todas las categorías técnicas** ([[../../historia/tipos-de-armas-tabla]]).
 - Las **balas rompedoras de barricadas** son particularmente preocupantes: diseñadas para penetrar puertas y muros, su uso contra personas es **letal con casi total certeza**.

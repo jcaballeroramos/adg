@@ -20,7 +20,7 @@ Empresa **estadounidense** de tecnología de defensa especializada en **sistemas
 - IA enfocada en defensa.
 - **Sistemas aéreos controlados por IA** (drones autónomos).
 
-## Por qué importa
+## Por qué importa para el documental
 - Tercer vértice del **trío Silicon Valley** de defensa: [[anduril]], [[vannevar-labs]] y Shield AI.
 - Sistemas aéreos autónomos = **un escalón más** que el Smart Protector de FN Herstal: la IA no solo identifica, **decide y actúa**.
 - Conexión directa con el debate sobre [[../../herramientas/laws-armas-autonomas|LAWS]].

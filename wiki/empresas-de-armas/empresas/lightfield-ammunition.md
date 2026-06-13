@@ -20,7 +20,7 @@ Fabricante **estadounidense** especializado en **balas y municiones de menos de 
 - **Balas de goma**.
 - **Municiones de menos de 40 mm**.
 
-## Por qué importa
+## Por qué importa para el documental
 - Un caso más del problema **"munición que se vende como menos letal pero puede romper barricadas"** — si destruye una puerta, destruye un cuerpo a corta distancia.
 
 ## Conexiones

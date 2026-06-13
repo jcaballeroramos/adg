@@ -24,7 +24,7 @@ Stand de exposición de proyectiles. Vitrinas con cartuchos de colores ordenados
 >
 > **Técnico:** Siempre. Dan muchas vueltas por minuto. Entonces claro, lo que hace es un impacto exactamente como un puño. **Nosotros estamos diseñados para resistir esto. La naturaleza nos ha equipado para resistir un puñetazo.** Igual que un león tiene una melena para las zarpas de otro león, un ciervo tiene cuernos para luchar contra otro macho… no sirven para nada más. La melena del león no sirve para nada más. Y nosotros estamos diseñados para que en una lucha entre machos… tus costillas, tu mandíbula, tu cuenca ocular, tu tabique nasal… todo tiene un diseño para la lucha entre machos. Que un puñetazo sea lo más contundente que te puedo ofrecer, pero lo menos lesivo. La naturaleza quiere que te vayas a otro sitio a conquistar otros… no quiere que mueras en la batalla. Entonces esto es lo que yo te ofrezco: **un puñetazo a distancia y de bolsillo**. Y sin el esfuerzo que requiere dar un puñetazo y la cercanía. Entonces esto es, evolutivamente, lo que tu especie está dispuesta a soportar. Y que sea disuasorio, claro. Lo hemos llamado **el "Puño de Darwin"**.
 
-## Por qué es oro narrativo
+## Por qué importa para el documental
 - **Narrativa evolucionista** convertida en argumento de venta de un arma.
 - El nombre del producto **"Puño de Darwin"** condensa la filosofía completa del marketing de la baja letalidad: naturalizar la violencia.
 - Vincular con [[../testimonios/oftalmologa-estrella-fernandez]] (la "cuenca ocular diseñada para resistir" que en realidad estalla con 720 km/h de bola de goma).

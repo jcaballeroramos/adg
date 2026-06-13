@@ -1,6 +1,6 @@
 ---
 tipo: transcripción
-estado: literal
+estado: completo
 testimonio_de: Dra. Estrella Fernández Martínez
 foro: Parlament de Catalunya — comisión de estudio sobre el modelo de seguridad y el uso de proyectiles de alta energía
 tags: [transcripción, oftalmología, parlament, balas-de-goma, literal]

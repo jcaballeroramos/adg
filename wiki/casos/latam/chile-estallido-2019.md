@@ -2,9 +2,9 @@
 tipo: caso
 estado: borrador
 pais: Chile
-fecha: 2019
+fecha_hechos: 2019
 contexto: Estallido social — protestas por desigualdad
-victima_emblematica: Fabiola Campillai
+victima: Fabiola Campillai
 tags: [chile, estallido-social, carabineros, fabiola-campillai, condor, ojos]
 ---
 

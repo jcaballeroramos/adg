@@ -5,8 +5,8 @@ nombre_evento: Masacre del puesto fronterizo de Barrio Chino — Melilla
 fecha_hechos: 2022-06-24
 lugar: Frontera Melilla–Marruecos
 victimas: 37 muertos, 77 desaparecidos a julio 2023
-fuerzas: Guardia Civil + Policía Nacional + fuerzas marroquíes
-armas:
+cuerpo: Guardia Civil + Policía Nacional + fuerzas marroquíes
+arma:
   - 270 salvas
   - 28 ATF (artefacto triple fumígeno)
   - 86 ATL (artefacto triple lacrimógeno)

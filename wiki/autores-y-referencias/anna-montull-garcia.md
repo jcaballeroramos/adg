@@ -1,5 +1,5 @@
 ---
-tipo: autora
+tipo: autor
 estado: stub
 nombre: Anna Montull García
 afiliacion: Centre Delàs d'Estudis per la Pau
@@ -13,6 +13,6 @@ tags: [anna-montull-garcia, centre-delas, investigadora, ddhh]
 
 Investigadora del **Centre Delàs d'Estudis per la Pau**, especializada en industria de defensa, derechos humanos y armas no letales. Coautora del informe **"Armas potencialmente letales. Sobre cómo militarizar el espacio público y traumatizar los cuerpos"** del Centre Delàs.
 
-## Por qué nos importa
+## Por qué importa para el documental
 - Voz catalana experta en el cruce entre **industria de armas** y **derechos humanos**.
 - Conecta la perspectiva del **Centre Delàs** (referencia mundial en investigación pacifista) con el ámbito local.

@@ -21,7 +21,7 @@ Fabricante **estadounidense** de **equipamiento policial estándar**: esposas, s
 - **Spray de gas lacrimógeno**.
 - **Navajas, pistolas, rifles**.
 
-## Por qué importa
+## Por qué importa para el documental
 - El **bastón extensible ASP** es **el estándar mundial** de equipamiento policial — se llama **ASP** genéricamente como sinónimo de "bastón extensible" en jerga policial.
 - Inventado en **1976**: representa el final de la línea evolutiva de la **porra rígida → tonfa PR-24 → ASP extensible** documentada en [[../../historia/porra-tonfa]].
 

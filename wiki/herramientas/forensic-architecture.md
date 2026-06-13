@@ -16,7 +16,7 @@ tags: [forensic-architecture, weizman, goldsmiths, ddhh, reconstrucción, vfame]
 - **Sede**: Goldsmiths University of London.
 - **Fundador**: Eyal Weizman.
 
-## Por qué nos importa
+## Por qué importa para el documental
 - Es **el modelo metodológico** que combina arquitectura, IA y derechos humanos.
 - **Pionera** en usar herramientas de **reconstrucción 3D y análisis open-source** para investigar casos de violencia policial y militar (Black Lives Matter, Palestina, Siria, Belarús).
 - Su trabajo es **directamente paralelo** al de [[vframe]] (detección automatizada de munición) y al de [[../autores-y-referencias/organizaciones/iridia|Irídia]] (análisis manual del caso Roger Español).

@@ -18,7 +18,7 @@ tags: [ozkursan, turquia, fogueo, traumatica, 9mm, colombia, intermediarios]
 - Especialidad: **munición** (no fabrica las pistolas, las suministra).
 - Calibres: **9 mm fogueo / traumático** principalmente.
 
-## Por qué importa
+## Por qué importa para el documental
 - Sus municiones han sido **importadas a Colombia** y utilizadas en **armas traumáticas** que se han documentado en contextos de **violencia y protestas**.
 - **Falta total de regulación** en la importación y distribución de sus productos en países latinoamericanos hasta 2021.
 - Ventas a través de **intermediarios y tiendas locales** sin trazabilidad.

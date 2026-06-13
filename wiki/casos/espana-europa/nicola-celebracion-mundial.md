@@ -55,7 +55,6 @@ El colectivo tiene como principios:
 - Intentos de contactar con franceses (chalecos amarillos, Soulèvements de la Terre) sin éxito por ahora.
 
 ## Por qué importa para el documental
-
 - **Caso de armas less-lethal en celebración deportiva**: no hubo protesta, no hubo "desorden público" — simplemente policía disparando contra civiles en una fiesta.
 - **Cofundador de Stop Balas de Goma**: pieza clave del activismo antirrepresivo español.
 - La clave de su testimonio: **deshumanización del protestante**. *"Son vándalos, son malos, tú eres el culpable. Tú te has situado en la trayectoria de la bala."*

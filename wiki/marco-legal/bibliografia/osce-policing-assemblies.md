@@ -10,7 +10,7 @@ tags: [osce, ddhh, policing-assemblies, manual, europa, recomendaciones]
 
 La **Organización para la Seguridad y la Cooperación en Europa (OSCE)** publicó el **Human Rights Handbook on Policing Assemblies** (Manual de Derechos Humanos sobre actuaciones policiales en reuniones), un documento de referencia para Estados europeos.
 
-## Por qué importa
+## Por qué importa para el documental
 - Marco **europeo específico** para el policiaje de reuniones y protestas.
 - Complementa [[../onu-orientaciones-2020|las Orientaciones ONU 2020]] pero con enfoque regional europeo.
 - Recoge una serie de **recomendaciones generales** sobre las armas de uso policial que se caracterizan por el **lanzamiento de proyectiles de impacto cinético**.

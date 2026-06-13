@@ -44,7 +44,7 @@ PHR es **la ONG médica líder** en investigación de armas «menos letales». H
 - **Chile 2019** — apoyo técnico a las denuncias del estallido (ver [[../casos/fabiola-campillai]]).
 - **Minneapolis 2020** — Black Lives Matter, documentación de lesiones.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Fuente médica primaria** para todo el documental — sus datos son **incuestionables**.
 - **Puente entre medicina y litigio**: sus papers se usan directamente en tribunales.
 - **Voz pública**: conferencias TEDx, entrevistas con el *New York Times*, *The Lancet*, *BMJ*.

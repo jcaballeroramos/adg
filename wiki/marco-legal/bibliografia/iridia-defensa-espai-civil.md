@@ -4,7 +4,7 @@ estado: stub
 editor: Irídia — Centre per la Defensa dels Drets Humans
 ambito: Cataluña + Estado español
 idioma: Catalán
-nombre_completo: "Defensa del espacio de la sociedad civil"
+titulo: "Defensa del espacio de la sociedad civil"
 tags: [iridia, espacio-civil, sociedad-civil, derechos-protesta, ley-mordaza, defensores]
 ---
 

@@ -29,7 +29,7 @@ Empresa estadounidense de tecnología de defensa fundada en **2017** por **Palme
 - **Dive-LD** — vehículo submarino autónomo.
 - **Sentry Tower** — torre de vigilancia autónoma (usada en frontera sur EE.UU.).
 
-## Por qué nos importa
+## Por qué importa para el documental
 - Es la **cara visible** del nuevo complejo militar-tech de Silicon Valley.
 - Su producto **Sentry Tower** se usa en la frontera entre EE.UU. y México.
 - Encarna el siguiente paso del paradigma "no letal": **armas autónomas** que delegan la decisión a un algoritmo.

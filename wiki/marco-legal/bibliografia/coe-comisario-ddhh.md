@@ -5,7 +5,7 @@ editor: Consejo de Europa · Comisario para los Derechos Humanos
 año: 2017
 ambito: Europa / España
 autor: Nils Muižnieks
-nombre_completo: "Carta del Comisario de DDHH del Consejo de Europa al Ministro del Interior de España sobre uso desproporcionado de fuerza en Cataluña (1-O, 2017)"
+titulo: "Carta del Comisario de DDHH del Consejo de Europa al Ministro del Interior de España sobre uso desproporcionado de fuerza en Cataluña (1-O, 2017)"
 tags: [coe, comisario-ddhh, consejo-europa, policia, cataluna, 1-octubre, balas-goma, uso-de-fuerza, muiznieks, 2017]
 fuentes:
   - https://rm.coe.int/ref/CommHR/NM/jp036-2017

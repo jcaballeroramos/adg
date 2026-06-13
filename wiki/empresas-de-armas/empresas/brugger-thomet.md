@@ -23,7 +23,7 @@ Empresa **suiza** fabricante del **LBD40** (lanzador BT-GL06), uno de los lanzad
   - **Libia**.
   - **R.D. del Congo** — usadas en la represión violenta contra las manifestaciones de **2018**.
 
-## Por qué importa
+## Por qué importa para el documental
 - Es el **único proveedor no nacional** del armamento "menos letal" del Estado francés. Excepción a una industria mayoritariamente nacional.
 - Es el **proveedor del arma que dejó ciega a [[../../casos/africa-pablo-hasel|África]]** en Catalunya (la lanzadora BT-GL06 disparando proyectiles de foam).
 - Demuestra que la **regulación europea no es estricta**: un director condenado por tráfico ilícito sigue dirigiendo una empresa que provee a Estados europeos.

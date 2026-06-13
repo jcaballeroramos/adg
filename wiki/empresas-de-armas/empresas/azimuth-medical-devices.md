@@ -37,7 +37,7 @@ Azimuth no fue la única. Ver [[../../casos/latam/intermediarios-latam]] para el
 
 > El **patrón común**: **contratos directos**, sin licitación pública, durante el estado de emergencia, a empresas **sin trayectoria** en el sector militar/policial. Es **el manual de la corrupción de emergencia**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Anomalía sectorial** que evidencia la **descontrol** de las compras militares chilenas durante 2019.
 - **Conflicto de intereses** estructural — una empresa "médica" lucrando con un producto que **causa lesiones**.
 - **Trazabilidad química** — sin Azimuth no sabemos qué **agente OC específico** se usó contra Fabiola Campillai y los **460+ heridos oculares** del estallido.

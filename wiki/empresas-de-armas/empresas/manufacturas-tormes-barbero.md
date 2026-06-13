@@ -16,7 +16,7 @@ Empresa **española** fabricante de **proyectiles** y **componentes pirotécnico
 - Sociedad limitada.
 - Fabricación de proyectiles para munición de impacto cinético.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Una de las pocas empresas españolas** explícitamente identificadas en documentación oficial española como fabricante de proyectiles policiales.
 - **Cadena de suministro doméstica**: forma parte del trío histórico **[[maxam|MAXAM]] / [[falken|Falken]] / Manufacturas del Tormes Barbero** + [[../empresas/00-indice|otras]] que fabrican el armamento represivo en territorio español.
 - La **opacidad** alrededor de la empresa es **representativa del patrón general**: respuesta a una pregunta parlamentaria es prácticamente la única fuente pública.

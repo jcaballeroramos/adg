@@ -4,8 +4,8 @@ estado: borrador
 pais: Irak
 fecha_inicio: 2019-10-01
 contexto: Movimiento Tishreen contra la corrupción y la injerencia iraní
-fuerzas: Fuerzas de Seguridad iraquíes + milicias pro-iraníes (Hashd al-Shaabi)
-armas:
+cuerpo: Fuerzas de Seguridad iraquíes + milicias pro-iraníes (Hashd al-Shaabi)
+arma:
   - munición real (predominante)
   - botes de gas lacrimógeno militares (de origen iraní/serbio/estadounidense)
   - cañones de agua
@@ -61,7 +61,7 @@ Los botes **militares** (vs. los "policiales" civiles) son **cilindros largos y 
 
 Esto conecta con el siguiente nivel irónico: **Irán**, que dispara perdigones a los ojos de sus propias manifestantes ([[iran-mahsa-amini-2022|Mahsa Amini]]), **exporta también gas lacrimógeno letal a Irak** donde mata a manifestantes que protestan **contra la injerencia iraní**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Caso paradigmático** del **uso explícitamente letal de botes militares** como arma homicida (no solo "dispersora").
 - **Conexión directa** entre el movimiento Tishreen (Irak) y el **movimiento de las mujeres en Irán** (2022): el régimen iraní reprime en ambos lados de la frontera.
 - **Prueba empírica** del patrón de Paul Rocher: el **arma "menos letal"** es en realidad **letal de facto** cuando se usa con **intencionalidad homicida**.

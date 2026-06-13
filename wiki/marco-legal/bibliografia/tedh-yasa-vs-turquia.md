@@ -12,7 +12,7 @@ tags: [tedh, abdullah-yasa, turquía, art-3, gas-lacrimógeno, jurisprudencia]
 
 El **Tribunal Europeo de Derechos Humanos (TEDH)** reconoció en el caso **Abdullah Yasa y otros c. Turquía** que el **lanzamiento de una granada de gas lacrimógeno** **violaba el artículo 3** del Convenio Europeo (prohibición de la tortura), pues no correspondía al uso de dispersión de una manifestación no pacífica. **Parágrafo 50**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Jurisprudencia europea vinculante** sobre el uso indebido de granadas de gas lacrimógeno.
 - Establece que una **granada de gas lacrimógeno** disparada de forma inadecuada **puede equivaler jurídicamente a tortura**.
 - Caso **gemelo** de [[tedh-kilici-vs-turquia|Kilici c. Turquía]] sobre balas de goma.

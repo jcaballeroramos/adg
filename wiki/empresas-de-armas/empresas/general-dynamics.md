@@ -30,7 +30,7 @@ Empresa **estadounidense gigante** fabricante de **tanques, barcos, submarinos, 
 - **Tactical Electronic Warfare System (TEWS)** — sistema de ataque electrónico que **perturba y degrada las herramientas de comunicación** del adversario.
 - Munición.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Top 5 mundial** de la industria de defensa.
 - Su producción "menos letal" es **menos evidente** que otras empresas (su línea principal son tanques y submarinos), pero su presencia en **FEINDEF** la incluye en el catálogo del proyecto.
 

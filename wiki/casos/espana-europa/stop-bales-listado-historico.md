@@ -92,7 +92,7 @@ Compilación de **todas las muertes documentadas** por balas de goma (y armas de
 | 2020-2024 | **38+** (incluyendo 37 Melilla + Antonio C.) | varios |
 | **Total** | **~61+** | **~60+** |
 
-## Por qué este listado importa
+## Por qué importa para el documental
 - Es **el intento más completo** de mapear las víctimas mortales en territorio español.
 - Sirve para **contrarrestar la versión oficial** de que "no son letales".
 - Cada nombre **es una historia individual** que merece su ficha.

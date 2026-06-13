@@ -45,7 +45,7 @@ El **camino**:
 - **Irak** (granadas lacrimógenas documentadas en protestas Tishreen 2019 — ver [[../../casos/internacionales/irak-tishreen-2019]]).
 - **Ucrania** (desde 2022, suministros).
 
-## Por qué importa
+## Por qué importa para el documental
 Krušik ilustra **tres patrones** del mercado global:
 1. **Los Balcanes** son un **nodo clave** de proliferación de armas "menos letales" a zonas grises.
 2. **Las granadas lacrimógenas** son tan lucrativas como las de fragmentación — y **menos controladas** legalmente.

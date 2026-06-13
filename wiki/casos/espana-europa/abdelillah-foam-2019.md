@@ -4,7 +4,7 @@ estado: stub
 pais: España (Cataluña)
 ciudad: Barcelona
 año: 2019
-fecha_evento: 2019-10
+fecha_hechos: 2019-10
 contexto: Protestas de octubre 2019 tras la sentencia del Procés
 victima: Abdelillah
 mecanismo: Proyectil de foam SIR-X disparado por Mossos d'Esquadra
@@ -34,7 +34,7 @@ Durante los operativos de octubre 2019:
 
 > El caso de Abdelillah demuestra que la **«alternativa segura»** del foam (introducido tras la [[../marco-legal/cataluna-prohibicion-balas-goma|prohibición catalana de 2014]]) **no es segura**. El protocolo de uso de los Mossos viola las **indicaciones del fabricante** del proyectil, como denunció Irídia en 2024.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Caso hermano** de Roger García y de las otras víctimas del mismo operativo.
 - **Evidencia del fracaso del reemplazo** foam-por-goma.
 - **Dimensión racial** a menudo invisibilizada en los relatos mayoritarios.

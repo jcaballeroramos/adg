@@ -6,8 +6,8 @@ fecha_hechos: 2020-10-20
 lugar: Lekki Toll Gate, Lagos
 contexto: Movimiento #EndSARS contra la Special Anti-Robbery Squad
 victimas: ~12 muertos en Lekki + decenas de heridos
-fuerzas: Ejército nigeriano + policía
-armas:
+cuerpo: Ejército nigeriano + policía
+arma:
   - munición real
   - gas lacrimógeno
   - cañones de agua
@@ -41,7 +41,7 @@ La **noche del 20 de octubre**, el ejército nigeriano disparó **munición real
 - **Diáspora nigeriana** organizó protestas en EE.UU., Reino Unido, Canadá, Sudáfrica.
 - El logo y el lema **#EndSARS** se convirtieron en símbolo de la nueva ola de protestas contra la brutalidad policial **post-Floyd 2020**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Caso paradigmático** de **brutalidad policial africana** documentado en tiempo real por las redes sociales.
 - **Las armas "menos letales"** (gas lacrimógeno, cañones de agua) se usaron **junto con munición real** — frontera total entre lo letal y lo "menos letal".
 - **Un punto en el mapa global** que demuestra que el patrón **no es exclusivo de las "democracias liberales"** ni de Latinoamérica: es un **fenómeno mundial**.

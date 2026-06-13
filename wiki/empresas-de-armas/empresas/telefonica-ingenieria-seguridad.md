@@ -24,7 +24,7 @@ tags: [telefónica, españa, vigilancia, taser, guardia-civil, axon, comunicacio
 - Sistemas de **registro** y vigilancia.
 - Productos para vigilancia institucional.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Confluencia entre el sector telecomunicaciones y la represión policial**.
 - Que una empresa como **Telefónica** —líder en telecomunicaciones civiles— tenga una división dedicada a vender **armas eléctricas** a la Guardia Civil es **sintomático del giro corporativo** hacia el sector defensa/seguridad.
 - Es **el canal por el que el Taser X26 entra en España** vía contratos públicos.

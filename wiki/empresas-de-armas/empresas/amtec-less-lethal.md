@@ -13,7 +13,7 @@ Empresa **estadounidense** de armas menos letales. Productos principales: **gran
 ## Lo que dice "Humo en las calles" sobre la empresa
 > Expansión significativa en la industria de armas no letales; **sin innovaciones recientes desde hace dos décadas**, manteniendo tecnologías existentes en uso global.
 
-## Por qué importa
+## Por qué importa para el documental
 - Es uno de los **8 fabricantes** estadounidenses que dominan el mercado global de menos letales (junto con CTS, Safariland, Axon, Raytheon, Zarc, PepperBall, NLT).
 - El hecho de que **no haya innovado en 20 años pero siga vendiendo** es **una de las pruebas más claras** de la tesis de [[../../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]: el sector no necesita ser técnicamente sofisticado, solo necesita **demanda política**.
 

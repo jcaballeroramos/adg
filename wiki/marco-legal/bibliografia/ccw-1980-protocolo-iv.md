@@ -3,7 +3,7 @@ tipo: bibliografía
 estado: stub
 año: 1980
 ambito: internacional
-nombre_completo: "Convención sobre Ciertas Armas Convencionales (CCW) + Protocolo IV sobre Armas Láser Cegadoras"
+titulo: "Convención sobre Ciertas Armas Convencionales (CCW) + Protocolo IV sobre Armas Láser Cegadoras"
 tags: [ccw, 1980, protocolo-iv, onu, laser, armas-cegadoras, ginebra]
 ---
 
@@ -38,7 +38,7 @@ El **Protocolo IV** es el **primer tratado internacional** de la historia que **
 
 > Es **el modelo que invocan** quienes hoy piden una **prohibición preventiva de las LAWS** (Sistemas de Armas Autónomas Letales). Ver [[../../autores-y-referencias/christof-heyns]] y [[../../herramientas/laws-armas-autonomas]].
 
-## Por qué importa para «Artefactos de Guerra»
+## Por qué importa para el documental
 1. **Establece el principio jurídico** de que una tecnología puede prohibirse **antes** de causar un daño masivo.
 2. **La ceguera como límite**: el Protocolo IV **reconoce jurídicamente** que **dejar ciego a alguien** es un daño **inaceptable** — precedente directo para los casos [[../../casos/fabiola-campillai]], [[../../casos/roger-espanol]], [[../../casos/ester-quintana]], [[../../casos/rufo-chacon]] y todos los casos de lesiones oculares por balas de goma y gas lacrimógeno.
 3. **Contradicción institucional**: los mismos Estados que firmaron el Protocolo IV contra la ceguera láser **autorizan el uso masivo** de balas de goma y KIPs que causan la misma ceguera. Esta contradicción es **el argumento jurídico clave** que esgrimen Rohini Haar, Casey-Maslen y las organizaciones de víctimas.

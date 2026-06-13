@@ -12,7 +12,7 @@ tags: [symposium, non-lethal-weapons, conferencia, ewg-nlw, industria]
 
 Conferencia académico-industrial-militar **bienal** del **European Working Group on Non-Lethal Weapons (EWG-NLW)**, uno de los foros de referencia mundial donde se reúnen **investigadores, fabricantes, militares, policías y compradores institucionales** del sector "menos letal".
 
-## Por qué nos interesa
+## Por qué importa para el documental
 
 - Es **el foro internacional** donde se normalizan los conceptos, productos y discursos de la industria. Lo opuesto al foro de víctimas/DDHH.
 - Buen lugar para **mapear quién va, qué se anuncia, qué papers se presentan**: línea narrativa para el documental sobre cómo "la ciencia se pone al servicio del orden público" (eco directo de [[../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]).

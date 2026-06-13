@@ -2,10 +2,10 @@
 tipo: caso
 estado: borrador
 pais: Guatemala
-fecha: 2020-11
+fecha_hechos: 2020-11
 contexto: Protestas contra el gobierno y el presupuesto nacional
 victimas: 2 jóvenes pierden el ojo izquierdo
-fabricante_implicado: Combined Tactical Systems (CTS)
+fabricante: Combined Tactical Systems (CTS)
 intermediario: Tactical Group
 tags: [guatemala, 2020, cts, tactical-group, sobreprecio]
 ---

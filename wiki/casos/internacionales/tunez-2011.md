@@ -5,7 +5,7 @@ pais: Túnez
 año: 2011
 fecha_inicio: 2010-12-17
 contexto: Revolución del Jazmín — inicio de la Primavera Árabe
-victimas_confirmadas: "338 muertos y 2.174 heridos (datos ONU)"
+victimas: "338 muertos y 2.174 heridos (datos ONU)"
 tags: [tunez, 2011, primavera-arabe, jazmin, bouazizi, ben-ali, gas-lacrimogeno, inicio]
 ---
 

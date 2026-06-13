@@ -15,7 +15,7 @@ Pieza periodística visual del **Washington Post** (27 marzo 2023) que muestra, 
 
 > *«A single bullet lands with a shock wave intense enough to blow apart a skull and demolish vital organs.»*
 
-## Por qué está en este wiki
+## Por qué importa para el documental
 Aunque el AR-15 es un **arma de fuego letal** (no «menos letal»), esta pieza es **esencial** para el documental por tres razones:
 
 1. **El modelo visual** — las animaciones 3D de la trayectoria de la bala, el «blast effect» (onda de choque) y las heridas de entrada/salida son **el mismo tipo de visualización** que el wiki ya tiene para las armas «menos letales»: ver [[tear-gas-amnesty]] (gas CS sobre el cuerpo), [[flash-bang-m84-tecnico]] y [[flash-bang-m84-fisiologia]] (granada M84 sobre ojo y oído). The Blast Effect es la **referencia de máxima calidad** para este lenguaje visual.

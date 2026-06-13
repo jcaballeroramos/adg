@@ -32,7 +32,6 @@ Los expertos consultados por CNN, Al Jazeera y Newsweek sostienen que Trump **pr
 > "Por ahora, el arma parece ser **una mezcla de varias capacidades operando en conjunto**, no un elemento singular." — expertos consultados.
 
 ## Por qué importa para el documental
-
 ### 1. La retórica del "arma milagrosa"
 Trump invoca un **arma secreta con nombre caricaturesco** ("discombobulator") para sugerir **superioridad tecnológica absoluta**. Es la **perfecta culminación** de la tesis de [[../../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]] sobre:
 - La **fe en la solución técnica** a problemas políticos.

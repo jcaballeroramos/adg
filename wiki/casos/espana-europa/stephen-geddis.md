@@ -21,7 +21,7 @@ tags: [stephen-geddis, irlanda-norte, belfast, ejército-británico, balas-goma,
 
 Es la **primera muerte documentada por rebote** de una bala de goma — el patrón que la **ONU prohíbe explícitamente**: el disparo indirecto por rebote.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El primer niño muerto** por la munición que el Ministerio de Defensa británico **había diseñado específicamente** para el "control colonial" de Irlanda del Norte.
 - Su muerte, junto con las decenas que la siguieron, demostró que **el rebote era la regla, no la excepción**.
 - Las balas de plástico fueron introducidas **sin haberse realizado ningún estudio preciso sobre su impacto en el cuerpo humano**.

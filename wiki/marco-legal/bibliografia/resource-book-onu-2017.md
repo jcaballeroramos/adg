@@ -11,7 +11,7 @@ tags: [onu, unodc, 2017, resource-book, uso-fuerza, manual]
 
 **Naciones Unidas (UNODC + OHCHR)**, *Resource book on the use of force and firearms in law enforcement* (Libro de recursos sobre el uso de la fuerza y las armas de fuego en el cumplimiento de la ley), **2017**.
 
-## Por qué importa
+## Por qué importa para el documental
 - Es el **manual operativo** que precede a las [[../onu-orientaciones-2020|Orientaciones ONU 2020 sobre armas menos letales]].
 - Establece los **principios generales** del uso de la fuerza en cumplimiento de la ley.
 - Especifica explícitamente que las balas de goma:

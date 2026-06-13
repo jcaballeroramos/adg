@@ -3,9 +3,9 @@ tipo: caso
 estado: stub
 pais: Argentina
 año: 1976-1983
-fecha_golpe: 1976-03-24
+fecha_hechos: 1976-03-24
 contexto: Golpe de Estado militar y Proceso de Reorganización Nacional
-victimas_confirmadas: "+30.000 desaparecidos (organismos de DDHH)"
+victimas: "+30.000 desaparecidos (organismos de DDHH)"
 tags: [argentina, 1976, videla, dictadura, cono-sur, proceso, esma, desaparecidos]
 ---
 
@@ -59,7 +59,7 @@ Pero **la "menos letalidad" fue una cortina**: detrás del gas lacrimógeno ven�
 
 > **La línea histórica es clara**: los mismos instrumentos que la dictadura usó contra sus ciudadanos en los 70-80 se siguen exportando hoy a otros regímenes autoritarios, cuarenta años después.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Fuente histórica** de la militarización policial argentina que llega hasta el **protocolo Bullrich** actual y el **gobierno Milei**.
 - **Operación Cóndor** — modelo exportable de represión sincronizada.
 - **Las Madres de Plaza de Mayo** — modelo de resistencia civil ante el gas y la porra.

@@ -32,7 +32,7 @@ El régimen intentó **negar la responsabilidad** durante meses:
 - Después, una **pistola de balines de un compañero**.
 - La Fiscalía contradijo: **fue una bomba lacrimógena disparada por la GNB**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El nombre de Juan Pablo Pernalete** se convirtió en un **símbolo internacional** de la represión venezolana.
 - Demostró que las **armas chinas no letales** llegan a LATAM y matan.
 - Conexión directa con el **contrato Norinco-Venezuela 2012 (500 millones $)**.

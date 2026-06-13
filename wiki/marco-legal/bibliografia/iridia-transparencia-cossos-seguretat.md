@@ -4,7 +4,7 @@ estado: stub
 editor: Irídia — Centre per la Defensa dels Drets Humans
 ambito: Cataluña
 idioma: Catalán
-nombre_completo: "Transparencia y rendición de cuentas de los cuerpos de seguridad (Cataluña)"
+titulo: "Transparencia y rendición de cuentas de los cuerpos de seguridad (Cataluña)"
 tags: [iridia, transparencia, rendicion-de-cuentas, mossos, catalunya, auditoria]
 ---
 

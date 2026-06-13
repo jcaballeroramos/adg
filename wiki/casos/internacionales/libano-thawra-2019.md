@@ -4,8 +4,8 @@ estado: borrador
 pais: Líbano
 fecha_inicio: 2019-10-17
 contexto: "\"Thawra\" (revolución) contra la corrupción del establishment político-confesional"
-fuerzas: Policía libanesa + Fuerzas de Seguridad Interior (FSI) + Ejército
-armas:
+cuerpo: Policía libanesa + Fuerzas de Seguridad Interior (FSI) + Ejército
+arma:
   - gas lacrimógeno
   - balas de goma
   - cañones de agua
@@ -59,7 +59,7 @@ Aunque la documentación es parcial, se ha confirmado el uso de:
 - **4 de agosto de 2020** — **explosión del puerto de Beirut**: 218 muertos, 7.000 heridos, 300.000 sin hogar. El movimiento renace brevemente.
 - **Crisis económica**: la lira libanesa pierde el **90% de su valor**. El país se hunde en una de las **peores crisis económicas del siglo XXI**.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Caso paradigmático de la ola 2019** junto con Chile, Hong Kong, Colombia, Ecuador, Irak.
 - **Demuestra el patrón transconfesional**: cuando el hartazgo es suficiente, las divisiones sectarias se desvanecen.
 - **Conexión directa con el colapso del Estado** — el Líbano es hoy un ejemplo de **fallo estatal total** en parte provocado por la **élite política** que la Thawra denunció.

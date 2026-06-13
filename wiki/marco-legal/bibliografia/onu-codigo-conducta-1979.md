@@ -13,7 +13,7 @@ tags: [onu, codigo-conducta, 1979, resolucion-34-169, asamblea-general, etica-po
 
 **Asamblea General de las Naciones Unidas**, **Resolución 34/169**, adoptada el **17 de diciembre de 1979**: *Código de Conducta para Funcionarios Encargados de Hacer Cumplir la Ley*.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Es el documento fundacional** del derecho internacional sobre el comportamiento policial.
 - **Precede 11 años a los [[onu-principios-basicos-1990|Principios Básicos de 1990]]** y establece el **marco ético** sobre el cual se construirán todos los textos posteriores.
 - En **8 artículos**, define las obligaciones mínimas universales de **cualquier funcionario que ejerza poder policial**.

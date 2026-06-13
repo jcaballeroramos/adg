@@ -3,9 +3,9 @@ tipo: caso
 estado: stub
 pais: Chile
 año: 1973-1990
-fecha_golpe: 1973-09-11
+fecha_hechos: 1973-09-11
 contexto: Golpe de Estado y dictadura de Pinochet
-victimas_confirmadas: "3.216 muertos/desaparecidos (Rettig+Valech), 38.254 torturados"
+victimas: "3.216 muertos/desaparecidos (Rettig+Valech), 38.254 torturados"
 tags: [chile, 1973, pinochet, allende, dictadura, gas-lacrimogeno, tortura, cono-sur]
 ---
 
@@ -53,7 +53,7 @@ Carmen Gloria se convirtió en **símbolo internacional** de la dictadura. Su ca
 
 > **La línea directa**: el gas lacrimógeno que dejó ciega a **Fabiola Campillai** en 2019 es el **descendiente institucional** del gas lacrimógeno que reprimía las protestas contra Pinochet en los 80.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Cono Sur como laboratorio**: Chile 1973 + Argentina 1976 + Uruguay 1973 + Brasil 1964 fueron **laboratorios de represión** donde EE.UU. (vía Operación Cóndor, Escuela de las Américas) probó y exportó tácticas de control de disidencia.
 - **Continuidad institucional**: los **Carabineros actuales** son herederos directos del entrenamiento y la cultura de la dictadura.
 - **El gas lacrimógeno como herramienta política** — no como emergencia.

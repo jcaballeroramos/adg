@@ -1,5 +1,5 @@
 ---
-tipo: compilación-empresas
+tipo: compilación
 estado: borrador
 ámbito: América Latina
 tags: [intermediarios, latam, fabricantes, opacidad, corrupción]

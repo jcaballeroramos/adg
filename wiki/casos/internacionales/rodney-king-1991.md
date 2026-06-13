@@ -4,7 +4,7 @@ estado: stub
 pais: Estados Unidos
 ciudad: Los Ángeles
 año: 1991
-fecha_evento: 1991-03-03
+fecha_hechos: 1991-03-03
 victima: Rodney Glen King
 mecanismo: Porra (PR-24), patadas, taser, palos de béisbol
 tags: [rodney-king, los-angeles, 1991, taser, lapd, video, disturbios-92]

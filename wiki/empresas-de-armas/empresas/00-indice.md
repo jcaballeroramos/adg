@@ -1,5 +1,5 @@
 ---
-tipo: índice-empresas
+tipo: indice
 estado: borrador
 tags: [empresas, índice, fabricantes, less-lethal]
 ---

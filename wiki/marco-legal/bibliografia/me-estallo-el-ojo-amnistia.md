@@ -13,7 +13,7 @@ tags: [amnistia, me-estalló-el-ojo, kips, abuso-global, proyectiles-cinéticos]
 ## El título habla por sí mismo
 La frase **"me estalló el ojo"** es la cita literal de una víctima — el patrón anatómico que se repite en todos los testimonios de [[../../casos/compilacion-espana|las víctimas españolas]], [[../../casos/latam/00-compilacion-latam|las latinoamericanas]] y [[../../casos/inigo-cabacas|las europeas]].
 
-## Por qué importa
+## Por qué importa para el documental
 - **Documento de referencia internacional** de Amnistía sobre proyectiles de impacto cinético (KIPs).
 - Marca el **tono ético** y narrativo: usar las palabras de las víctimas, no la jerga policial-industrial.
 - Se complementa con [[lethal-in-disguise-2]] (cifras globales).

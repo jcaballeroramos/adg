@@ -4,10 +4,10 @@ estado: borrador
 editor: CIIVO — Centro Internacional de Investigación de Violencia Ocular
 año: 2026
 ambito: internacional (Colombia, Chile, España, Francia, EE.UU., Israel, Palestina, India, Hong Kong)
-autores: Juan Pablo Fonseca Roa, Andrés Juan Guerrero Rubiano, Juan Carlos González Carpintero, Daniel Alejandro Jaimes Serna, Giovanny García Garrido
+autor: Juan Pablo Fonseca Roa, Andrés Juan Guerrero Rubiano, Juan Carlos González Carpintero, Daniel Alejandro Jaimes Serna, Giovanny García Garrido
 financiacion: Open Society Foundations
 archivo: pdf/Informe-falsa-menor-letalidad-web.pdf
-nombre_completo: "La teoría de la falsa menor letalidad: la ingeniería del daño encubierto"
+titulo: "La teoría de la falsa menor letalidad: la ingeniería del daño encubierto"
 tags: [ciivo, falsa-menor-letalidad, violencia-ocular, colombia, bogota, open-society, ingenieria-dano, abolicion, 2026]
 ---
 

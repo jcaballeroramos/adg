@@ -20,7 +20,7 @@ Empresa **estadounidense** de tecnología de defensa. Software de **análisis de
 - Software de análisis de datos.
 - IA enfocada en defensa (operaciones militares + inteligencia).
 
-## Por qué importa
+## Por qué importa para el documental
 - Forma parte del **trío Silicon Valley** de defensa moderna junto con [[anduril]] y [[shield-ai]].
 - Su nombre es un homenaje a **Vannevar Bush**, el director del Office of Scientific Research and Development de EE.UU. durante la Segunda Guerra Mundial — quien coordinó el **Proyecto Manhattan**. La elección del nombre es **deliberadamente simbólica**.
 - Encarna la generación post-Snowden de empresas privadas que **toman el relevo** del aparato de inteligencia clásico.

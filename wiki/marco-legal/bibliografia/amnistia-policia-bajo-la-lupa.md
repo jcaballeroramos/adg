@@ -5,7 +5,7 @@ editor: Amnistía Internacional
 año: 2021
 ambito: América Latina y Caribe
 codigo: AMR 01/4810/2021
-nombre_completo: "Policías bajo la lupa: Cinco claves para la supervisión y la rendición de cuentas de la policía en las Américas"
+titulo: "Policías bajo la lupa: Cinco claves para la supervisión y la rendición de cuentas de la policía en las Américas"
 tags: [amnistia, americas, policia, uso-de-fuerza, informe, 2021, supervisión, rendicion-cuentas, protocolo-minnesota, indecom, jamaica, open-society]
 fuentes:
   - https://www.amnesty.org/es/documents/amr01/4810/2021/es/

@@ -27,7 +27,7 @@ tags: [maxam, españa, alfred-nobel, balas-goma, policia-nacional, fabricante]
 
 Y recordemos: **a 122 julios cualquier impacto cinético es potencialmente letal**, y estas balas se disparan a **144 julios** ([[../../casos/compilacion-espana]]).
 
-## Por qué importa
+## Por qué importa para el documental
 - **Fabricante español de las balas que ciegan a las víctimas españolas**.
 - La cadena: **Maxam → Policía Nacional → Roger Español, Carles Guillot, Tarajal 2014, Melilla 2022**.
 - **Continuidad histórica**: la empresa que fundó Alfred Nobel hace 150 años sigue siendo el productor estatal de explosivos y municiones policiales.

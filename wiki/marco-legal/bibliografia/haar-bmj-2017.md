@@ -1,7 +1,7 @@
 ---
 tipo: bibliografía
 estado: stub
-autores: ["Rohini Haar", "Vincent Iacopino", "Nikhil Ranadive", "Madhavi Dandu", "Sheri Weiser"]
+autor: ["Rohini Haar", "Vincent Iacopino", "Nikhil Ranadive", "Madhavi Dandu", "Sheri Weiser"]
 año: 2017
 publicacion: "BMJ Open 7, no. 12 (2017), pp. 1-9"
 titulo: "Death, injury and disability from kinetic impact projectiles in crowd-control settings: a systematic review"
@@ -12,7 +12,7 @@ tags: [haar, bmj-open, 2017, revisión-sistemática, kips, crowd-control, médic
 
 **Rohini Haar, Vincent Iacopino, Nikhil Ranadive, Madhavi Dandu, Sheri Weiser**, *Death, injury and disability from kinetic impact projectiles in crowd-control settings: a systematic review*. **BMJ Open 7, no. 12 (2017)**, páginas 1-9.
 
-## Por qué importa
+## Por qué importa para el documental
 - **Es la revisión sistemática médica más citada** sobre proyectiles de impacto cinético.
 - Publicada en **BMJ Open** — revista médica de alto impacto, peer-reviewed.
 - Aporta **evidencia clínica robusta** que las organizaciones de DDHH (Amnistía, INCLO, Omega) usan como base.

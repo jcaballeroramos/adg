@@ -5,7 +5,7 @@ pais: Yemen
 año: 2011-presente
 fecha_inicio: 2011-01-27
 contexto: Primavera Árabe → guerra civil → intervención saudí
-victimas_confirmadas: "+377.000 muertos (ONU, directos e indirectos)"
+victimas: "+377.000 muertos (ONU, directos e indirectos)"
 tags: [yemen, 2011, primavera-arabe, arabia-saudi, coalicion, huthies, krusik, hambruna]
 ---
 

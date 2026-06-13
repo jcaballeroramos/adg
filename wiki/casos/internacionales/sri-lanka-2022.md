@@ -5,8 +5,8 @@ pais: Sri Lanka
 fecha_hechos: 2022-04 a 2022-07
 contexto: Crisis económica + Aragalaya — la insurrección popular
 victimas: ~10 muertos, +300 heridos
-fuerzas: Sri Lanka Police + Special Task Force + Ejército
-armas:
+cuerpo: Sri Lanka Police + Special Task Force + Ejército
+arma:
   - gas lacrimógeno
   - cañones de agua
   - balas de goma
@@ -46,7 +46,7 @@ Tras la caída de Rajapaksa, su sucesor **Ranil Wickremesinghe** declaró el **e
 
 Las imágenes del ataque circularon globalmente y **cuestionaron la promesa de "transición democrática"** que Wickremesinghe había prometido.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El caso más reciente** en el que un movimiento popular **logró derrocar a un presidente** mediante **protesta directa**.
 - Demuestra que las **armas menos letales** se usan **incluso por gobiernos que prometieron escuchar** al pueblo.
 - **Conexión clave**: la crisis económica → el armamento represivo es **comprado** con dinero público mientras el país se desangra. **Sri Lanka gastó millones en gas lacrimógeno** mientras los hospitales no tenían medicinas.

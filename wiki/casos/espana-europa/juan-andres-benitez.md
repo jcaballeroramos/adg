@@ -5,7 +5,7 @@ victima: Juan Andrés Benítez
 edad: 50
 fecha_hechos: 2013-10-05
 lugar: Raval, Barcelona
-fuerzas: Mossos d'Esquadra
+cuerpo: Mossos d'Esquadra
 resultado: muerte por golpiza
 tags: [juan-andres-benitez, raval, barcelona, mossos, prohibición-cataluña, paliza]
 ---
@@ -48,7 +48,7 @@ La paliza fue **grabada desde varios balcones** por vecinos del Raval. Las imág
 - **Inhabilitación**.
 - Es **una de las muy pocas condenas firmes** por brutalidad policial con resultado de muerte en Catalunya.
 
-## Por qué importa
+## Por qué importa para el documental
 - **El vídeo de los vecinos** convirtió el caso en **judicializable**. Encarna la tesis metodológica de Irídia: **la ciudadanía es la que aporta la prueba**, no el propio cuerpo policial.
 - Junto con [[ester-quintana|Ester Quintana]] (noviembre 2012), el caso de Juan Andrés Benítez **fue decisivo** para que el **Parlament de Catalunya prohibiera el uso de balas de goma en abril de 2014**.
 - Aunque **su muerte no fue por bala de goma** sino por **paliza directa**, encarna **el otro vector** de la violencia policial: la fuerza física directa, la porra, los puñetazos, las patadas, el peso. **La categorización por tipo de arma** no debe hacernos olvidar que el cuerpo policial es **un sistema integral** de uso de la fuerza.
@@ -103,7 +103,7 @@ La paliza fue **grabada desde varios balcones** por vecinos del Raval. Las imág
 - ↔ [[impacto-agregado]] — incluido en el recuento de muertes en España.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — demuestra que **el vídeo ciudadano** es **la única palanca** que rompe la impunidad.
 
-## Por qué importa para la cronología
+## Por qué importa para el documental
 Junto con el caso de **[[ester-quintana|Ester Quintana]]** (noviembre 2012), el de Juan Andrés Benítez fue **decisivo** para que el **Parlament de Catalunya prohibiera el uso de balas de goma en abril de 2014**. Estos dos casos crearon **el clima político y mediático** que hizo políticamente imposible mantener el statu quo.
 
 > Aunque su muerte **no fue por bala de goma**, sino por **paliza directa**, encarna **el otro vector** de la violencia policial: la fuerza física directa, la porra, los puñetazos, las patadas. Esto recuerda que la **categorización por tipo de arma** no debe hacernos olvidar que el cuerpo policial es **un sistema integral** de uso de la fuerza.
