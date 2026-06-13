@@ -62,6 +62,7 @@ Centro catalán especializado en **defensa de derechos humanos**, con un enfoque
 Es el **embrión** del proyecto técnico que persigue Irídia: una **herramienta forense audiovisual** que automatice lo que en el caso Roger Español tomó **18 meses de criba manual**.
 
 ## Conexiones
+- ↔ [[../../marco-legal/bibliografia/civio-taser-protocolos-2024]] — Andrés García Berrio (Irídia) sobre el Taser y el caso Badalona.
 - ↔ [[stop-bales-de-goma]] — colaboración estrecha.
 - ↔ [[novact]] — coautora frecuente.
 - ↔ [[../../casos/compilacion-espana]] — fuente de cifras.

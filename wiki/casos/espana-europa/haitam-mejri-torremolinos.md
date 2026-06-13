@@ -40,8 +40,11 @@ La familia encargó un informe pericial independiente que concluye que el hombre
 **YouTube**: https://www.youtube.com/watch?v=qcdS65mV6Xk
 
 ## Conexiones
+- ↔ [[../../marco-legal/bibliografia/civio-taser-protocolos-2024]] — Civio: protocolos Taser vs. advertencias del fabricante.
+- ↔ [[../../marco-legal/bibliografia/axon-taser-warnings-2018]] — el fabricante desaconseja descargas múltiples/prolongadas.
+- ↔ [[../../marco-legal/bibliografia/iopc-taser-review-2021]] — mismo patrón (descargas múltiples) en RU.
 - ↔ [[../../historia/taser]] — historia del Taser como arma less-lethal
-- ↔ [[../../empresas-de-armas/empresas/axon-taser]] — fabricante del Taser
+- ↔ [[../../empresas-de-armas/empresas/axon]] — fabricante del Taser
 - ↔ [[../../marco-legal/bibliografia/amnistia-policia-bajo-la-lupa]] — impunidad estructural
 - ↔ [[../../marco-legal/bibliografia/iridia-mecanismos-independientes]] — falta de mecanismo independiente
 - ↔ [[../../marco-legal/bibliografia/coe-comisario-ddhh]] — demanda de investigaciones independientes

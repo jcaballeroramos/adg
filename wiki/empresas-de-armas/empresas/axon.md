@@ -44,6 +44,9 @@ El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, ingeniero
 
 ## Conexiones
 - ↔ [[00-indice]]
+- ↔ [[../../marco-legal/bibliografia/axon-taser-warnings-2018]] — las advertencias oficiales del propio Axon (incluido "no usar para tortura").
+- ↔ [[../../marco-legal/bibliografia/civio-taser-protocolos-2024]] — Civio cruza esas advertencias con los protocolos españoles.
+- ↔ [[../../marco-legal/bibliografia/sacmill-taser-x2-2016]] · [[../../marco-legal/bibliografia/iopc-taser-review-2021]] — evidencia médica y de supervisión británica.
 - ↔ [[../../historia/taser]] — historia colonial completa.
 - ↔ [[../../casos/antonio-c-badalona]].
 - ↔ [[../../empresas-de-armas/feindef/05-taser-lrad]].

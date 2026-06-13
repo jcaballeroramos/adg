@@ -20,6 +20,9 @@ Viene del libro **"Thomas A. Swift Electric Rifle"** — una novela juvenil sobr
 > El nombre del producto encapsula su genealogía colonial: una herramienta para domar animales y "exóticos" que hoy se aplica a cualquier ciudadano.
 
 ## Conexión con la película
+- ↔ [[../marco-legal/bibliografia/axon-taser-warnings-2018]] — advertencias oficiales del fabricante (Axon).
+- ↔ [[../marco-legal/bibliografia/sacmill-taser-x2-2016]] · [[../marco-legal/bibliografia/iopc-taser-review-2021]] — evidencia médica y supervisión de casos (RU).
+- ↔ [[../marco-legal/bibliografia/civio-taser-protocolos-2024]] — protocolos del Taser en España (Civio).
 - ↔ [[../feindef/05-taser-lrad]] — el entrenamiento de Columbus.
 - ↔ [[../entrenamientos/lexipol-gordon-graham]] — Gordon Graham insiste en que requiere entrenamiento bajo estrés porque **puede matar**.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibido en pecho frontal (paro cardíaco), descargas repetidas, drive-stun, contra resistencia pasiva.

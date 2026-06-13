@@ -83,6 +83,13 @@ Normativa internacional, organismos de control y la cronología catalana.
 - [CIIVO · La teoría de la falsa menor letalidad](marco-legal/bibliografia/ciivo-falsa-menor-letalidad-2026.md) — ingeniería del daño encubierto.
 - [CIIVO · Ver más allá de la herida](marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026.md) — impactos postraumáticos de la violencia ocular.
 
+### 2.5 · Bibliografía — Taser / CEW (fabricante + supervisión)
+
+- [Axon · TASER CEW Warnings (2018)](marco-legal/bibliografia/axon-taser-warnings-2018.md) — el **propio fabricante** enumera todas las contraindicaciones (incluido "no usar para tortura").
+- [Civio · Los usos del Taser que desaconseja su fabricante (2024)](marco-legal/bibliografia/civio-taser-protocolos-2024.md) — el ángulo España: protocolos policiales frente a las advertencias. *(Civio ≠ CIIVO.)*
+- [SACMILL · Implicaciones médicas del TASER X2 (RU, 2016)](marco-legal/bibliografia/sacmill-taser-x2-2016.md) — 17 muertes en 13.000+ descargas.
+- [IOPC · Revisión de 101 casos de Taser 2015-2020 (RU, 2021)](marco-legal/bibliografia/iopc-taser-review-2021.md) — letalidad + sesgo racial en la supervisión británica.
+
 ---
 
 ## 3 · Empresas de armas

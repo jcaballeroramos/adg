@@ -50,6 +50,9 @@ Junts forzó así al gobierno municipal del PSC a negociar el borrador con los s
 > El uso de estas armas provoca un dolor intenso, constituye una forma de tortura, y en algunos casos puede incluso causar la muerte. Por tanto, el Comité sugiere a Portugal que **abandone la TASER X26**.
 
 ## Conexiones
+- ↔ [[../../marco-legal/bibliografia/civio-taser-protocolos-2024]] — investigación de Civio que usa este caso como eje (única muerte por Taser en Catalunya).
+- ↔ [[../../marco-legal/bibliografia/axon-taser-warnings-2018]] — el fabricante desaconseja el Taser justo en estos supuestos (agitación, salud mental).
+- ↔ [[../../marco-legal/bibliografia/sacmill-taser-x2-2016]] · [[../../marco-legal/bibliografia/iopc-taser-review-2021]] — evidencia británica de letalidad.
 - ↔ [[../historia/taser]] — el rebranding desde el ganado.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher]] — *"el imaginario del arma no letal lleva a la proliferación"*.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — sección "Lo que me interesa más" cita el dictamen ONU sobre Taser X26.
