@@ -45,5 +45,12 @@ Concepto clave: bajo estrés el cerebro deja de razonar y actúa por instinto / 
 - Es **la propia industria** quien admite explícitamente la letalidad. Útil para contraponer a los discursos de marketing de Byrna, Expal, FN, etc.
 - Conecta con [[../testimonios/oftalmologa-estrella-fernandez]] y [[../marco-legal/onu-relatora-tortura]].
 
+## Conexiones
+- ↔ [[marines-camp-pendleton]] · [[marines-non-lethal-pista]] — el entrenamiento físico del mismo paradigma.
+- ↔ [[../../historia/taser]] — Gordon Graham insiste en que el Taser "puede matar".
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — el daño real que el entrenamiento admite.
+- ↔ [[../../marco-legal/onu-relatora-tortura]] — "menos letal no es no letal".
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher]] — la industria que admite su propia letalidad.
+
 ## Fuentes
 - YouTube: https://www.youtube.com/watch?v=MbRRUCzcomw

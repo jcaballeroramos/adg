@@ -19,3 +19,10 @@ Stand con una pantalla que muestra **"esqueletos" de personas detectadas por sof
 - "Reconoce cualquier tipo de cabeza independientemente de la etnia" — argumento técnico-comercial enmarcado como progreso ético.
 - La IA se vende como **freno** del operador, pero implica que el sistema sabe (y registra) hacia dónde se apunta.
 - Cuestión abierta: ¿qué pasa con el dataset de entrenamiento? ¿quién audita el algoritmo? ¿quién certifica la precisión del bloqueo?
+
+## Conexiones
+- ↔ [[00-overview]] — la feria FEINDEF en conjunto.
+- ↔ [[../../empresas-de-armas/empresas/fn-herstal]] — el fabricante (ficha corporativa).
+- ↔ [[01-expal-puno-darwin]] — mismo discurso del "puñetazo a distancia".
+- ↔ [[../../herramientas/laws-armas-autonomas]] — la IA que "decide" apuntar: el siguiente paso del paradigma.
+- ↔ [[../../empresas-de-armas/empresas/anduril]] · [[../../empresas-de-armas/empresas/vannevar-labs]] — IA aplicada a defensa.

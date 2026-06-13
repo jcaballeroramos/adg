@@ -48,7 +48,7 @@ A pesar de esta distinción, en la práctica:
 - Los casos de [[../casos/juan-andres-benitez]] (Raval, 2013) y [[../casos/antonio-c-badalona]] (Badalona, 2021) son ejemplos españoles documentados de **muerte por golpes con porras** fuera de los protocolos.
 - En Chile, el «**lumazo**» (golpe con bastón) ha sido documentado por [[../autores-y-referencias/organizaciones/iridia|Irídia]] y el INDH como **causa frecuente de lesiones cerebrales** durante el estallido 2019.
 
-## Conexión con la película
+## Conexiones
 - Aparece en cualquier secuencia de antidisturbios — es el **instrumento más antiguo y cotidiano** del paradigma «menos letal».
 - Su estatus de **objeto cotidiano agrícola** convertido en **símbolo del Estado** la convierte en uno de los **emblemas perfectos** de la genealogía de los «artefactos de guerra».
 - La **ironía narrativa**: un palo que servía para **moler arroz** termina siendo el **instrumento cotidiano** de la policía global. El arco arroz→cráneo es una síntesis visual potentísima.

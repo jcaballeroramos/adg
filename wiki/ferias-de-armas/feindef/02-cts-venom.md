@@ -34,3 +34,9 @@ Vídeo promocional proyectado en una pantalla gigante dentro del stand. Montaje 
 ## Notas
 - "Determinar la intención" es una frase clave: el arma asume la función cognitiva del oficial.
 - CSI / CTS son habituales en la documentación de ataques contra civiles en Palestina, EE.UU. y Latinoamérica.
+
+## Conexiones
+- ↔ [[00-overview]] — la feria FEINDEF en conjunto.
+- ↔ [[../../empresas-de-armas/empresas/combined-systems]] — el fabricante del Sistema VENOM (ficha corporativa).
+- ↔ [[../../casos/latam/colombia-2021]] · [[../../casos/internacionales/palestina-2023-2024]] — CSI/CTS en ataques documentados.
+- ↔ [[../../herramientas/laws-armas-autonomas]] — "determinar la intención": el arma asume la función cognitiva del oficial.

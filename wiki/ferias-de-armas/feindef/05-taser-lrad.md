@@ -33,3 +33,10 @@ Tras el ejercicio:
 - Lógica común: la responsabilidad se traslada por completo al ciudadano. "No te haría falta esto si cumplieras".
 - El LRAD se vende como **prueba audiovisual de la advertencia**, no como arma — pero el contenido del mensaje **es la amenaza directa de gas lacrimógeno**.
 - Vincular con [[../historia/armas-acusticas]] (genealogía nazi → G20 → Belgrado 2025).
+
+## Conexiones
+- ↔ [[00-overview]] — la feria FEINDEF en conjunto.
+- ↔ [[../../empresas-de-armas/empresas/axon]] — fabricante del Taser.
+- ↔ [[../../historia/taser]] — genealogía del arma.
+- ↔ [[../../historia/armas-acusticas]] — genealogía del LRAD (nazi → G20).
+- ↔ [[../../casos/espana-europa/antonio-c-badalona]] — muerte por Taser en Catalunya.

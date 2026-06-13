@@ -36,3 +36,10 @@ El render se desvanece. Montaje frenético de **metraje real**: nubes de gas en 
 ## Fuente complementaria
 - Pulitzer Center · *My neighbor, the tear gas factory*: https://pulitzercenter.org/stories/my-neighbor-tear-gas-factory
 - Útil para vincular el aspecto industrial del gas (fábricas reales en zonas residenciales).
+
+## Conexiones
+- ↔ [[tear-gas-factory-pulitzer]] — el lado industrial (fábricas junto a zonas residenciales).
+- ↔ [[../../historia/armas-quimicas]] — genealogía del CS, CN, OC.
+- ↔ [[../../autores-y-referencias/figuras-historicas/00-trio-quimico]] — Haber, Fries, Loghman.
+- ↔ [[../../casos/internacionales/hong-kong-2019-2020]] · [[../../casos/internacionales/egipto-tahrir-2011]] — usos masivos del gas.
+- ↔ [[../../marco-legal/bibliografia/cicr-guia-armas-quimicas]].

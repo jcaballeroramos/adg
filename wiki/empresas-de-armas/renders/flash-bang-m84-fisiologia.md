@@ -42,6 +42,6 @@ Personaje de perfil. **Ondas de choque semi-transparentes** (anillos de cristal 
 
 > **EN:** "At the same time, the bang, reaching up to 180 decibels, overwhelms the enemy's ears."
 
-## Conexión con la película
+## Conexiones
 - Sirve de base infográfica para narrar lo que vivieron víctimas de granadas de aturdimiento (búsqueda pendiente de casos concretos).
 - Contraste entre la **estética limpia del render** y el horror clínico que describen los testimonios.

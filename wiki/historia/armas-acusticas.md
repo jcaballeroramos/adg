@@ -26,7 +26,7 @@ Variante que emite una frecuencia **insoportable solo para los menores de 25 añ
 
 > Discriminación acústica automatizada.
 
-## Conexión con la película
+## Conexiones
 - ↔ [[../feindef/05-taser-lrad]] — la compra de Columbus Police y el uso institucionalizado.
 - ↔ [[../feindef/06-cierre-abba]] — la música como arma sonora (continuación natural).
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibición de uso indiscriminado a volúmenes que causen daño permanente.

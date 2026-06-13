@@ -24,5 +24,11 @@ Material breve (~1 min) en el que se ven los componentes básicos del curso de a
 - Útil como **píldora compacta** del entrenamiento: un solo cuerpo absorbiendo OC, golpe y derribo en 60 segundos.
 - Cara visible del Sgto. Jackson — posible nombre identificable en pantalla.
 
+## Conexiones
+- ↔ [[marines-camp-pendleton]] — el curso de armas no letales de los Marines (nota hermana).
+- ↔ [[lexipol-gordon-graham]] — "control bajo estrés físico", mismo discurso de entrenamiento.
+- ↔ [[../../historia/armas-quimicas]] — el OC (gas pimienta) usado en la pista.
+- ↔ [[../../autores-y-referencias/figuras-historicas/00-trio-quimico]] — Kamran Loghman, inventor del OC.
+
 ## Fuentes
 - DVIDS / YouTube: https://www.youtube.com/watch?v=unNdAaotwvM

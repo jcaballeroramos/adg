@@ -77,3 +77,6 @@ Como conclusión es comentar que es un **traumatismo de alta energía, catalogad
 Hay que considerar también que tiene un **alto impacto a nivel económico** porque son población joven laboralmente activa que en muchas veces pues se ven obligados a dejar su actividad laboral durante largos períodos de tiempo, incluso años. Estos pacientes pueden acabar con **graves secuelas psicológicas**; de los pacientes que yo he conocido, dos realmente están para tratamiento psicológico-psiquiátrico debido al impacto emocional que les ha supuesto esta agresión.
 
 Y en nuestra experiencia estos factores se deben tener en consideración, especialmente por los políticos. Por eso estamos aquí en el Parlament de Catalunya para valorar su necesidad en nuestra democracia y utilizar estas armas como método disuasorio por las fuerzas de seguridad… **para mí no es un arma de baja letalidad en base a lo que les he presentado**.
+
+## Conexiones
+- ↔ [[oftalmologa-estrella-fernandez]] — el análisis del testimonio (esta es la transcripción literal).

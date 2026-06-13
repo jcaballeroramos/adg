@@ -116,6 +116,7 @@ Articulada con organizaciones de derechos humanos para exigir:
 - **INDH** — cifras oficiales sobre el estallido (2.381 hospitalizados, 222 traumas oculares).
 
 ## Conexiones
+- ↔ [[gustavo-gatica]] — la otra víctima ocular emblemática del estallido (cegado 8 nov 2019).
 - ↔ [[roger-espanol]] (paralelismo: agente identificado, juicio largo, presión de DD.HH.).
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] (la fisiología del estallido ocular).
 - ↔ [[../historia/armas-quimicas]] (la lacrimógena como arma cinética por su carcasa).

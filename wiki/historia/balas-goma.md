@@ -22,7 +22,7 @@ También probó las balas de goma en **1971** contra manifestantes anti-Vietnam.
 
 > "Se introdujeron sin haberse realizado ningún estudio preciso sobre su impacto en el cuerpo humano."
 
-## Conexión con la película
+## Conexiones
 - ↔ [[../casos/roger-espanol]] — víctima paradigmática.
 - ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la ciencia médica de lo que hace a un cráneo.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibición de disparos a cabeza, cuello y disparo indirecto por rebote (exactamente lo que mató a Stephen Geddis).

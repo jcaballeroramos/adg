@@ -41,6 +41,8 @@ Movimiento circular lento alrededor de la granada completa. Detalles de inscripc
 
 > "Let's dissect the process that initiates the explosion of a flash grenade. When the pyro…"
 
-## Cruce
-- ↔ [[flash-bang-m84-fisiologia]] (efecto en el cuerpo).
-- ↔ [[../casos/fabiola-campillai]] (la munición que la dejó ciega es de la misma familia "menos letal").
+## Conexiones
+- ↔ [[flash-bang-m84-fisiologia]] — el efecto en el cuerpo (ojo y oído).
+- ↔ [[../../casos/latam/fabiola-campillai]] — munición de la misma familia "menos letal".
+- ↔ [[../empresas/combined-systems]] — fabricante de granadas de aturdimiento.
+- ↔ [[../../ferias-de-armas/feindef/00-overview]] — armamento exhibido en FEINDEF.

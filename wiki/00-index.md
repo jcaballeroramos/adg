@@ -267,6 +267,7 @@ Cómo se entrena, cómo se aplica.
 - [**Compilación LATAM — 14 patrones transversales**](casos/latam/00-compilacion-latam.md)
 - 🇧🇴 [Bolivia 2019](casos/latam/bolivia-2019.md) · 🇧🇷 [Brasil 2017-2021](casos/latam/brasil-2017-2021.md) · 🇨🇱 [Chile estallido 2019](casos/latam/chile-estallido-2019.md) · 🇨🇴 [Colombia Paro Nacional 2021](casos/latam/colombia-2021.md) · 🇪🇨 [Ecuador Octubre 2019](casos/latam/ecuador-2019.md) · 🇺🇸 [EE.UU. Frontera sur](casos/latam/ee-uu-frontera-sur.md) · 🇬🇹 [Guatemala 2020](casos/latam/guatemala-2020.md) · 🇲🇽 [México marchas feministas](casos/latam/mexico-feminista-2020.md) · 🇵🇪 [Perú 2020](casos/latam/peru-2020.md) · 🇻🇪 [Venezuela 2017-2019](casos/latam/venezuela-2017-2019.md)
 - [Fabiola Campillai (Chile, 2019)](casos/latam/fabiola-campillai.md) — bomba lacrimógena al rostro, condena Patricio Maturana.
+- [Gustavo Gatica (Chile, 2019)](casos/latam/gustavo-gatica.md) — cegado de ambos ojos por perdigones, condena Claudio Crespo.
 - [Rufo Chacón (Venezuela, 2019)](casos/latam/rufo-chacon.md) — 16 años, 64 perdigones de plomo Cheddite en el rostro.
 - [Juan Pablo Pernalete (Caracas, 2017)](casos/latam/juan-pablo-pernalete.md) — bomba lacrimógena Norinco al pecho.
 - [María Meza (Tijuana, 2018)](casos/latam/maria-meza-tijuana-2018.md) — la «foto de la vergüenza», caravana migrante + gas CBP.

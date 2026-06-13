@@ -27,7 +27,7 @@ Tras perfeccionarse, la policía lo adoptó en los años 80.
 ### Agente "Skunk" (Mofeta)
 Líquido **pestilente y putrefacto** desarrollado por Israel para usar contra los **palestinos**. Su olor no se va de la ropa. Hoy también se emplea contra **disidentes israelíes**, demostrando que **"las armas de la ocupación siempre regresan a casa"**.
 
-## Conexión con la película
+## Conexiones
 - ↔ [[../renders/tear-gas-amnesty]] (la animación que disecciona el CS, CN, OC).
 - ↔ [[../casos/fabiola-campillai]] (víctima del impacto cinético del bote, no del químico).
 - ↔ [[../feindef/03-byrna]] (Bad Guy Repellent: CS + OC + pimienta).

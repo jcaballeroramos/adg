@@ -23,6 +23,6 @@ En el siglo XXI la tecnología se ha perfeccionado tanto que en países como **V
 
 Funcionan como **jaulas móviles** y pueden lanzar cuerpos por los aires.
 
-## Conexión con la película
+## Conexiones
 - Aparecen en el [[../entrenamientos/marines-camp-pendleton]] como mangueras a alta presión contra los propios marines.
 - Las **Orientaciones ONU 2020** ([[../marco-legal/onu-orientaciones-2020]]) los limitan a "graves desórdenes públicos" y prohíben el chorro a corta distancia o contra personas en posiciones elevadas.

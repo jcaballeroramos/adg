@@ -16,3 +16,9 @@ Investigadora del **Centre Delàs d'Estudis per la Pau**, especializada en indus
 ## Por qué importa para el documental
 - Voz catalana experta en el cruce entre **industria de armas** y **derechos humanos**.
 - Conecta la perspectiva del **Centre Delàs** (referencia mundial en investigación pacifista) con el ámbito local.
+
+## Conexiones
+- ↔ [[../marco-legal/bibliografia/centre-delas-armas-letales]] — el informe del Centre Delàs que coescribe.
+- ↔ [[organizaciones/omega-research-foundation]] — investigación técnica de referencia comparable.
+- ↔ [[david-dufresne]] · [[sven-lindqvist]] — otras voces de referencia del documental.
+- ↔ [[../marco-legal/bibliografia]] — índice bibliográfico.

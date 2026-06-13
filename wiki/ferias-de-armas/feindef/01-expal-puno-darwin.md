@@ -28,3 +28,10 @@ Stand de exposición de proyectiles. Vitrinas con cartuchos de colores ordenados
 - **Narrativa evolucionista** convertida en argumento de venta de un arma.
 - El nombre del producto **"Puño de Darwin"** condensa la filosofía completa del marketing de la baja letalidad: naturalizar la violencia.
 - Vincular con [[../testimonios/oftalmologa-estrella-fernandez]] (la "cuenca ocular diseñada para resistir" que en realidad estalla con 720 km/h de bola de goma).
+
+## Conexiones
+- ↔ [[00-overview]] — la feria FEINDEF en conjunto.
+- ↔ [[04-fn-smart-protector]] — repite el discurso del "puñetazo a distancia".
+- ↔ [[../../autores-y-referencias/figuras-historicas/00-trio-quimico]] — el "rebranding humanitario" de Amos Fries, mismo molde retórico.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la "cuenca ocular diseñada para resistir" que en realidad estalla.
+- ↔ [[../../historia/balas-goma]] — el proyectil de impacto cinético.

@@ -136,14 +136,14 @@ El informe concluye que la violencia ocular es un **crimen de Estado sistemátic
 - ↔ [[ciivo-falsa-menor-letalidad-2026]] — primer informe CIIVO (análisis técnico-ingenieril).
 - ↔ [[../../casos/espana-europa/ester-quintana]] — testimonio directo citado.
 - ↔ [[../../casos/espana-europa/roger-espanol]] — víctima ocular en Barcelona.
-- ↔ [[../../casos/espana-europa/afrika]] — víctima de bala de goma en Bilbao.
+- ↔ [[../../casos/espana-europa/africa-pablo-hasel]] — víctima de bala de foam (Barcelona, protestas Pablo Hasél).
 - ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — peritaje oftalmológico de referencia.
 - ↔ [[../../casos/latam/chile-estallido-2019]] — 500+ heridos oculares.
-- ↔ [[../../casos/latam/fabiola-campillai]] — perdió ambos ojos, testimonio citado.
-- ↔ [[../../casos/latam/gustavo-gatica]] — perdió ambos ojos, testimonio citado.
+- ↔ [[../../casos/latam/fabiola-campillai]] — ceguera total + pérdida de olfato y gusto, testimonio citado.
+- ↔ [[../../casos/latam/gustavo-gatica]] — perdió la visión de ambos ojos (carabinero Claudio Crespo).
 - ↔ [[../../casos/latam/colombia-2021]] — Paro Nacional, ESMAD, heridos oculares.
-- ↔ [[../../casos/internacionales/george-floyd-2020]] — protestas, KIPs, Soren Stevenson/Will Sands.
-- ↔ [[../../casos/internacionales/primera-intifada-1987]] — antecedente histórico de violencia ocular masiva.
+- **George Floyd (EE.UU., 2020)** — las protestas dejaron decenas de heridos oculares por KIPs (Soren Stevenson, Will Sands). *(Sin nota propia en el wiki.)*
+- **Primera Intifada (Palestina, 1987)** — antecedente histórico de violencia ocular masiva por balas de goma israelíes. *(Sin nota propia; ver [[../../casos/internacionales/palestina-2023-2024]].)*
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — organización citada.
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — trabajo conjunto en casos de balas de goma.
 - ↔ [[../../historia/balas-goma]] — genealogía del arma que causa la mayoría de las lesiones oculares.
