@@ -47,6 +47,12 @@ def admin_index():
 # Admin static assets
 app.mount("/admin/static", StaticFiles(directory=str(ADMIN_STATIC)), name="admin-static")
 
+# Public media (audio, fotos, pdf). site/media es un symlink que apunta fuera de
+# SITE y StaticFiles lo bloquea por seguridad → se sirve aquí desde la carpeta real.
+MEDIA = ROOT / "media"
+if MEDIA.exists():
+    app.mount("/media", StaticFiles(directory=str(MEDIA)), name="media")
+
 # Static site (must be last — catch-all)
 if SITE.exists():
     app.mount("/", StaticFiles(directory=str(SITE), html=True), name="site")
