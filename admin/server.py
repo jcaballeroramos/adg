@@ -53,6 +53,13 @@ MEDIA = ROOT / "media"
 if MEDIA.exists():
     app.mount("/media", StaticFiles(directory=str(MEDIA)), name="media")
 
+# Archivo local de Eurosatory (vídeos ~11GB + fotos originales). Vive FUERA del
+# repo, no se sube a Railway: el montaje solo se activa donde la carpeta existe
+# (tu Mac). Permite enlazar a los originales desde las notas del wiki en local.
+EUROSATORY_LOCAL = ROOT.parent.parent / "ADG_EurosatoryPress"
+if EUROSATORY_LOCAL.exists():
+    app.mount("/eurosatory-local", StaticFiles(directory=str(EUROSATORY_LOCAL)), name="eurosatory-local")
+
 # Static site (must be last — catch-all)
 if SITE.exists():
     app.mount("/", StaticFiles(directory=str(SITE), html=True), name="site")
