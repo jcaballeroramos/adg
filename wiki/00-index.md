@@ -180,7 +180,15 @@ Donde se muestra, se vende y se entrena.
 - [TASER · Entrenamiento Columbus + LRAD](ferias-de-armas/feindef/05-taser-lrad.md) — cadetes electrocutados, megáfono acústico.
 - [Cierre · ABBA y la flotilla SUMUD](ferias-de-armas/feindef/06-cierre-abba.md) — música como arma.
 
-### 4.2 · Otras ferias internacionales
+### 4.2 · Eurosatory 2026 (París)
+
+La mayor feria mundial de defensa terrestre (Paris-Nord Villepinte, 15–19 jun 2026). Archivo de prensa propio: 23 vídeos transcritos al español + 118 fotos HD.
+
+- [Vista general de la feria](ferias-de-armas/eurosatory-2026/00-overview.md) — contexto, política (Vautrin, Nuñez) y el archivo capturado.
+- [Vídeos de prensa y transcripciones](ferias-de-armas/eurosatory-2026/01-videos.md) — los 23 vídeos por jornada, transcritos al español.
+- [Fotografías de prensa](ferias-de-armas/eurosatory-2026/03-fotos.md) — galería en alta resolución (firma Francia-Ucrania, GIGN, Nuñez).
+
+### 4.3 · Otras ferias internacionales
 
 - [Milipol (París, Singapur, Doha, Abu Dabi)](ferias-de-armas/milipol.md) — la feria mundial de seguridad interior. Norinco expuso aquí en 2017 con vehículos venezolanos.
 - [DSEI Londres](ferias-de-armas/dsei-londres.md) — donde Condor fue expulsada en 2019 por promocionar el 'Spark'.
