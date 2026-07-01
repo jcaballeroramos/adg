@@ -914,6 +914,22 @@ _(Montaje musical, sin diálogo.)_
 </details>
 
 
+## Empresas y material del wiki que aparecen
+
+Entidades **nombradas en las transcripciones** que ya tienen ficha en el wiki:
+
+- [[../../empresas-de-armas/empresas/rheinmetall|Rheinmetall]] — el UGV **Mission Master** / concepto *Wolfpack* de las demostraciones (ids **87**, **93**).
+- [[../../empresas-de-armas/empresas/sides-canones-agua|SIDES]] — presente con el camión **FireRanger**; SIDES fabrica además los **cañones de agua antidisturbios** (ids **87**, **93**).
+- [[../../empresas-de-armas/empresas/saab-bofors-dynamics|Saab Bofors Dynamics]] — el misil **RBS 70**, citado en el discurso de Vautrin (ids **88**, **89**).
+
+El **material de control de masas** de las demostraciones de la Gendarmería Móvil (ids **87** y **99**) —**lanzador de pelotas de defensa (LBD)** y **gas lacrimógeno**— es de fabricación francesa, de empresas con ficha propia:
+
+- [[../../empresas-de-armas/empresas/alsetex|Alsetex]] · [[../../empresas-de-armas/empresas/verney-carron|Verney-Carron]] · [[../../empresas-de-armas/empresas/nobel-sport|Nobel Sport]].
+
+Grandes fabricantes citados que **aún no tienen ficha** (candidatos a crear): KNDS/Nexter, MBDA, Safran, Arquus, Eurenco, Roxel, Parrot.
+
+
+
 ## Conexiones
 
 - ↔ [[00-overview]] — la feria y su contexto.
