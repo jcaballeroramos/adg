@@ -926,7 +926,11 @@ El **material de control de masas** de las demostraciones de la Gendarmería Mó
 
 - [[../../empresas-de-armas/empresas/alsetex|Alsetex]] · [[../../empresas-de-armas/empresas/verney-carron|Verney-Carron]] · [[../../empresas-de-armas/empresas/nobel-sport|Nobel Sport]].
 
-Grandes fabricantes citados que **aún no tienen ficha** (candidatos a crear): KNDS/Nexter, MBDA, Safran, Arquus, Eurenco, Roxel, Parrot.
+Grandes *primes* europeos citados en discursos y demos, con ficha propia:
+
+- [[../../empresas-de-armas/empresas/knds|KNDS/Nexter]] (CAESAR, Leclerc XLR, Griffon/Jaguar, ROCUS) · [[../../empresas-de-armas/empresas/mbda|MBDA]] (Aster/SAMP-T, Akeron MMP, Mistral) · [[../../empresas-de-armas/empresas/safran|Safran]] (AASM Hammer, optrónica) · [[../../empresas-de-armas/empresas/arquus|Arquus]] (el PVP de la demo de la BRI, id 107).
+
+Aún sin ficha propia (citados de pasada): Eurenco, Roxel, Parrot, Thales.
 
 
 
