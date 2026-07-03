@@ -61,6 +61,28 @@ Su muerte fue **decisiva para la prohibición de las balas de goma en Euskadi po
 - **Deia** — pieza con fotografía del homenaje familiar. <https://www.deia.eus/politica/2022/04/09/familiares-amigos-cabacas-piden-justicia-1715644.html>
 - **CTXT** — esquema/cronología del caso. <https://ctxt.es/es/20161221/Deportes/10141/Inigo-Cabacas-juicio-responsables-Ertzaintza-Athletic-Bilbao.htm>
 
+## Actualizaciones 2024-2026
+
+### El memorial "Atalase" y la polémica con la familia (nov 2024)
+El **18 de noviembre de 2024**, el **Ayuntamiento de Bilbao** y el **Foro Bilbao para la Paz y la Convivencia** inauguraron cerca del **Guggenheim** la escultura **"Atalase"**, un memorial a todas las víctimas del terrorismo y la violencia política (ETA, GAL y otros grupos de violencia estatal). El caso de Iñigo vuelve a ser noticia porque su familia descubre en el acto que su nombre figura bajo el epígrafe de **"casos no suficientemente esclarecidos"**.
+
+- La familia asistió a la inauguración esperando un paso hacia la reconciliación y quedó afectada por esa clasificación. Envió **cartas al Ayuntamiento y al Foro** pidiendo que se **"modifique la inscripción y se adecúe a la realidad"**, recordando que existen **dos sentencias** que confirman que Iñigo **"murió de un pelotazo de la Ertzaintza"**.
+- El Ayuntamiento respondió que la inscripción se basa en el libro **"Retratos de la Memoria"** del Gobierno Vasco y **Gogora** (fuente de 2014, acordada siete años antes y que el propio Ejecutivo reconoce no actualizada), y que solo la cambiará si el Gobierno Vasco modifica el documento original.
+- ⭐ Vídeo de la madre, **Fina Liceranzu**: *"Sabrán mucho de leyes, pero de humanidad cero patatero"* (ya enlazado más arriba en *Material visual*).
+
+Fuentes:
+- **Radio Popular / Herri Irratia** (nov 2024) — *Por qué vuelve a ser noticia Iñigo Cabacas*. <https://radiopopular.com/2024/11/por-que-vuelve-a-ser-noticia-inigo-cabacas>
+- **Telecinco** (21 nov 2024) — *Memorial de Bilbao y la polémica con la familia de Iñigo Cabacas*. <https://www.telecinco.es/noticias/euskadi/20241121/memorial-bilbao-polemica-familia-inigo-cabacas-muerte_18_014075665.html>
+
+### Jornada "PAREZ PARE" sobre el uso de la fuerza policial (jun 2026)
+El **3 de junio de 2026** la **Academia Vasca de Policía y Emergencias (AVPE, Arkaute)**, en colaboración con el **Instituto Vasco de Criminología (IVAC)**, dedicó una nueva jornada **"PAREZ PARE"** al **uso de la fuerza en la práctica policial**: un encuentro técnico y académico para profundizar en los fundamentos jurídicos, límites, criterios de actuación y mecanismos de control del uso de la fuerza.
+
+- La inauguró el consejero de Seguridad, **Bingen Zupiria**, que reivindicó abordar el uso de la fuerza desde una perspectiva **"rigurosa, jurídica y ética"** y defendió que la Ertzaintza es **"la institución pública con más controles de Euskadi"** y, **"por ser justos"**, del Estado.
+
+Fuentes:
+- **Gobierno Vasco / Euskadi.eus** (jun 2026) — *El uso de la fuerza en la práctica policial, eje central de una nueva jornada PAREZ PARE*. <https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-uso-fuerza-practica-policial-eje-central-nueva-jornada-parez-pare/>
+- Espejo en **Irekia**: <https://www.irekia.euskadi.eus/es/news/110835-uso-fuerza-practica-policial-eje-central-una-nueva-jornada-parez-pare>
+
 ## Conexiones
 - ↔ [[ester-quintana]] y [[roger-espanol]] — junto con Iñigo, los tres casos que forzaron las prohibiciones autonómicas.
 - ↔ [[carles-guillot]] — fundador de Stop Bales de Goma, del que el caso de Iñigo es referencia constante.

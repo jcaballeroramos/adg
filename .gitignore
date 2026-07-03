@@ -29,6 +29,9 @@ media/audio/*.aif
 media/audio/*.aiff
 media/audio/*.flac
 
+# Material interno de producción (guion/escaleta): NO publicar
+wiki/produccion/
+
 # Temporales
 *.log
 *.tmp

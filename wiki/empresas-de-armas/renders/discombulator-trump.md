@@ -109,6 +109,7 @@ El vídeo cierra con una invitación al espectador a **reflexionar sobre la conv
 - **Newsweek**: [The 'Discombobulator': Does Trump's secret weapon really exist?](https://www.newsweek.com/the-discombobulator-does-trumps-secret-weapon-really-exist-11416698)
 - **AlterNet**: [Trump brags about top secret info after saying he can't talk about it](https://www.alternet.org/trump-classified-information/)
 - **YouTube (sección original del proyecto)**: https://www.youtube.com/watch?v=KuXBrziWDCg&t=288s
+- **TikTok (Discombobulator / LSRAD)**: https://www.tiktok.com/@militarytorn/video/7602647262581247254
 
 ## Conexiones
 - ↔ [[../empresas/raytheon]] — fabricante del Active Denial System.

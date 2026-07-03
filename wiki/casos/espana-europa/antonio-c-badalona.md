@@ -26,6 +26,21 @@ Antonio murió. Es la **primera muerte por taser en Catalunya**.
 - **2025** — la Omega Research Foundation emite un **informe pericial sobre la mala praxis** en el uso del arma en este caso.
 - **Abogada del caso**: **Mireia Salazar Gabarró**.
 
+## Reapertura judicial (Irídia)
+
+La reapertura de 2024 no fue automática: la impulsó **[[../../autores-y-referencias/organizaciones/iridia]]** (a través de su servicio de atención SAIDAVI, con asistencia psicojurídica gratuita) mediante un recurso, tras constatar las deficiencias de la instrucción inicial.
+
+En **abril de 2024**, la **Sección 8ª de la Audiencia Provincial de Barcelona** ordenó **revocar el archivo** que había decretado el juzgado de instrucción de Badalona, al concluir que la investigación "no ha sido completa". El tribunal señaló **déficits graves en la auditoría interna de los Mossos**, que no analizaba:
+- las circunstancias concretas que llevaron a aplicar el DCE ni la necesidad y oportunidad de hacerlo;
+- las secuencias exactas de la grabación en que se usó el dispositivo, ni cuántas veces se empleó;
+- si energizar las sondas en cada momento fue lo adecuado.
+
+La Audiencia ordenó además **tomar declaración como testigos a los agentes que redactaron la auditoría**. Irídia hizo pública la noticia al presentar su informe anual sobre violencia institucional, denunciando "falta de control por parte de los superiores jerárquicos e investigación policial interna deficiente".
+
+Fuentes:
+- [*El Salto* — "Irídia consigue reabrir judicialmente el caso de la muerte por pistola táser policial"](https://www.elsaltodiario.com/violencia-policial/iridia-consigue-reabrir-judicialmente-caso-muerte-pistola-taser-policial)
+- [*elDiario.es* — "La justicia señala déficits en la investigación de los Mossos del primer muerto por disparo de táser"](https://www.eldiario.es/catalunya/justicia-senala-deficits-investigacion-mossos-primer-muerto-disparo-taser_1_11292985.html)
+
 ## El contexto político: la compra de tasers por la Guardia Urbana de Barcelona
 
 ### Junio 2025 — Junts frena la compra

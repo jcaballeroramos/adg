@@ -42,6 +42,16 @@ El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, ingeniero
 - Distribuida por [[saborit-international|Saborit International]] y por **Telefónica Ingeniería de Seguridad** (que vendió Tasers a la Guardia Civil).
 - **Junio 2025** — el plenario del Ayuntamiento de Barcelona **tumbó la compra de 22 tasers** para la Guàrdia Urbana (votos en contra de Junts, BComú y ERC).
 
+## Axon 2025-2026 — IA, Taser 10 y expansión en España
+- **Rick Smith, fundador y CEO**, reposiciona Axon como empresa de **inteligencia artificial**: sostiene que está "mejor posicionada para el momento IA que está ocurriendo ahora" (CNBC, 15 may 2026). Axon integra IA en cámaras corporales (redacción automática de atestados, transcripción, análisis de vídeo) además de las Tasers.
+  - <https://www.cnbc.com/video/2026/05/15/axon-ceo-says-his-company-is-better-positioned-for-the-ai-moment-thats-happening-now.html>
+- **Ecosistema Axon / Taser 10** (última generación del arma, más dardos y mayor alcance): Axon lo vende como un "ecosistema" integrado (arma + cámara + software + formación).
+- **Llegada a España**: **Alcalá de Henares** acogió el **primer curso en España del "ecosistema Axon Taser 10"**.
+  - <https://www.ayto-alcaladehenares.es/alcala-de-henares-acoge-el-primer-curso-en-espana-del-ecosistema-axon-taser-10/>
+- **Formación comercial**: cursos de "dispositivos eléctricos de control y defensas eléctricas" (p. ej. Netpol), que normalizan y capacitan en el uso del taser fuera de la estructura policial pública.
+  - <https://netpol.es/producto/curso-de-dispositivos-electricos-de-control-y-defensas-electricas/>
+- **Estrategia**: Axon **acude a las policías a hacer demostraciones** y **defiende públicamente el uso policial** del taser (ver el entrenamiento de Columbus en [[../feindef/05-taser-lrad]]). Ver también el despliegue español en [[../../historia/taser#despliegue-y-normalización-en-españa-2025-2026]].
+
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[../../marco-legal/bibliografia/axon-taser-warnings-2018]] — las advertencias oficiales del propio Axon (incluido "no usar para tortura").

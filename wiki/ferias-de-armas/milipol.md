@@ -38,3 +38,32 @@ Falken expone en Milipol y FEINDEF con coordenadas claras: Pabellón 10E18 en FE
 - ↔ [[../casos/latam/venezuela-2017-2019]] — Norinco en Milipol 2017.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita Milipol como ejemplo del oligopolio del sector.
 - ↔ [[../marco-legal/onu-relatora-tortura]] — la ONU "seguirá vigilando las ferias de armas en todo el mundo".
+- ↔ [[../marco-legal/amnistia-internacional]] — Amnistía monitoriza y denuncia el salón desde dentro (ver escándalo 2025).
+- ↔ [[../autores-y-referencias/organizaciones/omega-research-foundation]] — Omega, coautora del monitoreo de Milipol.
+- ↔ [[../empresas-de-armas/empresas/condor]] — proveedor recurrente de este tipo de equipo "intrínsecamente abusivo".
+
+## Milipol 2025 — el escándalo de los instrumentos de tortura (nov 2025)
+
+En **noviembre de 2025**, un equipo de **[[../marco-legal/amnistia-internacional|Amnistía Internacional Francia]]** y la **[[../autores-y-referencias/organizaciones/omega-research-foundation|Omega Research Foundation]]** —con **acceso concedido por los propios organizadores** (Civipol/Comexposium)— recorrió los pasillos de Milipol París y documentó que varias **empresas chinas** promocionaban abiertamente **equipo de tortura ilegal**:
+- **Escudos antidisturbios con pinchos** (spiked riot shields).
+- **Grilletes de piernas con peso** (entraves lestées).
+- Grilletes de piernas **unidos a esposas**.
+
+Todo ello está **prohibido** por el **EU Anti-Torture Regulation** (Reglamento antitortura de la UE, en vigor desde **2006**, reforzado en **2019** —cuando se prohibió incluso su *promoción* en ferias— y de nuevo en **2025**).
+
+**Comexposium exigió** a las empresas cortar las páginas de los catálogos o retirarlos. Una **empresa estatal china no cumplió** y los organizadores **le cerraron el stand** — repitiendo el precedente de [[../empresas-de-armas/empresas/condor|expulsiones]] vistas en otras ferias.
+
+El monitoreo halló mucho más que los stands chinos:
+- Empresas de **Brasil, Israel y Corea del Sur** exhibían **drones equipados con lanzadores multi-cañón** para dispersar **irritantes químicos** sobre multitudes.
+- Una lista amplia de equipo **"intrínsecamente abusivo"** —bastones eléctricos, *stun guns*, guantes de electrochoque, munición de proyectiles múltiples de impacto cinético y lanzadores multi-cañón— de empresas de **Brasil, China, Chequia, Francia, India, Israel, Italia, Kazajistán, Macedonia del Norte, Corea del Sur, Turquía y EE.UU.**
+
+> "La UE abrió el camino al prohibir el equipo de tortura. Y sin embargo, hoy hemos encontrado bastones de descarga eléctrica…"
+> — **Dr. Michael Crowley**, Omega Research Foundation.
+
+**Marie Laure Geoffray** (Amnistía Internacional Francia) y Omega piden a la **Comisión Europea** que **aclare el umbral de "cantidad lesiva"** (harmful quantity) y **amplíe la lista de equipo prohibido**, además de un **Tratado de Comercio sin Tortura** (Torture-Free Trade Treaty) de alcance global.
+
+La base normativa que reclaman se apoya en el informe de la **[[../marco-legal/onu-relatora-tortura|Relatora Especial de la ONU sobre la Tortura]]** (Alice Jill Edwards, 2023): **20 categorías de equipo a prohibir** de plano y **22 más a controlar**.
+
+→ ver [[../marco-legal/amnistia-internacional]], [[../autores-y-referencias/organizaciones/omega-research-foundation]] y [[../marco-legal/onu-relatora-tortura]].
+
+**Fuente:** comunicado de la Omega Research Foundation, "Milipol trade fair bans the presence of torture instruments on Chinese stands" (20 nov 2025) — https://omegaresearchfoundation.org/who-we-are/archive/ ; y comunicado de Amnistía Internacional Francia, "Le salon Milipol interdit la présence d'instruments de torture sur des stands chinois".
