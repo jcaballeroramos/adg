@@ -118,6 +118,30 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 - Rifles, escopetas, balas de goma, lanzadores no letales (flash-ball).
 - Casos: ventas a R.D. Congo, comprado por filial española.
 
+### RED CORPS / REDCORE SAS (Francia)
+- Fabricante bretón de **lanzadores LBD** (Kann44, POK44) y de una pistola de impulsión eléctrica; dir. **Gaël Guillerm** (exgendarme). El Kann44 fue clasificado como "arma de guerra".
+- → [[red-corps]]
+
+### KNDS / Nexter (Francia · Alemania)
+- Gigante franco-alemán de defensa terrestre (Nexter + KMW): CAESAR, Leclerc XLR, Griffon/Jaguar, Leopard 2. Anfitrión de Eurosatory (GICAT).
+- → [[knds]]
+
+### MBDA (Europa)
+- Principal grupo **europeo de misiles** (Airbus/BAE/Leonardo): Aster/SAMP-T, Mistral, Akeron MMP.
+- → [[mbda]]
+
+### Safran (Francia)
+- Aeroespacial y defensa: **optrónica militar** (visores térmicos, designadores láser), AASM Hammer, drones; antes biometría (Morpho → Idemia).
+- → [[safran]]
+
+### Arquus (Francia)
+- **Vehículos blindados** (grupo Volvo): el **PVP** de la demo de la BRI en Eurosatory, Sherpa, VAB; programa Scorpion.
+- → [[arquus]]
+
+### Idemia (Francia)
+- **Biometría e identidad**: reconocimiento facial/huella, documentos, control de fronteras. La vigilancia biométrica como otra cara del control de multitudes.
+- → [[idemia]]
+
 ## Israel
 
 ### ISPRA Ltd.
@@ -146,6 +170,10 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 ### Norinco
 - Bombas lacrimógenas, vehículos blindados (VN-4, "ballena", "rinoceronte", "murciélago").
 - Casos clave: Venezuela (contrato 500 M$ en 2012). La bomba que mató a Juan Pablo Pernalete era Norinco.
+
+### Fox-Armor
+- Equipo antidisturbios; comercializa **escudos antidisturbios** (incluidos modelos **con pinchos**, prohibidos por la UE y la ONU). El tipo de material retirado en Milipol 2025.
+- → [[fox-armor]]
 
 ## Conexiones
 - ↔ [[../../casos/latam/00-compilacion-latam]] — casos LATAM por país.

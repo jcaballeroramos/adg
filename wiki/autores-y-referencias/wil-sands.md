@@ -12,14 +12,14 @@ tags: [sands, ee-uu, fotoperiodismo, menos-letales, industria, exportacion, wire
 
 **Wil Sands** es un **fotoperiodista documental y periodista estadounidense** afincado en **Richmond (Virginia)**, cuyo trabajo se centra en los **movimientos sociales y los levantamientos políticos**. Es cofundador del **Fractures Collective** y autor del reportaje de investigación **«The Out-of-Control Spread of Crowd-Control Tech»** (*WIRED*, 9 de febrero de 2023), sobre la **proliferación global de la tecnología de control de masas**.
 
-> **Nota sobre el nombre:** su firma es **Wil Sands** (con una sola «l»), no «Will». El nombre de archivo de esta ficha (`will-sands`) conserva la grafía con que se solicitó.
+> **Nota sobre el nombre:** su firma es **Wil Sands**, con una sola «l» (no «Will»).
 
 Su singularidad es que Sands escribe **desde el otro lado del cañón**: es a la vez **investigador y víctima** de las armas que documenta. En 2020, cubriendo las protestas del movimiento **Black Lives Matter** frente a la Casa Blanca, fue **alcanzado en la cara por un proyectil «menos letal»**, lo que le causó **daños permanentes en la visión del ojo derecho** —el que él llama, con ironía, su «ojo fotográfico»—. A raíz de esa herida amplió su oficio hacia la escritura de investigación.
 
 ## Perfil biográfico
 - Nació en **Nairobi (Kenia)**, de padres estadounidenses, y creció entre **David (Panamá)**, la Pensilvania rural y los suburbios de Chicago.
 - Estudió en el **Hampshire College** (Amherst, Massachusetts), donde se implicó en el **activismo estudiantil por la abolición carcelaria**.
-- Tras la universidad se trasladó a **Barcelona**, donde se sumergió en las **subculturas políticas y el movimiento okupa** de la ciudad (dato de interés directo para el ADG por su vínculo con Cataluña) *(pendiente de verificar los años exactos)*.
+- Según su propia biografía, tras la universidad vivió un tiempo en **Barcelona**, cerca de las subculturas políticas y del movimiento okupa *(dato de su web personal; años exactos sin verificar)*.
 - En **2011** cofundó el **Fractures Collective** junto a **Guillaume Darribau**, un colectivo de fotografía documental centrado en las «fracturas» en los cruces de los sistemas económicos, sociales, políticos y ambientales.
 - Ha publicado en ***The Washington Post***, ***Mother Jones***, ***Harper's Magazine***, ***CNN***, ***Esquire***, ***The New Republic*** y ***WIRED***, entre otros.
 
@@ -46,7 +46,6 @@ Reportaje de investigación (~4.675 palabras) realizado con el apoyo del **Pulit
 - **Voz de superviviente-investigador.** Igual que otros nombres del ADG documentan la represión desde fuera, Sands la narra **desde su propia herida**, aportando una perspectiva en primera persona sobre las lesiones oculares por proyectil.
 - **Enfoque en la cadena de suministro.** Su aportación distintiva no es el caso individual, sino **seguir el negocio**: quién fabrica, qué vacío legal explota y cómo el equipo estadounidense termina disparando en las calles de otro continente. Encaja con la línea de investigación del ADG sobre **ferias de armas e intermediarios**. Ver [[../herramientas/mapa-omega-ferias-armas]].
 - **Puente EE. UU. → Latinoamérica.** El eje Combined Systems → Venom → Popayán documenta una **transferencia transfronteriza** concreta, del tipo que rastrea el ADG.
-- **Vínculo con Barcelona.** Su etapa en el movimiento okupa barcelonés lo conecta biográficamente con el contexto catalán del proyecto *(pendiente de verificar)*.
 
 ## Conexiones
 - ↔ [[../herramientas/mapa-omega-ferias-armas]] — la industria y las ferias que Sands rastrea aguas arriba.

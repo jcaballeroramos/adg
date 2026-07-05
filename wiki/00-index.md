@@ -190,8 +190,11 @@ La mayor feria mundial de defensa terrestre (Paris-Nord Villepinte, 15–19 jun 
 
 ### 4.3 · Otras ferias internacionales
 
-- [Milipol (París, Singapur, Doha, Abu Dabi)](ferias-de-armas/milipol.md) — la feria mundial de seguridad interior. Norinco expuso aquí en 2017 con vehículos venezolanos.
+- [Milipol (París, Singapur, Doha, Abu Dabi)](ferias-de-armas/milipol.md) — la feria mundial de seguridad interior. Norinco expuso aquí en 2017 con vehículos venezolanos; en 2025, Omega/Amnistía forzaron la retirada de instrumentos de tortura.
 - [DSEI Londres](ferias-de-armas/dsei-londres.md) — donde Condor fue expulsada en 2019 por promocionar el 'Spark'.
+- [SHOT Show (Las Vegas)](ferias-de-armas/shot-show.md) — la mayor feria de armas de fuego del mundo; su pabellón "menos letal" (Axon, demo VR de Taser).
+- [SICUR (IFEMA, Madrid)](ferias-de-armas/sicur.md) — Salón Internacional de la Seguridad, bienal.
+- [Security Forum (Barcelona)](ferias-de-armas/security-forum.md) — feria de seguridad privada; Guardia Urbana y Bombers de Barcelona.
 
 ---
 
@@ -204,6 +207,7 @@ Cómo se entrena, cómo se aplica.
 - [Marines · Curso de armas no letales (Camp Pendleton)](usos-de-armas/entrenamientos/marines-camp-pendleton.md) — falange de escudos, gas OC, capturas y mangueras de agua.
 - [Marines · Vídeo de spray de pimienta y porras](usos-de-armas/entrenamientos/marines-non-lethal-pista.md) — instructor Joseph Jackson, OC + porra + derribo.
 - [Lexipol · Gordon Graham](usos-de-armas/entrenamientos/lexipol-gordon-graham.md) — "menos letal no es no letal", fisiología del estrés.
+- [IV Congreso Internacional Tactical Police 2026](usos-de-armas/entrenamientos/tactical-police-congreso.md) — congreso de policía táctica (ISPC, Mollet): talleres de Taser, detención, progresión en edificios.
 
 ---
 
@@ -308,6 +312,8 @@ Cómo se entrena, cómo se aplica.
 - [Stuart Casey-Maslen](autores-y-referencias/stuart-casey-maslen.md) — *Weapons under International Human Rights Law* (Cambridge UP).
 - [Rohini Haar](autores-y-referencias/rohini-haar.md) — médica PHR, autora del estudio BMJ 2017 sobre KIPs.
 - [Sven Lindqvist](autores-y-referencias/sven-lindqvist.md) — *Historia de los bombardeos*, genealogía colonial.
+- [Pierre Douillard-Lefèvre](autores-y-referencias/pierre-douillard-lefevre.md) — sociólogo y víctima de LBD (Nantes 2007), teórico de la militarización policial (*L'arme à l'œil*).
+- [Wil Sands](autores-y-referencias/wil-sands.md) — fotoperiodista herido en las protestas de 2020; reportaje de WIRED sobre la industria del control de masas.
 
 ### 7.3 · Figuras históricas
 
