@@ -909,12 +909,26 @@ const sim = d3.forceSimulation(nodes)
   .force('y', d3.forceY(d => 100 + (d._rankPct || 0.5) * (H - 180)).strength(0.22))
   .alphaDecay(0.025);
 
-const link = g.append('g').attr('class', 'links').selectAll('line')
-  .data(links).enter().append('line')
-  .attr('stroke-width', d => d.kind === 'sem' ? 0.8 : 1)
+const link = g.append('g').attr('class', 'links').selectAll('path')
+  .data(links).enter().append('path')
+  .attr('fill', 'none')
+  .attr('stroke-width', d => d.kind === 'sem' ? 0.7 : 1)
   .attr('class', d => d.kind === 'sem' ? 'link-sem' : null)
+  .attr('stroke', d => {
+    const src = typeof d.source === 'object' ? d.source : nodes.find(n => n.id === d.source);
+    return color(src ? src.category : '_root');
+  })
   .attr('stroke-dasharray', d => d.kind === 'sem' ? '3 4' : null)
-  .attr('marker-end', d => d.kind === 'sem' ? null : 'url(#arrow)');
+  .attr('marker-end', null);
+
+// Curva suave: separa aristas paralelas y hace legible la malla
+function edgePath(d) {
+  const x1 = d.source.x, y1 = d.source.y, x2 = d.target.x, y2 = d.target.y;
+  const dx = x2 - x1, dy = y2 - y1;
+  const dr = Math.sqrt(dx * dx + dy * dy) * 2.2;
+  if (!isFinite(dr) || dr === 0) return '';
+  return 'M' + x1 + ',' + y1 + 'A' + dr + ',' + dr + ' 0 0,1 ' + x2 + ',' + y2;
+}
 
 const node = g.append('g').attr('class', 'nodes').selectAll('g')
   .data(nodes).enter().append('g')
@@ -980,7 +994,8 @@ function highlight(id, tempHover) {
       .classed('neighbor', n => n.id !== id && neighbors[id].has(n.id));
   link.classed('dim', l => l.source.id !== id && l.target.id !== id)
       .classed('highlight', l => l.source.id === id || l.target.id === id)
-      .attr('marker-end', l => (l.source.id === id || l.target.id === id) ? 'url(#arrow-hot)' : 'url(#arrow)');
+      .attr('marker-end', l => (l.kind !== 'sem' && (l.source.id === id || l.target.id === id)) ? 'url(#arrow-hot)' : null);
+  node.filter(n => n.id === id).raise();
   // While focused, force-show neighbor labels even if minor
   g.selectAll('text.g-label-minor').style('opacity', function(d) {
     if (!d) return null;
@@ -990,7 +1005,7 @@ function highlight(id, tempHover) {
 }
 function clearHighlight() {
   node.classed('dim', false).classed('highlight', false).classed('neighbor', false);
-  link.classed('dim', false).classed('highlight', false).attr('marker-end', 'url(#arrow)');
+  link.classed('dim', false).classed('highlight', false).attr('marker-end', null);
   updateLabelVisibility();
 }
 function clearFocus() { focused = null; clearHighlight(); renderInfo(null); }
@@ -1050,8 +1065,7 @@ const TOP_MARGIN = 90;
 sim.on('tick', () => {
   // Clamp y so the topmost nodes never collide with the column titles
   nodes.forEach(n => { if (n.y < TOP_MARGIN) n.y = TOP_MARGIN; });
-  link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-      .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+  link.attr('d', edgePath);
   node.attr('transform', d => 'translate(' + d.x + ',' + d.y + ')');
   renderMini();
 });
@@ -1064,7 +1078,9 @@ if (semCount) {
   semBtn.innerHTML = '<span class="swatch swatch-sem"></span>' +
                      '<span class="legend-label">Afinidad semántica</span>' +
                      '<span class="legend-count">' + semCount + '</span>';
-  let semOn = true;
+  let semOn = false;
+  semBtn.classList.add('off');
+  link.filter(d => d.kind === 'sem').style('display', 'none');
   semBtn.onclick = () => {
     semOn = !semOn;
     semBtn.classList.toggle('off', !semOn);
@@ -2273,15 +2289,15 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 
 .graph-page { background: var(--bg); overflow: hidden; color: var(--fg); }
 .graph-page svg text { fill: var(--fg); paint-order: stroke; stroke: var(--bg); stroke-width: 3px; stroke-linejoin: round; }
-.graph-page .g-node-label { fill: var(--fg); }
+.graph-page .g-node-label { fill: var(--fg); paint-order: stroke; stroke: var(--bg); stroke-width: 3px; stroke-linejoin: round; }
 .graph-page .g-label-major { font-weight: 600; }
 .graph-page .g-label-minor { opacity: 0; transition: opacity .25s; }
 .graph-page .g-node-circle { stroke: var(--bg); }
 .graph-page .arrow-path { fill: var(--fg-dim); }
 .graph-page .arrow-path-hot { fill: var(--accent); }
-.graph-page .links line { stroke: var(--fg-dim) !important; stroke-opacity: 0.3; }
-.graph-page .links line.dim { stroke-opacity: 0.05; }
-.graph-page .links line.highlight { stroke: var(--accent) !important; stroke-opacity: 0.95; stroke-width: 2; }
+.graph-page .links path { stroke-opacity: 0.13; }
+.graph-page .links path.dim { stroke-opacity: 0.025; }
+.graph-page .links path.highlight { stroke-opacity: 0.95; stroke-width: 2; }
 .graph-page .nodes .node.highlight circle { stroke: var(--fg) !important; stroke-width: 3; filter: drop-shadow(0 0 8px var(--accent)); }
 .graph-page .nodes .node.hover-trace circle { stroke: #ffd54a !important; stroke-width: 3; filter: drop-shadow(0 0 8px rgba(255, 213, 74, .8)); }
 
@@ -2310,7 +2326,7 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .nodes .node.g-match circle { stroke: #ffd54a !important; stroke-width: 3.5 !important; filter: drop-shadow(0 0 6px rgba(255, 213, 74, 0.9)); }
 .nodes .node.g-match text { fill: #ffd54a !important; font-weight: 700; font-size: 13px !important; opacity: 1 !important; }
 .nodes .node.g-search-dim { opacity: 0.1; }
-.links line.g-search-dim { stroke-opacity: 0.04; }
+.links path.g-search-dim { stroke-opacity: 0.02; }
 
 /* Left panel — categorías + aislar + ayuda */
 .graph-panel { position: fixed; top: 78px; left: 20px; width: 250px; background: var(--bg-panel); border:1px solid var(--border); border-radius: 0; padding: 14px 14px 8px 14px; z-index: 8; backdrop-filter: blur(6px); box-shadow: 0 4px 18px rgba(0,0,0,.25); max-height: calc(100vh - 100px); overflow-y: auto; transition: transform .25s ease, opacity .2s; }
@@ -2394,7 +2410,7 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 [data-theme="light"] .graph-mini .mini-viewport { fill: rgba(0,0,0,.04); }
 
 #graph { width:100vw; height:calc(100vh - 60px); }
-.links line { transition: stroke .2s, stroke-opacity .2s, stroke-width .2s; }
+.links path { transition: stroke-opacity .2s, stroke-width .2s; }
 .nodes .node { cursor: pointer; transition: opacity .2s; }
 .nodes .node.dim { opacity: 0.14; }
 .nodes .node text { pointer-events: none; font-family: -apple-system, sans-serif; }
@@ -2429,7 +2445,8 @@ a.tc:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .semrel li { display: flex; align-items: baseline; gap: 6px; font-size: 14px; }
 .semrel .sem-sim { font-size: 11px; color: var(--fg-dim); font-variant-numeric: tabular-nums; }
 .semrel-note { margin-top: 8px; font-size: 11px; color: var(--fg-dim); }
-.links .link-sem { stroke: var(--accent); stroke-opacity: .35; }
+.graph-page .links path.link-sem { stroke-opacity: .18; }
+.graph-page .links path.link-sem.highlight { stroke-opacity: .9; }
 .swatch-sem { width: 14px; height: 0; border-top: 2px dashed var(--accent); display: inline-block; }
 .outlinks, .backlinks { margin: 0; padding: 16px 20px; background:var(--bg-panel); border:1px solid var(--border); border-radius: 0; }
 .outlinks { border-left: 3px solid #6eb8d6; }
