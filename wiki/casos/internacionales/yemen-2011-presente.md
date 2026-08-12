@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: Yemen
 año: 2011-presente
 fecha_inicio: 2011-01-27

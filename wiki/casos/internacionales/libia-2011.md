@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: Libia
 año: 2011
 fecha_inicio: 2011-02-15
@@ -49,7 +49,7 @@ Pero a diferencia de casos como Bahréin o Egipto, **el gas lacrimógeno duró m
 - **Éxodo masivo** de migrantes hacia Europa — ruta central del Mediterráneo.
 
 ## Conexiones
-- ↔ [[00-indice]]
+- ↔ [[../../empresas-de-armas/empresas/00-indice]]
 - ↔ [[tunez-2011]] · [[egipto-tahrir-2011]] · [[bahrein-2011]] · [[siria-2011]] — Primavera Árabe.
 - ↔ [[../../empresas-de-armas/empresas/rheinmetall]] — suministros europeos previos.
 - ↔ [[../../empresas-de-armas/empresas/krusik-serbia]] — granadas balcánicas documentadas.

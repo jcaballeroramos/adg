@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: España (Cataluña)
 ciudad: Barcelona
 año: 2019
@@ -20,12 +20,12 @@ tags: [roger-garcia, proces, 2019, foam, sir-x, mossos, ojo, barcelona]
 **Roger García** es uno de los manifestantes alcanzados. Un proyectil de **foam SIR-X** disparado por los Mossos d'Esquadra le **impacta en el ojo**, provocándole **pérdida total de visión** en ese globo ocular.
 
 ## El foam SIR-X: la «alternativa» catalana
-Tras la **prohibición de las balas de goma** por el Parlament de Catalunya en **2014** (ver [[../marco-legal/cataluna-prohibicion-balas-goma]]), los Mossos d'Esquadra adoptaron los proyectiles de **foam SIR-X** como reemplazo. La promesa oficial fue que estos proyectiles **serían más seguros** y **no causarían las mismas lesiones** que las balas de goma.
+Tras la **prohibición de las balas de goma** por el Parlament de Catalunya en **2014** (ver [[../../marco-legal/cataluna-prohibicion-balas-goma]]), los Mossos d'Esquadra adoptaron los proyectiles de **foam SIR-X** como reemplazo. La promesa oficial fue que estos proyectiles **serían más seguros** y **no causarían las mismas lesiones** que las balas de goma.
 
 **La promesa se rompió en octubre 2019**:
 - **Al menos cuatro personas** perdieron la visión de un ojo (entre ellas Roger García y [[abdelillah-foam-2019|Abdelillah]]).
 - **Al menos dos personas** sufrieron **traumatismos cranioencefálicos graves**.
-- El protocolo de uso **no respetaba las indicaciones del fabricante** del proyectil (ver investigación de [[../autores-y-referencias/organizaciones/iridia|Irídia]]).
+- El protocolo de uso **no respetaba las indicaciones del fabricante** del proyectil (ver investigación de [[../../autores-y-referencias/organizaciones/iridia|Irídia]]).
 
 > Como denunció Irídia en **2024**: *«El protocolo de uso de los proyectiles de foam no respeta las indicaciones del fabricante del arma»*. Los Mossos los disparaban a **distancias inferiores** a las mínimas recomendadas y **apuntando a zonas altas del cuerpo**.
 
@@ -58,7 +58,7 @@ Roger García apareció junto a **Áfrika** y **Abdelillah** en la campaña púb
 ## Por qué importa para el documental
 - **Prueba que el foam no resuelve el problema** de las balas de goma — simplemente lo disfraza.
 - **La prohibición catalana de 2014** queda **vaciada de contenido** si el proyectil sustitutivo causa las mismas lesiones con otro nombre.
-- **Conexión directa** con la demanda de Irídia de prohibir todos los KIPs ([[../marco-legal/bibliografia/iridia-pla-accio]]).
+- **Conexión directa** con la demanda de Irídia de prohibir todos los KIPs ([[../../marco-legal/bibliografia/iridia-pla-accio]]).
 - **Casos hermanos**: Abdelillah (mismo operativo), Áfrika (Pablo Hasél 2021), Olga (Procés 2019), Ester Quintana (2012), Roger Español (1-O 2017), Carles Guillot.
 
 ## Fuentes
@@ -74,7 +74,7 @@ Roger García apareció junto a **Áfrika** y **Abdelillah** en la campaña púb
 - ↔ [[roger-espanol]] — 1-O 2017, bala de goma Policía Nacional.
 - ↔ [[ester-quintana]] — 2012, bala de goma Mossos, detonante de la prohibición.
 - ↔ [[olga-proces]] — mismo contexto octubre 2019.
-- ↔ [[../autores-y-referencias/organizaciones/iridia]] — litigio estratégico.
-- ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — el contexto normativo.
-- ↔ [[mossos-instrucciones-armamento]] — los protocolos oficiales.
-- ↔ [[../marco-legal/bibliografia/iridia-pla-accio]] · [[../marco-legal/bibliografia/iridia-mecanismos-independientes]].
+- ↔ [[../../autores-y-referencias/organizaciones/iridia]] — litigio estratégico.
+- ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — el contexto normativo.
+- ↔ [[../../marco-legal/mossos-instrucciones-armamento]] — los protocolos oficiales.
+- ↔ [[../../marco-legal/bibliografia/iridia-pla-accio]] · [[../../marco-legal/bibliografia/iridia-mecanismos-independientes]].

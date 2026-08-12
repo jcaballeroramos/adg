@@ -117,10 +117,10 @@ Articulada con organizaciones de derechos humanos para exigir:
 
 ## Conexiones
 - ↔ [[gustavo-gatica]] — la otra víctima ocular emblemática del estallido (cegado 8 nov 2019).
-- ↔ [[roger-espanol]] (paralelismo: agente identificado, juicio largo, presión de DD.HH.).
-- ↔ [[../testimonios/oftalmologa-estrella-fernandez]] (la fisiología del estallido ocular).
-- ↔ [[../historia/armas-quimicas]] (la lacrimógena como arma cinética por su carcasa).
-- ↔ [[../marco-legal/onu-orientaciones-2020]] (prohibición explícita de disparar irritantes contra el cuerpo).
+- ↔ [[../espana-europa/roger-espanol]] (paralelismo: agente identificado, juicio largo, presión de DD.HH.).
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] (la fisiología del estallido ocular).
+- ↔ [[../../historia/armas-quimicas]] (la lacrimógena como arma cinética por su carcasa).
+- ↔ [[../../marco-legal/onu-orientaciones-2020]] (prohibición explícita de disparar irritantes contra el cuerpo).
 
 ## Fuentes
 - Wikipedia, El País, BiobioChile, La Tercera, eldiario, INDH, La Voz de los que Sobran, La Cuarta, El Líbero — referencias citadas en el material original.

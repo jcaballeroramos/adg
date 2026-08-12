@@ -90,13 +90,13 @@ Dilemas morales sobre **delegar decisiones de vida o muerte a máquinas**.
 ## Por qué importa para el documental
 1. Es **el arco que se abre** después del paradigma "menos letal": del *blanqueo lingüístico* al *blanqueo algorítmico*.
 2. Las empresas que dominan este nuevo mercado son las mismas — o de la misma generación — que las que aparecen en FEINDEF: **[[../empresas-de-armas/empresas/anduril|Anduril]], [[../empresas-de-armas/empresas/00-indice|Vannevar Labs, Shield AI]]**.
-3. **2026** — el año en que la ONU pide concluir el tratado — coincide con el año del juicio de [[../casos/roger-espanol|Roger Español]] y con el simposio europeo de [[symposium-non-lethal-weapons-2026|EWG-NLW]]. **Convergencia narrativa potente**.
+3. **2026** — el año en que la ONU pide concluir el tratado — coincide con el año del juicio de [[../casos/espana-europa/roger-espanol|Roger Español]] y con el simposio europeo de [[../ferias-de-armas/congresos/symposium-non-lethal-weapons-2026|EWG-NLW]]. **Convergencia narrativa potente**.
 4. Encarna la tesis de Rocher: la respuesta del Estado a la falta de consentimiento es **siempre tecnológica** y **nunca política**.
 
 ## Conexiones
 - ↔ [[../empresas-de-armas/empresas/anduril]] — caso real del nuevo complejo militar-tech.
 - ↔ [[../empresas-de-armas/empresas/00-indice]] — Vannevar Labs, Shield AI, Raytheon (energía dirigida), FN Herstal (Smart Protector).
 - ↔ [[../ferias-de-armas/feindef/04-fn-smart-protector]] — el caso comercial paradigmático.
-- ↔ [[symposium-non-lethal-weapons-2026]] — el foro donde se normaliza.
+- ↔ [[../ferias-de-armas/congresos/symposium-non-lethal-weapons-2026]] — el foro donde se normaliza.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco crítico.
-- ↔ [[vframe]] — el contraejemplo civil.
+- ↔ [[../herramientas/vframe]] — el contraejemplo civil.

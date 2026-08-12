@@ -24,5 +24,5 @@ Stand con una pantalla que muestra **"esqueletos" de personas detectadas por sof
 - ↔ [[00-overview]] — la feria FEINDEF en conjunto.
 - ↔ [[../../empresas-de-armas/empresas/fn-herstal]] — el fabricante (ficha corporativa).
 - ↔ [[01-expal-puno-darwin]] — mismo discurso del "puñetazo a distancia".
-- ↔ [[../../herramientas/laws-armas-autonomas]] — la IA que "decide" apuntar: el siguiente paso del paradigma.
+- ↔ [[../../historia/laws-armas-autonomas]] — la IA que "decide" apuntar: el siguiente paso del paradigma.
 - ↔ [[../../empresas-de-armas/empresas/anduril]] · [[../../empresas-de-armas/empresas/vannevar-labs]] — IA aplicada a defensa.

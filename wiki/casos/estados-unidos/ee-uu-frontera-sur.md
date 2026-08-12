@@ -25,7 +25,7 @@ La **Agencia de Aduanas y Protección Fronteriza (CBP)** ha incrementado masivam
 - **Sentry Towers de [[../../empresas-de-armas/empresas/anduril|Anduril]]** — vigilancia autónoma con IA.
 
 ## Imagen icónica: María Meza, 2018
-**28 de noviembre de 2018**. **María Meza**, madre hondureña de 35 años, corre con tres de sus hijos para huir de los **gases lacrimógenos** lanzados por agentes fronterizos durante la **caravana de migrantes**. La fotografía se convierte en un símbolo del sufrimiento de miles de personas migrantes.
+**María Meza**, madre hondureña, corre con sus hijos huyendo de los gases lacrimógenos lanzados por la CBP contra la caravana migrante (noviembre 2018) — la «foto de la vergüenza». Ficha completa: [[maria-meza-tijuana-2018]].
 
 ## Tasers contra menores y mal uso documentado
 **The Los Angeles Times (2015)** documentó al menos **450 incidentes** de uso de Tasers entre 2010 y 2013, incluyendo:
@@ -37,7 +37,7 @@ La **Agencia de Aduanas y Protección Fronteriza (CBP)** ha incrementado masivam
 ## Aardvark Tactical: el principal proveedor
 - **Aardvark Tactical** (intermediario): contratos por casi **62 millones de dólares** con la CBP entre 2014 y 2022.
 - **~70%** del monto destinado a **Tasers**.
-- → ver [[intermediarios-latam]].
+- → ver [[../latam/intermediarios-latam]].
 
 ## Marco legal: el manual de la Patrulla Fronteriza
 - **Otorga discrecionalidad** a los agentes para decidir cuándo usar armas menos letales.
@@ -53,7 +53,9 @@ La **Agencia de Aduanas y Protección Fronteriza (CBP)** ha incrementado masivam
 - Reconocimiento facial aún no implementado en frontera con Marruecos.
 
 ## Conexiones
-- ↔ [[../melilla-2022]] — el caso paralelo en la frontera sur europea.
+
+- ↔ [[../../empresas-de-armas/empresas/compliant-technologies]] — los guantes de electrochoque que el ICE compra en 2026 (10-20 M$)
+- ↔ [[../espana-europa/melilla-2022]] — el caso paralelo en la frontera sur europea.
 - ↔ [[../../empresas-de-armas/empresas/anduril]] — Sentry Tower y vigilancia autónoma.
-- ↔ [[../../herramientas/laws-armas-autonomas]].
-- ↔ [[00-compilacion-latam]].
+- ↔ [[../../historia/laws-armas-autonomas]].
+- ↔ [[../latam/00-compilacion-latam]].

@@ -27,7 +27,7 @@ Stand de exposición de proyectiles. Vitrinas con cartuchos de colores ordenados
 ## Por qué importa para el documental
 - **Narrativa evolucionista** convertida en argumento de venta de un arma.
 - El nombre del producto **"Puño de Darwin"** condensa la filosofía completa del marketing de la baja letalidad: naturalizar la violencia.
-- Vincular con [[../testimonios/oftalmologa-estrella-fernandez]] (la "cuenca ocular diseñada para resistir" que en realidad estalla con 720 km/h de bola de goma).
+- Vincular con [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] (la "cuenca ocular diseñada para resistir" que en realidad estalla con 720 km/h de bola de goma).
 
 ## Conexiones
 - ↔ [[00-overview]] — la feria FEINDEF en conjunto.

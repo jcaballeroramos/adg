@@ -5,7 +5,7 @@ nombre: Telefónica Ingeniería de Seguridad
 pais: España
 matriz: Telefónica S.A.
 fundacion: post-1984
-contexto_fundación: "tras atentado a CNTE en 1984"
+contexto_fundacion: "tras atentado a CNTE en 1984"
 tags: [telefónica, españa, vigilancia, taser, guardia-civil, axon, comunicaciones]
 ---
 
@@ -36,6 +36,6 @@ tags: [telefónica, españa, vigilancia, taser, guardia-civil, axon, comunicacio
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[axon]] — proveedor del Taser X26 que Telefónica distribuye.
-- ↔ [[../../casos/antonio-c-badalona]] — primera muerte por taser en Catalunya (cadena de proveedores).
-- ↔ [[../feindef/00-overview]] — expositor.
+- ↔ [[../../casos/espana-europa/antonio-c-badalona]] — primera muerte por taser en Catalunya (cadena de proveedores).
+- ↔ [[../../ferias-de-armas/feindef/00-overview]] — expositor.
 - ↔ [[saborit-international]] — competidor en el mismo nicho.

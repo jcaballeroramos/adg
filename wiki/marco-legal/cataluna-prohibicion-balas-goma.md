@@ -16,9 +16,11 @@ Catalunya fue **el primer territorio autónomo del Estado español** en prohibir
 - También están prohibidas en: **Austria, Dinamarca, Finlandia, Irlanda, Noruega, Rumanía, Suecia y casi todo el territorio de Alemania**.
 
 ### El detonante en Catalunya
-- **Noviembre 2012** — **[[../casos/ester-quintana|Ester Quintana]]** pierde un ojo en la huelga general por impacto de bala de goma de los Mossos.
+- **12 de abril de 2011** — el **Síndic de Greuges** (Resolució Q-02227/2011) expresa su disconformidad con el uso de balas de goma por los Mossos → [[bibliografia/sindic-greuges-resoluciones]].
+- **Noviembre 2012** — **[[../casos/espana-europa/ester-quintana|Ester Quintana]]** pierde un ojo en la huelga general por impacto de bala de goma de los Mossos.
+- **23 de julio de 2013** — segunda resolución del **Síndic de Greuges**: insta a las instituciones a pedir perdón y a indemnizar → [[bibliografia/sindic-greuges-resoluciones]].
 - **Octubre 2013** — caso **Juan Andrés Benítez** en el Raval, Barcelona.
-- **17 de septiembre de 2013** — comparecencia de la Dra. **[[../testimonios/oftalmologa-estrella-fernandez|Estrella Fernández Martínez]]** ante la Comisión de Estudio de los Modelos de Seguridad y Orden Público y el Uso de Material Antidisturbios en Eventos de Masas, en el Parlament de Catalunya.
+- **17 de septiembre de 2013** — comparecencia de la Dra. **[[../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez|Estrella Fernández Martínez]]** ante la Comisión de Estudio de los Modelos de Seguridad y Orden Público y el Uso de Material Antidisturbios en Eventos de Masas, en el Parlament de Catalunya.
 - **21 de octubre de 2013** — Informe d'anàlisi: *L'ús de materials antiavalots, pilotes de goma en esdeveniments de masses ocorreguts en els darrers anys a Catalunya*.
 
 ## La prohibición
@@ -27,17 +29,17 @@ Catalunya fue **el primer territorio autónomo del Estado español** en prohibir
 El **Parlament de Catalunya** prohíbe las balas de goma para los **Mossos d'Esquadra**.
 
 ⚠️ **Importante**: la prohibición **solo afecta a los Mossos**. La **Policía Nacional** y la **Guardia Civil** han seguido usándolas en territorio catalán. Casos paradigmáticos:
-- **1-O 2017** — referéndum: caso **[[../casos/roger-espanol|Roger Español]]**.
-- **Octubre 2019** — sentencia del Procés: caso **[[../casos/olga-proces|Olga]]**.
+- **1-O 2017** — referéndum: caso **[[../casos/espana-europa/roger-espanol|Roger Español]]**.
+- **Octubre 2019** — sentencia del Procés: caso **[[../casos/espana-europa/olga-proces|Olga]]**.
 
 ### **Febrero 2014** — Frontera sur
 Tras las **14 muertes en Tarajal** (Ceuta, 6 febrero 2014), la **Dirección General de la Guardia Civil** limita el uso de balas de goma y botes de humo a "**circunstancias extremas**" en los puestos fronterizos de Ceuta y Melilla.
 - Solo afecta a la Guardia Civil.
 - **Se desconoce si la instrucción sigue vigente o no**.
-- **Ocho años después**, **[[../casos/melilla-2022|masacre de Melilla 2022]]** con 37 muertos.
+- **Ocho años después**, **[[../casos/espana-europa/melilla-2022|masacre de Melilla 2022]]** con 37 muertos.
 
 ### **Abril 2015** — Euskadi
-Las balas de goma **se prohíben para la Ertzaintza** en Euskadi. Detonante directo: la muerte de **[[../casos/inigo-cabacas|Iñigo Cabacas]]** (abril 2012).
+Las balas de goma **se prohíben para la Ertzaintza** en Euskadi. Detonante directo: la muerte de **[[../casos/espana-europa/inigo-cabacas|Iñigo Cabacas]]** (abril 2012).
 
 ### **Mayo 2017** — Navarra
 La **Policía Foral** de Navarra deja de usar balas de goma.
@@ -46,12 +48,12 @@ La **Policía Foral** de Navarra deja de usar balas de goma.
 
 > En lugar de eliminar el problema, Catalunya lo **sustituyó**.
 
-Tras la prohibición de las balas de goma, los Mossos comenzaron a usar **balas de foam** — espuma viscoelástica disparada por la **lanzadora Brügger & Thomet BT-GL06**, también llamada **GL-06 / LL-06**. La misma munición ya había dejado **personas heridas en Francia** antes de su importación a Catalunya.
+Tras la prohibición de las balas de goma, los Mossos comenzaron a usar **balas de foam** — espuma viscoelástica disparada por la **lanzadora [[../empresas-de-armas/empresas/brugger-thomet|Brügger & Thomet]] BT-GL06**, también llamada **GL-06 / LL-06**. La misma munición ya había dejado **personas heridas en Francia** antes de su importación a Catalunya.
 
 ### Los casos que demuestran que el reemplazo no resolvió nada
-- **Febrero 2021** — **[[../casos/africa-pablo-hasel|África]]** pierde un ojo en las protestas por el encarcelamiento de Pablo Hasél. Le dispararon a 22 m.
-- **Octubre 2019** — **[[../casos/olga-proces|Olga]]** recibe el impacto en la cabeza durante las protestas contra la sentencia del Procés.
-- **A 2024**, **5 lesiones muy graves** documentadas por Amnistía Internacional: 2 ojos perdidos, 2 traumatismos craneoencefálicos severos, 1 testículo perdido.
+- **Febrero 2021** — **[[../casos/espana-europa/africa-pablo-hasel|África]]** pierde un ojo en las protestas por el encarcelamiento de Pablo Hasél. Le dispararon a 22 m.
+- **Octubre 2019** — **[[../casos/espana-europa/olga-proces|Olga]]** recibe el impacto en la cabeza durante las protestas contra la sentencia del Procés.
+- **A 2024**, **5 lesiones muy graves** documentadas por [[amnistia-internacional|Amnistía Internacional]]: 2 ojos perdidos, 2 traumatismos craneoencefálicos severos, 1 testículo perdido.
 - **Iridia** ha llevado **9 casos por foam**, **7 activos**.
 
 ## El nuevo protocolo (octubre 2023)
@@ -66,7 +68,7 @@ Tras la presión sostenida de [[../autores-y-referencias/organizaciones/iridia|I
 ### El consenso sobre las SIRX
 - **Diciembre 2022** — la **Comisión de Estudio sobre el Modelo Policial (CEMP)** del Parlament de Catalunya recoge el consenso social para que los Mossos **dejen de utilizar los proyectiles SIRX**, los más lesivos.
 - **2024** — Iridia confirma que se hacen gestiones para llevarlo a cabo.
-- A raíz del caso de [[../casos/africa-pablo-hasel|África]], **se prohíbe el uso de munición SIRX en Catalunya**.
+- A raíz del caso de [[../casos/espana-europa/africa-pablo-hasel|África]], **se prohíbe el uso de munición SIRX en Catalunya**.
 
 ## Mossos d'Esquadra — datos contextuales
 - Catalunya tiene uno de los **mayores niveles de oficiales de policía per cápita**: **5,05 por mil ciudadanos**.
@@ -92,7 +94,7 @@ Este dato refuerza que la **prohibición de 2014** tenía un apoyo social real y
 Durante las protestas de octubre 2019 tras la sentencia del Procés:
 - La **Policía Nacional** usó balas de goma.
 - Los **Mossos d'Esquadra** usaron **proyectiles de foam SIR-X**.
-- **Al menos 4 personas** perdieron la visión de un ojo: [[../casos/roger-garcia-foam-2019|Roger García]], [[../casos/abdelillah-foam-2019|Abdelillah]], y al menos 2 más.
+- **Al menos 4 personas** perdieron la visión de un ojo: [[../casos/espana-europa/roger-garcia-foam-2019|Roger García]], [[../casos/espana-europa/abdelillah-foam-2019|Abdelillah]], y al menos 2 más.
 - **Al menos 2 personas** sufrieron traumatismos craneoencefálicos graves.
 - **El protocolo de uso no respetaba las indicaciones del fabricante** del proyectil (ver investigación de [[../autores-y-referencias/organizaciones/iridia|Irídia]]: https://iridia.cat/es/el-protocol-dus-dels-projectils-de-foam-no-respecta-les-indicacions-del-fabricant-de-larma/).
 
@@ -100,9 +102,9 @@ Durante las protestas de octubre 2019 tras la sentencia del Procés:
 Ver [[mossos-instrucciones-armamento]] para las 3 instrucciones oficiales (16/2013, 11/2014, 4/2018) y sus lagunas críticas.
 
 ## Conexiones
-- ↔ Casos: [[../casos/inigo-cabacas]], [[../casos/ester-quintana]], [[../casos/carles-guillot]], [[../casos/roger-espanol]], [[../casos/africa-pablo-hasel]], [[../casos/olga-proces]], [[../casos/antonio-c-badalona]], [[../casos/melilla-2022]], [[../casos/roger-garcia-foam-2019]], [[../casos/abdelillah-foam-2019]].
-- ↔ [[../casos/compilacion-espana]] — datos agregados.
-- ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la pieza médica clave del proceso.
+- ↔ Casos: [[../casos/espana-europa/inigo-cabacas]], [[../casos/espana-europa/ester-quintana]], [[../casos/espana-europa/carles-guillot]], [[../casos/espana-europa/roger-espanol]], [[../casos/espana-europa/africa-pablo-hasel]], [[../casos/espana-europa/olga-proces]], [[../casos/espana-europa/antonio-c-badalona]], [[../casos/espana-europa/melilla-2022]], [[../casos/espana-europa/roger-garcia-foam-2019]], [[../casos/espana-europa/abdelillah-foam-2019]].
+- ↔ [[../casos/espana-europa/compilacion-espana]] — datos agregados.
+- ↔ [[../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la pieza médica clave del proceso.
 - ↔ [[../autores-y-referencias/organizaciones/stop-bales-de-goma]], [[../autores-y-referencias/organizaciones/iridia]], [[../autores-y-referencias/organizaciones/novact]].
 - ↔ [[onu-orientaciones-2020]] — el marco internacional incumplido.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — la tesis del "reemplazo amplifica" encarnada literalmente en el paso goma → foam.

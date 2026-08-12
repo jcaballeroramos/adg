@@ -1,6 +1,6 @@
 ---
 tipo: autor
-estado: stub
+estado: borrador
 nombre: Agnès Callamard
 pais: Francia
 profesion: Jurista, ex-Relatora Especial ONU, Secretaria General de Amnistía Internacional
@@ -55,5 +55,5 @@ Desde su llegada a la secretaría general de **Amnistía**, Callamard ha impulsa
 - ↔ [[nils-melzer]] — paralela en tortura.
 - ↔ [[../marco-legal/amnistia-internacional]] — institución que dirige.
 - ↔ [[../casos/internacionales/palestina-2023-2024]] — declaración Amnistía.
-- ↔ [[../herramientas/laws-armas-autonomas]].
+- ↔ [[../historia/laws-armas-autonomas]].
 - ↔ [[../casos/internacionales/yemen-2011-presente]] — Arabia Saudí.

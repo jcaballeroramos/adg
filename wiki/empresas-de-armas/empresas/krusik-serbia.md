@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Krušik
 pais: Serbia
 producto_emblematico: Granadas de mano, lacrimógenos, explosivos
@@ -54,5 +54,5 @@ Krušik ilustra **tres patrones** del mercado global:
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[../../casos/internacionales/irak-tishreen-2019]] — posibles lotes Krušik.
-- ↔ [[../../historia/mercado-mundial]] — proliferación balcánica.
+- ↔ [[../mercado-mundial]] — proliferación balcánica.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — mercado global descontrolado.

@@ -10,7 +10,7 @@ tags: [historia, gas-lacrimógeno, OC, pimienta, skunk, fritz-haber, churchill, 
 ## Del frente de guerra a la calle
 
 ### Gas lacrimógeno
-Nació en la **Primera Guerra Mundial** (impulsado por científicos como **Fritz Haber**). Aunque los **Acuerdos de Ginebra de 1925** prohibieron su uso en la guerra, **Winston Churchill** defendió ferozmente su uso contra "tribus incivilizadas" (Palestina, Afganistán, India), argumentando cínicamente que era un **"arma más piadosa"** que la artillería pesada porque causaba menos muertos.
+Nació en la **Primera Guerra Mundial** (impulsado por científicos como **[[../autores-y-referencias/figuras-historicas/00-trio-quimico|Fritz Haber]]**). Aunque los **Acuerdos de Ginebra de 1925** prohibieron su uso en la guerra, **Winston Churchill** defendió ferozmente su uso contra "tribus incivilizadas" (Palestina, Afganistán, India), argumentando cínicamente que era un **"arma más piadosa"** que la artillería pesada porque causaba menos muertos.
 
 Tras la **Gran Depresión de 1929**, su uso se masificó contra civiles en las ciudades.
 
@@ -25,10 +25,10 @@ Tras perfeccionarse, la policía lo adoptó en los años 80.
 > "Vi a esos estudiantes como si fueran mis propios hijos siendo agredidos con algo que yo creé."
 
 ### Agente "Skunk" (Mofeta)
-Líquido **pestilente y putrefacto** desarrollado por Israel para usar contra los **palestinos**. Su olor no se va de la ropa. Hoy también se emplea contra **disidentes israelíes**, demostrando que **"las armas de la ocupación siempre regresan a casa"**.
+Líquido **pestilente y putrefacto** desarrollado por Israel ([[../empresas-de-armas/empresas/odortec|Odortec]]) para usar contra los **[[../casos/internacionales/palestina-2023-2024|palestinos]]**. Su olor no se va de la ropa. Hoy también se emplea contra **disidentes israelíes**, demostrando que **"las armas de la ocupación siempre regresan a casa"**.
 
 ## Conexiones
-- ↔ [[../renders/tear-gas-amnesty]] (la animación que disecciona el CS, CN, OC).
-- ↔ [[../casos/fabiola-campillai]] (víctima del impacto cinético del bote, no del químico).
-- ↔ [[../feindef/03-byrna]] (Bad Guy Repellent: CS + OC + pimienta).
+- ↔ [[../empresas-de-armas/renders/tear-gas-amnesty]] (la animación que disecciona el CS, CN, OC).
+- ↔ [[../casos/latam/fabiola-campillai]] (víctima del impacto cinético del bote, no del químico).
+- ↔ [[../ferias-de-armas/feindef/03-byrna]] (Bad Guy Repellent: CS + OC + pimienta).
 - ↔ [[../marco-legal/onu-orientaciones-2020]] (prohibición en recintos cerrados, prohibición de disparo directo al cuerpo).

@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: borrador
+estado: stub
 pais: Guatemala
 fecha_hechos: 2020-11
 contexto: Protestas contra el gobierno y el presupuesto nacional

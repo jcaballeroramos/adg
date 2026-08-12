@@ -78,7 +78,7 @@ Informe de **Amnistía Internacional** publicado en octubre de **2021** (código
 
 ## Conexiones
 - ↔ [[../../autores-y-referencias/agnes-callamard]] — citada como ex-Relatora sobre ejecuciones extrajudiciales.
-- ↔ [[../../autores-y-referencias/organizaciones/amnistia-internacional]] — institución editora.
+- ↔ [[../amnistia-internacional]] — institución editora.
 - ↔ [[osji-who-polices-the-police]] — paralelo: "¿quién vigila a la policía?"
 - ↔ [[coe-comisario-ddhh]] — los cinco principios europeos coinciden.
 - ↔ [[iridia-mecanismos-independientes]] — misma demanda desde Cataluña.

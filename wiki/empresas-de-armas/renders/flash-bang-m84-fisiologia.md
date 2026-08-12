@@ -43,5 +43,9 @@ Personaje de perfil. **Ondas de choque semi-transparentes** (anillos de cristal 
 > **EN:** "At the same time, the bang, reaching up to 180 decibels, overwhelms the enemy's ears."
 
 ## Conexiones
+- ↔ [[flash-bang-m84-tecnico]] — el desglose técnico de la misma granada (espoleta M240, deflagración).
+- ↔ [[../empresas/combined-systems]] — fabricante de granadas de aturdimiento.
+- ↔ [[../../casos/latam/fabiola-campillai]] — munición de la misma familia "menos letal".
+- ↔ [[../../ferias-de-armas/feindef/00-overview]] — armamento exhibido en FEINDEF.
 - Sirve de base infográfica para narrar lo que vivieron víctimas de granadas de aturdimiento (búsqueda pendiente de casos concretos).
 - Contraste entre la **estética limpia del render** y el horror clínico que describen los testimonios.

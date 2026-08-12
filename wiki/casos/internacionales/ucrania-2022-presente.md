@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: Ucrania
 año: 2022-presente
 fecha_inicio: 2022-02-24
@@ -60,6 +60,6 @@ Ucrania **no es el foco** de Artefactos de Guerra, pero es **el espejo** del fut
 - ↔ [[../../empresas-de-armas/empresas/anduril]] · [[../../empresas-de-armas/empresas/shield-ai]] · [[../../empresas-de-armas/empresas/vannevar-labs]] — el trío Silicon Valley.
 - ↔ [[../../empresas-de-armas/empresas/rheinmetall]] — capitalización x4.
 - ↔ [[../../empresas-de-armas/empresas/elbit-systems]] — drones Hermes.
-- ↔ [[../../herramientas/laws-armas-autonomas]] — validación operacional.
+- ↔ [[../../historia/laws-armas-autonomas]] — validación operacional.
 - ↔ [[../../empresas-de-armas/empresas/raytheon]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sobre futurología militar.

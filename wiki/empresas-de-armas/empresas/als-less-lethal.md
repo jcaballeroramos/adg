@@ -31,4 +31,4 @@ Fabricante **estadounidense** especializado en una gama amplia de munición y di
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[combined-systems]] · [[amtec-less-lethal]] · [[nonlethal-technologies]] — competidores directos.
+- ↔ [[combined-systems]] · [[amtec-less-lethal]] · [[nonlethal-technologies]] · [[lamperd-less-lethal]] — competidores directos.

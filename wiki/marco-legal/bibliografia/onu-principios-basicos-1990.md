@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: stub
+estado: completo
 autor: Naciones Unidas (8º Congreso sobre Prevención del Delito)
 año: 1990
 mes: septiembre
@@ -47,9 +47,9 @@ Los **superiores jerárquicos serán responsables** si **sabían o debieron sabe
 
 ## El incumplimiento sistemático
 **Todos los casos documentados** en el documental son violaciones explícitas de uno o más de estos principios:
-- [[../../casos/roger-espanol|Roger Español]] — viola los principios 4, 12 y 13.
-- [[../../casos/inigo-cabacas|Iñigo Cabacas]] — el mando condenado viola el principio 24.
-- [[../../casos/melilla-2022|Melilla 2022]] — viola los principios 4, 9, 12 y 13.
+- [[../../casos/espana-europa/roger-espanol|Roger Español]] — viola los principios 4, 12 y 13.
+- [[../../casos/espana-europa/inigo-cabacas|Iñigo Cabacas]] — el mando condenado viola el principio 24.
+- [[../../casos/espana-europa/melilla-2022|Melilla 2022]] — viola los principios 4, 9, 12 y 13.
 - [[../../casos/internacionales/iran-mahsa-amini-2022|Irán]] — viola sistemáticamente el 12, 13 y 22.
 
 ## Conexiones

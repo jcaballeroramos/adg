@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: borrador
+estado: stub
 nombre: Safran
 pais: Francia
 tags: [safran, francia, optronica, aasm-hammer, drones, patroller, vision-nocturna, biometria, eurosatory]
@@ -19,4 +19,4 @@ Safran es el **ojo tecnológico** de la feria: la optrónica que "ve" el objetiv
 ## Conexiones
 - ↔ [[../../ferias-de-armas/eurosatory-2026/01-videos]] — citado en los discursos y visible en stands (optrónica).
 - ↔ [[idemia]] — la biometría (ex-Morpho) como otra cara del mismo grupo tecnológico.
-- ↔ [[knds]] · [[mbda]] · [[arquus]] · [[rheinmetall]] — grandes primes europeos.
+- ↔ [[knds]] · [[mbda]] · [[arquus]] · [[rheinmetall]] · [[diehl-defence]] — grandes primes europeos.

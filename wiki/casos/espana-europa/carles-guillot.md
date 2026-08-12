@@ -198,7 +198,7 @@ Antes de la prohibición: **7 ojos perdidos en 5 años en Catalunya**.
 - ↔ [[inigo-cabacas]] — Bilbao 2012, Ertzaintza, muerto. Carles llevó la solidaridad de Stop Bales a Bilbao desde el primer día.
 - ↔ [[juan-andres-benitez]] — Raval 2013, paliza Mossos: el otro detonante de la prohibición catalana.
 - ↔ [[africa-pablo-hasel]] · [[olga-proces]] · [[roger-garcia-foam-2019]] · [[abdelillah-foam-2019]] — víctimas del foam que sustituyó a la pelota de goma en Catalunya.
-- ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo.
+- ↔ [[lince-bolonia-italia-2024]] — caso italiano paralelo.
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — el colectivo que cofundó.
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] · [[../../autores-y-referencias/organizaciones/novact]] — colaboración.
 - ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — la victoria política a la que su caso empuja.

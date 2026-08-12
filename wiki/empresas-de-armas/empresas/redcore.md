@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Redcore
 pais: Francia
 producto_emblematico: LBD Kann44 CLR, POK44 CC, PIE RC200P

@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Odortec Ltd.
 pais: Israel
 producto_emblematico: Skunk (líquido pestilente)

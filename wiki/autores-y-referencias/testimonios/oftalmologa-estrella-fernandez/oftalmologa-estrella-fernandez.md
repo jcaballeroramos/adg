@@ -40,8 +40,8 @@ El impacto provoca:
 
 ### 2. Destrucción ósea y riesgo cerebral
 - Fractura de las paredes óseas de la órbita.
-- Caso clínico presentado: **fractura del techo de la órbita** (hueso que separa el ojo del cerebro), **rotura del seno frontal**, **fístula de líquido cefalorraquídeo** que salía por el ojo, edema cerebral.
-- > "Este tipo de lesiones tiene un **importante potencial letal** si, en lugar de un edema, se produce una hemorragia."
+- Caso clínico presentado: **fractura del techo de la órbita** (hueso que separa el ojo del cerebro), **rotura del seno frontal**, **fístula de líquido cefalorraquídeo** que salía por el ojo; describió también riesgo de edema cerebral.
+- Explicó que este tipo de lesiones tiene un importante potencial letal si, en lugar de un edema, se produce una hemorragia.
 
 ### 3. Destrucción de los tejidos blandos
 Los párpados se desestructuran completamente. La textura al llegar a urgencias:
@@ -62,7 +62,7 @@ Los párpados se desestructuran completamente. La textura al llegar a urgencias:
 - Abandono prolongado de la vida laboral y social.
 
 ### 6. Conclusión médica rotunda
-> "Desde mi punto de vista médico, viendo cómo quedan estos pacientes y el riesgo de causar la muerte, **estas armas no pueden ser catalogadas como 'de baja letalidad'**."
+> "Desde mi punto de vista médico, viendo cómo quedan estos pacientes, **no lo puedo considerar de baja letalidad porque incluso puede ocasionar la muerte**."
 
 ## Anatomía explicada en la comparecencia
 - La órbita ósea se relaciona con el **cerebro**: lóbulo frontal arriba, seno maxilar abajo, hueso etmoidal hacia la fosa nasal, fosa craneal media.
@@ -80,6 +80,6 @@ Los párpados se desestructuran completamente. La textura al llegar a urgencias:
 > "Es un traumatismo de alta energía, catalogado como de 'baja letalidad', curiosamente."
 
 ## Conexiones
-- ↔ [[../casos/roger-espanol]] (la cirujana describe lo que le pasó a Roger).
-- ↔ [[../casos/fabiola-campillai]] (lesiones equivalentes en Chile).
-- ↔ [[../marco-legal/amnistia-internacional]] (Amnistía pide evaluaciones independientes — esta es exactamente eso).
+- ↔ [[../../../casos/espana-europa/roger-espanol]] (la cirujana describe lo que le pasó a Roger).
+- ↔ [[../../../casos/latam/fabiola-campillai]] (lesiones equivalentes en Chile).
+- ↔ [[../../../marco-legal/amnistia-internacional]] (Amnistía pide evaluaciones independientes — esta es exactamente eso).

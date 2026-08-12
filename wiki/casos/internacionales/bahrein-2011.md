@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: Bahréin
 año: 2011
 fecha_inicio: 2011-02-14
@@ -57,7 +57,7 @@ A diferencia de Egipto y Túnez, Bahréin fue **casi completamente ignorada** po
 - **Decenas más** documentadas nominalmente por PHR.
 
 ## Conexiones
-- ↔ [[00-indice]]
+- ↔ [[../../empresas-de-armas/empresas/00-indice]]
 - ↔ [[egipto-tahrir-2011]] · [[tunez-2011]] · [[libia-2011]] · [[siria-2011]] · [[libano-thawra-2019]] — contexto Primavera Árabe.
 - ↔ [[../../empresas-de-armas/empresas/combined-systems]] · [[../../empresas-de-armas/empresas/nonlethal-technologies]] — fabricantes identificados.
 - ↔ [[../../autores-y-referencias/rohini-haar]] — el informe PHR.

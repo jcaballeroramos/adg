@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: borrador
+estado: stub
 pais: Nepal
 fecha_hechos: 2024
 contexto: Protestas contra la corrupción y el cierre de redes sociales (Gen Z)

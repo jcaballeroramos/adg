@@ -1,6 +1,6 @@
 ---
 tipo: historia
-estado: borrador
+estado: stub
 artefacto: Cañón de agua
 tags: [historia, water-cannon, nazis, birmingham, derechos-civiles, venezuela]
 ---
@@ -16,7 +16,7 @@ Aunque el agua se usaba para apagar incendios, su **conversión en arma antidist
 Su uso se masificó a nivel mundial tras hacerse tristemente célebres en **1963 en Birmingham (Alabama, EE.UU.)**, cuando la policía lanzó violentos chorros a alta presión contra **estudiantes afroamericanos** que luchaban por los derechos civiles.
 
 ### Bestiario mecánico contemporáneo
-En el siglo XXI la tecnología se ha perfeccionado tanto que en países como **Venezuela** se han importado enormes vehículos chinos bautizados popularmente con nombres de animales:
+En el siglo XXI la tecnología se ha perfeccionado tanto que en países como **Venezuela** se han importado enormes vehículos chinos ([[../empresas-de-armas/empresas/norinco|Norinco]]) bautizados popularmente con nombres de animales:
 - **El murciélago**
 - **El rinoceronte**
 - **La ballena**
@@ -24,5 +24,6 @@ En el siglo XXI la tecnología se ha perfeccionado tanto que en países como **V
 Funcionan como **jaulas móviles** y pueden lanzar cuerpos por los aires.
 
 ## Conexiones
-- Aparecen en el [[../entrenamientos/marines-camp-pendleton]] como mangueras a alta presión contra los propios marines.
+- Fabricantes con ficha: [[../empresas-de-armas/empresas/sides-canones-agua|Sides]] (Francia), [[../empresas-de-armas/empresas/rheinmetall|Rheinmetall]] (Alemania), [[../empresas-de-armas/empresas/norinco|Norinco]] (China).
+- Aparecen en el [[../usos-de-armas/entrenamientos/marines-camp-pendleton]] como mangueras a alta presión contra los propios marines.
 - Las **Orientaciones ONU 2020** ([[../marco-legal/onu-orientaciones-2020]]) los limitan a "graves desórdenes públicos" y prohíben el chorro a corta distancia o contra personas en posiciones elevadas.

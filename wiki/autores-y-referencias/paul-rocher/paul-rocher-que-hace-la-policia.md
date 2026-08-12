@@ -145,11 +145,11 @@ Este libro es **la pieza teórica central** del documental. Proporciona:
 - ↔ [[../../marco-legal/bibliografia/centre-delas-armas-letales]] — el Centre Delàs cita extensamente a Rocher.
 - ↔ [[../../autores-y-referencias/david-dufresne]] — citado en el libro (Allô Place Beauvau).
 - ↔ [[../../autores-y-referencias/sven-lindqvist]] — genealogía colonial compartida.
-- ↔ [[../../casos/remi-fraisse]] — caso citado (Sivens 2014, 700+ granadas).
-- ↔ [[../../casos/steve-maia-canico]] — caso citado (Nantes 2019).
-- ↔ [[../../casos/internacionales/chile-1973-pinochet]] — paradigma Cono Sur.
-- ↔ [[../../casos/internacionales/argentina-1976-dictadura]] — Operación Cóndor.
-- ↔ [[../../casos/stephen-geddis]] — Irlanda del Norte, orden sin policía.
+- ↔ [[../../casos/espana-europa/remi-fraisse]] — caso citado (Sivens 2014, 700+ granadas).
+- ↔ [[../../casos/espana-europa/steve-maia-canico]] — caso citado (Nantes 2019).
+- ↔ [[../../casos/latam/chile-1973-pinochet]] — paradigma Cono Sur.
+- ↔ [[../../casos/latam/argentina-1976-dictadura]] — Operación Cóndor.
+- ↔ [[../../casos/espana-europa/stephen-geddis]] — Irlanda del Norte, orden sin policía.
 - ↔ [[../../empresas-de-armas/empresas/alsetex]] · [[../../empresas-de-armas/empresas/verney-carron]] — encargo LBD40 Francia.
 - ↔ [[../../marco-legal/onu-orientaciones-2020]] — marco ONU citado.
 - ↔ [[../../marco-legal/bibliografia/osji-who-polices-the-police]] — la pregunta de Juvenal.

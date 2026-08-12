@@ -10,6 +10,8 @@ resultado: muerte (destrozada la nuca)
 tags: [remi-fraisse, francia, sivens, gli-f4, gendarmería, ecologismo, manos-arriba]
 ---
 
+> ⚠️ **Dato en disputa dentro de esta ficha**: el frontmatter dice GLI-F4 y la nota de precisión cronológica dice OF-F1. Los recuentos de granadas tampoco cuadran (700+ vs 339). Pendiente de verificación primaria antes de usar en pantalla.
+
 # Caso · Rémi Fraisse (Presa de Sivens, 25-26 octubre 2014)
 
 ## Quién era
@@ -76,7 +78,7 @@ Un testigo de la noche:
 > ⚠️ **Precisión cronológica crítica**: la granada que mató a Fraisse fue la **OF-F1 (Offensive F1)** — más letal que la GLI-F4. La GLI-F4 fue su reemplazo y la que después mutiló a chalecos amarillos antes de ser prohibida por Castaner el 26 ene 2020.
 
 ## Conexiones
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — la sección "Lo que me interesa más" describe Sivens en detalle.
-- ↔ [[../empresas-de-armas/empresas/00-indice]] — la GLI-F4 (= SAE 810).
-- ↔ [[../historia/armas-quimicas]].
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — la sección "Lo que me interesa más" describe Sivens en detalle.
+- ↔ [[../../empresas-de-armas/empresas/00-indice]] — la GLI-F4 (= SAE 810).
+- ↔ [[../../historia/armas-quimicas]].
 - ↔ [[steve-maia-canico]] — otra muerte por gases lacrimógenos en Francia, Nantes.

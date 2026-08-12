@@ -33,12 +33,12 @@ Empresa estadounidense de tecnología de defensa fundada en **2017** por **Palme
 - Es la **cara visible** del nuevo complejo militar-tech de Silicon Valley.
 - Su producto **Sentry Tower** se usa en la frontera entre EE.UU. y México.
 - Encarna el siguiente paso del paradigma "no letal": **armas autónomas** que delegan la decisión a un algoritmo.
-- Conecta directamente con [[../../herramientas/laws-armas-autonomas]] y con la posición de la ONU sobre LAWS.
+- Conecta directamente con [[../../historia/laws-armas-autonomas]] y con la posición de la ONU sobre LAWS.
 
 ## Conexiones
 - ↔ [[vannevar-labs]] y [[shield-ai]] — el "trío" Silicon Valley en defensa.
-- ↔ [[../../herramientas/laws-armas-autonomas]] — el debate sobre Lethal Autonomous Weapons Systems.
-- ↔ [[../../herramientas/symposium-non-lethal-weapons-2026]] — el foro donde se normaliza este tipo de tecnología.
+- ↔ [[../../historia/laws-armas-autonomas]] — el debate sobre Lethal Autonomous Weapons Systems.
+- ↔ [[../../ferias-de-armas/congresos/symposium-non-lethal-weapons-2026]] — el foro donde se normaliza este tipo de tecnología.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"el aparato represivo se rodea no solo de ingenieros sino también de escritores de ciencia ficción y futurólogos"*.
 
 ## Fuentes

@@ -36,6 +36,6 @@ Esta frase, citada por [[../../autores-y-referencias/paul-rocher/paul-rocher|Pau
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[brugger-thomet]] — el competidor suizo del LBD40.
-- ↔ [[../../casos/roger-espanol]] · [[../../casos/ester-quintana]] · [[../../casos/carles-guillot]] · [[../../casos/africa-pablo-hasel]].
+- ↔ [[../../casos/espana-europa/roger-espanol]] · [[../../casos/espana-europa/ester-quintana]] · [[../../casos/espana-europa/carles-guillot]] · [[../../casos/espana-europa/africa-pablo-hasel]].
 - ↔ [[../../historia/balas-goma]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]].

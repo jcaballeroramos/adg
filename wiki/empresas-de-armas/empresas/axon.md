@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Axon Enterprise (antes TASER International)
 pais: Estados Unidos
 producto_emblematico: Taser X26
@@ -20,7 +20,6 @@ Empresa **estadounidense**, anteriormente llamada **TASER International**. Es **
 - Productos: Tasers (pistolas eléctricas), cámaras corporales policiales, software de gestión de evidencias.
 
 ## El nombre — historia colonial
-El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, ingeniero de la NASA. Viene del libro **"Thomas A. Swift Electric Rifle"** — una **novela juvenil** sobre exploradores blancos que usan tecnología eléctrica para **cazar elefantes africanos**.
 → ver [[../../historia/taser]] para la historia colonial completa.
 
 ## El Taser X26 según la ONU
@@ -34,8 +33,8 @@ El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, ingeniero
 - Bloquea el sistema nervioso
 
 ## Casos
-- **[[../../casos/antonio-c-badalona|Antonio C. — primera muerte por taser en Catalunya]]** (Badalona 2021): 6 descargas de 5 segundos, 2 cuando ya estaba reducido y desarmado. Informe Omega 2025 sobre mala praxis.
-- **[[../../casos/latam/ee-uu-frontera-sur|Tasers en la frontera sur de EE.UU.]]**: 450+ incidentes documentados (2010-2013), incluyendo Tasers contra menores.
+- **[[../../casos/espana-europa/antonio-c-badalona|Antonio C. — primera muerte por taser en Catalunya]]** (Badalona 2021): 6 descargas de 5 segundos, 2 cuando ya estaba reducido y desarmado. Informe Omega 2025 sobre mala praxis.
+- **[[../../casos/estados-unidos/ee-uu-frontera-sur|Tasers en la frontera sur de EE.UU.]]**: 450+ incidentes documentados (2010-2013), incluyendo Tasers contra menores.
 - **[[../../casos/latam/00-compilacion-latam|LATAM]]**: aumento del 500% en uso de Tasers entre 2010 y 2017.
 
 ## En España
@@ -50,7 +49,7 @@ El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, ingeniero
   - <https://www.ayto-alcaladehenares.es/alcala-de-henares-acoge-el-primer-curso-en-espana-del-ecosistema-axon-taser-10/>
 - **Formación comercial**: cursos de "dispositivos eléctricos de control y defensas eléctricas" (p. ej. Netpol), que normalizan y capacitan en el uso del taser fuera de la estructura policial pública.
   - <https://netpol.es/producto/curso-de-dispositivos-electricos-de-control-y-defensas-electricas/>
-- **Estrategia**: Axon **acude a las policías a hacer demostraciones** y **defiende públicamente el uso policial** del taser (ver el entrenamiento de Columbus en [[../feindef/05-taser-lrad]]). Ver también el despliegue español en [[../../historia/taser#despliegue-y-normalización-en-españa-2025-2026]].
+- **Estrategia**: Axon **acude a las policías a hacer demostraciones** y **defiende públicamente el uso policial** del taser (ver el entrenamiento de Columbus en [[../../ferias-de-armas/feindef/05-taser-lrad]]). Ver también el despliegue español en [[../../historia/taser#despliegue-y-normalización-en-españa-2025-2026]].
 
 ## Conexiones
 - ↔ [[00-indice]]
@@ -58,6 +57,6 @@ El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, ingeniero
 - ↔ [[../../marco-legal/bibliografia/civio-taser-protocolos-2024]] — Civio cruza esas advertencias con los protocolos españoles.
 - ↔ [[../../marco-legal/bibliografia/sacmill-taser-x2-2016]] · [[../../marco-legal/bibliografia/iopc-taser-review-2021]] — evidencia médica y de supervisión británica.
 - ↔ [[../../historia/taser]] — historia colonial completa.
-- ↔ [[../../casos/antonio-c-badalona]].
-- ↔ [[../../empresas-de-armas/feindef/05-taser-lrad]].
+- ↔ [[../../casos/espana-europa/antonio-c-badalona]].
+- ↔ [[../../ferias-de-armas/feindef/05-taser-lrad]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — sección sobre la electricidad como arma "policial" tras pasar del control del ganado.

@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: Estados Unidos
 ciudad: Los Ángeles
 año: 1991
@@ -59,7 +59,7 @@ King recibe **3,8 millones de dólares** en daños civiles del LAPD.
 - **George Holliday** murió de COVID-19 en septiembre de 2021. Su cinta original fue **subastada en abril 2021**.
 
 ## Conexiones
-- ↔ [[../empresas-de-armas/empresas/axon]] — Axon (antes Taser International) se construye sobre la **rehabilitación de imagen** post-Rodney King.
-- ↔ [[../historia/taser]] — historia del arma.
-- ↔ [[../casos/latam/ee-uu-frontera-sur]] · otras víctimas estadounidenses.
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita el caso como inflexión.
+- ↔ [[../../empresas-de-armas/empresas/axon]] — Axon (antes Taser International) se construye sobre la **rehabilitación de imagen** post-Rodney King.
+- ↔ [[../../historia/taser]] — historia del arma.
+- ↔ [[ee-uu-frontera-sur]] · otras víctimas estadounidenses.
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita el caso como inflexión.

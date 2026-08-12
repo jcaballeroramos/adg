@@ -39,7 +39,7 @@ Empresa **estatal china** fabricante de armas. Proveedor de equipos militares y 
 
 ### Milipol París 2017
 - En **2017**, los trabajadores de **Norinco expusieron en Milipol** mostrando los **vehículos y equipos** que ya estaban en uso en Venezuela.
-- → ver [[../ferias-de-armas/milipol]].
+- → ver [[../../ferias-de-armas/milipol]].
 
 ## Por qué importa para el documental
 - **Único proveedor estatal chino** del sector "menos letal" mundial.
@@ -49,6 +49,6 @@ Empresa **estatal china** fabricante de armas. Proveedor de equipos militares y 
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[../../casos/latam/venezuela-2017-2019]] — el caso paradigmático.
-- ↔ [[../ferias-de-armas/milipol]] — su exposición en 2017.
+- ↔ [[../../ferias-de-armas/milipol]] — su exposición en 2017.
 - ↔ [[../../historia/canones-agua]] — el bestiario mecánico de los cañones de agua.
 - ↔ [[cheddite]] — los perdigones de plomo italianos también se usaron en Venezuela.

@@ -80,11 +80,11 @@ El congreso concentra formación en **uso de la fuerza y armamento** en un mismo
 - Muestra el **circuito formativo paralelo** en uso de la fuerza: no una academia pública, sino una asociación policial que monta un congreso con **patrocinio de la industria** dentro de una sede oficial.
 - Normaliza en un mismo espacio el **tiro real, el Taser y las técnicas de control físico**, presentados como "técnicas y tendencias" y actualización profesional.
 - La presencia de **stands de fabricantes** conecta la formación con el **marketing de armamento** (mismo patrón que se observa en ferias y en el discurso de la propia industria).
-- Contrapunto útil al material de [[lexipol-gordon-graham]]: allí la industria admite que "menos letal no es no letal"; aquí ese mismo armamento (control electrónico, defensa) se enseña como destreza táctica sin ese matiz explícito.
+- Contrapunto útil al material de [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham]]: allí la industria admite que "menos letal no es no letal"; aquí ese mismo armamento (control electrónico, defensa) se enseña como destreza táctica sin ese matiz explícito.
 
 ## Conexiones
-- ↔ [[lexipol-gordon-graham]] — el otro polo de la formación en armas menos letales: la advertencia corporativa frente al entrenamiento táctico "de campo".
-- ↔ [[marines-camp-pendleton]] · [[marines-non-lethal-pista]] — entrenamiento físico/táctico del mismo paradigma de uso de la fuerza. *(Verificar nombres de nota exactos.)*
+- ↔ [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham]] — el otro polo de la formación en armas menos letales: la advertencia corporativa frente al entrenamiento táctico "de campo".
+- ↔ [[../../usos-de-armas/entrenamientos/marines-camp-pendleton]] · [[../../usos-de-armas/entrenamientos/marines-non-lethal-pista]] — entrenamiento físico/táctico del mismo paradigma de uso de la fuerza. *(Verificar nombres de nota exactos.)*
 - ↔ [[../../historia/taser]] — el "dispositivo de control electrónico" que aquí se enseña en taller operativo.
 - ↔ [[../../marco-legal/onu-relatora-tortura]] — el marco de derechos frente a la normalización del armamento en formación.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher]] — la relación entre industria, policía y armamento menos letal.

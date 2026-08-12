@@ -19,7 +19,7 @@ tags: [forensic-architecture, weizman, goldsmiths, ddhh, reconstrucción, vfame]
 ## Por qué importa para el documental
 - Es **el modelo metodológico** que combina arquitectura, IA y derechos humanos.
 - **Pionera** en usar herramientas de **reconstrucción 3D y análisis open-source** para investigar casos de violencia policial y militar (Black Lives Matter, Palestina, Siria, Belarús).
-- Su trabajo es **directamente paralelo** al de [[vframe]] (detección automatizada de munición) y al de [[../autores-y-referencias/organizaciones/iridia|Irídia]] (análisis manual del caso Roger Español).
+- Su trabajo es **directamente paralelo** al de [[../../herramientas/vframe]] (detección automatizada de munición) y al de [[iridia|Irídia]] (análisis manual del caso Roger Español).
 
 ## Casos relevantes
 - **Black Lives Matter** — reconstrucciones de protestas reprimidas.
@@ -27,7 +27,7 @@ tags: [forensic-architecture, weizman, goldsmiths, ddhh, reconstrucción, vfame]
 - Trabajo continuo con **Amnistía Internacional**, **Bellingcat**, **Berliner Zeitung**.
 
 ## Conexiones
-- ↔ [[vframe]] — la herramienta open-source de detección.
-- ↔ [[../autores-y-referencias/organizaciones/iridia]] — el caso Roger Español como **el embrión** del tipo de proyectos forenses audiovisuales que Forensic Architecture industrializa.
-- ↔ [[yolo-v3-weapon-detection]] — la tecnología base.
-- ↔ [[laws-armas-autonomas]].
+- ↔ [[../../herramientas/vframe]] — la herramienta open-source de detección.
+- ↔ [[iridia]] — el caso Roger Español como **el embrión** del tipo de proyectos forenses audiovisuales que Forensic Architecture industrializa.
+- ↔ [[../../herramientas/yolo-v3-weapon-detection]] — la tecnología base.
+- ↔ [[../../historia/laws-armas-autonomas]].

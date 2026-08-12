@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: stub
+estado: completo
 autor: Asamblea General de las Naciones Unidas
 año: 1979
 fecha_exacta: 1979-12-17

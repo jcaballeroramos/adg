@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Zira Silah Sanayi
 pais: Turquía
 producto_emblematico: Pistolas traumáticas Blow F92

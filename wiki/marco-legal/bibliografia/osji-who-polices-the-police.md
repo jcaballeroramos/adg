@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: borrador
+estado: completo
 editor: Open Society Justice Initiative (OSJI)
 año: 2021
 ambito: internacional (11 AII + 3 fiscalías especializadas)
@@ -126,6 +126,6 @@ España es **citada explícitamente** como uno de los países europeos con **aus
 - ↔ [[coe-comisario-ddhh]] — mismo análisis desde el Consejo de Europa.
 - ↔ [[amnistia-policia-bajo-la-lupa]] — diagnóstico Amnistía España.
 - ↔ [[transparencia-cuerpos-policiales-espana]] — el equivalente estatal.
-- ↔ [[../../casos/stephen-geddis]] — Irlanda del Norte como caso histórico.
-- ↔ [[../../casos/remi-fraisse]] — citado en el informe.
+- ↔ [[../../casos/espana-europa/stephen-geddis]] — Irlanda del Norte como caso histórico.
+- ↔ [[../../casos/espana-europa/remi-fraisse]] — citado en el informe.
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — la organización que impulsa la misma agenda en España.

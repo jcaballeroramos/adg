@@ -87,4 +87,4 @@ Fuentes:
 - ↔ [[ester-quintana]] y [[roger-espanol]] — junto con Iñigo, los tres casos que forzaron las prohibiciones autonómicas.
 - ↔ [[carles-guillot]] — fundador de Stop Bales de Goma, del que el caso de Iñigo es referencia constante.
 - ↔ [[compilacion-espana]] — única condena entre 40 casos documentados.
-- ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — la cronología completa de prohibiciones.
+- ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — la cronología completa de prohibiciones.

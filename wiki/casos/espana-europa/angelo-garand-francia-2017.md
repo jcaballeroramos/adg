@@ -58,7 +58,7 @@ El GENI es un **colectivo ciudadano francés** dedicado a la **contra-investigac
 - Confrontación de las versiones oficiales con la evidencia física.
 - Publicación abierta (YouTube) para que la ciudadanía pueda verificar.
 
-Es un modelo similar al de [[../../herramientas/forensic-architecture|Forensic Architecture]] y al trabajo de [[../../autores-y-referencias/organizaciones/iridia|Irídia]] en el caso de [[../../casos/roger-espanol|Roger Español]] (análisis audiovisual para identificar al agente que disparó).
+Es un modelo similar al de [[../../autores-y-referencias/organizaciones/forensic-architecture|Forensic Architecture]] y al trabajo de [[../../autores-y-referencias/organizaciones/iridia|Irídia]] en el caso de [[../espana-europa/roger-espanol|Roger Español]] (análisis audiovisual para identificar al agente que disparó).
 
 ## Por qué importa para el documental
 - **Taser como prólogo letal** — caso paradigmático del «efecto del arma» de Rocher.
@@ -70,12 +70,12 @@ Es un modelo similar al de [[../../herramientas/forensic-architecture|Forensic A
 ## Conexiones
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-que-hace-la-policia]] — el Taser como «efecto del arma», la forma policía.
 - ↔ [[../../autores-y-referencias/david-dufresne]] — impunidad policial en Francia.
-- ↔ [[../../casos/remi-fraisse]] — muerte por granada GLI-F4 (2014).
-- ↔ [[../../casos/steve-maia-canico]] — muerte tras carga policial (2019).
-- ↔ [[../../casos/antonio-c-badalona]] — primera muerte por Taser en Catalunya (2021).
+- ↔ [[../espana-europa/remi-fraisse]] — muerte por granada GLI-F4 (2014).
+- ↔ [[../espana-europa/steve-maia-canico]] — muerte tras carga policial (2019).
+- ↔ [[../espana-europa/antonio-c-badalona]] — primera muerte por Taser en Catalunya (2021).
 - ↔ [[../../empresas-de-armas/empresas/axon]] — fabricante del Taser.
 - ↔ [[../../historia/taser]] — historia del arma.
-- ↔ [[../../herramientas/forensic-architecture]] — metodología comparable al GENI.
+- ↔ [[../../autores-y-referencias/organizaciones/forensic-architecture]] — metodología comparable al GENI.
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — análisis audiovisual para atribución de responsabilidad.
 - ↔ [[../../marco-legal/bibliografia/osji-who-polices-the-police]] — la pregunta de Juvenal aplicada al caso.
 - ↔ [[../../autores-y-referencias/fionnuala-ni-aolain]] — informe A/78/324 sobre armas «menos letales» y tortura.

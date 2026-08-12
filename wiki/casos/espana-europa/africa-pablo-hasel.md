@@ -39,7 +39,7 @@ Le **dispararon a 22 metros** de distancia. **Perdió un ojo**.
 A raíz de este caso, en el marco del litigio estratégico de **Iridia**, **se prohíbe el uso de munición SIRX en Cataluña**.
 
 ## El testimonio personal (Carne Cruda · noviembre 2024)
-En **noviembre de 2024**, **Áfrika** da **por primera vez su testimonio** en un medio de comunicación. Lo hace en el programa **«Carne Cruda · T12x47 — Tu palabra contra la de la policía»** (26 de noviembre de 2024), en colaboración con [[../autores-y-referencias/organizaciones/iridia|Irídia]].
+En **noviembre de 2024**, **Áfrika** da **por primera vez su testimonio** en un medio de comunicación. Lo hace en el programa **«Carne Cruda · T12x47 — Tu palabra contra la de la policía»** (26 de noviembre de 2024), en colaboración con [[../../autores-y-referencias/organizaciones/iridia|Irídia]].
 
 Su testimonio, en primera persona:
 
@@ -71,9 +71,9 @@ Es **la primera pieza sonora importante** del ecosistema mediático español que
 - ↔ [[roger-garcia-foam-2019]] · [[abdelillah-foam-2019]] — las otras víctimas de foam de los Mossos que también dieron testimonio en el mismo programa de Carne Cruda.
 - ↔ [[olga-proces]] — otra víctima de bala de foam de los Mossos en protestas.
 - ↔ [[ester-quintana]] y [[roger-espanol]] — el ciclo bala de goma → bala de foam, "el remplazo que también ciega".
-- ↔ [[../autores-y-referencias/organizaciones/iridia]] — quien lleva el litigio estratégico.
-- ↔ [[../casos/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología clínica del estallido ocular por proyectiles de alta energía.
-- ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — capítulo "el reemplazo".
-- ↔ [[mossos-instrucciones-armamento]] — los protocolos oficiales.
-- ↔ [[../marco-legal/bibliografia/iridia-pla-accio]] · [[../marco-legal/bibliografia/iridia-mecanismos-independientes]].
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"las armas no letales propician el gatillo fácil"*.
+- ↔ [[../../autores-y-referencias/organizaciones/iridia]] — quien lleva el litigio estratégico.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología clínica del estallido ocular por proyectiles de alta energía.
+- ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — capítulo "el reemplazo".
+- ↔ [[../../marco-legal/mossos-instrucciones-armamento]] — los protocolos oficiales.
+- ↔ [[../../marco-legal/bibliografia/iridia-pla-accio]] · [[../../marco-legal/bibliografia/iridia-mecanismos-independientes]].
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"las armas no letales propician el gatillo fácil"*.

@@ -1,6 +1,6 @@
 ---
 tipo: autor
-estado: stub
+estado: borrador
 nombre: Stuart Casey-Maslen
 pais: Reino Unido
 profesion: Jurista, académico, consultor en desarme

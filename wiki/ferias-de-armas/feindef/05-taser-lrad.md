@@ -32,7 +32,7 @@ Tras el ejercicio:
 ## Lectura
 - Lógica común: la responsabilidad se traslada por completo al ciudadano. "No te haría falta esto si cumplieras".
 - El LRAD se vende como **prueba audiovisual de la advertencia**, no como arma — pero el contenido del mensaje **es la amenaza directa de gas lacrimógeno**.
-- Vincular con [[../historia/armas-acusticas]] (genealogía nazi → G20 → Belgrado 2025).
+- Vincular con [[../../historia/armas-acusticas]] (genealogía nazi → G20 → Belgrado 2025).
 
 ## Conexiones
 - ↔ [[00-overview]] — la feria FEINDEF en conjunto.

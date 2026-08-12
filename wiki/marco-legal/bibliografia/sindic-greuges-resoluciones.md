@@ -31,5 +31,5 @@ El **Síndic de Greuges de Catalunya** (defensor del pueblo catalán) emitió **
 ## Conexiones
 - ↔ [[../bibliografia]] — índice maestro.
 - ↔ [[../cataluna-prohibicion-balas-goma]] — la cronología completa.
-- ↔ [[../../casos/ester-quintana]] · [[../../casos/juan-andres-benitez]] · [[../../casos/carles-guillot]] — los casos catalanes que lo motivan.
-- ↔ [[../../testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la comparecencia del Parlament 2013, mismo año que la 2ª resolución del Síndic.
+- ↔ [[../../casos/espana-europa/ester-quintana]] · [[../../casos/espana-europa/juan-andres-benitez]] · [[../../casos/espana-europa/carles-guillot]] — los casos catalanes que lo motivan.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la comparecencia del Parlament 2013, mismo año que la 2ª resolución del Síndic.

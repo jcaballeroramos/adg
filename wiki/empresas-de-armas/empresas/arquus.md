@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: borrador
+estado: stub
 nombre: Arquus
 pais: Francia
 tags: [arquus, francia, blindados, pvp, scorpion, volvo, vehiculos-militares, bri, eurosatory]
@@ -18,4 +18,4 @@ Arquus es el **puente material entre ejército y policía**: el mismo blindado q
 ## Conexiones
 - ↔ [[../../ferias-de-armas/eurosatory-2026/01-videos]] — el PVP en la demo de la BRI (id 107).
 - ↔ [[knds]] — socio en el programa Scorpion (Griffon/Jaguar).
-- ↔ [[mbda]] · [[safran]] · [[rheinmetall]] — grandes primes europeos.
+- ↔ [[mbda]] · [[safran]] · [[rheinmetall]] · [[diehl-defence]] — grandes primes europeos.

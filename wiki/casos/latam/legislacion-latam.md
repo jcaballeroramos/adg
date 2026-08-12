@@ -65,7 +65,7 @@ Se realizaron **préstamos y donaciones de armamento entre países** **sin regul
 - Ha llevado a **abusos y violaciones** documentadas en la frontera sur.
 - **Falta de supervisión y rendición de cuentas**.
 - Uso de **armas no autorizadas** como **dispositivos acústicos** contra migrantes.
-- → ver [[ee-uu-frontera-sur]].
+- → ver [[../estados-unidos/ee-uu-frontera-sur]].
 
 ## 🇬🇹 Guatemala
 
@@ -101,7 +101,7 @@ A pesar de esta ley clara, se han documentado **violaciones sistemáticas** dura
 
 > En **todos los países** documentados — Bolivia, Ecuador, Venezuela y muchos más — el argumento de "**seguridad nacional**" **bloquea** el acceso público a la información sobre **qué se compra, cuánto se paga y a quién**.
 
-Es **el mismo argumento** que usan los Estados europeos: lo vimos en [[../compilacion-espana]] sobre el Estado español, en la sección sobre [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista|Paul Rocher]] sobre Francia, y aquí lo encontramos replicado en cada país latinoamericano.
+Es **el mismo argumento** que usan los Estados europeos: lo vimos en [[../espana-europa/compilacion-espana]] sobre el Estado español, en la sección sobre [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista|Paul Rocher]] sobre Francia, y aquí lo encontramos replicado en cada país latinoamericano.
 
 > **La opacidad es el sistema operativo del comercio de la represión.**
 
@@ -111,4 +111,4 @@ Es **el mismo argumento** que usan los Estados europeos: lo vimos en [[../compil
 - ↔ [[intermediarios-latam]].
 - ↔ [[../../marco-legal/onu-relatora-tortura]] — el marco legal internacional que se incumple.
 - ↔ [[../../marco-legal/onu-orientaciones-2020]].
-- ↔ [[../compilacion-espana]] — el equivalente del patrón en España.
+- ↔ [[../espana-europa/compilacion-espana]] — el equivalente del patrón en España.

@@ -41,10 +41,10 @@ Mapa mundial de destinos de exportación documentados de NonLethal Technologies:
 - **Bahréin** (2011) — ver [[../../casos/internacionales/bahrein-2011]], **34+ muertes**.
 - **Egipto** (2011) — ver [[../../casos/internacionales/egipto-tahrir-2011]].
 - **Turquía** (2013) — protestas de Gezi.
-- **EE.UU.** (CBP, frontera sur) — ver [[../../casos/latam/ee-uu-frontera-sur]].
-- **Hong Kong** (2019-2020).
-- **Chile** (2019) — el estallido, Fabiola Campillai.
-- **Colombia** (2021) — Paro Nacional.
+- **EE.UU.** (CBP, frontera sur) — ver [[../../casos/estados-unidos/ee-uu-frontera-sur]].
+- **[[../../casos/internacionales/hong-kong-2019-2020|Hong Kong]]** (2019-2020).
+- **[[../../casos/latam/chile-estallido-2019|Chile]]** (2019) — el estallido, [[../../casos/latam/fabiola-campillai|Fabiola Campillai]].
+- **[[../../casos/latam/colombia-2021|Colombia]]** (2021) — Paro Nacional.
 - **Minneapolis y Portland** (2020) — Black Lives Matter.
 
 ### 3. «The regulatory vacuum»
@@ -61,7 +61,7 @@ Uno de los extrabajadores — identificado solo como **«J.»** — resume:
 ### 5. «The pattern»
 El reportaje cierra conectando Homer City con **otras fábricas similares en el mundo**:
 - **Jamesburg, New Jersey** (Combined Systems Inc., ver [[../empresas/combined-systems]]) — rodeada por una comunidad residencial.
-- **Cheddite** (Livorno, Italia) — junto al puerto y zonas habitadas.
+- **Cheddite** (Livorno, Italia) — junto al puerto y zonas habitadas. ⚠ según su propia ficha, [[../empresas/cheddite]] fabrica cartuchos de caza, no gas — atribución del reportaje pendiente de verificar.
 - **Condor** (Nova Iguaçu, Brasil) — en una zona metropolitana de Río de Janeiro.
 - **Rheinmetall** (Unterlüß, Alemania) — en zona forestal pero con aldeas cercanas.
 - **MAXAM** (varios centros en España) — incluyendo históricos cerca de Galdácano.

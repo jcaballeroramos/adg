@@ -27,7 +27,7 @@ tags: [gustavo-gatica, chile, estallido-2019, perdigones, carabineros, claudio-c
 
 Durante el [[chile-estallido-2019|estallido social]], Gustavo Gatica recibió **dos disparos de perdigones en el rostro** que le reventaron ambos ojos en Plaza Italia (rebautizada Plaza Dignidad por el movimiento). La foto de Gatica sentado en la acera tras quedar ciego (8 nov 2019, fotógrafo Osvaldo Pereira) se convirtió en **imagen mundial** del estallido.
 
-Junto a [[fabiola-campillai|Fabiola Campillai]] —cegada once días antes—, Gatica es **una de las dos víctimas oculares emblemáticas** del estallido chileno, en el que el INDH documentó **+460 personas con trauma ocular**.
+Junto a [[fabiola-campillai|Fabiola Campillai]] —cegada dieciocho días después—, Gatica es **una de las dos víctimas oculares emblemáticas** del estallido chileno, en el que el INDH documentó **+460 personas con trauma ocular**.
 
 ## Proceso judicial
 
@@ -37,7 +37,7 @@ El capitán de Fuerzas Especiales de Carabineros **Claudio Crespo** fue identifi
 
 - **La imagen del estallido chileno**: la foto de Gatica ciego es uno de los íconos visuales de la violencia ocular global de 2019.
 - **El par con Campillai**: dos jóvenes cegados en pocas semanas por la misma fuerza (Carabineros) con la misma arma (perdigones / lacrimógena), uno por cada extremo del estallido. Juntos resumen el patrón.
-- **Identificación + condena**: a diferencia de la mayoría de casos, aquí el agente (Claudio Crespo) fue individualizado y juzgado — espejo de [[roger-espanol|Roger Español]] en España.
+- **Identificación + condena**: a diferencia de la mayoría de casos, aquí el agente (Claudio Crespo) fue individualizado y juzgado — espejo de [[../espana-europa/roger-espanol|Roger Español]] en España.
 - **Eslabón del coro internacional de víctimas oculares**: Chile → [[colombia-2021|Colombia]] → [[../internacionales/iran-mahsa-amini-2022|Irán]] → [[../espana-europa/roger-espanol|España]].
 
 ## Material visual
@@ -49,10 +49,10 @@ El capitán de Fuerzas Especiales de Carabineros **Claudio Crespo** fue identifi
 ## Conexiones
 
 - ↔ [[chile-estallido-2019]] — el contexto: +460 traumas oculares.
-- ↔ [[fabiola-campillai]] — la otra víctima ocular emblemática del estallido (cegada 26 oct 2019).
+- ↔ [[fabiola-campillai]] — la otra víctima ocular emblemática del estallido (cegada 26 nov 2019).
 - ↔ [[../espana-europa/roger-espanol]] — agente identificado y juzgado, mismo patrón judicial.
 - ↔ [[colombia-2021]] · [[../internacionales/iran-mahsa-amini-2022]] — la ola global de violencia ocular.
-- ↔ [[../espana-europa/impacto-agregado]] — las cifras del daño.
+- ↔ [[../impacto-agregado]] — las cifras del daño.
 - ↔ [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]] — testimonio citado en el informe CIIVO.
 - ↔ [[../../marco-legal/bibliografia/amnistia-policia-bajo-la-lupa]] — caso central del informe sobre Chile.
 - ↔ [[../../historia/balas-goma]] — genealogía del proyectil.

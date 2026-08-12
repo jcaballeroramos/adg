@@ -229,7 +229,7 @@ El juicio concluye exactamente en el **noveno aniversario del referéndum**.
 - ↔ [[africa-pablo-hasel]] — foam 2021, perdió un ojo (sustituto de la bala de goma).
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — colectivo que sostiene la lucha.
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — acusación particular + metodología.
-- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez]] — testimonio médico ante el Parlament.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — testimonio médico ante el Parlament.
 - ↔ [[../../historia/balas-goma]] — genealogía colonial del arma.
 - ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — el marco al que su caso quiere empujar al resto del Estado.
 - ↔ [[../../marco-legal/bibliografia/ciivo-falsa-menor-letalidad-2026]] · [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]].

@@ -1,6 +1,6 @@
 ---
 tipo: organización
-estado: borrador
+estado: stub
 nombre: Ojo con tu Ojo
 ámbito: Estado español
 tags: [ojo-con-tu-ojo, organización, victimas, balas-goma, foam]
@@ -18,5 +18,5 @@ Colectivo de víctimas y activistas que trabajan contra el uso de armas que prov
 - ↔ [[stop-bales-de-goma]]
 - ↔ [[iridia]]
 - ↔ [[novact]]
-- ↔ [[../../casos/compilacion-espana]] — datos sobre lesiones oculares.
-- ↔ [[../../testimonios/oftalmologa-estrella-fernandez]] — la cirugía clínica detrás del activismo.
+- ↔ [[../../casos/espana-europa/compilacion-espana]] — datos sobre lesiones oculares.
+- ↔ [[../testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la cirugía clínica detrás del activismo.

@@ -8,7 +8,7 @@ tags: [latam, compilación, balas-goma, gas-lacrimógeno, taser, militarización
 
 # Compilación · Casos América Latina
 
-Cifras agregadas, patrones transversales y tesis políticas del uso de armas menos letales en América Latina, tomados principalmente del proyecto **"Humo en las calles — el negocio de la represión"** de [[../../herramientas/el-clip-negocio-represion|El Clip]] y otras fuentes.
+Cifras agregadas, patrones transversales y tesis políticas del uso de armas menos letales en América Latina, tomados principalmente del proyecto **"Humo en las calles — el negocio de la represión"** de [[../../marco-legal/bibliografia/el-clip-negocio-represion|El Clip]] y otras fuentes.
 
 ## Tesis transversales (las 14 cosas que se repiten en toda LATAM)
 
@@ -22,20 +22,16 @@ Los gobiernos latinoamericanos han **prestado y donado armas no letales entre s�
 Fabricantes y proveedores privados han expandido sus catálogos y ventas aprovechando el aumento de protestas. Compras de grandes volúmenes **sin capacitación adecuada** de las fuerzas de orden.
 
 ### 4. Crítica a la copia de modelos estadounidenses
-Los términos **"less lethal"** y **"non lethal"** son **conceptos comerciales de EE.UU.** que **no cumplen** con las obligaciones latinoamericanas en derechos humanos. Colombia, por ejemplo, ha ratificado **11+ tratados de DDHH** frente a solo **5 de EE.UU.**, pero su capacitación en armas como el **Venom** la hizo el propio fabricante (Combined Systems).
+Los términos **"less lethal"** y **"non lethal"** son **conceptos comerciales de EE.UU.** que **no cumplen** con las obligaciones latinoamericanas en derechos humanos. → ver [[legislacion-latam]]
 
 ### 5. Expansión global de fabricantes locales
 **Condor (Brasil)** ha pasado de empresa local a líder global con presencia en **+80 países**. Apoyo gubernamental directo (Apex Brasil invirtió ~2,5 M$ entre 2007-2013 para llevarla a ferias internacionales).
 
 ### 6. Falta de información y protocolos claros
-- **No existen criterios operacionales** ni técnicos claros para adquirir y usar estas armas.
-- Ausencia de material informativo en español.
-- Los agentes desconocen las especificaciones de los dispositivos que usan.
+**No existen criterios operacionales** ni técnicos claros para adquirir y usar estas armas. → ver [[legislacion-latam]]
 
 ### 7. Falta de transparencia y corrupción
-- Procesos de adquisición sin licitación pública.
-- Intermediarios cuestionables (exmilitares condenados, empresas sin experiencia).
-- Información protegida bajo "**seguridad nacional**".
+Adquisiciones sin licitación pública, intermediarios cuestionables e información protegida bajo "**seguridad nacional**". → ver [[legislacion-latam]]
 
 ### 8. Impacto en víctimas y falta de justicia
 - Consecuencias físicas y psicológicas permanentes.
@@ -55,7 +51,7 @@ Tácticas y armamento militar usados en control de protestas civiles. **Mentalid
 Modelos de **evaluación externa** ausentes. Sin mecanismos independientes para garantizar uso adecuado de la fuerza.
 
 ### 13. Armamento caducado
-En México, Venezuela y otros se han documentado **municiones caducadas de Combined Systems** y otros fabricantes — aumento del riesgo de fallas.
+En México, Venezuela y otros se han documentado **municiones caducadas de Combined Systems** y otros fabricantes — aumento del riesgo de fallas. → ver [[venezuela-2017-2019]]
 
 ### 14. Problemas de adquisición priorizando el costo
 Compras a proveedores chinos baratos que **ajustan calidad al precio** → equipos peligrosos y menos efectivos.
@@ -66,10 +62,10 @@ Compras a proveedores chinos baratos que **ajustan calidad al precio** → equip
 |------|-----|-------|----------|--------------|---|
 | 🇧🇴 Bolivia | 2019 | Protestas post-electorales | **37 muertos** (29 por arma de fuego), pérdida de ojos | Lanzagranadas a <7m, disparos directos al rostro | [[bolivia-2019]] |
 | 🇧🇷 Brasil | 2017-2021 | Anti-Bolsonaro + Recife 2021 | Muertos + ciegos + heridos graves | Balas de goma Condor AM-403/P (con fallos), gas lacrimógeno | [[brasil-2017-2021]] |
-| 🇨🇱 Chile | 2019 | Estallido social | Fabiola Campillai + 460+ heridos oculares | Granadas lacrimógenas Condor disparadas al rostro | [[../fabiola-campillai]] + [[chile-estallido-2019]] |
+| 🇨🇱 Chile | 2019 | Estallido social | Fabiola Campillai + 460+ heridos oculares | Granadas lacrimógenas Condor disparadas al rostro | [[fabiola-campillai]] + [[chile-estallido-2019]] |
 | 🇨🇴 Colombia | 2021 | Paro Nacional | 146+ heridos en Popayán, 1 muerto, 11 lesiones oculares, suicidio de Alison | **Sistema VENOM** disparado horizontalmente, granadas aturdidoras | [[colombia-2021]] |
 | 🇪🇨 Ecuador | 2019 | Anti-austeridad | 6 muertos, 22 lesiones severas, ojos perdidos | Bombas lacrimógenas vencidas, perdigones a corta distancia (40.000 unidades) | [[ecuador-2019]] |
-| 🇺🇸 EE.UU. | 2018-2021 | Frontera sur (migrantes) | Familias gaseadas, niños, abusos generalizados | Gas pimienta, lacrimógeno, perdigones plástico, dispositivos acústicos no autorizados, **Tasers a menores** | [[ee-uu-frontera-sur]] |
+| 🇺🇸 EE.UU. | 2018-2021 | Frontera sur (migrantes) | Familias gaseadas, niños, abusos generalizados | Gas pimienta, lacrimógeno, perdigones plástico, dispositivos acústicos no autorizados, **Tasers a menores** | [[../estados-unidos/ee-uu-frontera-sur]] |
 | 🇬🇹 Guatemala | 2020 | Anti-gobierno | 2 jóvenes pierden el ojo izquierdo (Kenneth López, Carlos Manuel González) | **388 bombas lacrimógenas TL1 en un solo día** (Combined Tactical Systems) | [[guatemala-2020]] |
 | 🇲🇽 México | 2020-2022 | Marchas feministas | Encapsulamiento, agresiones físicas y psicológicas, amenazas de violación | Extintores con sustancias químicas en bolsas plásticas con mechero | [[mexico-feminista-2020]] |
 | 🇵🇪 Perú | 2020 | Anti-Merino | **2 muertos** (Inti Sotelo, Bryan Pintado), +200 heridos | **Perdigones de plomo y canicas de vidrio** disparados al cuerpo | [[peru-2020]] |
@@ -79,6 +75,6 @@ Compras a proveedores chinos baratos que **ajustan calidad al precio** → equip
 - ↔ [[intermediarios-latam]] — quién compra/vende en cada país.
 - ↔ [[transferencias-cross-country]] — préstamos de armas entre países.
 - ↔ [[legislacion-latam]] — marco legal por país (lo que se incumple).
-- ↔ [[../compilacion-espana]] — el caso comparativo europeo.
+- ↔ [[../espana-europa/compilacion-espana]] — el caso comparativo europeo.
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — fabricantes implicados.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco teórico (autoritarismo neoliberal).

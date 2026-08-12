@@ -86,10 +86,10 @@ Esa frase **fundó el discurso publicitario-represivo** que se mantendría incó
 
 ### La continuidad hasta hoy
 Los argumentos de Fries ("humanitario", "sin rastros", "necesario para el orden") son los mismos que aparecen en:
-- Los **vídeos de Byrna** ([[../../empresas-de-armas/ferias-de-armas/feindef/03-byrna|FEINDEF stand]]).
+- Los **vídeos de Byrna** ([[../../ferias-de-armas/feindef/03-byrna|FEINDEF stand]]).
 - Los **sermones de Gordon Graham** ([[../../usos-de-armas/entrenamientos/lexipol-gordon-graham|Lexipol]]).
 - El **marketing del sistema VENOM** ([[../../empresas-de-armas/empresas/combined-systems|CTS]]).
-- La retórica de **Trump sobre el "Discombobulator"** ([[../../empresas-de-armas/renders/discombulator-trump]]).
+- La retórica de **Trump sobre el "Discombobulator"** ([[../../empresas-de-armas/renders/discombobulator-trump]]).
 
 ---
 
@@ -119,7 +119,7 @@ Argumentó que el spray estaba diseñado para **situaciones defensivas** —cuan
 ### Por qué importa
 - Una de las **pocas voces de dentro de la industria** que ha renegado públicamente del uso policial.
 - Su cita de 2011 es **probablemente la declaración ética más fuerte** disponible para el documental — un "genio en la botella" que se lamenta.
-- Paralelismo con [[../paul-rocher/paul-rocher-entrevista|Gordon Graham]] en Lexipol (*"less lethal does not mean non-lethal"*) — pero Loghman va más lejos: su producto **se usa como tortura de hecho**.
+- Paralelismo con [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham|Gordon Graham]] en Lexipol (*"less lethal does not mean non-lethal"*) — pero Loghman va más lejos: su producto **se usa como tortura de hecho**.
 - La conexión con Occupy 2011 sitúa el caso exactamente en el inicio de la ola global post-crisis financiera.
 
 ---
@@ -196,7 +196,7 @@ Argumentó que el spray estaba diseñado para **situaciones defensivas** —cuan
 
 ## Conexiones
 
-- ↔ [[../paul-rocher/paul-rocher-entrevista]] — Rocher cita a los tres explícitamente.
+- ↔ [[../paul-rocher/paul-rocher-gasear-mutilar-someter]] — Rocher cita a los tres explícitamente.
 - ↔ [[../../historia/armas-quimicas]] — genealogía de CS, CN, OC, Skunk.
 - ↔ [[../../historia/cronologia-completa]] — entradas 1915, 1919-1925, 1932, 1980, 2011.
 - ↔ [[../../marco-legal/bibliografia/onu-codigo-conducta-1979]] — Código ONU que prohíbe lo que Haber popularizó.

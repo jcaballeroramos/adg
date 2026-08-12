@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Elbit Systems
 pais: Israel
 fundacion: 1966
@@ -50,7 +50,7 @@ tags: [elbit, israel, haifa, drones, hermes, cisjordania, gaza, oak, skylark]
 ### Vigilancia de fronteras — EE.UU. y Europa
 - **Contratada por US Customs and Border Protection (CBP)** para suministrar **torres de vigilancia autónomas** en la **frontera sur de EE.UU.** — el mismo tipo de producto que vende [[anduril|Anduril]].
 - **Contratos con Frontex** (agencia europea de fronteras) y varios países de la UE.
-- → ver [[../../casos/latam/ee-uu-frontera-sur]].
+- → ver [[../../casos/estados-unidos/ee-uu-frontera-sur]].
 
 ### Reino Unido — fábricas objetivo de protesta
 - **Palestine Action** (organización británica de desobediencia civil) ha **atacado repetidamente** las fábricas de Elbit en Reino Unido (Shenstone, Tamworth, Leicester) para **sabotearlas** y denunciar el suministro de armas a Israel.
@@ -67,5 +67,5 @@ Elbit usa como **argumento comercial central** el hecho de que sus armas y drone
 - ↔ [[anduril]] — competidor directo en vigilancia de fronteras.
 - ↔ [[raytheon]] — competidor en electrónica militar.
 - ↔ [[../../casos/internacionales/palestina-2023-2024]] — campo de aplicación principal.
-- ↔ [[../../casos/latam/ee-uu-frontera-sur]] — exportación de la tecnología.
-- ↔ [[../../herramientas/laws-armas-autonomas]] — Elbit es clave en el debate LAWS.
+- ↔ [[../../casos/estados-unidos/ee-uu-frontera-sur]] — exportación de la tecnología.
+- ↔ [[../../historia/laws-armas-autonomas]] — Elbit es clave en el debate LAWS.

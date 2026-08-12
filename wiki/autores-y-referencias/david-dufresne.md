@@ -36,8 +36,9 @@ Cada caso era publicado como un **hilo en Twitter** con foto, vídeo, fecha, ubi
 - **Modelo replicable** para Cataluña, Chile, Colombia, etc.: si Stop Bales y Iridia son la versión catalana, Dufresne es la versión francesa, **en escala mucho mayor**.
 
 ## Conexiones
-- ↔ [[../casos/remi-fraisse]]
+- ↔ [[../casos/espana-europa/remi-fraisse]]
+- ↔ [[pierre-douillard-lefevre]] — la otra mitad del par francés: Dufresne cuenta a los heridos; Douillard es uno de ellos y los teoriza.
 - ↔ [[paul-rocher/paul-rocher-entrevista]] — antecedente y compañero de generación.
 - ↔ [[organizaciones/stop-bales-de-goma]] — paralelismo metodológico.
 - ↔ [[organizaciones/iridia]] — paralelismo en Cataluña.
-- ↔ [[../casos/remi-fraisse]] · [[../casos/steve-maia-canico]] — casos documentados por su entorno.
+- ↔ [[../casos/espana-europa/remi-fraisse]] · [[../casos/espana-europa/steve-maia-canico]] — casos documentados por su entorno.

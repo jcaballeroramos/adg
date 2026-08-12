@@ -1,6 +1,6 @@
 ---
 tipo: feria
-estado: stub
+estado: borrador
 nombre: Milipol
 sede_principal: París, Francia
 periodicidad: bienal
@@ -19,9 +19,9 @@ tags: [milipol, francia, parís, feria-mundial, less-lethal, acat, norinco]
 ## Casos documentados
 
 ### Norinco en Milipol 2017
-En **2017**, los trabajadores de **[[../empresas-de-armas/empresas/00-indice|Norinco]]** (China) **expusieron en Milipol** mostrando los **vehículos blindados y equipos** que ya estaban en uso en **Venezuela**:
+En **2017**, los trabajadores de **[[../empresas-de-armas/empresas/norinco|Norinco]]** (China) **expusieron en Milipol** mostrando los **vehículos blindados y equipos** que ya estaban en uso en **Venezuela**:
 - **VN-4** ("ballena", "rinoceronte", "murciélago").
-- **Bombas lacrimógenas NF01** — incluyendo modelos similares a los que matarían a **Juan Pablo Pernalete**.
+- **Bombas lacrimógenas NF01** — incluyendo modelos similares a los que matarían a **[[../casos/latam/juan-pablo-pernalete|Juan Pablo Pernalete]]**.
 - Lanzadores de gases adaptados.
 
 > Evidenció la utilización de armamento y vehículos adaptados para represión de protestas. La presencia de estos productos generó preocupación por su uso contra civiles.
@@ -29,7 +29,7 @@ En **2017**, los trabajadores de **[[../empresas-de-armas/empresas/00-indice|Nor
 → ver [[../casos/latam/venezuela-2017-2019]].
 
 ### Falken (España) 2025
-Falken expone en Milipol y FEINDEF con coordenadas claras: Pabellón 10E18 en FEINDEF.
+[[../empresas-de-armas/empresas/falken|Falken]] expone en Milipol y FEINDEF con coordenadas claras: Pabellón 10E18 en FEINDEF.
 
 ## Conexiones
 - ↔ [[feindef/00-overview]] — la versión española.

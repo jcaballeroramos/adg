@@ -27,8 +27,8 @@ Cataluña cuenta con una **ley de transparencia** (Ley 19/2014) considerada pion
 - La **Comissió de Garantia del Dret d'Accés a la Informació Pública (GAIP)** ha resuelto favorablemente muchos recursos, pero los Mossos **siguen negándose** a cumplir las resoluciones.
 
 ## Casos documentados en el informe
-- **Protocolo foam SIR-X**: Irídia pide el protocolo interno de uso → denegado. Solo se conoce parcialmente gracias a filtraciones. Ver [[../../casos/roger-garcia-foam-2019]] y [[../../casos/abdelillah-foam-2019]].
-- **Registros de uso del Taser** tras su autorización en 2018 ([[mossos-instrucciones-armamento]]).
+- **Protocolo foam SIR-X**: Irídia pide el protocolo interno de uso → denegado. Solo se conoce parcialmente gracias a filtraciones. Ver [[../../casos/espana-europa/roger-garcia-foam-2019]] y [[../../casos/espana-europa/abdelillah-foam-2019]].
+- **Registros de uso del Taser** tras su autorización en 2018 ([[../mossos-instrucciones-armamento]]).
 - **Listado de compras** a empresas como [[../../empresas-de-armas/empresas/falken]], [[../../empresas-de-armas/empresas/combined-systems]], [[../../empresas-de-armas/empresas/maxam]] → denegado como «secreto comercial».
 - **Protocolos de formación** en uso de la fuerza → denegados.
 
@@ -47,5 +47,5 @@ Cataluña cuenta con una **ley de transparencia** (Ley 19/2014) considerada pion
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]]
 - ↔ [[iridia-mecanismos-independientes]] · [[iridia-pla-accio]].
 - ↔ [[transparencia-cuerpos-policiales-espana]] — el equivalente estatal.
-- ↔ [[mossos-instrucciones-armamento]] — las instrucciones oficiales (lo poco que se publica).
+- ↔ [[../mossos-instrucciones-armamento]] — las instrucciones oficiales (lo poco que se publica).
 - ↔ [[../cataluna-prohibicion-balas-goma]].

@@ -130,11 +130,11 @@ Cifras agregadas y datos transversales sobre el daño producido por armas "menos
 - [[africa-pablo-hasel]] — bala de foam a 22 m, archivado porque "asumía el riesgo".
 - [[olga-proces]] — vía administrativa exitosa contra la Generalitat.
 - [[melilla-2022]] — 37 muertos en frontera.
-- [[fabiola-campillai]] — el caso paralelo en Chile.
+- [[../latam/fabiola-campillai]] — el caso paralelo en Chile.
 
 ## Conexiones — marco
-- ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — cronología legal.
-- ↔ [[../autores-y-referencias/organizaciones/stop-bales-de-goma]] — la fuente principal de estas cifras.
-- ↔ [[../autores-y-referencias/organizaciones/iridia]] — los litigios estratégicos.
-- ↔ [[../autores-y-referencias/organizaciones/caminando-fronteras]] — para los casos de la frontera sur.
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco económico-político de Rocher.
+- ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — cronología legal.
+- ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — la fuente principal de estas cifras.
+- ↔ [[../../autores-y-referencias/organizaciones/iridia]] — los litigios estratégicos.
+- ↔ [[../../autores-y-referencias/organizaciones/caminando-fronteras]] — para los casos de la frontera sur.
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco económico-político de Rocher.

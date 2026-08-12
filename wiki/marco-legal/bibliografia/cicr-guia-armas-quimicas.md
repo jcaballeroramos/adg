@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: stub
+estado: borrador
 editor: Comité Internacional de la Cruz Roja (CICR)
 año: 2006-presente
 ambito: internacional
@@ -46,7 +46,7 @@ Es decir: **el gas lacrimógeno es jurídicamente un crimen de guerra si lo usas
 El CICR y el Relator Especial ONU contra la Tortura han señalado reiteradamente esta contradicción, especialmente:
 - **[[../../autores-y-referencias/nils-melzer]]** — informe A/HRC/34/54 (2017).
 - **[[../../autores-y-referencias/fionnuala-ni-aolain]]** — informe A/78/324 (2023).
-- **[[amnistia-internacional|Amnistía Internacional]]** — campaña por un tratado contra el comercio de tortura.
+- **[[../amnistia-internacional|Amnistía Internacional]]** — campaña por un tratado contra el comercio de tortura.
 
 ## Las Orientaciones CICR sobre uso de la fuerza en operaciones policiales
 **«Violence and the Use of Force»** (CICR, tercera edición 2022) — aplicación del DIH y los derechos humanos al uso policial de la fuerza, incluyendo el empleo de armas «menos letales».

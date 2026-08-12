@@ -72,5 +72,5 @@ Esto conecta con el siguiente nivel irónico: **Irán**, que dispara perdigones 
 - ↔ [[libano-thawra-2019]] — caso hermano del mismo mes.
 - ↔ [[egipto-tahrir-2011]] — la ola árabe original.
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — DIO (Irán), Krušik (Serbia).
-- ↔ [[../../marco-legal/bibliografia/onu-orientaciones-2020]] — explícitamente prohíbe los botes militares contra manifestantes.
+- ↔ [[../../marco-legal/onu-orientaciones-2020]] — explícitamente prohíbe los botes militares contra manifestantes.
 - ↔ [[../../historia/cronologia-completa]].

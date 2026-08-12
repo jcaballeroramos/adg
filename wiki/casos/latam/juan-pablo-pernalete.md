@@ -21,10 +21,10 @@ tags: [juan-pablo-pernalete, venezuela, caracas, norinco, lacrimógena, pecho, g
 **Murió en el lugar** por el impacto.
 
 ## El arma
-- **Bomba lacrimógena modelo NF01** (o similar) fabricada por **[[../empresas-de-armas/empresas/norinco|Norinco]]** (China).
+- **Bomba lacrimógena modelo NF01** (o similar) fabricada por **[[../../empresas-de-armas/empresas/norinco|Norinco]]** (China).
 - Disparada al pecho a corta distancia.
 - El **impacto cinético directo** fue la causa de la muerte (no el químico).
-- La energía de impacto de una bomba lacrimógena es **muy superior** a los **122 julios** que cualquier munición es **potencialmente letal** ([[../empresas-de-armas/empresas/maxam|MAXAM]] como referencia).
+- La energía de impacto de una bomba lacrimógena es **muy superior** a los **122 julios** que cualquier munición es **potencialmente letal** ([[../../empresas-de-armas/empresas/maxam|MAXAM]] como referencia).
 
 ## La cobertura del Estado venezolano
 El régimen intentó **negar la responsabilidad** durante meses:
@@ -69,7 +69,7 @@ El régimen intentó **negar la responsabilidad** durante meses:
 - **Programa Transforma** — ficha del caso. <https://programatransforma.org/casos/juan-pablo-pernalete/>
 
 ## Conexiones
-- ↔ [[../empresas-de-armas/empresas/norinco]] — la bomba era Norinco.
-- ↔ [[latam/venezuela-2017-2019]] — contexto.
+- ↔ [[../../empresas-de-armas/empresas/norinco]] — la bomba era Norinco.
+- ↔ [[venezuela-2017-2019]] — contexto.
 - ↔ [[rufo-chacon]] — el otro caso venezolano paradigmático.
-- ↔ [[../ferias-de-armas/milipol]] — Norinco expuso vehículos venezolanos en Milipol París 2017 (mismo año que la muerte de Juan Pablo).
+- ↔ [[../../ferias-de-armas/milipol]] — Norinco expuso vehículos venezolanos en Milipol París 2017 (mismo año que la muerte de Juan Pablo).

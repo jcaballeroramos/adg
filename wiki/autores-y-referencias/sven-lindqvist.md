@@ -1,6 +1,6 @@
 ---
 tipo: autor
-estado: stub
+estado: borrador
 nombre: Sven Lindqvist
 pais: Suecia
 profesion: Escritor, historiador, ensayista
@@ -37,9 +37,9 @@ Esta tesis es **la columna vertebral genealógica** de «Artefactos de Guerra»:
 - Las **balas de goma** se prueban en **Irlanda del Norte** (colonia interior británica) en los 70.
 - El **Skunk** (ver [[../empresas-de-armas/empresas/odortec]]) se prueba en **Cisjordania** (colonia israelí) y se «exporta» a Israel.
 - El **gas lacrimógeno CS** se prueba en **Vietnam** y vuelve a **las calles de EE.UU.** en los 60.
-- Los **drones Anduril** se prueban en la **frontera sur** y llegan a las calles europeas.
+- Los **drones [[../empresas-de-armas/empresas/anduril|Anduril]]** se prueban en la **frontera sur** y llegan a las calles europeas.
 
-**Rocher cita explícitamente a Lindqvist** en su libro **Gueurir sans tuer** como referencia genealógica del paradigma represivo.
+**Rocher cita explícitamente a Lindqvist** en su libro [[paul-rocher/paul-rocher-gasear-mutilar-someter|*Gazer, mutiler, soumettre*]] como referencia genealógica del paradigma represivo.
 
 ## La frase
 > *«Churchill argumentó que bombardear a los "salvajes" era más humanitario. Hoy argumentamos que gasear a los manifestantes es menos letal. La retórica es la misma. El resultado también.»*
@@ -50,4 +50,4 @@ Esta tesis es **la columna vertebral genealógica** de «Artefactos de Guerra»:
 - ↔ [[figuras-historicas/00-trio-quimico]] — Haber, Fries y Loghman: el linaje químico-militar.
 - ↔ [[paul-rocher/paul-rocher-entrevista]] — Rocher lo cita.
 - ↔ [[../casos/internacionales/palestina-2023-2024]] — el laboratorio colonial contemporáneo.
-- ↔ [[../casos/stephen-geddis]] — Irlanda del Norte como colonia interior.
+- ↔ [[../casos/espana-europa/stephen-geddis]] — Irlanda del Norte como colonia interior.

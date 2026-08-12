@@ -21,6 +21,6 @@ tags: [iansa, internacional, armas-pequeñas, red, ddhh]
 - Coautora histórica del **Tratado sobre el Comercio de Armas (ATT)**.
 
 ## Conexiones
-- ↔ [[../autores-y-referencias/organizaciones/omega-research-foundation]] — Omega es miembro de IANSA.
+- ↔ [[omega-research-foundation]] — Omega es miembro de IANSA.
 - ↔ [[control-arms]] — coalición paralela.
-- ↔ [[../marco-legal/amnistia-internacional]] — Amnistía coordina con IANSA.
+- ↔ [[../../marco-legal/amnistia-internacional]] — Amnistía coordina con IANSA.

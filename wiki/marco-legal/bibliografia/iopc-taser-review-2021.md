@@ -59,6 +59,6 @@ El organismo independiente de supervisión policial de Inglaterra y Gales revisa
 - ↔ [[axon-taser-warnings-2018]] — los riesgos que el fabricante reconoce y estos 101 casos confirman.
 - ↔ [[civio-taser-protocolos-2024]] — la investigación española que lo cita.
 - ↔ [[../../casos/espana-europa/antonio-c-badalona]] · [[../../casos/espana-europa/haitam-mejri-torremolinos]] — el mismo patrón en España.
-- ↔ [[../omct-2021]] — brutalidad policial como tortura.
+- ↔ [[omct-2021]] — brutalidad policial como tortura.
 - ↔ [[../../historia/taser]] · [[../../empresas-de-armas/empresas/axon]].
 - ↔ [[../bibliografia]] — índice maestro.

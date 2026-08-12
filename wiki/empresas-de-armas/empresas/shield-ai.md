@@ -23,10 +23,10 @@ Empresa **estadounidense** de tecnología de defensa especializada en **sistemas
 ## Por qué importa para el documental
 - Tercer vértice del **trío Silicon Valley** de defensa: [[anduril]], [[vannevar-labs]] y Shield AI.
 - Sistemas aéreos autónomos = **un escalón más** que el Smart Protector de FN Herstal: la IA no solo identifica, **decide y actúa**.
-- Conexión directa con el debate sobre [[../../herramientas/laws-armas-autonomas|LAWS]].
+- Conexión directa con el debate sobre [[../../historia/laws-armas-autonomas|LAWS]].
 
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[anduril]] · [[vannevar-labs]]
-- ↔ [[../../herramientas/laws-armas-autonomas]]
-- ↔ [[../feindef/04-fn-smart-protector]] — su contraparte europea más "discreta".
+- ↔ [[../../historia/laws-armas-autonomas]]
+- ↔ [[../../ferias-de-armas/feindef/04-fn-smart-protector]] — su contraparte europea más "discreta".

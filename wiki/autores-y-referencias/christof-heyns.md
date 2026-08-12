@@ -1,6 +1,6 @@
 ---
 tipo: autor
-estado: stub
+estado: borrador
 nombre: Christof Heyns
 pais: Sudáfrica
 profesion: Jurista, Relator Especial ONU
@@ -23,7 +23,7 @@ Argumentos clave:
 3. La **dignidad humana** exige que **un humano** sea quien decide quitar otra vida humana.
 4. **Externalizar** la decisión a algoritmos crea un **vacío de responsabilidad**: ¿quién responde cuando un dron mata a un civil — el programador, el operador, el Estado, el fabricante?
 
-> Esta línea argumentativa se mantiene **diez años después** en los informes ONU posteriores y en el debate sobre LAWS — ver [[../herramientas/laws-armas-autonomas]].
+> Esta línea argumentativa se mantiene **diez años después** en los informes ONU posteriores y en el debate sobre LAWS — ver [[../historia/laws-armas-autonomas]].
 
 ## Otros aportes
 - **Informe sobre el uso de drones armados** (A/68/382, 2013) — paralelo al de LAWS.
@@ -33,12 +33,12 @@ Argumentos clave:
 ## Importancia para el documental
 - **Heyns es el "antes"**. Antes de 2013, las LAWS y las armas de energía dirigida eran un **tema técnico**. Después de Heyns, son un **tema de derechos humanos**.
 - Su sucesora **Agnès Callamard** continuó la línea con el caso **Khashoggi** (2018) y la **Resolución 73/304** sobre derechos humanos en la era de la inteligencia artificial.
-- **Fionnuala Ní Aoláin** (Relatora ONU contra la tortura) cita a Heyns en su informe **A/78/324** (2023). Ver [[fionnuala-ni-aolain]].
+- **Alice Jill Edwards** (Relatora ONU contra la Tortura desde 2022) cita a Heyns en su informe **A/78/324** (2023). Ver [[alice-jill-edwards]].
 
 ## Conexiones
 - ↔ [[fionnuala-ni-aolain]] — continuadora de su línea.
 - ↔ [[nils-melzer]] — anterior Relator ONU contra la tortura, paralelo en otra área.
-- ↔ [[../herramientas/laws-armas-autonomas]] — el debate que abrió Heyns.
+- ↔ [[../historia/laws-armas-autonomas]] — el debate que abrió Heyns.
 - ↔ [[../empresas-de-armas/empresas/raytheon]] — Active Denial System que él criticó.
-- ↔ [[../empresas-de-armas/renders/discombulator-trump]] — la actualización 2026.
+- ↔ [[../empresas-de-armas/renders/discombobulator-trump]] — la actualización 2026.
 - ↔ [[../marco-legal/onu-relatora-tortura]].

@@ -36,7 +36,7 @@ Tabla unificada de los 16 referentes documentales, reportajes, podcasts, debates
 | 2023 | *Unhealed Wounds* | INCLO + PHR + Omega | Proyecto multimedia de retratos, vídeo y audio de personas heridas por armas de control de multitudes en todo el mundo. Acompaña los informes técnicos con rostros y testimonios. [lethalindisguise.org/library](https://lethalindisguise.org/library/) |
 | 2024 | *Corto global sobre armas menos letales* | Amnesty International (Protect the Protest / Torture-Free Trade) | Corto con testimonios como Leidy Cadena (Colombia, cegada 2021). Vinculado a la campaña por un tratado de comercio libre de tortura. [Amnesty](https://www.amnesty.org/en/latest/news/2024/04/global-new-short-film-highlights-devastating-impact-less-lethal-weapons-are-having-on-protesters-globally/) · [YouTube](https://www.youtube.com/watch?v=4l8V4Zm3KCg) — ↔ [[../../casos/latam/colombia-2021]] |
 | 2025 | *Blood Parliament* | BBC Africa Eye | OSINT + forense para identificar a los responsables de las muertes del 25 jun 2024 en el Parlamento de Kenia. Recomendado en CPH:DOX. **Ejemplo perfecto del trabajo que ADG quiere sistematizar.** |
-| ≈2022 | *Contra-enquête GENI — Angelo Garand* | Groupe d'Enquête Indépendant | Contra-investigación independiente basada en el expediente judicial del caso Garand (abatido por GIGN 2017). Desmonta la versión oficial. [Canal](https://www.youtube.com/@GroupeEnqueteIndependant) — ↔ [[../../casos/internacionales/angelo-garand-francia-2017]] |
+| ≈2022 | *Contra-enquête GENI — Angelo Garand* | Groupe d'Enquête Indépendant | Contra-investigación independiente basada en el expediente judicial del caso Garand (abatido por GIGN 2017). Desmonta la versión oficial. [Canal](https://www.youtube.com/@GroupeEnqueteIndependant) — ↔ [[../../casos/espana-europa/angelo-garand-francia-2017]] |
 
 ---
 
@@ -71,6 +71,6 @@ Tabla unificada de los 16 referentes documentales, reportajes, podcasts, debates
 
 ## Conexiones
 
-- ↔ [[paul-rocher]] · [[../organizaciones/iridia]] · [[../organizaciones/omega-research-foundation]] · [[../organizaciones/stop-bales-de-goma]]
-- ↔ [[../../herramientas/forensic-architecture]] · [[../../herramientas/vframe]] — metodologías OSINT/forenses comparables.
-- ↔ [[../../casos/espana-europa/ester-quintana]] · [[../../casos/espana-europa/roger-espanol]] · [[../../casos/internacionales/angelo-garand-francia-2017]] · [[../../casos/latam/colombia-2021]] — casos enlazados por estos referentes.
+- ↔ [[../paul-rocher/paul-rocher]] · [[../organizaciones/iridia]] · [[../organizaciones/omega-research-foundation]] · [[../organizaciones/stop-bales-de-goma]]
+- ↔ [[../organizaciones/forensic-architecture]] · [[../../herramientas/vframe]] — metodologías OSINT/forenses comparables.
+- ↔ [[../../casos/espana-europa/ester-quintana]] · [[../../casos/espana-europa/roger-espanol]] · [[../../casos/espana-europa/angelo-garand-francia-2017]] · [[../../casos/latam/colombia-2021]] — casos enlazados por estos referentes.

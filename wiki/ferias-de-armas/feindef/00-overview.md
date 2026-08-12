@@ -26,9 +26,12 @@ tags: [feindef, ifema, defensa, marketing]
 > "Where a safer future begins."
 
 ## Bloques rodados
-1. [EXPAL · Puño de Darwin](01-expal-puno-darwin.md)
-2. [CTS · Sistema VENOM](02-cts-venom.md)
-3. [BYRNA · Stand y anuncio infantil](03-byrna.md)
-4. [FN Herstal · Smart Protector con IA](04-fn-smart-protector.md)
-5. [TASER + LRAD (Columbus)](05-taser-lrad.md)
-6. [Cierre · ABBA y la flotilla SUMUD](06-cierre-abba.md)
+1. [[01-expal-puno-darwin|EXPAL · Puño de Darwin]]
+2. [[02-cts-venom|CTS · Sistema VENOM]]
+3. [[03-byrna|BYRNA · Stand y anuncio infantil]]
+4. [[04-fn-smart-protector|FN Herstal · Smart Protector con IA]]
+5. [[05-taser-lrad|TASER + LRAD (Columbus)]]
+6. [[06-cierre-abba|Cierre · ABBA y la flotilla SUMUD]]
+
+## Conexiones
+- Comparte sede con [[../sicur|SICUR]]: IFEMA Madrid — defensa y "seguridad integral" en el mismo recinto.

@@ -33,6 +33,7 @@ Los mecanismos de rendición de cuentas existentes no son suficientes para garan
 - Publica **133 recomendaciones** anuales con 94% de tasa de aceptación.
 - Problema principal: **falta de cooperación policial** — "clara falta de urgencia y cultura de no cooperación".
 - Trabajo temático sobre **discriminación racial** y **violencia contra mujeres**.
+- → su revisión del uso del Taser 2015-2020: [[iopc-taser-review-2021]].
 
 #### SACMILL (Reino Unido)
 - Consejo asesor científico sobre **implicaciones médicas de armas menos letales**.
@@ -41,6 +42,7 @@ Los mecanismos de rendición de cuentas existentes no son suficientes para garan
 - **Buena práctica**: evaluación basada en evidencia, independiente del fabricante.
 - **Carencia**: no cubre todo el equipamiento (ej: espray PAVA excluido).
 - No hay obligación legal de evaluar armas nuevas — solo código de buenas prácticas.
+- → su evaluación médica del Taser X2: [[sacmill-taser-x2-2016]].
 
 #### SIU (Ontario, Canadá)
 - Fundada en 1990 tras asesinatos de dos hombres negros por policía de Toronto.

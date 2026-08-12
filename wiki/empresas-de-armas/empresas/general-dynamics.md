@@ -40,4 +40,4 @@ Empresa **estadounidense gigante** fabricante de **tanques, barcos, submarinos, 
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[../feindef/00-overview]] — expositor.
+- ↔ [[../../ferias-de-armas/feindef/00-overview]] — expositor.

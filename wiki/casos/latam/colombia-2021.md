@@ -4,7 +4,7 @@ estado: borrador
 pais: Colombia
 fecha_hechos: 2021-04
 contexto: Paro Nacional contra reforma tributaria y desigualdad
-victimas: 146+ heridos en Popayán, 1 muerto, 11 lesiones oculares, suicidio de Alison
+victimas: 146+ heridos en Popayán, 1 muerto, 11 lesiones oculares documentadas en Popayán (El Tiempo eleva a 103 los manifestantes con lesiones oculares a nivel nacional; MOCAO habla de 150 mutilados), suicidio de Alison
 arma: Sistema VENOM (Combined Systems)
 tags: [colombia, paro-nacional, popayan, esmad, venom, alison, violencia-sexual]
 ---
@@ -16,7 +16,7 @@ Abril-junio 2021. El **Paro Nacional** estalla contra la reforma tributaria del 
 
 ## Víctimas documentadas
 - **Al menos 146 heridos** y **1 muerto** en Popayán.
-- **11 lesiones oculares** documentadas.
+- **11 lesiones oculares documentadas en Popayán** (El Tiempo eleva a 103 los manifestantes con lesiones oculares a nivel nacional; MOCAO habla de 150 mutilados).
 - **40 lesiones por impactos** de municiones menos letales.
 - **Denuncias de violencia sexual y de género** por parte de agentes del ESMAD.
 - **Suicidio de Alison Salazar** tras agresión sexual policial.
@@ -33,7 +33,7 @@ Abril-junio 2021. El **Paro Nacional** estalla contra la reforma tributaria del 
 - **Empleo de armas no letales de forma letal o peligrosa**.
 
 ## El caso paradigmático Carles Guillot... el colombiano
-Aún sin documentar individualmente, hay decenas de casos comparables al de [[../carles-guillot|Carles Guillot]]: víctimas conocidas, agentes desconocidos, justicia archivada.
+Aún sin documentar individualmente, hay decenas de casos comparables al de [[../espana-europa/carles-guillot|Carles Guillot]]: víctimas conocidas, agentes desconocidos, justicia archivada.
 
 ## Falta de protocolo coherente
 Colombia ha **ratificado más de 11 tratados** internacionales de DDHH (frente a solo 5 de EE.UU.), pero la **capacitación en el Venom** la hizo el propio fabricante estadounidense, **sin considerar** dichos tratados.

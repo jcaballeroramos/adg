@@ -21,6 +21,6 @@ El **Tribunal Europeo de Derechos Humanos (TEDH)** reconoció en el caso **Kilic
 ## Conexiones
 - ↔ [[../bibliografia]] — índice maestro.
 - ↔ [[tedh-yasa-vs-turquia]] — el caso paralelo sobre gas lacrimógeno.
-- ↔ [[../../casos/roger-espanol]] — el caso español que cita esta jurisprudencia.
-- ↔ [[../../casos/inigo-cabacas]].
+- ↔ [[../../casos/espana-europa/roger-espanol]] — el caso español que cita esta jurisprudencia.
+- ↔ [[../../casos/espana-europa/inigo-cabacas]].
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — Iridia usa esta jurisprudencia.

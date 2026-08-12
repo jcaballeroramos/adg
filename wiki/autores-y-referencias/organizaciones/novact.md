@@ -1,6 +1,6 @@
 ---
 tipo: organización
-estado: borrador
+estado: stub
 nombre: Novact — International Institute for Nonviolent Action
 ámbito: Catalunya / internacional
 ciudad: Barcelona
@@ -25,5 +25,5 @@ tags: [novact, organización, no-violencia, balas-goma, foam, catalunya]
 ## Conexiones
 - ↔ [[iridia]] — coautor habitual de informes.
 - ↔ [[stop-bales-de-goma]].
-- ↔ [[../../casos/compilacion-espana]] — fuente de varias cifras agregadas.
+- ↔ [[../../casos/espana-europa/compilacion-espana]] — fuente de varias cifras agregadas.
 - ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]].

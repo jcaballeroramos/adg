@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Diehl Defence
 pais: Alemania
 producto_emblematico: IRIS-T, RGW 90, munición

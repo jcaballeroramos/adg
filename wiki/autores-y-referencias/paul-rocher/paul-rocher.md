@@ -20,7 +20,7 @@ Economista e investigador francés, autor de uno de los análisis más rigurosos
 - **Libro de referencia:** *Gazer, mutiler, soumettre — Politique de l'arme non létale* (La Fabrique, 2020).
 - **Método:** análisis estadístico de usos reales + economía política del sector industrial.
 - **Materiales en el proyecto:**
-  - Entrevista grabada el **22 de mayo de 2022** (≈52 min, audio incluido) + selección "Lo que me interesa más" en castellano → [[paul-rocher-entrevista]]
+  - Entrevista grabada el **22 de mayo de 2022** (≈52 min, audio incluido) → [[paul-rocher-entrevista]]; notas del libro 1 en castellano → [[paul-rocher-gasear-mutilar-someter]]
 
 ## Tesis clave (en una frase cada una)
 
@@ -76,19 +76,19 @@ Punto que Rocher no conocía y descubrió en esta entrevista: en países como Co
 > "Governments tend structurally to be pro-capital. Otherwise capital has a very efficient tool: stop investing."
 
 ## Conexiones
-- ↔ [[../entrenamientos/lexipol-gordon-graham]] — Graham, desde dentro de la industria, confirma punto por punto la tesis 2 de Rocher.
-- ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la evidencia clínica de sus cifras.
-- ↔ [[../casos/roger-espanol]] y [[../casos/fabiola-campillai]] — casos paradigmáticos del "no reemplazo, amplificación".
-- ↔ [[../marco-legal/amnistia-internacional]] — Rocher coincide con Amnistía en exigir evaluaciones independientes + control de exportaciones.
-- ↔ [[../marco-legal/onu-relatora-tortura]] — Rocher da el marco económico-político que la Relatora da en clave de derechos.
-- ↔ [[../historia/armas-quimicas]], [[../historia/balas-goma]], [[../historia/armas-acusticas]] — su libro es fuente primaria para estos arcos.
+- ↔ [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham]] — Graham, desde dentro de la industria, confirma punto por punto la tesis 2 de Rocher.
+- ↔ [[../testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la evidencia clínica de sus cifras.
+- ↔ [[../../casos/espana-europa/roger-espanol]] y [[../../casos/latam/fabiola-campillai]] — casos paradigmáticos del "no reemplazo, amplificación".
+- ↔ [[../../marco-legal/amnistia-internacional]] — Rocher coincide con Amnistía en exigir evaluaciones independientes + control de exportaciones.
+- ↔ [[../../marco-legal/onu-relatora-tortura]] — Rocher da el marco económico-político que la Relatora da en clave de derechos.
+- ↔ [[../../historia/armas-quimicas]], [[../../historia/balas-goma]], [[../../historia/armas-acusticas]] — su libro es fuente primaria para estos arcos.
 
 ## Obras
-- 📕 **Libro 1** — *Gasear, mutilar, someter: la política de las armas no letales* (Katakrak, 2021). Análisis de las armas «menos letales» como tecnología represiva.
+- 📕 **Libro 1** — [[paul-rocher-gasear-mutilar-someter|*Gasear, mutilar, someter: la política de las armas no letales*]] (Katakrak, 2021). Análisis de las armas «menos letales» como tecnología represiva. **Ficha con las notas de lectura.**
 - 📗 **Libro 2** — [[paul-rocher-que-hace-la-policia|*Qué hace la policía y cómo vivir sin ella*]] (Katakrak, 2023). Análisis de la policía como forma social capitalista + alternativas. **Ficha completa con todo el contenido del libro.**
 
 ## Material disponible
 - 🎧 **Audio (M4A / AAC 128 kbps):** `media/audio/Paul_Rocher_220522.m4a` — 41 MB, ~52 min, calidad voz perfecta
 - 📄 **Transcripción completa:** [[paul-rocher-entrevista]]
-- 📘 **Notas del libro 1:** integradas en la sección "Lo que me interesa más" de [[paul-rocher-entrevista]]
+- 📘 **Notas del libro 1:** [[paul-rocher-gasear-mutilar-someter]] — pasajes clave en castellano
 - 📘 **Ficha del libro 2:** [[paul-rocher-que-hace-la-policia]] — resumen completo con datos, citas y conexiones

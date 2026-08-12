@@ -45,7 +45,7 @@ Fabricante **belga** de armas de fuego y armas menos letales. Fundada en **1889*
 ## Productos exhibidos en FEINDEF 2025
 - **FN EVOLYS®** — ametralladora ultraligera 5,56×45 mm o 7,62×51 mm con mira diurna/nocturna y supresor.
 - **FN HiPer®** — pistola.
-- **FN Smart Protector®-303T** — el lanzador "menos letal" con IA que detecta cabezas. Calibre 18 mm. **Bloquea el gatillo** si el algoritmo detecta una cabeza, **aunque la sugerencia se puede ignorar "si la vida del tirador está en riesgo"**. Capacidad: 45 tiros. Presentado en **Milipol 2023**. → ficha completa en [[../feindef/04-fn-smart-protector]].
+- **FN Smart Protector®-303T** — el lanzador "menos letal" con IA que detecta cabezas. Calibre 18 mm. **Bloquea el gatillo** si el algoritmo detecta una cabeza, **aunque la sugerencia se puede ignorar "si la vida del tirador está en riesgo"**. Capacidad: 45 tiros. Presentado en **Milipol 2023**. → ficha completa en [[../../ferias-de-armas/feindef/04-fn-smart-protector]].
 
 ### Coordenadas FEINDEF 2025
 - **Pabellón 10F07**.
@@ -59,5 +59,5 @@ Fabricante **belga** de armas de fuego y armas menos letales. Fundada en **1889*
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[../feindef/04-fn-smart-protector]] — el producto emblemático con IA.
-- ↔ [[../../herramientas/laws-armas-autonomas]] — el Smart Protector como puerta de entrada al debate LAWS.
+- ↔ [[../../ferias-de-armas/feindef/04-fn-smart-protector]] — el producto emblemático con IA.
+- ↔ [[../../historia/laws-armas-autonomas]] — el Smart Protector como puerta de entrada al debate LAWS.

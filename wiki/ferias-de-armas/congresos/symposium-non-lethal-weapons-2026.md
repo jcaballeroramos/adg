@@ -15,7 +15,7 @@ Conferencia académico-industrial-militar **bienal** del **European Working Grou
 ## Por qué importa para el documental
 
 - Es **el foro internacional** donde se normalizan los conceptos, productos y discursos de la industria. Lo opuesto al foro de víctimas/DDHH.
-- Buen lugar para **mapear quién va, qué se anuncia, qué papers se presentan**: línea narrativa para el documental sobre cómo "la ciencia se pone al servicio del orden público" (eco directo de [[../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]).
+- Buen lugar para **mapear quién va, qué se anuncia, qué papers se presentan**: línea narrativa para el documental sobre cómo "la ciencia se pone al servicio del orden público" (eco directo de [[../../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]).
 - Posible **contraste estético-narrativo** con FEINDEF: si la feria es la **venta**, el simposio es la **legitimación científica**.
 
 ## Datos
@@ -25,6 +25,6 @@ Conferencia académico-industrial-militar **bienal** del **European Working Grou
 - Audiencia: militares, policías, investigadores, fabricantes, agencias gubernamentales.
 
 ## Conexiones
-- ↔ [[../ferias-de-armas/feindef/00-overview]] — la feria comercial. El simposio es su contraparte académica/militar.
-- ↔ [[yolo-v3-weapon-detection]] — papers como ese terminan aquí.
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher describe exactamente este tipo de "complejo industrial-académico".
+- ↔ [[../feindef/00-overview]] — la feria comercial. El simposio es su contraparte académica/militar.
+- ↔ [[../../herramientas/yolo-v3-weapon-detection]] — papers como ese terminan aquí.
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher describe exactamente este tipo de "complejo industrial-académico".

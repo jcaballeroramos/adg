@@ -30,13 +30,13 @@ Reportaje de investigación (~4.675 palabras) realizado con el apoyo del **Pulit
 
 **El vacío regulatorio** (argumento clave, muy útil para el ADG):
 - El gas lacrimógeno está **prohibido en la guerra desde el Protocolo de Ginebra de 1925**, pero **ningún tratado internacional prohíbe su uso doméstico** contra la propia población.
-- Las armas «menos letales» quedaron **explícitamente excluidas del Tratado sobre el Comercio de Armas (ATT) de 2013** —el acuerdo vinculante que prohíbe vender armas a países con abusos de derechos humanos documentados—. Ver [[../herramientas/control-arms]].
+- Las armas «menos letales» quedaron **explícitamente excluidas del Tratado sobre el Comercio de Armas (ATT) de 2013** —el acuerdo vinculante que prohíbe vender armas a países con abusos de derechos humanos documentados—. Ver [[organizaciones/control-arms]].
 - **No existe legislación federal en EE. UU.** que regule específicamente su fabricación.
 - Conclusión de los legisladores citados: hay **demasiados pocos datos** para afirmar que el gas lacrimógeno no tenga efectos duraderos sobre la salud; la industria está **insuficientemente regulada**; y los fabricantes **explotan ese vacío legal para maximizar beneficios**.
 
 **El estancamiento tecnológico** (edad de las armas del «menú» principal): gas lacrimógeno (~100 años), balas de goma (~50), granadas aturdidoras / *flash-bang* (~45), pistolas eléctricas / tásers (~30). Frente a ellas, propuestas «futuristas» que rara vez cuajan (espuma pegajosa, lanzarredes, rayos de calor).
 
-**Fabricantes estadounidenses señalados:** **Pacem Defense**, **Safariland** y **Combined Systems** (los tres mayores del país), además de **NonLethal Technologies**.
+**Fabricantes estadounidenses señalados:** **Pacem Defense**, **[[../empresas-de-armas/empresas/safariland|Safariland]]** y **[[../empresas-de-armas/empresas/combined-systems|Combined Systems]]** (los tres mayores del país), además de **[[../empresas-de-armas/empresas/nonlethal-technologies|NonLethal Technologies]]**.
 
 **Caso ancla — Popayán (Colombia), primavera de 2021.** Durante el **Paro Nacional** se empleó un lanzador remoto llamado **Venom**, fabricado por la estadounidense **Combined Systems** y usado desde hace tiempo por el **Cuerpo de Marines de EE. UU.**, capaz de disparar **hasta 30 botes** de gas lacrimógeno o *flash-bang* de una sola vez. El reportaje conecta así la **exportación de la industria estadounidense** con la **represión en América Latina**. Ver [[../casos/latam/colombia-2021]].
 
@@ -50,7 +50,7 @@ Reportaje de investigación (~4.675 palabras) realizado con el apoyo del **Pulit
 ## Conexiones
 - ↔ [[../herramientas/mapa-omega-ferias-armas]] — la industria y las ferias que Sands rastrea aguas arriba.
 - ↔ [[organizaciones/omega-research-foundation]] — investigación sobre equipamiento policial y su comercio.
-- ↔ [[../herramientas/control-arms]] — el ATT de 2013 del que se excluyó a las «menos letales», eje de su tesis.
+- ↔ [[organizaciones/control-arms]] — el ATT de 2013 del que se excluyó a las «menos letales», eje de su tesis.
 - ↔ [[../casos/latam/colombia-2021]] — Popayán y el lanzador Venom (Combined Systems).
 - ↔ [[../casos/latam/transferencias-cross-country]] · [[../casos/latam/intermediarios-latam]] — la exportación de la industria estadounidense.
 - ↔ [[rohini-haar]] — la contraparte médica: las lesiones que Sands sufrió y documenta.

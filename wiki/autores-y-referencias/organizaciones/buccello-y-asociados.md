@@ -22,17 +22,17 @@ Argentina tiene una **larga tradición** de violencia institucional desde la dic
 
 Para el documental es relevante porque:
 1. **Litigio estratégico**: documenta y litiga casos individuales de violencia policial con armas «menos letales».
-2. **Ecosistema latinoamericano**: junto con [[../autores-y-referencias/organizaciones/iridia|Irídia]] (Cataluña), forma parte de la **red continental** de abogacía especializada.
+2. **Ecosistema latinoamericano**: junto con [[iridia|Irídia]] (Cataluña), forma parte de la **red continental** de abogacía especializada.
 3. **Acceso a víctimas y casos** que no llegan a los grandes medios.
 4. Posible **fuente de testimonios** para el documental sobre casos argentinos.
 
 ## Contexto Argentina
-- **Automation Systems** — empresa de un oficial argentino condenado por crímenes de la dictadura, ganó +30 contratos con el Estado para máscaras antigás, drones y equipo. Ver [[../casos/latam/intermediarios-latam]].
-- **Argentina → Bolivia 2019** — el caso del avión Hércules C-130 de Macri llevando armas a Bolivia tras el golpe contra Evo Morales. Mauricio Macri fue **procesado por tráfico ilícito de armas**. Ver [[../casos/latam/transferencias-cross-country]].
+- **Automation Systems** — empresa de un oficial argentino condenado por crímenes de la dictadura, ganó +30 contratos con el Estado para máscaras antigás, drones y equipo. Ver [[../../casos/latam/intermediarios-latam]].
+- **Argentina → Bolivia 2019** — el caso del avión Hércules C-130 de Macri llevando armas a Bolivia tras el golpe contra Evo Morales. Mauricio Macri fue **procesado por tráfico ilícito de armas**. Ver [[../../casos/latam/transferencias-cross-country]].
 - **Protocolo Bullrich** — reglamento policial de mano dura impulsado por Patricia Bullrich (ministra de Seguridad).
 
 ## Conexiones
-- ↔ [[../autores-y-referencias/organizaciones/iridia]] — paralelo en Cataluña.
-- ↔ [[../casos/latam/intermediarios-latam]] — caso Automation Systems.
-- ↔ [[../casos/latam/transferencias-cross-country]] — caso Macri/Hércules.
-- ↔ [[../marco-legal/onu-relatora-tortura]].
+- ↔ [[iridia]] — paralelo en Cataluña.
+- ↔ [[../../casos/latam/intermediarios-latam]] — caso Automation Systems.
+- ↔ [[../../casos/latam/transferencias-cross-country]] — caso Macri/Hércules.
+- ↔ [[../../marco-legal/onu-relatora-tortura]].

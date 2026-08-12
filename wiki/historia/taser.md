@@ -48,12 +48,21 @@ La banalización llega también a las redes: circula un **vídeo viral de una ch
 ### El contraejemplo
 Toda esta normalización avanza pese a que el Estado ya tiene su primer muerto por disparo de Taser de los Mossos: el **[[../casos/espana-europa/antonio-c-badalona]]** (Badalona, 2021), cuyo caso ha sido reabierto judicialmente por la mala praxis en el uso del arma.
 
+
+## 2026 — del proyectil al contacto: el guante eléctrico
+
+En agosto de 2026 el ICE publicó su plan de compra de guantes **G.L.O.V.E.** de
+[[../empresas-de-armas/empresas/compliant-technologies|Compliant Technologies]] por 10-20
+millones de dólares: descarga eléctrica por contacto, activada con un interruptor, para los
+agentes que ejecutan arrestos migratorios. La genealogía que este documento traza — de la
+picana a la pistola de dardos — suma así un eslabón que elimina la distancia por completo.
+
 ## Conexiones
 - ↔ [[../casos/espana-europa/antonio-c-badalona]] — primer muerto por Taser de los Mossos; el contraejemplo de la normalización.
 - ↔ [[../empresas-de-armas/empresas/axon]] — el fabricante (Axon / TASER International) detrás del despliegue.
 - ↔ [[../marco-legal/bibliografia/axon-taser-warnings-2018]] — advertencias oficiales del fabricante (Axon).
 - ↔ [[../marco-legal/bibliografia/sacmill-taser-x2-2016]] · [[../marco-legal/bibliografia/iopc-taser-review-2021]] — evidencia médica y supervisión de casos (RU).
 - ↔ [[../marco-legal/bibliografia/civio-taser-protocolos-2024]] — protocolos del Taser en España (Civio).
-- ↔ [[../feindef/05-taser-lrad]] — el entrenamiento de Columbus.
-- ↔ [[../entrenamientos/lexipol-gordon-graham]] — Gordon Graham insiste en que requiere entrenamiento bajo estrés porque **puede matar**.
+- ↔ [[../ferias-de-armas/feindef/05-taser-lrad]] — el entrenamiento de Columbus.
+- ↔ [[../usos-de-armas/entrenamientos/lexipol-gordon-graham]] — Gordon Graham insiste en que requiere entrenamiento bajo estrés porque **puede matar**.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibido en pecho frontal (paro cardíaco), descargas repetidas, drive-stun, contra resistencia pasiva.

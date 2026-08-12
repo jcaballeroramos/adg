@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Condor Non-Lethal Technologies
 pais: Brasil
 fundacion: 1985
@@ -38,8 +38,8 @@ Empresa **brasileña** fundada en **1985**. **Líder global** del armamento no l
 ## Casos documentados (uso de su munición)
 - **Sudán 2021** — represión.
 - **Bahréin 2011** — revolución.
-- **[[../../casos/brasil-2017-2021|Brasil — Recife 2021]]** — ceguera por bala AM-403/P (munición devuelta por fallos en São Paulo).
-- **[[../../casos/fabiola-campillai|Chile — Fabiola Campillai]]** — granada lacrimógena Condor disparada al rostro.
+- **[[../../casos/latam/brasil-2017-2021|Brasil — Recife 2021]]** — ceguera por bala AM-403/P (munición devuelta por fallos en São Paulo).
+- **[[../../casos/latam/fabiola-campillai|Chile — Fabiola Campillai]]** — granada lacrimógena Condor disparada al rostro.
 - **[[../../casos/latam/colombia-2021|Colombia 2021]]** — Paro Nacional.
 - **[[../../casos/latam/venezuela-2017-2019|Venezuela 2017-2019]]** — bombas Condor.
 - **[[../../casos/latam/guatemala-2020|Guatemala 2020]]** — Tactical Group como intermediario.

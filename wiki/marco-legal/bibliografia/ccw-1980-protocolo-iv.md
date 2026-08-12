@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: stub
+estado: completo
 año: 1980
 ambito: internacional
 titulo: "Convención sobre Ciertas Armas Convencionales (CCW) + Protocolo IV sobre Armas Láser Cegadoras"
@@ -36,11 +36,11 @@ Y el **Artículo 2**:
 ## Por qué es histórico
 El **Protocolo IV** es el **primer tratado internacional** de la historia que **prohíbe preventivamente** un arma **antes de su uso masivo en combate**. Fue el resultado de una campaña coordinada por el **CICR** (Comité Internacional de la Cruz Roja), **Human Rights Watch** y la **campaña Stop Blinding Laser Weapons**.
 
-> Es **el modelo que invocan** quienes hoy piden una **prohibición preventiva de las LAWS** (Sistemas de Armas Autónomas Letales). Ver [[../../autores-y-referencias/christof-heyns]] y [[../../herramientas/laws-armas-autonomas]].
+> Es **el modelo que invocan** quienes hoy piden una **prohibición preventiva de las LAWS** (Sistemas de Armas Autónomas Letales). Ver [[../../autores-y-referencias/christof-heyns]] y [[../../historia/laws-armas-autonomas]].
 
 ## Por qué importa para el documental
 1. **Establece el principio jurídico** de que una tecnología puede prohibirse **antes** de causar un daño masivo.
-2. **La ceguera como límite**: el Protocolo IV **reconoce jurídicamente** que **dejar ciego a alguien** es un daño **inaceptable** — precedente directo para los casos [[../../casos/fabiola-campillai]], [[../../casos/roger-espanol]], [[../../casos/ester-quintana]], [[../../casos/rufo-chacon]] y todos los casos de lesiones oculares por balas de goma y gas lacrimógeno.
+2. **La ceguera como límite**: el Protocolo IV **reconoce jurídicamente** que **dejar ciego a alguien** es un daño **inaceptable** — precedente directo para los casos [[../../casos/latam/fabiola-campillai]], [[../../casos/espana-europa/roger-espanol]], [[../../casos/espana-europa/ester-quintana]], [[../../casos/latam/rufo-chacon]] y todos los casos de lesiones oculares por balas de goma y gas lacrimógeno.
 3. **Contradicción institucional**: los mismos Estados que firmaron el Protocolo IV contra la ceguera láser **autorizan el uso masivo** de balas de goma y KIPs que causan la misma ceguera. Esta contradicción es **el argumento jurídico clave** que esgrimen Rohini Haar, Casey-Maslen y las organizaciones de víctimas.
 4. **Precedente para prohibir LAWS**: la campaña actual «Stop Killer Robots» se inspira directamente en «Stop Blinding Laser Weapons».
 
@@ -52,9 +52,9 @@ El **Protocolo IV** es el **primer tratado internacional** de la historia que **
 EE.UU. firmó el Protocolo IV en 1995 **el mismo año** en que el Pentágono **desarrollaba el programa PEP** (Pulsed Energy Projectile) — un arma de plasma/láser para control de multitudes que **técnicamente no causa ceguera permanente** pero sí **dolor agudo y lesiones temporales severas**. El programa nunca se desplegó oficialmente, pero **Raytheon** y **Lockheed** siguieron desarrollando energía dirigida bajo el argumento de que no era técnicamente "láser cegador". Ver [[../../empresas-de-armas/empresas/raytheon]] — Active Denial System.
 
 ## Conexiones
-- ↔ [[../../herramientas/laws-armas-autonomas]] — precedente para la prohibición de LAWS.
+- ↔ [[../../historia/laws-armas-autonomas]] — precedente para la prohibición de LAWS.
 - ↔ [[../../autores-y-referencias/christof-heyns]] — invoca el Protocolo IV como precedente.
 - ↔ [[../../autores-y-referencias/stuart-casey-maslen]] — comentarios académicos.
 - ↔ [[../../empresas-de-armas/empresas/raytheon]] — Active Denial System como rodeo del Protocolo IV.
-- ↔ [[../../casos/fabiola-campillai]] · [[../../casos/roger-espanol]] · [[../../casos/ester-quintana]] — la ceguera como daño inaceptable.
+- ↔ [[../../casos/latam/fabiola-campillai]] · [[../../casos/espana-europa/roger-espanol]] · [[../../casos/espana-europa/ester-quintana]] — la ceguera como daño inaceptable.
 - ↔ [[onu-codigo-conducta-1979]] · [[onu-principios-basicos-1990]].

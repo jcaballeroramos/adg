@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Combined Systems Inc. (CSI)
 pais: Estados Unidos
 fundacion: 1981
@@ -29,11 +29,7 @@ Empresa **estadounidense** fundada en **1981**. Principal proveedor mundial de *
 - Lanzadoras múltiples
 
 ## Marketing
-> "Una compañía ha estado a la altura del desafío de proporcionar soluciones menos letales: **CSI y sus subsidiarias CTS y Penn Arms**."
->
-> Sobre el **VENOM**: "ahora hay una nueva solución no letal. Un **multiplicador de fuerza** con efectos escalables […] Venom puede ayudar a separar combatientes de no combatientes, escalar la fuerza, mejorar la protección de la fuerza en puestos de control de vehículos, puntos de control de entrada y operaciones de convoy, **determinar la intención**."
-
-→ ya analizado en [[../feindef/02-cts-venom]].
+Citas de catálogo del VENOM ("multiplicador de fuerza" capaz de "determinar la intención") → análisis completo en [[../../ferias-de-armas/feindef/02-cts-venom]].
 
 ## Mercado y presencia
 - Contratos con el **Cuerpo de Marines y la Marina de EE.UU.** desde **2006**.
@@ -44,7 +40,7 @@ Empresa **estadounidense** fundada en **1981**. Principal proveedor mundial de *
 - Cuestionamientos por prácticas comerciales y venta de armamento inadecuado a las necesidades operativas.
 
 ## Casos documentados
-- **[[../../casos/latam/colombia-2021|Colombia — Paro Nacional 2021]]** — Sistema VENOM usado por ESMAD, disparado horizontalmente.
+- **[[../../casos/latam/colombia-2021|Colombia — Paro Nacional 2021]]** — Sistema VENOM usado por ESMAD, disparado horizontalmente. El fotoperiodista [[../../autores-y-referencias/wil-sands|Wil Sands]], herido ocular en 2020, documentó el eje Combined Systems → VENOM → Popayán.
 - **[[../../casos/latam/bolivia-2019|Bolivia 2019]]** — armamento caducado, casos de corrupción.
 - **[[../../casos/latam/ecuador-2019|Ecuador 2019]]** — vía intermediario Juan Francisco Herdoíza Palacios.
 - **[[../../casos/latam/guatemala-2020|Guatemala 2020]]** — vía intermediario Tactical Group, sobreprecio.
@@ -57,6 +53,6 @@ Empresa **estadounidense** fundada en **1981**. Principal proveedor mundial de *
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[../feindef/02-cts-venom]] — el bloque FEINDEF dedicado a CTS.
+- ↔ [[../../ferias-de-armas/feindef/02-cts-venom]] — el bloque FEINDEF dedicado a CTS.
 - ↔ [[../../casos/latam/intermediarios-latam]] — la familia Fajardo (Imdicol Colombia), Tactical Group (Guatemala), Herdoíza Palacios (Ecuador).
 - ↔ [[../../casos/latam/transferencias-cross-country]].

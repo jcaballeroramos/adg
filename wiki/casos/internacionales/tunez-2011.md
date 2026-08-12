@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: Túnez
 año: 2011
 fecha_inicio: 2010-12-17
@@ -42,7 +42,7 @@ El escándalo fue tan grande que **Alliot-Marie tuvo que dimitir** semanas despu
 - **Los tunecinos derrocaron la dictadura** — único caso "exitoso" de la Primavera Árabe.
 
 ## Conexiones
-- ↔ [[00-indice]]
+- ↔ [[../../empresas-de-armas/empresas/00-indice]]
 - ↔ [[egipto-tahrir-2011]] · [[bahrein-2011]] · [[libia-2011]] · [[siria-2011]] — resto de la Primavera Árabe.
 - ↔ [[../../autores-y-referencias/david-dufresne]] — la frase de Alliot-Marie conecta ambos casos.
 - ↔ [[../../empresas-de-armas/empresas/alsetex]] — proveedor francés histórico.

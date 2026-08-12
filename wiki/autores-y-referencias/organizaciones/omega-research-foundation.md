@@ -64,8 +64,8 @@ Organización **sin fines de lucro registrada en Inglaterra y Gales** (1990). Es
 - Fortalecen la capacidad de **autoridades judiciales** para supervisar y responsabilizar a la policía.
 
 ## Casos en los que ha intervenido (relacionados con el documental)
-- **[[../../casos/africa-pablo-hasel|África]]** — informe pericial sobre el protocolo de los Mossos.
-- **[[../../casos/antonio-c-badalona|Antonio C.]]** — informe 2025 sobre la mala praxis del taser.
+- **[[../../casos/espana-europa/africa-pablo-hasel|África]]** — informe pericial sobre el protocolo de los Mossos.
+- **[[../../casos/espana-europa/antonio-c-badalona|Antonio C.]]** — informe 2025 sobre la mala praxis del taser.
 - Citada por la ONU como autoridad técnica en armas menos letales.
 
 ## Conexiones

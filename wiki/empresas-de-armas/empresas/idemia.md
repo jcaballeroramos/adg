@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: IDEMIA
 pais: Francia
 sede: Courbevoie (Île-de-France)
@@ -90,6 +90,6 @@ En abril de 2026, el grupo de tecnología de viajes **Amadeus** anunció la comp
 - ↔ [[combined-systems]] — la misma lógica de **"separar y clasificar"** multitudes, aquí por algoritmo sobre el rostro en vez de por munición.
 - ↔ [[../../ferias-de-armas/eurosatory-2026/00-overview]] — la feria donde IDEMIA presentó su discurso de fronteras y "protección del policía".
 - ↔ [[../../herramientas/vframe]] — la contrapartida ciudadana: visión por computador **al servicio** de los derechos humanos, no de la vigilancia.
-- ↔ [[../../herramientas/forensic-architecture]] — investigación forense contra la vigilancia estatal.
-- ↔ [[../../casos/latam/ee-uu-frontera-sur]] — el debate sobre tecnología de control de fronteras.
+- ↔ [[../../autores-y-referencias/organizaciones/forensic-architecture]] — investigación forense contra la vigilancia estatal.
+- ↔ [[../../casos/estados-unidos/ee-uu-frontera-sur]] — el debate sobre tecnología de control de fronteras.
 - ↔ [[../../casos/espana-europa/melilla-2022]] · [[../../casos/espana-europa/tarajal-2014]] — la frontera sur europea como laboratorio de este mercado.

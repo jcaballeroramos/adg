@@ -43,13 +43,13 @@ Carmen Gloria se convirtió en **símbolo internacional** de la dictadura. Su ca
 - El **gas lacrimógeno** era la **primera respuesta** a cualquier protesta.
 - **Cañones de agua** (los famosos **«guanacos»** por el animal que escupe) usados masivamente.
 - **Carros lanzagases** adaptados sobre chasis militares.
-- **Balines y perdigones** de plomo en protestas urbanas — el mismo tipo de munición que 35 años más tarde dejaría ciego a **Rufo Chacón** en Venezuela (ver [[../rufo-chacon]]).
+- **Balines y perdigones** de plomo en protestas urbanas — el mismo tipo de munición que 35 años más tarde dejaría ciego a **Rufo Chacón** en Venezuela (ver [[../latam/rufo-chacon]]).
 
 ## La transición y la continuidad
 **1988** — plebiscito del NO. Pinochet pierde.
 **1990** — Pinochet deja el poder ejecutivo pero **se mantiene como senador vitalicio** y **comandante en jefe del Ejército**.
 
-**Crítico para el documental**: la **institucionalización del gas lacrimógeno** como respuesta policial estándar **se conservó intacta** tras la transición democrática. Es por eso que **Carabineros** siguió siendo una de las policías **más letales del mundo** en represión de protestas, como demostraría el **estallido social de 2019** (ver [[../latam/chile-estallido-2019]] y [[../fabiola-campillai]]).
+**Crítico para el documental**: la **institucionalización del gas lacrimógeno** como respuesta policial estándar **se conservó intacta** tras la transición democrática. Es por eso que **Carabineros** siguió siendo una de las policías **más letales del mundo** en represión de protestas, como demostraría el **estallido social de 2019** (ver [[../latam/chile-estallido-2019]] y [[../latam/fabiola-campillai]]).
 
 > **La línea directa**: el gas lacrimógeno que dejó ciega a **Fabiola Campillai** en 2019 es el **descendiente institucional** del gas lacrimógeno que reprimía las protestas contra Pinochet en los 80.
 
@@ -59,7 +59,7 @@ Carmen Gloria se convirtió en **símbolo internacional** de la dictadura. Su ca
 - **El gas lacrimógeno como herramienta política** — no como emergencia.
 
 ## Conexiones
-- ↔ [[../fabiola-campillai]] — la continuidad histórica.
+- ↔ [[../latam/fabiola-campillai]] — la continuidad histórica.
 - ↔ [[../latam/chile-estallido-2019]] — 460+ heridos oculares en 2019.
 - ↔ [[argentina-1976-dictadura]] — paralelismo Cono Sur.
 - ↔ [[../../historia/armas-quimicas]] — el continuum histórico.

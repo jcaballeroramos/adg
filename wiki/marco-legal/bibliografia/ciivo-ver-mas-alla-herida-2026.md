@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: borrador
+estado: completo
 editor: CIIVO — Centro Internacional de Investigación de Violencia Ocular
 año: 2026
 ambito: internacional (Colombia, Chile, España, Bangladesh, Brasil, EE.UU.)

@@ -32,7 +32,7 @@ Página-**dashboard** con las cifras más importantes del daño producido por la
 
 ## 🇪🇸 España
 
-→ Fuente única para el Estado español: **[[compilacion-espana|Compilación España — cifras agregadas]]**. Este dashboard solo mantiene la cifra de muertes:
+→ Fuente única para el Estado español: **[[espana-europa/compilacion-espana|Compilación España — cifras agregadas]]**. Este dashboard solo mantiene la cifra de muertes:
 
 - **~77 muertes** documentadas por armas menos letales en España desde 1978 (24 por balas de goma + Tarajal 2014 + Melilla 2022 + Iñigo Cabacas + Antonio C. Badalona). El desglose completo, los heridos, los ojos perdidos, la geografía y el reparto por cuerpo policial están en *compilacion-espana*.
 
@@ -71,13 +71,13 @@ Página-**dashboard** con las cifras más importantes del daño producido por la
 
 ## 🇨🇱 Chile (estallido social, octubre 2019)
 - **+460 personas con lesiones oculares documentadas** (INDH).
-- [[fabiola-campillai|Fabiola Campillai]] — ceguera total + pérdida olfato y gusto.
+- [[latam/fabiola-campillai|Fabiola Campillai]] — ceguera total + pérdida olfato y gusto.
 - **Una de las mayores crisis de derechos humanos** del Cono Sur en el siglo XXI.
 
 ## 🇨🇴 Colombia (Paro Nacional 2021)
 - **+146 heridos** solo en Popayán.
 - **1 muerto**.
-- **11 lesiones oculares**.
+- **103+ lesiones oculares a nivel nacional (11 en Popayán)**.
 - **40 lesiones por impactos** de munición menos letal.
 - **Denuncias de violencia sexual** por agentes del ESMAD (suicidio de Alison Salazar).
 
@@ -113,7 +113,7 @@ Página-**dashboard** con las cifras más importantes del daño producido por la
 
 ## 🇮🇪 Irlanda del Norte (The Troubles)
 - **+55.000 disparos** del ejército británico en 5 años.
-- Múltiples muertes infantiles, incluyendo [[stephen-geddis|Stephen Geddis]] (10 años, 1975).
+- Múltiples muertes infantiles, incluyendo [[espana-europa/stephen-geddis|Stephen Geddis]] (10 años, 1975).
 
 ## 🇺🇸 Estados Unidos
 - **Rodney King 1991** → los disturbios posteriores: **50+ muertos, 2.000 heridos**.
@@ -126,29 +126,29 @@ Página-**dashboard** con las cifras más importantes del daño producido por la
 Cada víctima con rostro y nombre en la wiki:
 
 ### España
-- [[inigo-cabacas|Iñigo Cabacas]] (Bilbao 2012) — **muerto**
-- [[ester-quintana|Ester Quintana]] (Barcelona 2012) — ojo
-- [[juan-andres-benitez|Juan Andrés Benítez]] (Raval 2013) — **muerto**
-- [[carles-guillot|Carles Guillot]] — ojo
-- [[roger-espanol|Roger Español]] (1-O 2017) — ojo
-- [[antonio-c-badalona|Antonio C.]] (Badalona 2021) — **muerto** (taser)
-- [[africa-pablo-hasel|África]] (2021) — ojo
-- [[olga-proces|Olga]] (Procés 2019) — cabeza
+- [[espana-europa/inigo-cabacas|Iñigo Cabacas]] (Bilbao 2012) — **muerto**
+- [[espana-europa/ester-quintana|Ester Quintana]] (Barcelona 2012) — ojo
+- [[espana-europa/juan-andres-benitez|Juan Andrés Benítez]] (Raval 2013) — **muerto**
+- [[espana-europa/carles-guillot|Carles Guillot]] — ojo
+- [[espana-europa/roger-espanol|Roger Español]] (1-O 2017) — ojo
+- [[espana-europa/antonio-c-badalona|Antonio C.]] (Badalona 2021) — **muerto** (taser)
+- [[espana-europa/africa-pablo-hasel|África]] (2021) — ojo
+- [[espana-europa/olga-proces|Olga]] (Procés 2019) — cabeza
 
 ### Fronteras
-- [[tarajal-2014|Tarajal 2014]] — 14 muertos
-- [[melilla-2022|Melilla 2022]] — 37 muertos
+- [[espana-europa/tarajal-2014|Tarajal 2014]] — 14 muertos
+- [[espana-europa/melilla-2022|Melilla 2022]] — 37 muertos
 
 ### Internacional
-- [[fabiola-campillai|Fabiola Campillai]] (Chile 2019) — ceguera total + olfato + gusto
-- [[remi-fraisse|Rémi Fraisse]] (Sivens 2014) — **muerto**
-- [[steve-maia-canico|Steve Maia Caniço]] (Nantes 2019) — **muerto**
-- [[stephen-geddis|Stephen Geddis]] (Belfast 1975) — **muerto** (10 años)
-- [[rufo-chacon|Rufo Chacón]] (Venezuela 2019) — ceguera (16 años)
-- [[juan-pablo-pernalete|Juan Pablo Pernalete]] (Caracas 2017) — **muerto**
+- [[latam/fabiola-campillai|Fabiola Campillai]] (Chile 2019) — ceguera total + olfato + gusto
+- [[espana-europa/remi-fraisse|Rémi Fraisse]] (Sivens 2014) — **muerto**
+- [[espana-europa/steve-maia-canico|Steve Maia Caniço]] (Nantes 2019) — **muerto**
+- [[espana-europa/stephen-geddis|Stephen Geddis]] (Belfast 1975) — **muerto** (10 años)
+- [[latam/rufo-chacon|Rufo Chacón]] (Venezuela 2019) — ceguera (16 años)
+- [[latam/juan-pablo-pernalete|Juan Pablo Pernalete]] (Caracas 2017) — **muerto**
 
 ## Conexiones
-- ↔ [[compilacion-espana]] — el análisis español más detallado.
+- ↔ [[espana-europa/compilacion-espana]] — el análisis español más detallado.
 - ↔ [[latam/00-compilacion-latam]] — LATAM.
 - ↔ [[../historia/cronologia-completa]] — los datos en el eje temporal.
 - ↔ [[../empresas-de-armas/mercado-mundial]] — cuánto dinero por cada herido.

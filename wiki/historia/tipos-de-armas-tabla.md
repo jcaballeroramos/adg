@@ -16,7 +16,7 @@ Clasificación de las armas "menos letales" según su **tecnología principal**,
 | Química | CS, CN, OC, PAVA, Skunk | Alsetex · Nobel Sport · Falken · CTS · NLT · Safariland · Defense Technology | Juan Pablo Pernalete, Fabiola Campillai, Steve Caniço, Chalecos Amarillos, Dubrovka 2002 | **Categoría B**, prohibido disparar al cuerpo o en recintos cerrados |
 | Eléctrica | Taser X26, Taser 7/10 | Axon Enterprise | Antonio C. Badalona, Rodney King, Patrulla Fronteriza EE.UU. | **Categoría A** parcial (contactos directos/drive-stun = tortura). Taser a distancia = B |
 | Acústica | LRAD, Mosquito, GLI-F4 (híbrida) | Genasys (LRAD) · Vimad (distribuidor) · Alsetex (GLI-F4) | G20 Pittsburgh 2009, Bélgrado 2025, Rémi Fraisse | **Categoría B**, prohibido uso con daño auditivo permanente |
-| Óptica | Láseres cegadores, estrobos | (varios) | Prohibido por Protocolo IV (1995) | **Categoría A** — prohibida |
+| Óptica | Láseres cegadores, estrobos | (varios) | — | **Categoría A** — prohibida (Protocolo IV, 1995) |
 | Energía dirigida | Active Denial System, microondas | Raytheon / RTX | Afganistán 2010, "Discombobulator" 2026 | **Categoría A** — prohibida |
 | Múltiples proyectiles | Venom, Pac-20 | Combined Systems | Paro Nacional Colombia 2021, Chile 2019 | **Categoría A** — prohibida (indiscriminada) |
 | Sujeción degradante | Bastones con púas, esposas eléctricas, grilletes, aplastapulgares | (varios) | (histórico + actual) | **Categoría A** — prohibidos total |
@@ -40,7 +40,9 @@ Clasificación de las armas "menos letales" según su **tecnología principal**,
 
 **Fabricantes top**: [[../empresas-de-armas/empresas/verney-carron|Verney-Carron]], [[../empresas-de-armas/empresas/brugger-thomet|Brügger & Thomet]], [[../empresas-de-armas/empresas/maxam|MAXAM]], [[../empresas-de-armas/empresas/combined-systems|Combined Systems]], [[../empresas-de-armas/empresas/condor|Condor]], [[../empresas-de-armas/empresas/sides-canones-agua|Sides]], [[../empresas-de-armas/empresas/als-less-lethal|ALS]], [[../empresas-de-armas/empresas/lightfield-ammunition|Lightfield]].
 
-**Víctimas paradigmáticas**: [[../casos/roger-espanol|Roger Español]] · [[../casos/ester-quintana|Ester Quintana]] · [[../casos/carles-guillot|Carles Guillot]] · [[../casos/inigo-cabacas|Iñigo Cabacas]] · [[../casos/africa-pablo-hasel|África]] · [[../casos/olga-proces|Olga]] · [[../casos/stephen-geddis|Stephen Geddis]] · [[../casos/tarajal-2014|Tarajal 2014]] · [[../casos/melilla-2022|Melilla 2022]] · [[../casos/rufo-chacon|Rufo Chacón]] · [[../casos/remi-fraisse|Rémi Fraisse]].
+**Víctimas paradigmáticas**: [[../casos/espana-europa/roger-espanol|Roger Español]] · [[../casos/espana-europa/ester-quintana|Ester Quintana]] · [[../casos/espana-europa/carles-guillot|Carles Guillot]] · [[../casos/espana-europa/inigo-cabacas|Iñigo Cabacas]] · [[../casos/espana-europa/africa-pablo-hasel|África]] · [[../casos/espana-europa/olga-proces|Olga]] · [[../casos/espana-europa/stephen-geddis|Stephen Geddis]] · [[../casos/espana-europa/tarajal-2014|Tarajal 2014]] · [[../casos/espana-europa/melilla-2022|Melilla 2022]] · [[../casos/latam/rufo-chacon|Rufo Chacón]] · [[../casos/espana-europa/remi-fraisse|Rémi Fraisse]].
+
+→ [[balas-goma]]
 
 ### 💧 Cañones de agua (subcategoría)
 **Presión crítica**: 10 bares causa mutilaciones. La policía francesa usa **20 bares**.
@@ -68,7 +70,7 @@ Clasificación de las armas "menos letales" según su **tecnología principal**,
 
 **Distribuidores en España**: [[../empresas-de-armas/empresas/telefonica-ingenieria-seguridad|Telefónica Ingeniería de Seguridad]], [[../empresas-de-armas/empresas/saborit-international|Saborit International]], [[../empresas-de-armas/empresas/vimad-global|Vimad Global]].
 
-**Casos**: [[../casos/antonio-c-badalona|Antonio C. Badalona]] (primera muerte en Catalunya), Rodney King 1991, 450+ incidentes en la Patrulla Fronteriza de EE.UU. (2010-2013).
+**Casos**: [[../casos/espana-europa/antonio-c-badalona|Antonio C. Badalona]] (primera muerte en Catalunya), Rodney King 1991, 450+ incidentes en la Patrulla Fronteriza de EE.UU. (2010-2013).
 
 → [[taser]] · [[../empresas-de-armas/empresas/axon|Axon]]
 
@@ -94,12 +96,12 @@ Clasificación de las armas "menos letales" según su **tecnología principal**,
 **Fabricantes principales**: [[../empresas-de-armas/empresas/alsetex|Alsetex]], [[../empresas-de-armas/empresas/nobel-sport|Nobel Sport]], [[../empresas-de-armas/empresas/falken|Falken]], [[../empresas-de-armas/empresas/combined-systems|CTS]], [[../empresas-de-armas/empresas/nonlethal-technologies|NLT]], [[../empresas-de-armas/empresas/safariland|Safariland]], Defense Technology (Cadre Holdings), [[../empresas-de-armas/empresas/pepperball|PepperBall]], [[../empresas-de-armas/empresas/zarc-international|Zarc]], [[../empresas-de-armas/empresas/condor|Condor]], [[../empresas-de-armas/empresas/norinco|Norinco]], [[../empresas-de-armas/empresas/ispra|ISPRA]].
 
 **Víctimas paradigmáticas**:
-- [[../casos/fabiola-campillai|Fabiola Campillai]] — ceguera total + pérdida olfato y gusto.
-- [[../casos/juan-pablo-pernalete|Juan Pablo Pernalete]] — muerto por impacto cinético de bomba Norinco.
-- [[../casos/steve-maia-canico|Steve Maia Caniço]] — ahogamiento post-gas.
-- [[../casos/remi-fraisse|Rémi Fraisse]] — muerto por GLI-F4 (híbrida cinético-química-acústica).
+- [[../casos/latam/fabiola-campillai|Fabiola Campillai]] — ceguera total + pérdida olfato y gusto.
+- [[../casos/latam/juan-pablo-pernalete|Juan Pablo Pernalete]] — muerto por impacto cinético de bomba Norinco.
+- [[../casos/espana-europa/steve-maia-canico|Steve Maia Caniço]] — ahogamiento post-gas.
+- [[../casos/espana-europa/remi-fraisse|Rémi Fraisse]] — muerto por GLI-F4 (híbrida cinético-química-acústica).
 - Dubrovka 2002 — 117 rehenes muertos por gas anestésico ruso.
-- [[../casos/melilla-2022|Melilla 2022]] — muchas víctimas con lesiones oculares por gas.
+- [[../casos/espana-europa/melilla-2022|Melilla 2022]] — muchas víctimas con lesiones oculares por gas.
 - Plaza Tahrir 2011, Bahréin 2011 (34 muertos atribuidos al gas), Yellow Vests Francia (240+ heridos en una manifestación).
 
 → [[armas-quimicas]]
@@ -118,7 +120,7 @@ Clasificación de las armas "menos letales" según su **tecnología principal**,
 
 **Fabricantes**: Genasys (EE.UU.), [[../empresas-de-armas/empresas/alsetex|Alsetex]] (GLI-F4, Francia), [[../empresas-de-armas/empresas/vimad-global|Vimad]] (distribuidor España).
 
-**Casos**: [[../casos/remi-fraisse|Rémi Fraisse]], LRAD en Columbus (ver [[../empresas-de-armas/feindef/05-taser-lrad|FEINDEF bloque 6]]).
+**Casos**: [[../casos/espana-europa/remi-fraisse|Rémi Fraisse]], LRAD en Columbus (ver [[../ferias-de-armas/feindef/05-taser-lrad|FEINDEF bloque 6]]).
 
 **Estado legal**: **inconstitucional en EE.UU. en 2018** (LRAD contra multitudes).
 
@@ -149,7 +151,7 @@ Clasificación de las armas "menos letales" según su **tecnología principal**,
 
 **Casos**: Afganistán 2010, supuestamente integrado en el **"Discombobulator"** de Trump (2026).
 
-→ [[../empresas-de-armas/empresas/raytheon|Raytheon]] · [[../empresas-de-armas/renders/discombulator-trump]]
+→ [[../empresas-de-armas/empresas/raytheon|Raytheon]] · [[../empresas-de-armas/renders/discombobulator-trump]]
 
 ### 🎯 Múltiples proyectiles (prohibidos)
 **Principio**: disparar varios proyectiles simultáneamente en dirección dispersa.

@@ -13,9 +13,11 @@ fuente_principal: "Caminando Fronteras — Informe 13 marzo 2014"
 tags: [tarajal, ceuta, frontera-sur, guardia-civil, migración, caminando-fronteras, 2014, subsahariano]
 ---
 
+> ⚠️ **Datos en disputa**: 36 botes de humo (cuerpo) vs 5 botes (cifras oficiales, final de la ficha); y la lista de 14 víctimas incluye "Samba Martine (Camerún)", que corresponde a otro caso (CIE de Aluche, 2011) — verificar la lista completa antes de usarla.
+
 # Caso · Masacre del Tarajal (Ceuta, 6 de febrero de 2014)
 
-> Expandido a partir del stub anterior. Ver también [[melilla-2022]] como caso hermano y [[../autores-y-referencias/organizaciones/caminando-fronteras|Caminando Fronteras]] como fuente primaria.
+> Expandido a partir del stub anterior. Ver también [[melilla-2022]] como caso hermano y [[../../autores-y-referencias/organizaciones/caminando-fronteras|Caminando Fronteras]] como fuente primaria.
 
 ## Lo que ocurrió — madrugada del 6 de febrero de 2014
 Unas **250 personas migrantes**, mayoritariamente **subsaharianas**, intentaron entrar a nado a la **playa del Tarajal** (Ceuta) desde la playa marroquí de Belyounech. Algunas llevaban flotadores improvisados con cámaras de neumático, chalecos hinchables y pelotas.
@@ -61,7 +63,7 @@ A partir del trabajo de **Caminando Fronteras**, **Coordinadora de Barrios** y e
 La **filtración de imágenes de las cámaras del propio CETI de Ceuta** y los testimonios de Caminando Fronteras obligaron a reconocer los hechos, aunque solo **parcialmente**.
 
 ## El informe de Caminando Fronteras (13 marzo 2014)
-La organización **[[../autores-y-referencias/organizaciones/caminando-fronteras|Caminando Fronteras]]** publicó un informe pericial, testimonial y de campo que:
+La organización **[[../../autores-y-referencias/organizaciones/caminando-fronteras|Caminando Fronteras]]** publicó un informe pericial, testimonial y de campo que:
 - Documentó **nombre por nombre** a las víctimas identificadas.
 - Reconstruyó la cronología minuto a minuto.
 - Recogió testimonios de supervivientes.
@@ -84,8 +86,8 @@ La organización **[[../autores-y-referencias/organizaciones/caminando-fronteras
 ## Por qué importa para el documental
 1. **Primer aviso serio** del siglo XXI sobre el uso letal de armas "menos letales" contra personas migrantes en la frontera sur española.
 2. **Arco directo a [[melilla-2022|Melilla 2022]]**: lo que se denunció en Tarajal se repitió amplificado 8 años después.
-3. **Encaja en el patrón transversal** de [[../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]: las armas "menos letales" permiten **matar sin declarar la guerra**. En este caso: sin siquiera admitir que se disparó.
-4. **45% de los casos de impacto de bala de goma documentados en España** entre 2000 y 2020 ocurrieron en la frontera de **Ceuta** (según [[../autores-y-referencias/organizaciones/stop-bales-de-goma|Stop Bales de Goma]]). Tarajal es **el pico más letal**.
+3. **Encaja en el patrón transversal** de [[../../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]: las armas "menos letales" permiten **matar sin declarar la guerra**. En este caso: sin siquiera admitir que se disparó.
+4. **45% de los casos de impacto de bala de goma documentados en España** entre 2000 y 2020 ocurrieron en la frontera de **Ceuta** (según [[../../autores-y-referencias/organizaciones/stop-bales-de-goma|Stop Bales de Goma]]). Tarajal es **el pico más letal**.
 
 ## Material audiovisual existente
 - **Grabaciones de las cámaras del CETI** (filtradas).
@@ -122,8 +124,8 @@ La organización **[[../autores-y-referencias/organizaciones/caminando-fronteras
 
 ## Conexiones
 - ↔ [[melilla-2022]] — el caso hermano 8 años después.
-- ↔ [[../autores-y-referencias/organizaciones/caminando-fronteras]] — la organización que documenta.
+- ↔ [[../../autores-y-referencias/organizaciones/caminando-fronteras]] — la organización que documenta.
 - ↔ [[compilacion-espana]] — las cifras agregadas.
-- ↔ [[../historia/balas-goma]] — Tarajal y Melilla como continuum en la genealogía colonial de las balas de goma.
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco teórico.
-- ↔ [[../historia/cronologia-completa]] — entrada de febrero 2014.
+- ↔ [[../../historia/balas-goma]] — Tarajal y Melilla como continuum en la genealogía colonial de las balas de goma.
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco teórico.
+- ↔ [[../../historia/cronologia-completa]] — entrada de febrero 2014.

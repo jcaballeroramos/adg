@@ -55,7 +55,7 @@ Planos rápidos del efecto:
 - **Attacker Tracker UV Dye** — Tinte UV para rastrear atacantes.
 
 ## Conexiones
-- ↔ [[../feindef/03-byrna]] — stand físico de la misma marca en FEINDEF.
-- ↔ [[../historia/armas-quimicas]] — genealogía del CS, OC y pimienta.
-- ↔ [[../entrenamientos/lexipol-gordon-graham]] — contraste: la industria vende "defensa", Graham admite letalidad.
-- ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — la brecha entre el humor publicitario ("sucks") y la realidad clínica.
+- ↔ [[../../ferias-de-armas/feindef/03-byrna]] — stand físico de la misma marca en FEINDEF.
+- ↔ [[../../historia/armas-quimicas]] — genealogía del CS, OC y pimienta.
+- ↔ [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham]] — contraste: la industria vende "defensa", Graham admite letalidad.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la brecha entre el humor publicitario ("sucks") y la realidad clínica.

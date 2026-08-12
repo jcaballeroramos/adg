@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: borrador
+estado: completo
 editor: Centre Delàs d'Estudis per la Pau
 año: 2022
 informe_numero: 56
@@ -119,8 +119,8 @@ Las autoras justifican la elección del término **«armas potencialmente letale
 - ↔ [[../../autores-y-referencias/organizaciones/omega-research-foundation]] — fuente técnica principal.
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — agradecida en el informe.
 - ↔ [[../../casos/internacionales/bahrein-2011]] · [[../../casos/internacionales/egipto-tahrir-2011]] — casos citados.
-- ↔ [[../../casos/latam/chile-estallido-2019]] · [[../../casos/fabiola-campillai]] — bloque Chile.
-- ↔ [[../../casos/remi-fraisse]] — granada OF-F1 → GLI-F4.
+- ↔ [[../../casos/latam/chile-estallido-2019]] · [[../../casos/latam/fabiola-campillai]] — bloque Chile.
+- ↔ [[../../casos/espana-europa/remi-fraisse]] — granada OF-F1 → GLI-F4.
 - ↔ [[../../empresas-de-armas/empresas/combined-systems]] · [[../../empresas-de-armas/empresas/ispra]] · [[../../empresas-de-armas/empresas/condor]] · [[../../empresas-de-armas/empresas/raytheon]] · [[../../empresas-de-armas/empresas/safariland]] · [[../../empresas-de-armas/empresas/rheinmetall]] · [[../../empresas-de-armas/empresas/axon]] — las 15 empresas de la tabla.
 - ↔ [[../../empresas-de-armas/empresas/alsetex]] · [[../../empresas-de-armas/empresas/verney-carron]] — encargo LBD40 Francia.
 - ↔ [[../../empresas-de-armas/empresas/byrna-corporativo]] — modelo Byrna de venta a civiles.

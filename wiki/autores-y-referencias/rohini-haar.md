@@ -1,6 +1,6 @@
 ---
 tipo: autor
-estado: stub
+estado: borrador
 nombre: Rohini Haar
 pais: Estados Unidos
 profesion: Médica de urgencias, investigadora de derechos humanos
@@ -33,7 +33,7 @@ Este paper es **la cita clave** de todo litigio estratégico sobre balas de goma
 ## Otras obras
 - **«Lethal in Disguise»** (INCLO + PHR, 2016) — coautora del primer informe.
 - **«Lethal in Disguise 2»** (2023) — coautora de la actualización.
-- **Artículos en Torture Journal** (ver [[../herramientas/torture-journal]]).
+- **Artículos en Torture Journal** (ver [[../marco-legal/bibliografia/torture-journal]]).
 - **«The Medical Consequences of Torture: A Guide for Lawyers»** (colaboración con IRCT).
 - Investigaciones específicas sobre represión en Turquía, Hong Kong, Chile y EE.UU.
 
@@ -41,7 +41,7 @@ Este paper es **la cita clave** de todo litigio estratégico sobre balas de goma
 PHR es **la ONG médica líder** en investigación de armas «menos letales». Haar es su principal experta técnica.
 - **Bahréin 2012** — coautora del informe «Weaponizing Tear Gas» (ver [[../casos/internacionales/bahrein-2011]]).
 - **Hong Kong 2019** — documentación de lesiones oculares.
-- **Chile 2019** — apoyo técnico a las denuncias del estallido (ver [[../casos/fabiola-campillai]]).
+- **Chile 2019** — apoyo técnico a las denuncias del estallido (ver [[../casos/latam/fabiola-campillai]]).
 - **Minneapolis 2020** — Black Lives Matter, documentación de lesiones.
 
 ## Por qué importa para el documental
@@ -53,8 +53,8 @@ PHR es **la ONG médica líder** en investigación de armas «menos letales». H
 ## Conexiones
 - ↔ [[../marco-legal/bibliografia/haar-bmj-2017]] — ficha del estudio.
 - ↔ [[../marco-legal/bibliografia/lethal-in-disguise-2]] — coautora.
-- ↔ [[../herramientas/torture-journal]] — publica regularmente ahí.
+- ↔ [[../marco-legal/bibliografia/torture-journal]] — publica regularmente ahí.
 - ↔ [[../casos/internacionales/bahrein-2011]] — coautora informe PHR 2012.
-- ↔ [[../casos/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — paralelo en España.
+- ↔ [[testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — paralelo en España.
 - ↔ [[stuart-casey-maslen]] — marco jurídico.
 - ↔ [[../autores-y-referencias/organizaciones/iridia]] — usan sus datos.

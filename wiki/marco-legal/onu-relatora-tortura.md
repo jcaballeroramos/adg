@@ -1,7 +1,7 @@
 ---
 tipo: marco-legal
 estado: borrador
-fuente_principal: Informe Relatora Especial ONU contra la Tortura (2024) — A/78/324 y posteriores
+fuente_principal: Informe Relatora Especial ONU contra la Tortura (2023) — A/78/324 y posteriores
 referenciado_por: Anaïs Franquesa (Irídia)
 tags: [onu, relatora-tortura, tres-categorías, prohibición, doble-uso]
 ---
@@ -45,4 +45,5 @@ Aquellas que, dependiendo de cómo las aplique el agente, pueden usarse de forma
 ## Conexiones
 - ↔ [[onu-orientaciones-2020]] (las "Categoría A / Categoría B" del manual operativo).
 - ↔ [[amnistia-internacional]] (Amnistía es coimpulsora del tratado).
-- ↔ [[../feindef/00-overview]] (la propia FEINDEF entra en el "vigilando ferias de armas").
+- ↔ [[../autores-y-referencias/fionnuala-ni-aolain]] — la titular del mandato y su informe A/78/324.
+- ↔ [[../ferias-de-armas/feindef/00-overview]] (la propia FEINDEF entra en el "vigilando ferias de armas").

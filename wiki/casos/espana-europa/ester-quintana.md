@@ -70,7 +70,7 @@ Ester creó la campaña **"Ojo con tu ojo"** desde 2010 para empezar la comunica
 
 - **5 años sin trabajar**.
 - Su proceso fue **relativamente rápido**: en **abril de 2016 ya tenía hecho el juicio**.
-- Comparación: **Roger Español lleva 9 años** en el suyo; **Carlos Guillot lleva 14 años**.
+- Comparación: **Roger Español lleva 9 años** en el suyo; **Carles Guillot lleva 14 años**.
 
 ## Reflexiones compartidas por Ester
 
@@ -127,10 +127,10 @@ Ester creó la campaña **"Ojo con tu ojo"** desde 2010 para empezar la comunica
 - ↔ [[carles-guillot]] — Casa de la Montaña 2001, compañero en Stop Balas de Goma.
 - ↔ [[nicola-celebracion-mundial]] — cofundador de Stop Balas de Goma.
 - ↔ [[juan-andres-benitez]] — el otro caso que impulsó la prohibición 2014.
-- ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo.
+- ↔ [[lince-bolonia-italia-2024]] — caso italiano paralelo.
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — organización.
 - ↔ [[../../autores-y-referencias/referentes/00-referentes]] — incluye el podcast de Ester Quintana + Irídia y otros materiales relacionados.
-- ↔ [[../../marco-legal/bibliografia/cataluna-prohibicion-balas-goma]] — cronología legal.
-- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez]] — la cirujana que comparece en el Parlament (2013).
+- ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — cronología legal.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la cirujana que comparece en el Parlament (2013).
 - ↔ [[../../marco-legal/bibliografia/iridia-mecanismos-independientes]] — mecanismo independiente.
 - ↔ [[../../historia/balas-goma]] — genealogía del arma.

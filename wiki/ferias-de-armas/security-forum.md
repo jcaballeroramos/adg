@@ -43,6 +43,7 @@ Esta presencia institucional ilustra la **porosidad entre seguridad privada y p�
 
 ## Conexiones
 - ↔ [[feindef/00-overview]] — la gran feria española de **defensa** (Madrid); Security Forum es su contrapunto en clave de **seguridad privada** y municipal.
+- ↔ [[sicur]] — el salón de "seguridad integral" de IFEMA Madrid, el otro certamen español del sector.
 - ↔ [[milipol]] — referencia europea en seguridad interior y orden público, de escala muy superior.
 - ↔ [[eurosatory-2026/00-overview]] — feria de defensa y seguridad terrestre; útil como contraste de escala y enfoque.
 - ↔ [[dsei-londres]] — otra feria del ecosistema defensa/seguridad.

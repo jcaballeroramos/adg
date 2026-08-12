@@ -1,7 +1,7 @@
 ---
 tipo: caso
 estado: borrador
-victima: Nicola
+victima: Nicola Tanno
 pais: España
 fecha_hechos: 2010
 contexto: Celebración deportiva — España gana el Mundial de fútbol
@@ -21,7 +21,7 @@ fuentes: []
 
 ## Los hechos
 
-Hace **16 años** (2010), durante la celebración deportiva por la victoria de España en el Mundial, un **policía le disparó una pelota de goma** a Nicola. No había disturbios ni protesta política — era una celebración popular.
+En **2010**, durante la celebración deportiva por la victoria de España en el Mundial, un **policía le disparó una pelota de goma** a Nicola. No había disturbios ni protesta política — era una celebración popular.
 
 ## El activismo
 
@@ -42,7 +42,7 @@ Nicola destaca algo muy significativo: **no se identifica con lo que le hizo la 
 
 El colectivo tiene como principios:
 1. **No quieren crecer en número**: "No quieren que Stop Balas de Goma sean más personas. Hace falta que haya un caso."
-2. Llevan **25 años en esa lucha**.
+2. Están en esa lucha **desde 2010**.
 3. Hacen **protocolos** para familiares y amigos que acompañan a mutilados. *"El mutilado está en otro planeta."*
 4. **Viajan** buscando y conociendo a otros mutilados y familiares de personas asesinadas (Iñigo Cabacas, etc.).
 5. Alertan sobre nuevos proyectiles (foam) al resto del Estado.
@@ -98,7 +98,7 @@ El colectivo tiene como principios:
 - ↔ [[carles-guillot]] — caso paralelo de mutilación en Barcelona
 - ↔ [[juan-andres-benitez]] — detonante de la eliminación de un proyectil
 - ↔ [[inigo-cabacas]] — acompañamiento a la familia
-- ↔ [[../internacionales/lince-bolonia-palestina]] — caso italiano paralelo
+- ↔ [[lince-bolonia-italia-2024]] — caso italiano paralelo
 - ↔ [[../latam/fabiola-campillai]] — Chile, Coordinadora de Traumas Oculares
 - ↔ [[../latam/colombia-2021]] — MOCAO, 150 mutilados
 - ↔ [[../../historia/balas-goma]] — genealogía colonial del arma

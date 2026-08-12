@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Target Dynamics International
 pais: Reino Unido / Internacional
 producto_emblematico: GL06 (lanzagranadas de 40 mm / bajas letalidad)
@@ -29,8 +29,8 @@ Características técnicas:
 
 ## Su uso policial
 El GL06 / LBD40 es **el sistema más extendido** en Europa para el lanzamiento de proyectiles de 40 mm en contextos policiales. Es usado por:
-- **Policía Nacional francesa** — es el arma usada en los casos de **Rémi Fraisse** (Sivens 2014) y **Steve Maia Caniço** (Nantes 2019). Ver [[../../casos/remi-fraisse]] y [[../../casos/steve-maia-canico]].
-- **Mossos d'Esquadra** — usado para disparar proyectiles **SIR-X** de foam desde 2014. Es el arma responsable de los casos de [[../../casos/africa-pablo-hasel|Áfrika]], [[../../casos/roger-garcia-foam-2019|Roger García]], [[../../casos/abdelillah-foam-2019|Abdelillah]] y [[../../casos/olga-proces|Olga]].
+- **Policía Nacional francesa** — es el arma usada en los casos de **Rémi Fraisse** (Sivens 2014) y **Steve Maia Caniço** (Nantes 2019). Ver [[../../casos/espana-europa/remi-fraisse]] y [[../../casos/espana-europa/steve-maia-canico]].
+- **Mossos d'Esquadra** — usado para disparar proyectiles **SIR-X** de foam desde 2014. Es el arma responsable de los casos de [[../../casos/espana-europa/africa-pablo-hasel|Áfrika]], [[../../casos/espana-europa/roger-garcia-foam-2019|Roger García]], [[../../casos/espana-europa/abdelillah-foam-2019|Abdelillah]] y [[../../casos/espana-europa/olga-proces|Olga]].
 - **Gendarmerie, policía suiza, alemana, belga**.
 - **Cuerpos latinoamericanos** vía importación.
 
@@ -48,7 +48,7 @@ Su socio técnico, **Brügger & Thomet**, está ya documentado en este wiki con 
 ## Conexiones
 - ↔ [[brugger-thomet]] — fabricante suizo de referencia.
 - ↔ [[aasias]] — posible distribuidor español.
-- ↔ [[../../casos/remi-fraisse]] · [[../../casos/steve-maia-canico]] — casos franceses.
-- ↔ [[../../casos/africa-pablo-hasel]] · [[../../casos/roger-garcia-foam-2019]] · [[../../casos/abdelillah-foam-2019]] · [[../../casos/olga-proces]] — casos españoles.
+- ↔ [[../../casos/espana-europa/remi-fraisse]] · [[../../casos/espana-europa/steve-maia-canico]] — casos franceses.
+- ↔ [[../../casos/espana-europa/africa-pablo-hasel]] · [[../../casos/espana-europa/roger-garcia-foam-2019]] · [[../../casos/espana-europa/abdelillah-foam-2019]] · [[../../casos/espana-europa/olga-proces]] — casos españoles.
 - ↔ [[../../marco-legal/mossos-instrucciones-armamento]] — regulación oficial catalana del uso del GL06 + SIR-X.
 - ↔ [[../../marco-legal/bibliografia/iridia-pla-accio]] — demanda de prohibición de los KIPs.

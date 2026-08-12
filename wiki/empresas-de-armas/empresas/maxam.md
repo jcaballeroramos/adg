@@ -18,14 +18,14 @@ tags: [maxam, españa, alfred-nobel, balas-goma, policia-nacional, fabricante]
 ## Datos
 - **Sede**: Madrid
 - **Filiales**: ~140 en ~50 países
-- **Fundación**: 1872 (¡152 años de historia!)
+- **Fundación**: desde 1872
 - **Fundador histórico**: Alfred Nobel
 - 🌐 https://www.maxamcorp.com/
 
 ## El producto en cuestión
 > Según la propia empresa, **los cartuchos usados por el Cuerpo Nacional de Policía** son un tipo de cartucho lanzador impulsor de **pólvora negra** que genera **196 barras de presión** y lanza los proyectiles de goma a una velocidad de **60 m/s**, con un alcance efectivo de **175 metros**.
 
-Y recordemos: **a 122 julios cualquier impacto cinético es potencialmente letal**, y estas balas se disparan a **144 julios** ([[../../casos/compilacion-espana]]).
+Y recordemos: **a 122 julios cualquier impacto cinético es potencialmente letal**, y estas balas se disparan a **144 julios** ([[../../casos/espana-europa/compilacion-espana]]).
 
 ## Por qué importa para el documental
 - **Fabricante español de las balas que ciegan a las víctimas españolas**.
@@ -34,6 +34,6 @@ Y recordemos: **a 122 julios cualquier impacto cinético es potencialmente letal
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[../../casos/compilacion-espana]] — el "144 julios" sale de aquí.
-- ↔ [[../../casos/roger-espanol]], [[../../casos/carles-guillot]], [[../../casos/inigo-cabacas]], [[../../casos/ester-quintana]] — víctimas probables de munición Maxam.
+- ↔ [[../../casos/espana-europa/compilacion-espana]] — el "144 julios" sale de aquí.
+- ↔ [[../../casos/espana-europa/roger-espanol]], [[../../casos/espana-europa/carles-guillot]], [[../../casos/espana-europa/inigo-cabacas]], [[../../casos/espana-europa/ester-quintana]] — víctimas probables de munición Maxam.
 - ↔ [[../../historia/balas-goma]].

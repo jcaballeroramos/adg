@@ -69,6 +69,6 @@ Pero **la "menos letalidad" fue una cortina**: detrás del gas lacrimógeno ven�
 - ↔ [[chile-1973-pinochet]] — Cono Sur, Operación Cóndor.
 - ↔ [[../latam/intermediarios-latam]] — Automation Systems.
 - ↔ [[../latam/transferencias-cross-country]] — Macri/Hércules 2019.
-- ↔ [[../../herramientas/buccelloy-asociados]] — litigio actual.
+- ↔ [[../../autores-y-referencias/organizaciones/buccello-y-asociados]] — litigio actual.
 - ↔ [[../../historia/armas-quimicas]].
 - ↔ [[../../historia/canones-agua]].

@@ -30,7 +30,7 @@ Es el caso paradigmático de cómo **el efecto combinado** de:
 
 …**puede convertir un entorno aparentemente inofensivo en una trampa mortal**.
 
-> Como cita [[../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]:
+> Como cita [[../../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]:
 > *"La muerte de Steve Maia Caniço, que cayó al Loira tras una carga policial nocturna en Nantes, es una triste prueba de que el efecto combinado del dolor, la disminución de las capacidades sensoriales y el pánico causado por los gases lacrimógenos puede convertir un entorno inofensivo en una trampa mortal."*
 
 ## Consecuencias
@@ -64,7 +64,7 @@ Es el caso paradigmático de cómo **el efecto combinado** de:
 > ⚠️ No hay infografía pública estándar con el plano del Quai Wilson y posicionamiento de unidades. Disclose y Mediapart elaboraron reconstrucciones internas — recomienda solicitar a Disclose la cesión del material gráfico.
 
 ## Conexiones
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — citado en "Lo que me interesa más".
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — citado en "Lo que me interesa más".
 - ↔ [[remi-fraisse]] — el otro caso francés icónico.
-- ↔ [[../historia/armas-quimicas]].
-- ↔ [[../empresas-de-armas/empresas/00-indice]] — los proveedores de gases lacrimógenos en Francia (Alsetex, Nobel Sport, Verney-Carron).
+- ↔ [[../../historia/armas-quimicas]].
+- ↔ [[../../empresas-de-armas/empresas/00-indice]] — los proveedores de gases lacrimógenos en Francia (Alsetex, Nobel Sport, Verney-Carron).

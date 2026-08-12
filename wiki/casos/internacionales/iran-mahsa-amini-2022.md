@@ -63,7 +63,7 @@ Lo más documentado **médicamente** es la **estrategia sistemática del régime
 ## Por qué importa para el documental
 - **El caso de impacto cinético al ojo más extenso del mundo** — superando incluso a Chile 2019.
 - **Patrón de género explícito**: el blanco son **mujeres jóvenes**.
-- **Conexión médica** con el [[../testimonios/oftalmologa-estrella-fernandez|testimonio de la Dra. Estrella Fernández]]: la misma fisiología clínica del estallido del globo ocular.
+- **Conexión médica** con el [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez|testimonio de la Dra. Estrella Fernández]]: la misma fisiología clínica del estallido del globo ocular.
 - **El régimen iraní** declara **arma "antidisturbios"** los perdigones de plomo — un caso extremo de **inversión semántica**.
 - **Demostración global** de que el debate sobre armas menos letales ya no es solo "occidental".
 
@@ -117,6 +117,6 @@ Lo más documentado **médicamente** es la **estrategia sistemática del régime
 
 ## Conexiones
 - ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] · [[bangladesh-2024]] · [[nepal-gen-z-2024]] — la ola global 2019-2024.
-- ↔ [[../fabiola-campillai]] · [[../carles-guillot]] · [[../roger-espanol]] · [[../africa-pablo-hasel]] — el ojo como blanco común.
-- ↔ [[../oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología clínica.
+- ↔ [[../latam/fabiola-campillai]] · [[../espana-europa/carles-guillot]] · [[../espana-europa/roger-espanol]] · [[../espana-europa/africa-pablo-hasel]] — el ojo como blanco común.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología clínica.
 - ↔ [[../impacto-agregado]].

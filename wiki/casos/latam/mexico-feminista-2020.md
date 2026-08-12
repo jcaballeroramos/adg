@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: borrador
+estado: stub
 pais: México
 periodo: 2020-2022
 contexto: Marchas feministas y protestas contra la violencia de género

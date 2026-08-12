@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Azimuth Medical Devices SpA
 pais: Chile
 producto_emblematico: Gas pimienta OC Neblina (durante el estallido 2019)
@@ -44,5 +44,5 @@ Azimuth no fue la única. Ver [[../../casos/latam/intermediarios-latam]] para el
 
 ## Conexiones
 - ↔ [[../../casos/latam/chile-estallido-2019]] — el contexto del contrato.
-- ↔ [[../../casos/fabiola-campillai]] — víctima emblemática del estallido.
+- ↔ [[../../casos/latam/fabiola-campillai]] — víctima emblemática del estallido.
 - ↔ [[../../casos/latam/intermediarios-latam]] — el ecosistema completo.

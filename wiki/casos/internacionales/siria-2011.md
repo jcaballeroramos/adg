@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: Siria
 año: 2011
 fecha_inicio: 2011-03-15
@@ -53,7 +53,7 @@ Es decir: **el paso del gas lacrimógeno al sarín** se produjo **en dos años**
 - **2024-2025** — caída de al-Ásad por una ofensiva relámpago de HTS tras 13 años de guerra.
 
 ## Conexiones
-- ↔ [[00-indice]]
+- ↔ [[../../empresas-de-armas/empresas/00-indice]]
 - ↔ [[tunez-2011]] · [[egipto-tahrir-2011]] · [[bahrein-2011]] · [[libia-2011]] — Primavera Árabe.
 - ↔ [[../../empresas-de-armas/empresas/dio-iran]] — suministrador al régimen sirio.
 - ↔ [[../../historia/armas-quimicas]] — continuum del gas.

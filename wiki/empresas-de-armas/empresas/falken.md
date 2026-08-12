@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Falken S.A.
 pais: España
 fundacion: 1981-11-24

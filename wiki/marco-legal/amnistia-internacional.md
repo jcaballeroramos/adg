@@ -46,7 +46,7 @@ Disparar cartuchos de **múltiples proyectiles cinéticos** (perdigones, balines
 ### Identificación real
 Todos los agentes (especialmente antidisturbios) deben llevar **números de identificación (NOP)** grandes, visibles desde cualquier ángulo y fáciles de recordar. La **falta de identificación** es el principal obstáculo para enjuiciar a los agentes abusivos.
 
-> Conexión directa con la metodología de Irídia en el caso [[../casos/roger-espanol]]: tuvieron que reconstruir la identidad del escopetero **a partir de la vestimenta** porque el número estaba a la espalda.
+> Conexión directa con la metodología de Irídia en el caso [[../casos/espana-europa/roger-espanol]]: tuvieron que reconstruir la identidad del escopetero **a partir de la vestimenta** porque el número estaba a la espalda.
 
 ## 5. Cadena de mando y Protocolo de Minnesota
 
@@ -58,6 +58,6 @@ Todos los agentes (especialmente antidisturbios) deben llevar **números de iden
 
 ## Conexiones
 - ↔ [[onu-relatora-tortura]] y [[onu-orientaciones-2020]] — el marco institucional al que apela Amnistía.
-- ↔ [[../casos/roger-espanol]] — el caso encarna la metodología que Amnistía exige.
-- ↔ [[../testimonios/oftalmologa-estrella-fernandez]] — un ejemplo de la "evaluación independiente" que Amnistía pide.
-- ↔ [[../feindef/00-overview]] — Amnistía vigila ferias como FEINDEF.
+- ↔ [[../casos/espana-europa/roger-espanol]] — el caso encarna la metodología que Amnistía exige.
+- ↔ [[../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — un ejemplo de la "evaluación independiente" que Amnistía pide.
+- ↔ [[../ferias-de-armas/feindef/00-overview]] — Amnistía vigila ferias como FEINDEF.

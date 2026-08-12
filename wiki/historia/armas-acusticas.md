@@ -1,6 +1,6 @@
 ---
 tipo: historia
-estado: borrador
+estado: stub
 artefactos: [LRAD, Mosquito, Schallkanone]
 tags: [historia, acústica, LRAD, mosquito, schallkanone, valaushek, G20]
 ---
@@ -27,6 +27,8 @@ Variante que emite una frecuencia **insoportable solo para los menores de 25 añ
 > Discriminación acústica automatizada.
 
 ## Conexiones
-- ↔ [[../feindef/05-taser-lrad]] — la compra de Columbus Police y el uso institucionalizado.
-- ↔ [[../feindef/06-cierre-abba]] — la música como arma sonora (continuación natural).
+- ↔ [[../empresas-de-armas/empresas/vimad-global]] — distribuidor de armas acústicas en España.
+- ↔ [[tipos-de-armas-tabla]] — la categoría acústica en la taxonomía cruzada.
+- ↔ [[../ferias-de-armas/feindef/05-taser-lrad]] — la compra de Columbus Police y el uso institucionalizado.
+- ↔ [[../ferias-de-armas/feindef/06-cierre-abba]] — la música como arma sonora (continuación natural).
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibición de uso indiscriminado a volúmenes que causen daño permanente.

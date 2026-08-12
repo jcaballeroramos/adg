@@ -39,5 +39,5 @@ Plataforma estatal que **registra sistemáticamente las vulneraciones de derecho
 
 ## Conexiones
 - ↔ [[iridia]]
-- ↔ [[../../casos/compilacion-espana]]
+- ↔ [[../../casos/espana-europa/compilacion-espana]]
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]]

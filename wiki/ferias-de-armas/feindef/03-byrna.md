@@ -46,8 +46,8 @@ Una asistente con camisa blanca observa en silencio un anuncio reproducido en un
 
 ## Anuncio "Bad Guy Repellent"
 Pieza publicitaria separada, desglosada en su propio archivo:
-→ [[../publicidad/byrna-bad-guy-repellent]]
+→ [[../../empresas-de-armas/publicidad/byrna-bad-guy-repellent]]
 
 ## Conexiones
 - ↔ [[01-expal-puno-darwin]] (otro fabricante reciclando el discurso "lo menos lesivo posible").
-- ↔ [[../entrenamientos/lexipol-gordon-graham]] (la propia industria reconoce la letalidad).
+- ↔ [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham]] (la propia industria reconoce la letalidad).

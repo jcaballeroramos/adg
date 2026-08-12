@@ -27,5 +27,5 @@ El estudio revisa sistemáticamente la literatura médica sobre lesiones, muerte
 ## Conexiones
 - ↔ [[../bibliografia]] — índice maestro.
 - ↔ [[lethal-in-disguise-2]] — INCLO se basa en este tipo de revisiones sistemáticas.
-- ↔ [[../../testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología en la práctica clínica.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología en la práctica clínica.
 - ↔ [[mcevoy-corney-haar]] — Haar es coautora.

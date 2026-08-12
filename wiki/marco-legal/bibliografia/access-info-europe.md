@@ -25,7 +25,7 @@ Conclusión tras solicitar **acceso a información relativa a 42 países y terri
 
 ## Conexiones
 - ↔ [[../bibliografia]] — índice maestro.
-- ↔ [[../../casos/compilacion-espana]] — la opacidad española es **un caso** dentro del patrón europeo identificado.
+- ↔ [[../../casos/espana-europa/compilacion-espana]] — la opacidad española es **un caso** dentro del patrón europeo identificado.
 - ↔ [[../../casos/latam/legislacion-latam]] — el mismo patrón extendido en LATAM.
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — Irídia trabaja en la línea del "derecho a saber".
 - ↔ [[../amnistia-internacional]] — Amnistía exige transparencia en su agenda.

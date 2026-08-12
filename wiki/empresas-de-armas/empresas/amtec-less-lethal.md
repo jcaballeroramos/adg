@@ -19,5 +19,5 @@ Empresa **estadounidense** de armas menos letales. Productos principales: **gran
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[combined-systems]] — competidor directo en el mismo segmento.
+- ↔ [[combined-systems]] · [[lamperd-less-lethal]] — competidores directos en el mismo segmento.
 - ↔ [[../../casos/latam/00-compilacion-latam]] — el problema del **armamento caducado** circulando.

@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: borrador
+estado: stub
 nombre: MBDA
 pais: Europa (Francia, Reino Unido, Italia, Alemania, España)
 fundacion: 2001
@@ -18,5 +18,5 @@ MBDA representa la **cúspide letal** del catálogo de Eurosatory: mientras en u
 
 ## Conexiones
 - ↔ [[../../ferias-de-armas/eurosatory-2026/01-videos]] — citado en los discursos de Vautrin (ids 88/89/91).
-- ↔ [[knds]] · [[safran]] · [[arquus]] · [[rheinmetall]] — el resto de grandes primes europeos.
+- ↔ [[knds]] · [[safran]] · [[arquus]] · [[rheinmetall]] · [[diehl-defence]] — el resto de grandes primes europeos.
 - ↔ [[saab-bofors-dynamics]] — competidor en misiles (RBS 70).

@@ -1,6 +1,6 @@
 ---
 tipo: empresa
-estado: stub
+estado: borrador
 nombre: Saab Bofors Dynamics
 pais: Suecia
 producto_emblematico: NLAW, RBS 70, Carl-Gustaf, Giraffe
@@ -68,5 +68,5 @@ Pese a la **retórica sueca de neutralidad**, Saab Bofors ha exportado a:
 ## Conexiones
 - ↔ [[../../casos/internacionales/ucrania-2022-presente]] — NLAW como símbolo.
 - ↔ [[maxam]] — paralelo Nobel/dinamita en España.
-- ↔ [[rheinmetall]] · [[fn-herstal]] — otros grandes europeos.
+- ↔ [[rheinmetall]] · [[fn-herstal]] · [[diehl-defence]] — otros grandes europeos.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — mercado europeo.

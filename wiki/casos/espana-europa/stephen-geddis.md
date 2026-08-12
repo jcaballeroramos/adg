@@ -64,7 +64,7 @@ Es la **primera muerte documentada por rebote** de una bala de goma — el patr�
 > ⚠️ **Clave para el guion**: el *Land Operations Manual* del Ejército británico de 1971 ya prohibía disparar contra niños; la instrucción no se transmitió a las tropas. Las reglas se modificaron en diciembre 1975, **cuatro meses después de la muerte de Geddis**. Fuente: inquest 2022 + sentencia 2024.
 
 ## Conexiones
-- ↔ [[../historia/balas-goma]] — la genealogía colonial completa.
-- ↔ [[inigo-cabacas]] · [[ester-quintana]] · [[carles-guillot]] · [[roger-espanol]] · [[fabiola-campillai]] — los descendientes históricos del caso Geddis.
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita explícitamente Geddis.
-- ↔ [[../marco-legal/onu-orientaciones-2020]] — la ONU prohíbe el disparo indirecto por rebote precisamente por casos como este.
+- ↔ [[../../historia/balas-goma]] — la genealogía colonial completa.
+- ↔ [[inigo-cabacas]] · [[ester-quintana]] · [[carles-guillot]] · [[roger-espanol]] · [[../latam/fabiola-campillai]] — los descendientes históricos del caso Geddis.
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita explícitamente Geddis.
+- ↔ [[../../marco-legal/onu-orientaciones-2020]] — la ONU prohíbe el disparo indirecto por rebote precisamente por casos como este.

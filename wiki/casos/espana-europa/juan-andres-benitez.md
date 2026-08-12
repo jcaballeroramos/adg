@@ -97,24 +97,8 @@ La paliza fue **grabada desde varios balcones** por vecinos del Raval. Las imág
 
 ## Conexiones
 - ↔ [[ester-quintana]] — el caso paralelo que junto al suyo precipitó la prohibición.
-- ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — la cronología completa.
-- ↔ [[../autores-y-referencias/organizaciones/iridia]] — Irídia trabajó en el caso.
+- ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — la cronología completa.
+- ↔ [[../../autores-y-referencias/organizaciones/iridia]] — Irídia trabajó en el caso.
 - ↔ [[compilacion-espana]] — uno de los casos paradigmáticos de la era 2005-2015.
-- ↔ [[impacto-agregado]] — incluido en el recuento de muertes en España.
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — demuestra que **el vídeo ciudadano** es **la única palanca** que rompe la impunidad.
-
-## Por qué importa para el documental
-Junto con el caso de **[[ester-quintana|Ester Quintana]]** (noviembre 2012), el de Juan Andrés Benítez fue **decisivo** para que el **Parlament de Catalunya prohibiera el uso de balas de goma en abril de 2014**. Estos dos casos crearon **el clima político y mediático** que hizo políticamente imposible mantener el statu quo.
-
-> Aunque su muerte **no fue por bala de goma**, sino por **paliza directa**, encarna **el otro vector** de la violencia policial: la fuerza física directa, la porra, los puñetazos, las patadas. Esto recuerda que la **categorización por tipo de arma** no debe hacernos olvidar que el cuerpo policial es **un sistema integral** de uso de la fuerza.
-
-## El recorrido judicial
-- 8 mossos imputados.
-- Largo proceso judicial.
-- **Condenas** finalmente impuestas a varios agentes — **una de las pocas condenas firmes** por brutalidad policial en Catalunya.
-
-## Conexiones
-- ↔ [[ester-quintana]] — el caso paralelo que junto al suyo precipitó la prohibición.
-- ↔ [[../marco-legal/cataluna-prohibicion-balas-goma]] — la cronología completa.
-- ↔ [[../autores-y-referencias/organizaciones/iridia]] — Iridia trabajó en el caso.
-- ↔ [[compilacion-espana]] — uno de los casos paradigmáticos de la era 2005-2015.
+- ↔ [[../impacto-agregado]] — incluido en el recuento de muertes en España.
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — demuestra que **el vídeo ciudadano** es **la única palanca** que rompe la impunidad.

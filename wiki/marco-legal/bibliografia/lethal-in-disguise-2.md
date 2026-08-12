@@ -32,7 +32,7 @@ Entre **2016 y 2021**, en todo el mundo:
 ## Conexiones
 - ↔ [[../bibliografia]] — índice maestro.
 - ↔ [[../../autores-y-referencias/organizaciones/omega-research-foundation]] — Omega es socio técnico.
-- ↔ [[../../casos/compilacion-espana]] — comparativa de cifras españolas.
+- ↔ [[../../casos/espana-europa/compilacion-espana]] — comparativa de cifras españolas.
 - ↔ [[../../casos/latam/00-compilacion-latam]] — comparativa LATAM.
 - ↔ [[me-estallo-el-ojo-amnistia]] — el informe paralelo de Amnistía.
 - ↔ [[haar-bmj-2017]] — el estudio sistemático del BMJ.

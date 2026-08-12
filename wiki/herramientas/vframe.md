@@ -16,7 +16,7 @@ tags: [vframe, computer-vision, munición, derechos-humanos, forensic, ml]
 ## Por qué importa para el documental
 - Es **exactamente la contrapartida ciudadana** a los sistemas de vigilancia algorítmica que compran las policías. En lugar de detectar "cabezas de manifestantes" como hace el [[../ferias-de-armas/feindef/04-fn-smart-protector|FN Smart Protector]], VFRAME detecta **el arma lanzada**.
 - Herramienta **open-source** → replicable, auditable, sin intereses comerciales.
-- Encarna la tesis que conecta el proyecto con [[../casos/roger-espanol|Roger Español]] y la **"semilla del algoritmo"** de Irídia: usar IA para identificar abusos policiales en vez de para multiplicarlos.
+- Encarna la tesis que conecta el proyecto con [[../casos/espana-europa/roger-espanol|Roger Español]] y la **"semilla del algoritmo"** de Irídia: usar IA para identificar abusos policiales en vez de para multiplicarlos.
 
 ## Qué hace técnicamente
 - Modelos entrenados para detectar **submuniciones de racimo** (ej. ShOAB-0.5 rusa, PTAB-2.5KO, etc.) en metraje de conflicto.
@@ -35,7 +35,7 @@ tags: [vframe, computer-vision, munición, derechos-humanos, forensic, ml]
 
 ## Conexiones
 - ↔ [[../ferias-de-armas/feindef/04-fn-smart-protector]] — el contra-ejemplo industrial.
-- ↔ [[../casos/roger-espanol]] — Irídia identificó al agente a mano; VFRAME automatiza esa lógica para otras investigaciones.
+- ↔ [[../casos/espana-europa/roger-espanol]] — Irídia identificó al agente a mano; VFRAME automatiza esa lógica para otras investigaciones.
 - ↔ [[../marco-legal/amnistia-internacional]] — Amnistía / Omega Research son el tipo de cliente ideal de VFRAME.
 - ↔ [[yolo-v3-weapon-detection]] — base técnica comparable (YOLO y familia) pero en el campo académico y con otro propósito.
 

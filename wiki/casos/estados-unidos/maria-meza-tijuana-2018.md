@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: borrador
 pais: México / Estados Unidos
 ciudad: Tijuana / San Ysidro
 año: 2018
@@ -31,15 +31,10 @@ El fotógrafo de **Reuters Kim Kyung-Hoon** captura **la imagen que dará la vue
 - **Gas lacrimógeno CS** en botes manuales y lanzadoras de 40 mm.
 - **Pepper spray** OC en algunos casos.
 - **Dispositivos acústicos LRAD** documentados en la zona.
-- Proveedores: **Combined Systems** (EE.UU.), **Safariland**, **Axon Enterprise** (Tasers), y probablemente **Aardvark Tactical** como distribuidor (ver [[../empresas-de-armas/empresas/aardvark-tactical]]).
+- Proveedores: **Combined Systems** (EE.UU.), **Safariland**, **Axon Enterprise** (Tasers), y probablemente **Aardvark Tactical** como distribuidor (ver [[../../empresas-de-armas/empresas/aardvark-tactical]]).
 
 ## El patrón
-Este caso **no es aislado**. Forma parte de un patrón documentado por *Los Angeles Times* (2015) y *El País* (2024):
-- La **CBP** ha **normalizado** el uso de armas «menos letales» en frontera sur.
-- **+450 incidentes** de Taser documentados por *LA Times* entre 2010-2013.
-- **Contratos por +62 M$** de la CBP con **Aardvark Tactical** entre 2014-2022, 70% para Tasers.
-- Uso de **dispositivos acústicos no autorizados** y Tasers contra **menores de edad**.
-- **Falta total de rendición de cuentas**.
+Este caso **no es aislado**: el uso sistemático de armas «menos letales» por la CBP en la frontera sur está documentado en [[ee-uu-frontera-sur]].
 
 ## Fuentes clave
 - **El Confidencial** (28 nov 2018) — *«La foto de la vergüenza: María, la madre que huía con sus hijos de los gases de Trump»*: https://www.elconfidencial.com/mundo/2018-11-28/migrantes-caravana-tijuana_1672854/
@@ -48,8 +43,8 @@ Este caso **no es aislado**. Forma parte de un patrón documentado por *Los Ange
 
 ## Conexiones
 - ↔ [[ee-uu-frontera-sur]] — caso agregado frontera sur.
-- ↔ [[../empresas-de-armas/empresas/aardvark-tactical]] — proveedor de Tasers CBP.
-- ↔ [[../empresas-de-armas/empresas/combined-systems]] — gas lacrimógeno.
-- ↔ [[../empresas-de-armas/empresas/axon]] — Tasers.
+- ↔ [[../../empresas-de-armas/empresas/aardvark-tactical]] — proveedor de Tasers CBP.
+- ↔ [[../../empresas-de-armas/empresas/combined-systems]] — gas lacrimógeno.
+- ↔ [[../../empresas-de-armas/empresas/axon]] — Tasers.
 - ↔ [[../../historia/armas-quimicas]] — continuum del gas.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita la militarización fronteriza.

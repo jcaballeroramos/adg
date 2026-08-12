@@ -39,11 +39,9 @@ tags: [bolivia, 2019, evo-morales, jeanine-añez, lanzagranadas, combined-system
 - **Decreto de 2020**: el gobierno instruyó que los contratos de seguridad **NO sean alojados en el SICOES** (Sistema de Contrataciones del Estado), limitando la transparencia.
 
 ## La trama Argentina — Macri → Áñez (Hércules C-130)
-- **17 noviembre 2019**: avión de la FAB aterriza en La Paz cargado desde Ecuador.
-- **Cargamento extra argentino**: **70.000 cartuchos antimotines**, **100 sprays de gas pimienta**, **700 granadas de gas**.
-- **Hércules C-130 argentino** aterriza en El Alto con cargamento especial para Policía y Fuerzas Armadas bolivianas.
-- **2021-2022**: justicia procesa a **Mauricio Macri y altos funcionarios** por **tráfico ilícito de armas**.
-- → ver [[transferencias-cross-country]] sección "La trama paralela".
+En noviembre de 2019 un **Hércules C-130 argentino** aterrizó en El Alto con **70.000 cartuchos antimotines, 100 sprays de gas pimienta y 700 granadas de gas** para la Policía y las Fuerzas Armadas bolivianas. Por ese envío, la justicia argentina procesó en 2021-2022 a **Mauricio Macri** y altos funcionarios por **tráfico ilícito de armas**.
+
+→ ver [[transferencias-cross-country]] para la cronología completa.
 
 ## Conexiones
 - ↔ [[00-compilacion-latam]] — patrones transversales.

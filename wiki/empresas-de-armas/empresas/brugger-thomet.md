@@ -25,12 +25,12 @@ Empresa **suiza** fabricante del **LBD40** (lanzador BT-GL06), uno de los lanzad
 
 ## Por qué importa para el documental
 - Es el **único proveedor no nacional** del armamento "menos letal" del Estado francés. Excepción a una industria mayoritariamente nacional.
-- Es el **proveedor del arma que dejó ciega a [[../../casos/africa-pablo-hasel|África]]** en Catalunya (la lanzadora BT-GL06 disparando proyectiles de foam).
+- Es el **proveedor del arma que dejó ciega a [[../../casos/espana-europa/africa-pablo-hasel|África]]** en Catalunya (la lanzadora BT-GL06 disparando proyectiles de foam).
 - Demuestra que la **regulación europea no es estricta**: un director condenado por tráfico ilícito sigue dirigiendo una empresa que provee a Estados europeos.
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[../../casos/africa-pablo-hasel]] — quien quedó ciega tras un disparo desde una BT-GL06.
-- ↔ [[../../casos/olga-proces]] — otra víctima del mismo arma.
+- ↔ [[../../casos/espana-europa/africa-pablo-hasel]] — quien quedó ciega tras un disparo desde una BT-GL06.
+- ↔ [[../../casos/espana-europa/olga-proces]] — otra víctima del mismo arma.
 - ↔ [[../../marco-legal/cataluna-prohibicion-balas-goma]] — el "reemplazo" de la bala de goma por la foam disparada por la B&T.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher menciona explícitamente al director suizo condenado.

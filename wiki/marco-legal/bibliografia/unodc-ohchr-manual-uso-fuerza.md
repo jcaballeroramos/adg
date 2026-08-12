@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: stub
+estado: borrador
 editor: UNODC + OHCHR (Naciones Unidas)
 año: 2017
 ambito: internacional
@@ -51,7 +51,7 @@ Sección crítica que desarrolla **caso por caso** los límites de cada arma:
 
 ## Por qué importa para el documental
 - **Documento operativo de la ONU**: lo que cualquier gobierno del mundo debe aplicar si firma los compromisos internacionales.
-- **España lo ignora sistemáticamente**. Los protocolos de los [[mossos-instrucciones-armamento|Mossos d'Esquadra]], la Policía Nacional y la Guardia Civil **no cumplen** con varios puntos concretos del manual (distancias de disparo, prohibición de municiones múltiples, formación adecuada).
+- **España lo ignora sistemáticamente**. Los protocolos de los [[../mossos-instrucciones-armamento|Mossos d'Esquadra]], la Policía Nacional y la Guardia Civil **no cumplen** con varios puntos concretos del manual (distancias de disparo, prohibición de municiones múltiples, formación adecuada).
 - **Base técnica** para todos los litigios de Irídia, Amnistía y Omega Research Foundation.
 
 ## Conexiones
@@ -60,4 +60,4 @@ Sección crítica que desarrolla **caso por caso** los límites de cada arma:
 - ↔ [[../onu-orientaciones-2020]] — actualización posterior.
 - ↔ [[ccw-1980-protocolo-iv]] · [[cicr-guia-armas-quimicas]].
 - ↔ [[../../autores-y-referencias/stuart-casey-maslen]] — comentarios académicos.
-- ↔ [[mossos-instrucciones-armamento]] — comparativa con la práctica catalana.
+- ↔ [[../mossos-instrucciones-armamento]] — comparativa con la práctica catalana.

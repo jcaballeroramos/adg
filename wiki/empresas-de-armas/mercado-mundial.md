@@ -45,23 +45,23 @@ Dossier único con **todas las cifras** del crecimiento del sector, la distribuc
 ## Las 15 empresas que dominan el mercado
 
 ### 🇺🇸 Top 10 estadounidense
-1. [ALS Less Lethal](empresas/als-less-lethal.md)
-2. [ASP Inc](empresas/asp-inc.md)
-3. [Combined Systems](empresas/combined-systems.md)
-4. [PepperBall Technologies](empresas/pepperball.md)
-5. [NonLethal Technologies](empresas/nonlethal-technologies.md)
-6. [Axon Enterprise](empresas/axon.md)
-7. [Byrna Technologies](empresas/byrna-corporativo.md)
-8. [Raytheon Company / RTX](empresas/raytheon.md)
-9. [Safariland](empresas/safariland.md)
-10. [Zarc International](empresas/zarc-international.md)
+1. [[empresas/als-less-lethal|ALS Less Lethal]]
+2. [[empresas/asp-inc|ASP Inc]]
+3. [[empresas/combined-systems|Combined Systems]]
+4. [[empresas/pepperball|PepperBall Technologies]]
+5. [[empresas/nonlethal-technologies|NonLethal Technologies]]
+6. [[empresas/axon|Axon Enterprise]]
+7. [[empresas/byrna-corporativo|Byrna Technologies]]
+8. [[empresas/raytheon|Raytheon Company / RTX]]
+9. [[empresas/safariland|Safariland]]
+10. [[empresas/zarc-international|Zarc International]]
 
 ### 🌍 Las 5 internacionales
-11. [ISPRA](empresas/ispra.md) (🇮🇱 Israel)
-12. [Condor Non-Lethal Technologies](empresas/condor.md) (🇧🇷 Brasil)
-13. [Lamperd Less Lethal](empresas/lamperd-less-lethal.md) (🇨🇦 Canadá)
-14. [Rheinmetall](empresas/rheinmetall.md) (🇩🇪 Alemania)
-15. [FN Herstal](empresas/fn-herstal.md) (🇧🇪 Bélgica)
+11. [[empresas/ispra|ISPRA]] (🇮🇱 Israel)
+12. [[empresas/condor|Condor Non-Lethal Technologies]] (🇧🇷 Brasil)
+13. [[empresas/lamperd-less-lethal|Lamperd Less Lethal]] (🇨🇦 Canadá)
+14. [[empresas/rheinmetall|Rheinmetall]] (🇩🇪 Alemania)
+15. [[empresas/fn-herstal|FN Herstal]] (🇧🇪 Bélgica)
 
 > **10 de 15** son **estadounidenses**. La concentración del poder industrial en EE.UU. es **total**.
 
@@ -94,7 +94,7 @@ Dossier único con **todas las cifras** del crecimiento del sector, la distribuc
 - **[[empresas/combined-systems|Combined Systems / CTS]]**: respuestas públicas mínimas, se presenta como "proveedor de la aplicación de la ley".
 
 ### Indicadores indirectos
-- **Market capitalization** de las empresas cotizadas (Axon, Byrna, General Dynamics, RTX) — muy alta.
+- **Market capitalization** de las empresas cotizadas (Axon, Byrna, [[empresas/general-dynamics|General Dynamics]], RTX) — muy alta.
 - **SGI Global Security Index**: índice bursátil del sector seguridad global.
 - **Informes del Tribunal de Cuentas**: especialmente el francés que destapó el **+232,8%** en compras de armas y munición entre 2012 y 2017.
 
@@ -117,9 +117,9 @@ El mercado bursátil **apuesta** por la represión como negocio estable y de cre
 
 ## Conexiones
 - ↔ [[empresas/00-indice]] — el catálogo completo de empresas.
-- ↔ [[../casos/compilacion-espana]] — las cifras españolas.
+- ↔ [[../casos/espana-europa/compilacion-espana]] — las cifras españolas.
 - ↔ [[../casos/latam/00-compilacion-latam]] — LATAM.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco económico-político completo.
 - ↔ [[../marco-legal/bibliografia/lethal-in-disguise-2]] — fuente de varias cifras.
 - ↔ [[../herramientas/mapa-omega-ferias-armas]] — geografía del comercio.
-- ↔ [[../herramientas/apex-brasil]] — promoción estatal de Condor como caso.
+- ↔ [[apex-brasil]] — promoción estatal de Condor como caso.

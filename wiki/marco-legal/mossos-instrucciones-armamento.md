@@ -1,6 +1,6 @@
 ---
 tipo: marco-legal
-estado: stub
+estado: completo
 ambito: Cataluña
 editor: Departament d'Interior, Generalitat de Catalunya
 nombre_completo: "Instruccions sobre l'ús d'armes i eines policials (PG-ME)"
@@ -30,7 +30,7 @@ Punto crítico del texto:
 
 URL: https://mossos.gencat.cat/web/.content/home/01_els_mossos_desquadra/eines_policials/doc/Instruccio-11_2014-de-30-dabril-de-modificacio-de-la-16_2013-sobre-lus-darmes-i-eines-PG-ME.pdf
 
-**Problema clave**: el texto **no incorpora** las indicaciones del fabricante del SIR-X (distancia mínima, zonas del cuerpo prohibidas). Ver [[../casos/africa-pablo-hasel]] y [[../casos/roger-garcia-foam-2019]] para los casos que derivan de esta omisión.
+**Problema clave**: el texto **no incorpora** las indicaciones del fabricante del SIR-X (distancia mínima, zonas del cuerpo prohibidas). Ver [[../casos/espana-europa/africa-pablo-hasel]] y [[../casos/espana-europa/roger-garcia-foam-2019]] para los casos que derivan de esta omisión.
 
 ### 3. Instrucció 4/2018 — Dispositivos conductores de energía (TASER)
 **20 de abril de 2018**. Regula el uso del **Taser** por parte de los Mossos d'Esquadra tras su autorización oficial.
@@ -42,7 +42,7 @@ URL: https://mossos.gencat.cat/web/.content/home/01_els_mossos_desquadra/eines_p
 - **No obliga** a registrar cada uso del Taser en una base de datos pública.
 - **No requiere** evaluación médica de la persona tras el disparo.
 
-Este vacío normativo es **directamente responsable** de muertes como la de [[../casos/antonio-c-badalona|Antonio C.]] en Badalona en 2021 — primer muerto por Taser en Cataluña.
+Este vacío normativo es **directamente responsable** de muertes como la de [[../casos/espana-europa/antonio-c-badalona|Antonio C.]] en Badalona en 2021 — primer muerto por Taser en Cataluña.
 
 ## Lo que NO está publicado
 Además de estas tres instrucciones públicas, los Mossos d'Esquadra disponen de:
@@ -97,4 +97,4 @@ Según el texto oficial actualizado (última revisión **28 mayo 2025**), las ar
 - ↔ [[bibliografia/iridia-mecanismos-independientes]] · [[bibliografia/iridia-pla-accio]].
 - ↔ [[bibliografia/amnistia-policia-bajo-la-lupa]] — análisis paralelo.
 - ↔ [[bibliografia/unodc-ohchr-manual-uso-fuerza]] — estándares ONU que estas instrucciones **no cumplen**.
-- ↔ [[../casos/africa-pablo-hasel]] · [[../casos/roger-garcia-foam-2019]] · [[../casos/abdelillah-foam-2019]] · [[../casos/antonio-c-badalona]] · [[../casos/roger-espanol]] — los casos que ilustran el fallo del marco.
+- ↔ [[../casos/espana-europa/africa-pablo-hasel]] · [[../casos/espana-europa/roger-garcia-foam-2019]] · [[../casos/espana-europa/abdelillah-foam-2019]] · [[../casos/espana-europa/antonio-c-badalona]] · [[../casos/espana-europa/roger-espanol]] — los casos que ilustran el fallo del marco.

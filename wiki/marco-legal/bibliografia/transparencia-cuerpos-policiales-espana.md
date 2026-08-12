@@ -77,5 +77,5 @@ Existe una **Comisión Nacional de Deontología Policial** (no vinculante) y alg
 - ↔ [[osji-who-polices-the-police]] — el benchmark internacional.
 - ↔ [[coe-comisario-ddhh]].
 - ↔ [[amnistia-policia-bajo-la-lupa]] — análisis complementario de Amnistía.
-- ↔ [[mossos-instrucciones-armamento]] — los escasos documentos públicos de los Mossos.
+- ↔ [[../mossos-instrucciones-armamento]] — los escasos documentos públicos de los Mossos.
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]].

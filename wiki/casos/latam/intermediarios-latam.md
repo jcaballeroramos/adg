@@ -15,7 +15,7 @@ Catálogo de **empresas intermediarias** que han facilitado la venta y distribuc
 - **Segundo mejor cliente**: la Agencia de Aduanas y Protección Fronteriza (CBP) de EE.UU.
 - **62 millones de dólares** en contratos con CBP (2014-2022).
 - **~70% del monto para Tasers**.
-- → ver [[ee-uu-frontera-sur]].
+- → ver [[../estados-unidos/ee-uu-frontera-sur]].
 
 ### Cheddite (Italia)
 - Fabricante de cartuchos y municiones para caza y uso civil.

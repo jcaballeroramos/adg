@@ -17,7 +17,7 @@ El nombre japonés (**トンファー**, *tonfā*) parece derivar del chino **gu
 ### Transformación defensiva
 En **1609**, el clan **Satsuma** del sur de Japón invade Okinawa y **prohíbe la tenencia de armas** a los campesinos del archipiélago Ryūkyū. Los campesinos transformaron sus **herramientas agrícolas** en **armas de autodefensa**, consolidando su uso en el arte marcial del **Kobudō** (古武道, «vía de las armas marciales antiguas»).
 
-Este es el proceso que los historiadores okinawenses llaman **«las tres armas del campesino»**:
+Este es el proceso que los historiadores okinawenses llaman **«las armas del campesino»**:
 - **Tonfa** — herramienta del molino.
 - **Sai** — bidente agrícola.
 - **Nunchaku** — mayal para trillar arroz.
@@ -35,6 +35,8 @@ Este es el proceso que los historiadores okinawenses llaman **«las tres armas d
 - **1829** — **Robert Peel**, fundador de la **Metropolitan Police** de Londres, institucionalizó los **bastones rígidos de madera** (*truncheons*) como **«extensión física del Estado»** para sus agentes. La elección fue deliberadamente **civil**: Peel quería una policía **desarmada** en comparación con el ejército, y la porra era el compromiso estético.
 - **Años 1860-1900** — los **bobbies** londinenses portaban *wooden truncheons* pintadas con la **insignia real** y el **número de agente**. Se convierten en **símbolo cultural** del orden victoriano.
 - **1958** — **Lon Anderson**, exmarine estadounidense, inventa la **PR-24 (Prosecutor Restraint 24-inch)** inspirándose explícitamente en la **tonfa tradicional**. El añade el **mango lateral** que caracteriza a la tonfa okinawense y que permite técnicas de bloqueo, golpe rotatorio y retención. Monadnock Lifetime Products patenta y comercializa la PR-24 a **miles de departamentos de policía** de EE.UU.
+
+> **Nota** (años 60): irónico — el mismo movimiento que convierte la tonfa en arte marcial "antiguo" (el Kobudō moderno) permite su rediseño como porra policial.
 - **Años 80-2000s** — la PR-24 se convierte en **estándar de facto** para academias policiales estadounidenses, adoptada también por la **Policía Nacional de España**, **Carabineros de Chile**, la **Policía Militar de São Paulo**, y muchos cuerpos policiales europeos y latinoamericanos.
 - **Años 2010-presente** — convivencia con **porras telescópicas** (*expandable batons*) como ASP Inc. (ver [[../empresas-de-armas/empresas/asp-inc]]) — porras de acero que se despliegan con un movimiento de muñeca y se guardan en cinturones.
 
@@ -45,7 +47,7 @@ La **ONU** distingue claramente entre:
 
 A pesar de esta distinción, en la práctica:
 - Los golpes policiales con porra a la **cabeza**, **cuello**, **riñones** o **genitales** (prohibidos) son **extremadamente frecuentes** en manifestaciones.
-- Los casos de [[../casos/juan-andres-benitez]] (Raval, 2013) y [[../casos/antonio-c-badalona]] (Badalona, 2021) son ejemplos españoles documentados de **muerte por golpes con porras** fuera de los protocolos.
+- Los casos de [[../casos/espana-europa/juan-andres-benitez]] (Raval, 2013) y [[../casos/espana-europa/antonio-c-badalona]] (Badalona, 2021) son ejemplos españoles documentados de **muerte por golpes con porras** fuera de los protocolos.
 - En Chile, el «**lumazo**» (golpe con bastón) ha sido documentado por [[../autores-y-referencias/organizaciones/iridia|Irídia]] y el INDH como **causa frecuente de lesiones cerebrales** durante el estallido 2019.
 
 ## Conexiones
@@ -53,11 +55,9 @@ A pesar de esta distinción, en la práctica:
 - Su estatus de **objeto cotidiano agrícola** convertido en **símbolo del Estado** la convierte en uno de los **emblemas perfectos** de la genealogía de los «artefactos de guerra».
 - La **ironía narrativa**: un palo que servía para **moler arroz** termina siendo el **instrumento cotidiano** de la policía global. El arco arroz→cráneo es una síntesis visual potentísima.
 - **Puente con la tesis de Lindqvist** ([[../autores-y-referencias/sven-lindqvist]]): lo que se hacía en Okinawa (colonia japonesa) regresa 400 años después como **porra policial en Londres, Madrid y Santiago**.
-
-## Conexiones
 - ↔ [[../empresas-de-armas/empresas/asp-inc]] — porras telescópicas modernas.
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — el marco legal actual.
 - ↔ [[../marco-legal/onu-relatora-tortura]] — bastones con púas como tortura.
-- ↔ [[../casos/juan-andres-benitez]] — muerte por porras de los Mossos (Raval 2013).
+- ↔ [[../casos/espana-europa/juan-andres-benitez]] — muerte por porras de los Mossos (Raval 2013).
 - ↔ [[../autores-y-referencias/sven-lindqvist]] — la genealogía colonial.
 - ↔ [[cronologia-completa]] — 1609, 1829, 1958, PR-24.

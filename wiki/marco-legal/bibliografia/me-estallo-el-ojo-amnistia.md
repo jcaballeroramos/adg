@@ -11,7 +11,7 @@ tags: [amnistia, me-estalló-el-ojo, kips, abuso-global, proyectiles-cinéticos]
 **Amnistía Internacional**, *«Me estalló el ojo»: El abuso global de los proyectiles de impacto cinético*.
 
 ## El título habla por sí mismo
-La frase **"me estalló el ojo"** es la cita literal de una víctima — el patrón anatómico que se repite en todos los testimonios de [[../../casos/compilacion-espana|las víctimas españolas]], [[../../casos/latam/00-compilacion-latam|las latinoamericanas]] y [[../../casos/inigo-cabacas|las europeas]].
+La frase **"me estalló el ojo"** es la cita literal de una víctima — el patrón anatómico que se repite en todos los testimonios de [[../../casos/espana-europa/compilacion-espana|las víctimas españolas]], [[../../casos/latam/00-compilacion-latam|las latinoamericanas]] y [[../../casos/espana-europa/inigo-cabacas|las europeas]].
 
 ## Por qué importa para el documental
 - **Documento de referencia internacional** de Amnistía sobre proyectiles de impacto cinético (KIPs).
@@ -21,5 +21,5 @@ La frase **"me estalló el ojo"** es la cita literal de una víctima — el patr
 ## Conexiones
 - ↔ [[../bibliografia]] — índice maestro.
 - ↔ [[../amnistia-internacional]] — la organización emisora y sus exigencias.
-- ↔ [[../../testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la misma frase desde la cirugía.
+- ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la misma frase desde la cirugía.
 - ↔ [[lethal-in-disguise-2]].

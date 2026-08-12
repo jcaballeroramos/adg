@@ -47,7 +47,7 @@ El "Discombobulator" se usó en una **operación de captura extraterritorial** c
 Es **exactamente el continuum** que cierra el arco histórico: **armas menos letales policiales** → **armas menos letales militares** → **guerra secreta "no letal"**.
 
 ### 3. La convergencia con LAWS
-El "Discombobulator" es también la **antesala narrativa** del debate sobre **[[../../herramientas/laws-armas-autonomas|LAWS]]**: armas que **nadie sabe exactamente qué son**, pero que los Estados **admiten usar** y cuyo efecto es **"no letal" (porque nadie muere directamente) pero políticamente letal** (captura un presidente).
+El "Discombobulator" es también la **antesala narrativa** del debate sobre **[[../../historia/laws-armas-autonomas|LAWS]]**: armas que **nadie sabe exactamente qué son**, pero que los Estados **admiten usar** y cuyo efecto es **"no letal" (porque nadie muere directamente) pero políticamente letal** (captura un presidente).
 
 ## Desglose escena-a-escena del vídeo YouTube
 **Referencia temporal**: `t=288s` (**4:48**). El enlace va directo a ese segundo porque es donde arranca el bloque específicamente relevante para el documental dentro de un vídeo más largo.
@@ -83,7 +83,7 @@ Imágenes de **Cyber Command** (Fort Meade, Maryland). Mapa de Venezuela con **p
 Plano del **LRAD 500X** montado en la torre de un destructor estadounidense. Testimonio de un exmilitar:
 > *"LRAD doesn't just make loud noise. Modern units can deliver intelligible voice commands at 150 dB up to 3 kilometers. That's loud enough to incapacitate someone temporarily at close range."*
 
-Ver [[../../historia/armas-acusticas]] y [[../feindef/05-taser-lrad]].
+Ver [[../../historia/armas-acusticas]] y [[../../ferias-de-armas/feindef/05-taser-lrad]].
 
 ### Bloque 7:31 — 8:05 · La pregunta periodística
 Un panel con tres analistas (CNN, Politico, Foreign Policy) discute **si el arma existe o es un farol retórico**. La conclusión mayoritaria: **no importa si existe o no**. Lo importante es que Trump **haya convertido la ambigüedad tecnológica en herramienta política**.
@@ -114,7 +114,7 @@ El vídeo cierra con una invitación al espectador a **reflexionar sobre la conv
 ## Conexiones
 - ↔ [[../empresas/raytheon]] — fabricante del Active Denial System.
 - ↔ [[../../historia/armas-acusticas]] — el LRAD y la historia del sonido como arma.
-- ↔ [[../../herramientas/laws-armas-autonomas]] — el debate sobre LAWS.
+- ↔ [[../../historia/laws-armas-autonomas]] — el debate sobre LAWS.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — la retórica del "arma milagrosa tecnológica" y la "embellishing language".
 - ↔ [[../../casos/latam/venezuela-2017-2019]] — el contexto venezolano previo.
 - ↔ [[../../historia/cronologia-completa]] — punto más reciente del arco histórico.

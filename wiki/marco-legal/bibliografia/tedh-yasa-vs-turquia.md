@@ -16,11 +16,11 @@ El **Tribunal Europeo de Derechos Humanos (TEDH)** reconoció en el caso **Abdul
 - **Jurisprudencia europea vinculante** sobre el uso indebido de granadas de gas lacrimógeno.
 - Establece que una **granada de gas lacrimógeno** disparada de forma inadecuada **puede equivaler jurídicamente a tortura**.
 - Caso **gemelo** de [[tedh-kilici-vs-turquia|Kilici c. Turquía]] sobre balas de goma.
-- Aplica a **todos los casos** de gas lacrimógeno disparado **directamente al cuerpo o cabeza**: [[../../casos/fabiola-campillai|Fabiola Campillai]], [[../../casos/juan-pablo-pernalete|Juan Pablo Pernalete]], [[../../casos/melilla-2022|Melilla 2022]], etc.
+- Aplica a **todos los casos** de gas lacrimógeno disparado **directamente al cuerpo o cabeza**: [[../../casos/latam/fabiola-campillai|Fabiola Campillai]], [[../../casos/latam/juan-pablo-pernalete|Juan Pablo Pernalete]], [[../../casos/espana-europa/melilla-2022|Melilla 2022]], etc.
 
 ## Conexiones
 - ↔ [[../bibliografia]] — índice maestro.
 - ↔ [[tedh-kilici-vs-turquia]] — el caso gemelo sobre balas de goma.
-- ↔ [[../../casos/fabiola-campillai]] — el caso chileno paradigmático.
-- ↔ [[../../casos/juan-pablo-pernalete]] — el caso venezolano.
-- ↔ [[../../casos/remi-fraisse]] — el caso francés (granada GLI-F4).
+- ↔ [[../../casos/latam/fabiola-campillai]] — el caso chileno paradigmático.
+- ↔ [[../../casos/latam/juan-pablo-pernalete]] — el caso venezolano.
+- ↔ [[../../casos/espana-europa/remi-fraisse]] — el caso francés (granada GLI-F4).

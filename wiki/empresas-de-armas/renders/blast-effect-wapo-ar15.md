@@ -82,4 +82,4 @@ Al final de la pieza, un contador indica el tiempo que el lector ha pasado en la
 - ↔ [[../../historia/balas-goma]] — genealogía del proyectil de impacto cinético.
 - ↔ [[../../marco-legal/bibliografia/centre-delas-armas-letales]] — datos del Centre Delàs sobre la industria.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-que-hace-la-policia]] — «la policía reconforta sin confortar» + invisibilización del daño.
-- ↔ [[../../casos/internacionales/rodney-king-1991]] — LAPD, continuum de la violencia armada estadounidense.
+- ↔ [[../../casos/estados-unidos/rodney-king-1991]] — LAPD, continuum de la violencia armada estadounidense.

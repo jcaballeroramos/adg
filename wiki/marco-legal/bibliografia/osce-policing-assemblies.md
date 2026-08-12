@@ -27,4 +27,4 @@ Dentro de la OSCE, la **ODIHR** (Office for Democratic Institutions and Human Ri
 - ↔ [[../bibliografia]] — índice maestro.
 - ↔ [[../onu-orientaciones-2020]] — documento hermano global.
 - ↔ [[../../autores-y-referencias/organizaciones/omega-research-foundation]] — participación en ODIHR.
-- ↔ [[../../casos/compilacion-espana]] — España incumple las recomendaciones de la OSCE (es Estado participante).
+- ↔ [[../../casos/espana-europa/compilacion-espana]] — España incumple las recomendaciones de la OSCE (es Estado participante).

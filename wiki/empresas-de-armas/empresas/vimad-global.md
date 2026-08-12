@@ -57,4 +57,4 @@ La llegada de **Fernández de Mesa** como asesor coincidió con un **incremento 
 - ↔ [[combined-systems]] — la marca principal que distribuye en España.
 - ↔ [[saborit-international]] · [[telefonica-ingenieria-seguridad]] — los **otros 2 grandes intermediarios** españoles.
 - ↔ [[../../historia/armas-acusticas]] — LRAD.
-- ↔ [[../feindef/00-overview]] — expositor.
+- ↔ [[../../ferias-de-armas/feindef/00-overview]] — expositor.

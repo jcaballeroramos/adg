@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: borrador
+estado: stub
 victima: Haitam Mejri
 pais: España
 ciudad: Torremolinos, Málaga
@@ -40,6 +40,7 @@ La familia encargó un informe pericial independiente que concluye que el hombre
 **YouTube**: https://www.youtube.com/watch?v=qcdS65mV6Xk
 
 ## Conexiones
+- ↔ [[antonio-c-badalona]] — la muerte por Taser de 2021 en Catalunya.
 - ↔ [[../../marco-legal/bibliografia/civio-taser-protocolos-2024]] — Civio: protocolos Taser vs. advertencias del fabricante.
 - ↔ [[../../marco-legal/bibliografia/axon-taser-warnings-2018]] — el fabricante desaconseja descargas múltiples/prolongadas.
 - ↔ [[../../marco-legal/bibliografia/iopc-taser-review-2021]] — mismo patrón (descargas múltiples) en RU.

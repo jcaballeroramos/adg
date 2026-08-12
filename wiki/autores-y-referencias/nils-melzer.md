@@ -1,6 +1,6 @@
 ---
 tipo: autor
-estado: stub
+estado: borrador
 nombre: Nils Melzer
 pais: Suiza
 profesion: Jurista, ex-Relator Especial ONU contra la tortura
@@ -31,7 +31,7 @@ Melzer dedicó parte de su mandato al caso **Julian Assange**, denunciando el **
 > Aunque el caso Assange parece **distinto** del documental, **conecta**: Melzer demuestra que el **maltrato sin huellas físicas visibles** (privación de sueño, aislamiento, persecución legal) **también es tortura**. La misma lógica se aplica a las víctimas «menos letales»: el **trauma**, el **miedo crónico**, la **persecución institucional posterior** son **continuum**.
 
 ## Importancia para el documental
-- **Antecedente jurídico** del A/78/324 (2023). Sin Melzer 2017, no hay Ní Aoláin 2023.
+- **Antecedente jurídico** del A/78/324 (2023). Sin Melzer 2017, no hay Edwards 2023.
 - **Concepto clave**: el **principio de necesidad acumulada**.
 - **Voz pública** muy activa: entrevistas, conferencias, libro divulgativo.
 - **Caso paradigmático** de un Relator ONU **incómodo para los Estados** — fue **boicoteado** por EE.UU., Suecia y Reino Unido durante el caso Assange.
@@ -41,7 +41,7 @@ Melzer dedicó parte de su mandato al caso **Julian Assange**, denunciando el **
 - **«Targeted Killing in International Law»** (Oxford University Press, 2008).
 
 ## Conexiones
-- ↔ [[fionnuala-ni-aolain]] — sucesora directa.
+- ↔ [[alice-jill-edwards]] — sucesora directa en el mandato contra la tortura (2022)
 - ↔ [[christof-heyns]] — paralelo en otra área (LAWS).
 - ↔ [[../marco-legal/bibliografia/melzer-onu-2017]] — el informe en bibliografía.
 - ↔ [[../marco-legal/onu-relatora-tortura]].

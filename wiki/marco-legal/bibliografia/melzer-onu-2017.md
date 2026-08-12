@@ -26,7 +26,7 @@ tags: [melzer, onu, relator-tortura, 2017, parágrafo-47, uso-fuerza]
 
 ## Conexiones
 - ↔ [[../bibliografia]] — índice maestro.
-- ↔ [[../onu-relatora-tortura]] — el sucesor del cargo: Fionnuala Ní Aoláin.
+- ↔ [[../onu-relatora-tortura]] — la sucesora del cargo: Alice Jill Edwards (desde agosto de 2022).
 - ↔ [[../onu-orientaciones-2020]] — el manual operativo que vino después.
-- ↔ [[../../casos/roger-espanol]] — la repetición del disparo es lo que convierte al acto en doloso (mismo argumento).
+- ↔ [[../../casos/espana-europa/roger-espanol]] — la repetición del disparo es lo que convierte al acto en doloso (mismo argumento).
 - ↔ [[../amnistia-internacional]] — Amnistía recoge las exigencias de Melzer.

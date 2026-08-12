@@ -58,8 +58,8 @@ Instructor reúne a todos en círculo. Sudados, mojados, cansados. Habla de disc
 
 ## Conexiones
 - Estética cinematográfica del prólogo ↔ debate sobre **gamificación** del entrenamiento.
-- Falange con escudos transparentes ↔ [[../feindef/03-byrna]] (industria que vende lo que aquí se entrena).
-- Mangueras de agua ↔ [[../historia/canones-agua]].
+- Falange con escudos transparentes ↔ [[../../ferias-de-armas/feindef/03-byrna]] (industria que vende lo que aquí se entrena).
+- Mangueras de agua ↔ [[../../historia/canones-agua]].
 
 ## Fuentes
 - YouTube: https://www.youtube.com/watch?v=cyWt3VvM3zM

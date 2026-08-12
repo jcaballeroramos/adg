@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: borrador
+estado: completo
 editor: CIIVO — Centro Internacional de Investigación de Violencia Ocular
 año: 2026
 ambito: internacional (Colombia, Chile, España, Francia, EE.UU., Israel, Palestina, India, Hong Kong)
@@ -42,7 +42,7 @@ Análisis técnico con tablas de datos, gráficas y niveles de riesgo para cada 
 | Categoría | Ejemplos | Datos clave |
 |---|---|---|
 | **Cinéticas (propulsión)** | Calibres 37/40 mm | Hasta 400 J a 0m = fractura craneal / muerte. Riesgo letal hasta 15m. |
-| **Cinéticas (neumáticas)** | FN303, PepperBall VKS PRO | 30-75 J a corta distancia = pérdida ocular inmediata. Sin distancia «segura». |
+| **Cinéticas (neumáticas)** | FN303, [[../../empresas-de-armas/empresas/pepperball|PepperBall]] VKS PRO | 30-75 J a corta distancia = pérdida ocular inmediata. Sin distancia «segura». |
 | **Eléctricas** | Taser X26, Taser 7, bastones | 50.000-70.000 V en circuito abierto. Riesgo letal a partir de 3-4 ciclos o >15s. |
 | **Acústicas (LRAD)** | LRAD 450XL, LRAD 100X | 152 dB SPL. Ruptura timpánica <10m. Daño permanente hasta 50m. |
 | **Energía dirigida** | Active Denial System (ADS) | 95 GHz. Quemadura 2° grado en 0,40s. Destrucción tisular en <1s. |

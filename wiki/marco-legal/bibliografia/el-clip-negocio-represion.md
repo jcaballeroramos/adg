@@ -27,22 +27,22 @@ El proyecto contiene:
 - **Marco legal por país**.
 - **Cifras agregadas** del gasto público en armamento represivo.
 
-→ Toda la sección [[../casos/latam/00-compilacion-latam]] está basada en este proyecto.
+→ Toda la sección [[../../casos/latam/00-compilacion-latam]] está basada en este proyecto.
 
 ## Mapa de notas que dependen de El Clip
-- [[../casos/latam/00-compilacion-latam]] — los 14 patrones transversales.
-- [[../casos/latam/bolivia-2019]]
-- [[../casos/latam/brasil-2017-2021]]
-- [[../casos/latam/chile-estallido-2019]]
-- [[../casos/latam/colombia-2021]]
-- [[../casos/latam/ecuador-2019]]
-- [[../casos/latam/ee-uu-frontera-sur]]
-- [[../casos/latam/guatemala-2020]]
-- [[../casos/latam/mexico-feminista-2020]]
-- [[../casos/latam/peru-2020]]
-- [[../casos/latam/venezuela-2017-2019]]
-- [[../casos/latam/intermediarios-latam]]
-- [[../casos/latam/transferencias-cross-country]]
+- [[../../casos/latam/00-compilacion-latam]] — los 14 patrones transversales.
+- [[../../casos/latam/bolivia-2019]]
+- [[../../casos/latam/brasil-2017-2021]]
+- [[../../casos/latam/chile-estallido-2019]]
+- [[../../casos/latam/colombia-2021]]
+- [[../../casos/latam/ecuador-2019]]
+- [[../../casos/estados-unidos/ee-uu-frontera-sur]]
+- [[../../casos/latam/guatemala-2020]]
+- [[../../casos/latam/mexico-feminista-2020]]
+- [[../../casos/latam/peru-2020]]
+- [[../../casos/latam/venezuela-2017-2019]]
+- [[../../casos/latam/intermediarios-latam]]
+- [[../../casos/latam/transferencias-cross-country]]
 
 ## Otras herramientas relacionadas
 - **Mapa de ferias de armas (Omega Research Foundation)**: https://public.tableau.com/app/profile/omega.research.foundation/viz/shared/FPMWBZ4C3
@@ -59,5 +59,5 @@ El proyecto contiene:
 🌐 https://www.taylorfrancis.com/chapters/edit/10.1201/9781003138754-88/
 
 ## Conexiones
-- ↔ [[../casos/latam/00-compilacion-latam]] — la fuente primaria de todo el dossier LATAM.
-- ↔ [[../autores-y-referencias/organizaciones/omega-research-foundation]] — colaboraciones técnicas.
+- ↔ [[../../casos/latam/00-compilacion-latam]] — la fuente primaria de todo el dossier LATAM.
+- ↔ [[../../autores-y-referencias/organizaciones/omega-research-foundation]] — colaboraciones técnicas.

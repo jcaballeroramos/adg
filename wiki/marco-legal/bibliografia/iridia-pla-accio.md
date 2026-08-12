@@ -1,6 +1,6 @@
 ---
 tipo: bibliografía
-estado: borrador
+estado: completo
 editor: Irídia — Centre per la Defensa dels Drets Humans + Novact
 año: 2024
 ambito: Estado español
@@ -87,7 +87,7 @@ Creación de un **mecanismo externo, público e independiente** de monitoreo y a
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — la organización impulsora.
 - ↔ [[../../autores-y-referencias/organizaciones/novact]] — co-impulsora.
 - ↔ [[../../autores-y-referencias/organizaciones/omega-research-foundation]] — Matthew McEvoy como integrante de la Mesa.
-- ↔ [[../../herramientas/torture-journal]] — Pau Pérez Sales como editor y integrante.
+- ↔ [[torture-journal]] — Pau Pérez Sales como editor y integrante.
 - ↔ [[iridia-mecanismos-independientes]] — desarrollado en el Bloque 1.
 - ↔ [[iridia-transparencia-cossos-seguretat]] — desarrollado en el Bloque 2.
 - ↔ [[iridia-defensa-espai-civil]] — la dimensión política.
@@ -98,4 +98,4 @@ Creación de un **mecanismo externo, público e independiente** de monitoreo y a
 - ↔ [[unodc-ohchr-manual-uso-fuerza]] — estándares ONU que las recomendaciones exigen cumplir.
 - ↔ [[../mossos-instrucciones-armamento]] — lo que el Bloque 2 exige publicar y reformar.
 - ↔ [[../cataluna-prohibicion-balas-goma]] — contexto de la recomendación 15 (órgano autonómico catalán).
-- ↔ [[../../casos/roger-espanol]] · [[../../casos/africa-pablo-hasel]] · [[../../casos/melilla-2022]] · [[../../casos/tarajal-2014]] — los casos que ilustran la necesidad de cada recomendación.
+- ↔ [[../../casos/espana-europa/roger-espanol]] · [[../../casos/espana-europa/africa-pablo-hasel]] · [[../../casos/espana-europa/melilla-2022]] · [[../../casos/espana-europa/tarajal-2014]] — los casos que ilustran la necesidad de cada recomendación.

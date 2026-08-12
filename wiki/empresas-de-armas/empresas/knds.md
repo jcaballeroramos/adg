@@ -22,5 +22,5 @@ Es el **extremo "guerra"** del continuo que Eurosatory exhibe: carros y artiller
 
 ## Conexiones
 - ↔ [[../../ferias-de-armas/eurosatory-2026/00-overview]] · [[../../ferias-de-armas/eurosatory-2026/01-videos]] — su material en las demos.
-- ↔ [[rheinmetall]] · [[arquus]] · [[mbda]] · [[safran]] — el resto de grandes primes europeos.
+- ↔ [[rheinmetall]] · [[arquus]] · [[mbda]] · [[safran]] · [[diehl-defence]] — el resto de grandes primes europeos.
 - ↔ [[../../historia/tipos-de-armas-tabla]] — dónde encaja lo "menos letal" frente a lo militar pesado.

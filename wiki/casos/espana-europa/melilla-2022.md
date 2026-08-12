@@ -86,8 +86,8 @@ Cuando quedaban unas **400 personas** en el patio, las fuerzas marroquíes **ent
 - **Lighthouse Reports** — modelo 3D del Barrio Chino + geoposicionamiento de los 145 vídeos (en la página de investigación). El mejor material infográfico público sobre el caso.
 
 ## Conexiones
-- ↔ [[../autores-y-referencias/organizaciones/caminando-fronteras]] — la organización que documenta esta frontera.
+- ↔ [[../../autores-y-referencias/organizaciones/caminando-fronteras]] — la organización que documenta esta frontera.
 - ↔ [[compilacion-espana]] — datos agregados de la frontera sur.
-- ↔ [[../historia/balas-goma]] — Tarajal 2014 + Melilla 2022 como continuum.
-- ↔ [[../marco-legal/onu-orientaciones-2020]] — uso explícitamente prohibido en recintos confinados sin vías de escape.
-- ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"el imaginario no letal lleva a la proliferación, que genera más violencia"*.
+- ↔ [[../../historia/balas-goma]] — Tarajal 2014 + Melilla 2022 como continuum.
+- ↔ [[../../marco-legal/onu-orientaciones-2020]] — uso explícitamente prohibido en recintos confinados sin vías de escape.
+- ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"el imaginario no letal lleva a la proliferación, que genera más violencia"*.

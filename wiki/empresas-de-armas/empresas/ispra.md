@@ -42,4 +42,4 @@ Fabricante **israelí** de un catálogo amplio de armas menos letales. **Único 
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[../../historia/armas-quimicas]] — sección Skunk.
-- ↔ [[../feindef/06-cierre-abba]] — la flotilla SUMUD bloqueada por el ejército israelí.
+- ↔ [[../../ferias-de-armas/feindef/06-cierre-abba]] — la flotilla SUMUD bloqueada por el ejército israelí.

@@ -43,7 +43,7 @@ Concepto clave: bajo estrés el cerebro deja de razonar y actúa por instinto / 
 
 ## Por qué importa para el documental
 - Es **la propia industria** quien admite explícitamente la letalidad. Útil para contraponer a los discursos de marketing de Byrna, Expal, FN, etc.
-- Conecta con [[../testimonios/oftalmologa-estrella-fernandez]] y [[../marco-legal/onu-relatora-tortura]].
+- Conecta con [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] y [[../../marco-legal/onu-relatora-tortura]].
 
 ## Conexiones
 - ↔ [[marines-camp-pendleton]] · [[marines-non-lethal-pista]] — el entrenamiento físico del mismo paradigma.

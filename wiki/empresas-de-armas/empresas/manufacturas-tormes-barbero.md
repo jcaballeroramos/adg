@@ -18,11 +18,11 @@ Empresa **española** fabricante de **proyectiles** y **componentes pirotécnico
 
 ## Por qué importa para el documental
 - **Una de las pocas empresas españolas** explícitamente identificadas en documentación oficial española como fabricante de proyectiles policiales.
-- **Cadena de suministro doméstica**: forma parte del trío histórico **[[maxam|MAXAM]] / [[falken|Falken]] / Manufacturas del Tormes Barbero** + [[../empresas/00-indice|otras]] que fabrican el armamento represivo en territorio español.
+- **Cadena de suministro doméstica**: forma parte del trío histórico **[[maxam|MAXAM]] / [[falken|Falken]] / Manufacturas del Tormes Barbero** + [[armas-cartuchos-sur|Armas y Cartuchos del Sur]] y [[../empresas/00-indice|otras]] que fabrican el armamento represivo en territorio español.
 - La **opacidad** alrededor de la empresa es **representativa del patrón general**: respuesta a una pregunta parlamentaria es prácticamente la única fuente pública.
 
 ## Conexiones
 - ↔ [[00-indice]]
 - ↔ [[maxam]] · [[falken]] — el resto de fabricantes españoles.
-- ↔ [[../../casos/compilacion-espana]] — los datos agregados del daño en España.
+- ↔ [[../../casos/espana-europa/compilacion-espana]] — los datos agregados del daño en España.
 - ↔ [[../../marco-legal/bibliografia/access-info-europe]] — el patrón europeo de opacidad sobre el armamento policial.

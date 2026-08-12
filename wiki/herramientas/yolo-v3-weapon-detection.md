@@ -78,7 +78,7 @@ La conclusión del paper sugiere integrar el modelo en **robots de vigilancia**.
 - ↔ [[vframe]] — mismo tipo de tecnología, propósito inverso (uso ciudadano vs. estatal).
 - ↔ [[../ferias-de-armas/feindef/04-fn-smart-protector]] — el equivalente comercial industrial, ya en el mercado.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — marco crítico sobre "soluciones técnicas a problemas sociales".
-- ↔ [[../casos/roger-espanol]] — Irídia tuvo que hacer manualmente lo que sistemas como estos automatizan, **pero para el propósito opuesto**.
+- ↔ [[../casos/espana-europa/roger-espanol]] — Irídia tuvo que hacer manualmente lo que sistemas como estos automatizan, **pero para el propósito opuesto**.
 
 ## Fuentes
 - Publicado bajo Creative Commons Attribution: https://doi.org/10.1155/2021/9975700

@@ -42,5 +42,6 @@ Una de las **mayores empresas de armamento de Alemania y de Europa**. Catálogo 
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[../feindef/00-overview]] — expositor.
+- ↔ [[diehl-defence]] — socio del complejo Rheinmetall-Diehl-KMW.
+- ↔ [[../../ferias-de-armas/feindef/00-overview]] — expositor.
 - ↔ [[../../casos/latam/00-compilacion-latam]].

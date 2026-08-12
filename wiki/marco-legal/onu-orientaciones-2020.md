@@ -45,12 +45,12 @@ Puede tener una función legítima pero entraña graves riesgos de muerte o lesi
 
 ### Proyectiles de impacto cinético simples (balas de goma, bean bags)
 - **Lícito:** fuego directo a la **parte inferior del abdomen o piernas**, contra individuos violentos con amenaza inminente. Precisión comprobada de **10 cm respecto al punto de mira**.
-- **Ilícito:** disparar a cabeza, cara o cuello (fractura de cráneo, daño cerebral, ceguera, muerte). Disparo indirecto por rebote. Balas de metal recubiertas de goma.
+- **Ilícito:** disparar a cabeza, cara o cuello (fractura de cráneo, daño cerebral, ceguera, muerte). Disparo indirecto por rebote ([[bibliografia/osce-policing-assemblies]]). Balas de metal recubiertas de goma.
 
 ### Irritantes químicos (gas lacrimógeno, aerosoles de pimienta)
 - **Lícito:** aerosoles manuales solo ante amenaza inminente. Lanzados a distancia, en **ángulo elevado** para dispersar grupos violentos, **dejando vía de escape**.
 - **Ilícito:**
-  - Disparar el proyectil **directamente al cuerpo o cabeza** (la lata como impacto cinético mortal — ver [[../casos/fabiola-campillai]]).
+  - Disparar el proyectil **directamente al cuerpo o cabeza** (la lata como impacto cinético mortal — ver [[../casos/latam/fabiola-campillai]]).
   - **Recintos cerrados o sin ventilación**: edema pulmonar, hemorragias, asfixia, muerte.
   - Aerosoles manuales contra personas en **resistencia pasiva**.
 
@@ -87,4 +87,13 @@ Puede tener una función legítima pero entraña graves riesgos de muerte o lesi
 ## Conexiones
 - ↔ [[onu-relatora-tortura]] (la misma lógica en clave informe especial).
 - ↔ [[amnistia-internacional]] (las exigencias civiles complementarias).
-- ↔ [[../casos/roger-espanol]] y [[../casos/fabiola-campillai]] (incumplimiento sistemático).
+- ↔ [[../casos/espana-europa/roger-espanol]] y [[../casos/latam/fabiola-campillai]] (incumplimiento sistemático).
+
+## Armas cubiertas
+Las seis familias de armas que regula este manual, con su historia completa en la wiki:
+- [[../historia/balas-goma]] — proyectiles de impacto cinético.
+- [[../historia/armas-quimicas]] — irritantes químicos (CS, CN, OC).
+- [[../historia/taser]] — pistolas de descarga eléctrica.
+- [[../historia/canones-agua]] — cañones de agua.
+- [[../historia/armas-acusticas]] — LRAD y similares.
+- [[../historia/porra-tonfa]] — bastones policiales.

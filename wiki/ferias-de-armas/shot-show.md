@@ -1,6 +1,6 @@
 ---
 tipo: feria
-estado: stub
+estado: borrador
 nombre: SHOT Show — Shooting, Hunting, Outdoor Trade Show
 sede: Las Vegas, Estados Unidos
 organizador: NSSF (National Shooting Sports Foundation)

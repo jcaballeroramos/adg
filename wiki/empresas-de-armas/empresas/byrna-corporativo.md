@@ -28,12 +28,12 @@ Empresa **estadounidense** (con presencia comercial en Argentina) especializada 
 - **Bad Guy Repellent** — spray combinado CS + OC + pimienta con tinte UV.
 
 ## La narrativa comercial
-Byrna es el caso más explícito de **trasladar el armamento "menos letal" al consumidor doméstico civil**, incluyendo **anuncios con niños disparando** (ver [[../publicidad/byrna-bad-guy-repellent]] y [[../feindef/03-byrna|señora frente al tótem]]).
+Byrna es el caso más explícito de **trasladar el armamento "menos letal" al consumidor doméstico civil**, con marketing que presenta el producto como apto "even novice shooters and kids" (texto de la propia marca) — análisis de la pieza en [[../publicidad/byrna-bad-guy-repellent]] y [[../../ferias-de-armas/feindef/03-byrna|señora frente al tótem]].
 
 > "Even novice shooters and **kids** can learn to handle weapons in a safe and effective environment."
 
 ## Conexiones
 - ↔ [[00-indice]]
-- ↔ [[../feindef/03-byrna]] — stand FEINDEF + análisis del técnico.
+- ↔ [[../../ferias-de-armas/feindef/03-byrna]] — stand FEINDEF + análisis del técnico.
 - ↔ [[../publicidad/byrna-bad-guy-repellent]] — el anuncio del spray.
-- ↔ [[../../entrenamientos/lexipol-gordon-graham]] — el contraste con la voz "menos letal no es no letal".
+- ↔ [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham]] — el contraste con la voz "menos letal no es no letal".
