@@ -571,36 +571,66 @@ def group_notes(notes):
     return tree
 
 
+def _nav_sort_key(n):
+    """Índices (00-*) primero, luego alfabético por título."""
+    stem = Path(n["slug"]).stem
+    return (0 if stem.startswith("00") else 1, n["title"].lower())
+
+
+def _nav_items(note_list):
+    out = []
+    for n in sorted(note_list, key=_nav_sort_key):
+        is_index = Path(n["slug"]).stem.startswith("00")
+        cls = ' class="nav-index"' if is_index else ""
+        out.append(
+            f'<li{cls}><a data-slug="{n["slug"]}" href="__SLUG__{n["slug"]}.html">'
+            f'{html.escape(n["title"])}{_pending_chip(n)}</a></li>'
+        )
+    return "".join(out)
+
+
 def build_sidebar(tree):
     parts = []
+
+    # General (_root): enlaces sueltos arriba, sin grupo
+    root_direct = tree.get("_root", {}).get("_direct", {}).get("_direct", [])
+    if root_direct:
+        parts.append(f'<ul class="nav-root">{_nav_items(root_direct)}</ul>')
+
+    num = 0
     for cat in CATEGORY_ORDER:
-        if cat not in tree:
+        if cat == "_root" or cat not in tree:
             continue
+        num += 1
         label = CATEGORY_LABELS.get(cat, cat)
-        parts.append(f'<details open class="nav-group"><summary>{html.escape(label)}</summary>')
+        color = CATEGORY_COLORS.get(cat, "#999")
 
-        # direct notes (no subcategory)
         direct = tree[cat].get("_direct", {}).get("_direct", [])
-        if direct:
-            parts.append('<ul class="nav-direct">')
-            for n in sorted(direct, key=lambda x: x["title"].lower()):
-                parts.append(
-                    f'<li><a data-slug="{n["slug"]}" href="__SLUG__{n["slug"]}.html">{html.escape(n["title"])}{_pending_chip(n)}</a></li>'
-                )
-            parts.append("</ul>")
-
-        # subcategories — narrative order if defined, else alphabetical
         subs = [k for k in tree[cat].keys() if k != "_direct"]
         preferred = SUBCAT_ORDER.get(cat, [])
-        subs = [s for s in preferred if s in subs] + sorted([s for s in subs if s not in preferred])
+        subs = [s for s in preferred if s in subs] + sorted(
+            [s for s in subs if s not in preferred]
+        )
+        total = len(direct) + sum(len(tree[cat][s]) for s in subs)
+
+        parts.append(
+            f'<details class="nav-group" data-nav-id="{cat}" style="--cat-color:{color}">'
+            f'<summary><span class="nav-num">{num:02d}</span>'
+            f'<span class="nav-label">{html.escape(label)}</span>'
+            f'<span class="nav-count">{total}</span></summary>'
+        )
+
+        if direct:
+            parts.append(f'<ul class="nav-direct">{_nav_items(direct)}</ul>')
+
         for sub in subs:
             sub_label = CATEGORY_LABELS.get(sub, sub)
-            parts.append(f'<details open class="nav-subgroup"><summary>{html.escape(sub_label)}</summary><ul>')
-            for n in sorted(tree[cat][sub], key=lambda x: x["title"].lower()):
-                parts.append(
-                    f'<li><a data-slug="{n["slug"]}" href="__SLUG__{n["slug"]}.html">{html.escape(n["title"])}{_pending_chip(n)}</a></li>'
-                )
-            parts.append("</ul></details>")
+            parts.append(
+                f'<details class="nav-subgroup" data-nav-id="{cat}/{sub}">'
+                f'<summary><span class="nav-label">{html.escape(sub_label)}</span>'
+                f'<span class="nav-count">{len(tree[cat][sub])}</span></summary>'
+                f'<ul>{_nav_items(tree[cat][sub])}</ul></details>'
+            )
 
         parts.append("</details>")
     return "\n".join(parts)
@@ -2036,13 +2066,24 @@ body.sidebar-collapsed .sidebar-open-btn { display: inline-flex; }
 .brand { font-family: var(--mono); font-weight:700; font-size:13px; letter-spacing:.14em; text-transform: uppercase; display:block; margin-bottom:18px; color:var(--fg); }
 .search-box input { width:100%; padding:10px 14px; background:var(--bg); color:var(--fg); border:1px solid var(--border); border-radius: 0; font-size:14px; transition: border-color .15s; }
 .search-box input:focus { outline:none; border-color:var(--accent); box-shadow: 0 0 0 3px rgba(224,93,61,0.1); }
-.nav { margin-top: 18px; font-size: 14px; }
-.nav-group { margin-bottom: 12px; }
-.nav-group summary { cursor: pointer; font-family: var(--mono); font-weight:700; color:var(--fg-dim); padding:6px 4px; text-transform:uppercase; font-size:10px; letter-spacing:.14em; }
-.nav-group ul { list-style:none; padding:2px 0 8px 8px; margin:0; }
-.nav-group li a { display:block; padding:5px 8px; border-radius: 0; color:var(--fg); font-size:13.5px; border-left:2px solid transparent; transition: none; }
+.nav { margin-top: 14px; font-size: 14px; }
+.nav-root { list-style:none; padding:0 0 10px 0; margin:0 0 10px 0; border-bottom:1px solid var(--border); }
+.nav-root li a { display:block; padding:6px 8px; color:var(--fg); font-size:12.5px; font-weight:600; }
+.nav-root li a:hover { background:var(--bg-hover); text-decoration:none; }
+.nav-group { margin-bottom: 2px; }
+.nav-group > summary { cursor: pointer; display:flex; align-items:baseline; gap:8px; font-family: var(--mono); font-weight:700; color:var(--fg); padding:8px 6px; text-transform:uppercase; font-size:10.5px; letter-spacing:.1em; list-style:none; border-left:3px solid var(--cat-color, var(--border)); transition: background .12s; }
+.nav-group > summary::-webkit-details-marker { display:none; }
+.nav-group > summary:hover { background:var(--bg-hover); }
+.nav-group > summary::before { content:'▸'; font-size:9px; color:var(--fg-dim); transition: transform .15s; flex:0 0 auto; }
+.nav-group[open] > summary::before { transform: rotate(90deg); }
+.nav-num { color: var(--cat-color, var(--accent)); font-weight:700; }
+.nav-label { flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.nav-count { font-weight:400; font-size:10px; color:var(--fg-dim); font-variant-numeric: tabular-nums; }
+.nav-group ul { list-style:none; padding:2px 0 8px 14px; margin:0; }
+.nav-group li a { display:block; padding:4px 8px; color:var(--fg); font-size:13px; border-left:2px solid transparent; transition: none; }
 .nav-group li a:hover { background:var(--bg-hover); text-decoration:none; border-left-color:var(--accent); }
 .nav-group li a.active { background:var(--bg-hover); border-left-color:var(--accent); color:var(--accent); font-weight: 600; }
+.nav-group li.nav-index a { font-weight:600; font-size:12.5px; }
 .nav-chip { display: inline-block; margin-left: 6px; padding: 1px 6px; font-size: 10px; font-weight: 600; background: var(--accent); color: #fff; border-radius: 0; vertical-align: middle; }
 .nav-chip-done { background: #5fd49e; color: #0b1a10; }
 .sidebar-legend { padding: 8px 12px; margin-bottom: 10px; font-size: 11px; color: var(--text-muted); border: 1px dashed var(--border); border-radius: 0; line-height: 1.6; }
@@ -2124,8 +2165,12 @@ body.sidebar-collapsed .sidebar-open-btn { display: inline-flex; }
 .map-help b { color: var(--fg); }
 #map-tooltip { display: none; position: absolute; pointer-events: none; background: var(--bg-panel); border: 1px solid var(--border); border-radius: 0; padding: 8px 12px; font-size: 12px; color: var(--fg); z-index: 100; max-width: 280px; box-shadow: var(--shadow); }
 #map-tooltip .tt-country { color: var(--fg-dim); font-size: 11px; }
-.nav-subgroup { margin: 4px 0 4px 6px; padding-left: 8px; border-left: 1px solid var(--border); }
-.nav-subgroup summary { cursor: pointer; font-family: var(--mono); font-weight:500; color:var(--fg-dim); padding:4px 4px; font-size:10px; text-transform: uppercase; letter-spacing:.12em; }
+.nav-subgroup { margin: 2px 0 2px 12px; padding-left: 8px; border-left: 1px solid var(--border); }
+.nav-subgroup > summary { cursor: pointer; display:flex; align-items:baseline; gap:7px; font-family: var(--mono); font-weight:600; color:var(--fg-dim); padding:5px 4px; font-size:9.5px; text-transform: uppercase; letter-spacing:.1em; list-style:none; }
+.nav-subgroup > summary::-webkit-details-marker { display:none; }
+.nav-subgroup > summary::before { content:'▸'; font-size:8px; transition: transform .15s; }
+.nav-subgroup[open] > summary::before { transform: rotate(90deg); }
+.nav-subgroup > summary:hover { color:var(--fg); }
 .nav-subgroup ul { padding-left: 6px; }
 .nav-direct { margin-bottom: 4px; }
 .home-subcat { margin: 14px 0 6px 0; font-size: 12px; text-transform: uppercase; letter-spacing: .6px; color: var(--fg-dim); font-weight: 600; }
@@ -2448,6 +2493,21 @@ SITE_JS = r"""
     if (v !== null) sidebar.scrollTop = parseInt(v, 10);
   } catch (e) {}
 
+  // ===== Estado abierto/cerrado de los grupos (persistente) =====
+  const NAV_KEY = 'adg-nav-open';
+  let openSet;
+  try { openSet = new Set(JSON.parse(localStorage.getItem(NAV_KEY) || '[]')); }
+  catch (e) { openSet = new Set(); }
+  const groups = sidebar.querySelectorAll('details[data-nav-id]');
+  groups.forEach(d => {
+    if (openSet.has(d.dataset.navId)) d.open = true;
+    d.addEventListener('toggle', () => {
+      if (d.open) openSet.add(d.dataset.navId);
+      else openSet.delete(d.dataset.navId);
+      try { localStorage.setItem(NAV_KEY, JSON.stringify([...openSet])); } catch (e) {}
+    });
+  });
+
   // Highlight active note based on current path
   const path = window.location.pathname.split('/').pop() || 'index.html';
   // Match by data-slug ending with the filename without extension
@@ -2461,6 +2521,15 @@ SITE_JS = r"""
       foundActive = a;
     }
   });
+
+  // Abrir la ruta del enlace activo aunque todo empiece replegado
+  if (foundActive) {
+    let el = foundActive.parentElement;
+    while (el && el !== sidebar) {
+      if (el.tagName === 'DETAILS') el.open = true;
+      el = el.parentElement;
+    }
+  }
   // Only scroll active into view if user has no saved scroll AND it's not visible
   if (foundActive) {
     const sb = sidebar.getBoundingClientRect();
