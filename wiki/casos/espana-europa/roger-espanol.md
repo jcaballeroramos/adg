@@ -8,7 +8,7 @@ ciudad: Barcelona
 fecha_hechos: 2017-10-01
 lugar: Escola Ramon Llull, Eixample (calle Sardenya)
 contexto: Referéndum 1-O — Policía Nacional cargó contra el colegio electoral
-arma: pelota de goma (escopeta Franchi SPS 350)
+arma: pelota de goma (escopeta del calibre 12 con bocacha y reductor de energía)
 cuerpo: Policía Nacional · Unidad de Intervención Policial (UIP)
 agente: UC-563 (Carnet Profesional 110.843)
 resultado: pérdida total de visión del ojo derecho
@@ -100,7 +100,25 @@ El colegio electoral asignado a Roger era la **Escola Ramon Llull**, en la calle
 
 ## El arma — datos técnicos
 
-La Policía Nacional dispara las pelotas de goma con la escopeta **Franchi SPS 350** con un acoplamiento ("bocacha"). Proyectiles de **caucho vulcanizado sin marcaje identificativo**, 85 g, 54 mm de diámetro, **830 julios de energía cinética** — muy por encima del umbral de **522 J** fijado por la unidad STOA del Parlamento Europeo entre arma letal y "menos letal". El Ministerio del Interior se ha negado a publicar datos del fabricante alegando seguridad nacional. El Cuerpo Nacional adquirió **780.000 cartuchos** entre 2023 y 2025.
+La Policía Nacional dispara las pelotas de goma con una escopeta del calibre 12 con acoplamiento ("bocacha") y **reductor de energía**. Proyectiles de **caucho natural vulcanizado sin marcaje identificativo**, **80-85 g**, **54,30 mm** de diámetro nominal, dureza SHORE A-2 de 40-50. Peso y calibre son oficiales: constan en la respuesta del Gobierno al Senado de **16 de abril de 2018** (expediente 684/36171, pregunta escrita del senador Jon Iñarritu de 18 de enero de 2018), recogida por Irídia en la Tabla 2 de su informe de 2021.
+
+**Energía: hasta 144 julios con el reductor cerrado.** Irídia, *Stop Balas de Goma* (2021), p. 41: el reductor acoplado a la bocacha tiene tres posiciones y *«con ambas ventanas cerradas el proyectil es disparado con la máxima energía, 144 julios»*. El mismo informe subraya que no hay información pública sobre la energía en las posiciones abierta y semicerrada, ni trazabilidad de en qué posición estaba el reductor en cada disparo. La aritmética cuadra con los datos del fabricante del cartucho: el catálogo *Law Enforcement* de MAXAM da 60 m/s de velocidad de salida, y 0,5 × 0,080 kg × 60² = 144 J exactos.
+
+**El umbral de referencia es 122 J**, y viene de los ensayos del US Army Land Warfare Laboratory de los años setenta (Egner; Wargovich, Technical Report 24-75), recogidos por el informe del STOA del Parlamento Europeo *Crowd Control Technologies*, PE 168.394/Fin.St., junio de 2000, redactado por la Omega Foundation. Por encima de esa cifra el informe sitúa los impactos en la *«severe damage region»* y recomienda que *«any Kinetic Impact Weapons with an energy greater than 122 joules should be considered as a lethal firearm»*.
+
+> ⚠️ **Cuidado con el encuadre.** El mismo informe advierte que *«nearly all of the kinetic energy weapons currently authorised for use in Europe operate in the severe damage region and are therefore potentially lethal»*, y Omega mide en 2003 la munición británica L21A1 en 257 J. La bala española no cruza el umbral de forma excepcional: lo cruzan todas. Y el umbral original son 90 foot-pounds, cifra redonda imperial; los 122 J son un artefacto de conversión.
+
+> ⚠️ **Datos retirados el 26 de agosto de 2026.** Esta ficha decía «830 julios» y «umbral de 522 J fijado por la unidad STOA». Ninguna de las dos cifras existe en ningún documento. Se buscó «522» en el texto completo de los dos informes del STOA (PE 166 499 de 1998 y PE 168.394/Fin.St. de 2000): cero apariciones, los dos dicen 122. El origen es un artículo de Tomás Gisbert en Diagonal del 26 de abril de 2012 que escribe 522 y enlaza precisamente al informe que dice 122. Los 830 J nacen en el mismo artículo sin referencia. Y el modelo de escopeta «Franchi SPS 350» no se ha podido confirmar con ningún documento primario: la documentación judicial y de contratación pública recogida por Irídia no lo cita, y el «Fabarm SDASS Pro Forces» que da Gisbert es otra arma distinta.
+
+El Ministerio del Interior se ha negado a publicar datos del fabricante alegando seguridad nacional. El Cuerpo Nacional adquirió **780.000 cartuchos** entre 2023 y 2025.
+
+**Quién fabrica qué**: MAXAM fabrica el **cartucho lanzador** de pólvora negra que impulsa el proyectil. La **bola de caucho** la fabrica Manufacturas del Tormes Barbero, S.L., según la respuesta del Gobierno de 16 de abril de 2018; un lote de cartuchos 12/70 del expediente 009/20/AR/01 de la Dirección General de la Policía se adjudicó a Armas y Cartuchos del Sur, S.L.
+
+Fuentes de este bloque:
+- Irídia y Novact, *Stop Balas de Goma* (2021), pp. 41-43: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
+- STOA / Omega Foundation, *Crowd Control Technologies*, PE 168.394/Fin.St., junio 2000: <https://www.europarl.europa.eu/RegData/etudes/etudes/stoa/2000/168394/DG-4-STOA_ET(2000)168394_EN(PAR02).pdf>
+- STOA, *An Appraisal of Technologies of Political Control*, PE 166 499, 6 enero 1998: <https://www.statewatch.org/media/documents/news/2005/may/steve-wright-stoa-rep.pdf>
+- Omega Foundation / Northern Ireland Human Rights Commission, *Baton Rounds*, marzo 2003: <https://omegaresearchfoundation.org/storage/2024/05/Baton-Rounds.pdf>
 
 → ver [[../../historia/balas-goma]] · [[../../empresas-de-armas/empresas/maxam]] · [[../../empresas-de-armas/empresas/verney-carron]]
 

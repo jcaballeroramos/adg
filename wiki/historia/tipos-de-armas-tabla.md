@@ -26,11 +26,17 @@ Clasificación de las armas "menos letales" según su **tecnología principal**,
 ### ⚙️ Energía cinética
 **Principio**: impacto de un objeto en movimiento sobre un cuerpo.
 
-**Umbral de letalidad**: **122 julios** (Omega Research Foundation). Las balas de goma españolas se disparan a **144 julios**.
+**Umbral de referencia**: **122 julios**. Viene de los ensayos del US Army Land Warfare Laboratory de los años setenta (Egner; Wargovich, Technical Report 24-75), recogidos por el informe del STOA del Parlamento Europeo *Crowd Control Technologies*, PE 168.394/Fin.St., junio de 2000, redactado por la [[../autores-y-referencias/organizaciones/omega-research-foundation|Omega Foundation]]. El documento habla de *«severe damage region»* y recomienda tratar por encima de esa cifra las armas de impacto como arma letal. El umbral original son 90 foot-pounds y los 122 J son la conversión. <https://www.europarl.europa.eu/RegData/etudes/etudes/stoa/2000/168394/DG-4-STOA_ET(2000)168394_EN(PAR02).pdf>
+
+La bala de goma española alcanza **hasta 144 julios con el reductor de energía cerrado** (Irídia, *Stop Balas de Goma*, 2021, p. 41). <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
+
+> ⚠️ El umbral no discrimina casi nada, y conviene saberlo antes de usarlo en pantalla. El propio informe del STOA dice que *«nearly all of the kinetic energy weapons currently authorised for use in Europe operate in the severe damage region and are therefore potentially lethal»*, y Omega mide en 2003 la munición británica L21A1 en 257 J, más del doble.
 
 **Productos**:
 - **Porra / tonfa** — la más antigua ([[porra-tonfa]]).
-- **Bala de goma** — MAXAM (España, 85g, 54mm, 720 km/h).
+- **Bala de goma** — España: proyectil de caucho natural vulcanizado, **80-85 g**, **54,30 mm** de diámetro nominal (respuesta del Gobierno al Senado de 16 de abril de 2018, expediente 684/36171, vía Irídia 2021). MAXAM fabrica el **cartucho lanzador**; la bola la fabrica Manufacturas del Tormes Barbero, S.L.
+
+  > ⚠️ Los **720 km/h** que traía esta tabla se retiran (26 de agosto de 2026). La velocidad de 200 m/s procede de prensa de 2012-2013 sin documento; el catálogo del fabricante del cartucho da **60 m/s**, y las mediciones de baton rounds británicos del informe de Omega para la NIHRC (2003) van de 60,5 a 74 m/s. Con 85 g, 200 m/s darían ~1.700 J, incompatible con las dos energías que la propia wiki maneja.
 - **Bala de foam viscoelástica** — disparada por Brügger & Thomet BT-GL06.
 - **LBD40** — Verney-Carron (Francia).
 - **Flash-Ball Super Pro** — Verney-Carron.
