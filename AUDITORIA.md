@@ -21,9 +21,9 @@ Dos avisos sobre el material de partida. El primero, que `raw/` no contiene el v
 `raw/00-lote1-documento-original.md` sigue siendo el placeholder de cuatro líneas que nunca se
 rellenó, de modo que el barrido se hizo sobre `wiki/`, que son 237 ficheros. El segundo, sobre el estado de
 las fichas: **las correcciones de la fase 1 ya están aplicadas** en la rama
-`correcciones-auditoria-agosto-2026`, 40 fichas, cada una con la fuente escrita dentro. Los 384
-datos sin fuente del barrido **no**: ahí no hay fuente que copiar, hay que ir a buscarla, y eso es
-otra ronda de verificación.
+`correcciones-auditoria-agosto-2026`, 40 fichas, cada una con la fuente escrita dentro. De los 384 datos sin fuente del barrido, los **41 de las tres fichas
+agregadoras** también están verificados y aplicados; los **343 restantes** siguen pendientes, y ahí
+no hay fuente que copiar sino que buscar.
 
 Lo ya corregido en agosto está en el historial de git y no se repite.
 
@@ -984,6 +984,50 @@ en cartela.
 
 El listado completo, ficha por ficha y con la frase donde aparece cada dato, está en
 [AUDITORIA-datos-sin-fuente.md](AUDITORIA-datos-sin-fuente.md).
+
+### Segunda ronda: las tres fichas agregadoras, cerradas
+
+El 26 de agosto se verificaron los **41 datos** de `impacto-agregado`, `cronologia-completa` y
+`tipos-de-armas-tabla`, que son las que alimentan cartelas. Los agentes los descompusieron en 62
+afirmaciones: **20 refutadas, 8 no verificables, 24 parciales y 10 verificadas**. Todas están ya
+aplicadas en las fichas con su fuente.
+
+Lo que más importa de esa ronda:
+
+**El cianuro no aguanta.** Los «0,7 mg/L documentados en chalecos amarillos» no existen como valor
+sanguíneo de nadie: el dossier de la Association Toxicologie-Chimie de Paris da nueve participantes,
+seis lecturas previas entre 0 y 0,25 mg/L y seis posteriores entre 0,5 y 0,75, con media de 0,65. Y
+los medidos no eran chalecos amarillos, sino el biólogo firmante y su equipo, que se autoexpusieron
+en Montpellier en junio de 2019. El «1 mg/L = letal» está mal por un factor de tres: la ATSDR sitúa
+la muerte por encima de 3,0 mg/L y 1 mg/L es la frontera entre rubefacción y obnubilación; el NRC
+concluye que 0,5 mg/L «is considered nontoxic». El dossier de origen no está revisado por pares,
+cita su propia tabla a una entrevista de prensa con su primer autor, y usa un kit validado para agua
+y alimentos, no para sangre.
+
+**Waco cambia de sentido.** Dos investigaciones oficiales independientes refutan que el gas causara
+el incendio. Informe Provisional Danforth: «the CS and methylene chloride did not start or contribute
+to the spread of the fire» y «did not kill any Davidians». Y son 75 muertos con 25 menores de 15
+años, no 76 con 20. Waco sirve por la escala del gaseo, no como caso de muerte causada por el gas.
+
+**Las cifras de 1964-1972 estaban inventadas.** «300 ciudades, 250 muertos, 10.000 heridos graves»
+no sale de ninguna fuente localizable, y desde luego no del Informe Kerner, que cubre solo hasta 1967
+y habla de 128 ciudades y 83 muertos. La serie académica estándar da, para 1964-1971, 752 motines,
+228 muertos y 12.741 heridos.
+
+**Cuatro errores de causa o de fecha.** Los estudiantes de Trisakti murieron por munición real, no
+por cañón de agua. Baek Nam-gi es de 2015, no de 2010. Berkeley 1969 fue el desalojo del People's
+Park con gas CS desde helicóptero, no balas de plástico contra manifestantes anti-Vietnam. Y
+*Edrei contra Maguire* no declaró inconstitucional el LRAD: denegó la inmunidad cualificada a los
+agentes, que es otra cosa.
+
+**Y los 5.420 GMD arrastraban el mismo error de ventana que los 19.071 LBD**: son el año natural
+2018 completo, de la misma página del mismo informe de la IGPN.
+
+Lo que la ronda cierra en positivo: los **58 palestinos** quedan verificados con B'Tselem
+(*Death Foretold*, diciembre de 1998), y el 28/30 resulta ser el desglose de esos mismos 58, no una
+suma. Las **cuatro resoluciones del Parlamento Europeo** aparecen con documento y signatura, todas
+del 13 de mayo de 1982, en el DOCE C 149 de 14.6.1982. Y la **ficha de Alsetex** de la GLI-F4 y la
+GM2L resuelve el gramaje y los decibelios que la primera ronda había dado por no verificables.
 
 Reparto por carpeta: 158 en `casos`, 107 en `empresas-de-armas`, 48 en `historia`, 36 en
 `autores-y-referencias`, 16 en `marco-legal`, 13 en `ferias-de-armas` y 6 en `produccion`.
