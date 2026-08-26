@@ -12,6 +12,8 @@ tags: [rocher, libro, armas-menos-letales]
 
 > Pasajes clave de la entrevista y del libro de Rocher traducidos al castellano. Son los fragmentos que considero directamente utilizables como voz en off o como texto en pantalla.
 
+> ⚠️ **Aviso del 26 de agosto de 2026.** Esta ficha son **palabras de Rocher**, y como tales no se modifican. Pero la verificación de agosto ha encontrado **tres afirmaciones suyas que no resisten el contraste con la fuente primaria**, y están marcadas más abajo, en cianuro, Indonesia y Dubrovka. Como la ficha declara que estos pasajes son «directamente utilizables como voz en off», conviene leer los avisos antes de llevar cualquiera de los tres a pantalla.
+
 ## La tesis en una frase
 
 > No es que ahora se gestionen con armas no letales los problemas que antes se resolvían con armas letales, sino que **se utilizan armas supuestamente no letales donde antes no se empleaba ningún tipo de arma**.
@@ -212,15 +214,27 @@ Justo antes de morir, **Fraisse tenía las manos levantadas y gritaba "¡alto, a
 - **Corea del Sur**: el chorro causó la muerte de un activista campesino.
 - **Indonesia, 1998**: cañones de agua de fabricación británica mataron a 3 estudiantes.
 
+  > ⚠️ **Error de causa (26 de agosto de 2026).** Los estudiantes muertos en Trisakti en mayo de 1998 murieron **por munición real**, no por cañón de agua. El suministro británico de vehículos está documentado; la causa de muerte es otra.
+
 ## Químicas: cianuro en la sangre
 
 Un equipo de médicos y un biólogo ha descubierto recientemente que, una vez presente en la sangre, el componente lacrimógeno **2-clorobenzilideno malononitrilo** (el CS) **libera cianuro**.
 
 En las pruebas realizadas a chalecos amarillos expuestos al gas lacrimógeno se apreciaban niveles de **casi 0,7 mg por litro de sangre**. El envenenamiento por esta sustancia altamente tóxica **comienza con una dosis de 0,5 mg** y superar el umbral de **1 mg resulta mortal**.
 
+> ⚠️ **NO USAR ESTE PASAJE EN PANTALLA SIN REESCRIBIRLO.** Se fue al documento original y falla en los tres números.
+>
+> **Ni el 0,7 ni «chalecos amarillos».** La fuente es el dossier de la Association Toxicologie-Chimie de Paris (Alexander Samuel y André Picot, *L'utilisation du gaz lacrymogène CS*, dossier 30 A, junio de 2020), tabla 4. La cifra 0,7 **no aparece** como valor sanguíneo de nadie: nueve participantes, seis lecturas antes del gaseo entre 0 y 0,25 mg/L y seis posteriores entre **0,5 y 0,75 mg/L**, con media de 0,65 y solo tres pares completos antes/después. Y los medidos **no eran chalecos amarillos**: eran el propio biólogo firmante y su equipo de médicos, que se autoexpusieron durante una concentración en Montpellier en junio de 2019. *Reporterre*, 14 de diciembre de 2019: *«ce sont lui et son équipe qui ont joué les cobayes»*.
+>
+> **El «1 mg = mortal» está mal por un factor de tres.** Perfil toxicológico del cianuro de la **ATSDR** (*Toxicological Profile for Cyanide*, borrador para comentario público, octubre de 2024, p. 124, siguiendo a Linden y Lovejoy, 1998): rubefacción y taquicardia a **0,5-1,0 mg/L**, obnubilación a **1,0-2,5**, coma y depresión respiratoria a **2,5-3,0**, y muerte **por encima de 3,0 mg/L**. El National Research Council sitúa los síntomas graves por encima de **2,2 mg/L** y la letalidad por encima de **4,4**. El propio dossier del que sale la cifra no dice en ningún punto que 1 mg/L sea mortal: habla de un «seuil de dangerosité de 0,5 mg/L». Su propio anexo con el cianuro en sangre de las víctimas mortales de Waco va de 0,03 a 3,5 mg/L, de modo que ni entre muertos funciona 1 mg/L como umbral.
+>
+> **Y el dato de partida tiene tres reservas de peso**: el dossier no está revisado por pares, atribuye su propia tabla a una entrevista de prensa con su primer autor (referencia 125, *Le Nouvel Obs*, julio de 2019), y el kit colorimétrico que emplea está validado —en la bibliografía que él mismo cita— **para agua y alimentos, no para sangre humana** (Cherbuin, Zelder y Karlen, *The Analyst*, 2018, PMID 30460362). El centro antipoison de Lyon lo impugna y el Ministerio del Interior francés lo rebate en su respuesta a la pregunta escrita 31283 (JO de 27 de octubre de 2020). Como referencia de fondo, el NRC sitúa el cianuro basal en hasta 0,32 mg/L en no fumadores y 0,52 en fumadores, y concluye que *«a blood cyanide concentration of 0.5 mg/L is considered nontoxic»*.
+
 La muerte de **[[../../casos/espana-europa/steve-maia-canico|Steve Maia Caniço]]**, que cayó al Loira tras una carga policial nocturna en Nantes, es una triste prueba de que el efecto combinado del dolor, la disminución de las capacidades sensoriales y el pánico causado por los gases lacrimógenos **puede convertir un entorno inofensivo en una trampa mortal**.
 
 En **2002**, las fuerzas del orden rusas intentaron liberar a los rehenes del **teatro de Dubrovka** en Moscú utilizando un gas anestésico que provocó la muerte de **al menos 117 de ellos**.
+
+  > ⚠️ **Cifra desfasada.** El TEDH, en *Finogenov y otros c. Rusia* (demandas 18299/03 y 27311/03), fija en **125 rehenes** los fallecidos, y considera que prácticamente todos murieron por efecto del gas. El 117 es el recuento oficial ruso inmediato. Como «al menos 117» la frase de Rocher no es falsa, pero se queda corta y hay documento mejor.
 
 ## Armas acústicas
 

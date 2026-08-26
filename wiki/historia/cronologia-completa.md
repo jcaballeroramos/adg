@@ -21,8 +21,10 @@ El gobierno británico **delibera explícitamente** sobre la conveniencia de usa
 ### 1880s — Singapur, el laboratorio colonial británico
 El Imperio británico dispara **trozos de madera cortados de mangos de escoba** contra los manifestantes en Singapur. **Primer antecedente** documentado del proyectil de impacto cinético no letal.
 
-### 1880 — Primera patente de picana eléctrica
-Patente estadounidense de bastón eléctrico **para ganado**. 80 años después se convertirá en el antecesor del Taser.
+### El antecesor del Taser: la picana eléctrica para ganado
+El bastón eléctrico para ganado es el antecesor reconocido del Taser.
+
+> ⚠️ **La fecha de 1880 se retira (26 de agosto de 2026).** No se ha localizado ninguna patente estadounidense de esa fecha ni número que la respalde. Hay que dar el número de patente o no dar la fecha.
 
 ## 1900-1945 — Las guerras mundiales
 
@@ -41,7 +43,14 @@ El Estado francés ya usa compuestos químicos contra huelgas.
 Reino Unido rocía con gas a los **insurgentes afganos** y los **revolucionarios rusos**.
 
 ### 13 abril 1919 — Masacre de Amritsar
-Ejército británico mata a **379 indios**. La administración colonial esgrime el argumento del gas lacrimógeno: **"habría evitado la masacre"**. Presión para autorizar el gas en las colonias.
+El ejército británico mata en el Jallianwala Bagh a **379 personas según el recuento oficial británico** y a **entre 500 y 1.000 según el Congreso Nacional Indio**. La administración colonial esgrime después el argumento del gas lacrimógeno, **"habría evitado la masacre"**, para presionar a favor de autorizarlo en las colonias.
+
+Las dos cifras son documentales y la diferencia entre ellas es políticamente significativa, así que conviene dar las dos.
+
+- **Comité Hunter** (Disorders Inquiry Committee, 1920): *«As a result of this investigation it was discovered that approximately 379 people were killed. Of these about 87 were strangers or villagers who had come into Amritsar from the neighbouring district. No figure was given for the wounded; but their number may be taken as probably three times as great as the number of killed.»*
+- **Subcomité del Punjab del Indian National Congress** (Lahore, 1920, firmado por M. K. Gandhi, C. R. Das, Abbas S. Tayabji y M. R. Jayakar): *«Now they have practically accepted the Sewa Samiti's figures viz. 500, which are based on actual tracing and represent the minimum. The exact figure will never be known, but after careful investigation, we consider that Lala Girdhari Lal's computation of 1000 is by no means an exaggerated calculation.»*
+
+> ⚠️ El mismo informe del Congreso cierra su capítulo de ley marcial con «nearly 1,200 lives were lost, at least 3,600 men wounded», pero eso se refiere a **dos meses de ley marcial en cinco distritos del Punjab**, no a la matanza del 13 de abril. No confundirlas.
 
 ### 1928 — Síntesis del agente CS
 **Ben Corson** y **Roger Stoughton** sintetizan el **o-clorobencilideno malononitrilo** en el **Middlebury College** (Vermont), en contexto académico. De sus iniciales viene el nombre, **C-S**. Su desarrollo como agente antidisturbios es posterior y **británico**, en Porton Down, durante los años cincuenta y sesenta, y de ahí pasa a reemplazar al CN.
@@ -89,14 +98,20 @@ El Kobudō de Okinawa se sistematiza como arte marcial → [[porra-tonfa]].
 ### 1963 — Birmingham, Alabama
 **Cañones de agua** contra **estudiantes afroamericanos** del movimiento por los derechos civiles. Imagen icónica que **masifica globalmente** el cañón como herramienta antidisturbios.
 
-### 1964-1972 — EE.UU. en llamas
-**300 ciudades** con revueltas. **250 muertos**, **10.000 heridos graves**. La represión tradicional fracasa. Se invierte masivamente en armas "menos letales" como **respuesta operativa**.
+### 1964-1971 — EE.UU. en llamas
+**752 motines** en 1.802 días, con **228 muertos**, **12.741 heridos**, 69.099 detenidos y 15.835 incendios. La represión tradicional fracasa y se invierte masivamente en armas «menos letales» como respuesta operativa.
+
+Serie de Gregg Lee Carter, que extiende la de Seymour Spilerman, recogida en la tabla 1 de Collins y Margo, p. 853.
+
+> ✅ **Corregido el 26 de agosto de 2026.** Las tres cifras anteriores («300 ciudades, 250 muertos, 10.000 heridos graves») no salen de ninguna fuente localizable, y desde luego no del Informe Kerner, que es lo que sugería la entrada. El **Informe Kerner** (National Advisory Commission on Civil Disorders, 1968) cubre solo hasta 1967 y da «164 disorders reported during the first nine months of 1967», ocurridos «in 128 cities», con «83 deaths» y «1,897 injuries» en los 75 disturbios de 67 ciudades estudiados por el subcomité del Senado, y el 82% de las muertes en Newark y Detroit. Su propio trabajo de campo cubrió 24 disturbios en 23 ciudades. Ninguna cifra se acerca a 300 ciudades.
 
 ### Finales años 60 — El CS policial
 Uso de gas CS en la **guerra de Vietnam**. Inicio de la **carrera de armamento menos letal moderno**.
 
-### 1969 — Berkeley
-**Primera vez** que la policía estadounidense usa **balas de plástico** contra manifestantes anti-Vietnam.
+### 15 mayo 1969 — Berkeley, People's Park
+Desalojo del **People's Park** por la policía y la Guardia Nacional, con gas **CS lanzado desde helicóptero** sobre la multitud.
+
+> ⚠️ **La entrada anterior fallaba en los tres elementos (26 de agosto de 2026):** no era una protesta anti-Vietnam sino el desalojo del People's Park; no está documentado que fueran balas de plástico; y la afirmación de primicia («primera vez que la policía estadounidense usa balas de plástico») no se sostiene. Las portadas contemporáneas de *The Stanford Daily* lo corroboran: «Police End 2nd People's Park; Guard Maintains Uneasy Order» (19 de mayo), «Helicopter Gases UC Crowd Mourning Shooting Death» (21 de mayo) y el pie de foto del *Daily Californian* «GAS ATTACK — A National Guard helicopter sprays CS gas on demonstrators at Berkeley Tuesday» (23 de mayo).
 
 ### 1970 — Irlanda del Norte
 El **Ministerio de Defensa británico** diseña específicamente la **bala de goma** para la gestión colonial de Irlanda del Norte. **The Troubles** como laboratorio.
@@ -116,8 +131,10 @@ Médicos advierten sobre el potencial letal de las balas de goma. **Primer aviso
 ### 1976 — Uganda (operación Entebbe)
 Primer uso documentado **fuera de entrenamiento** de dispositivos de aturdimiento: ejército israelí los usa en rescate de rehenes.
 
-### 1976 — ASP extensible
-Se crea el **bastón extensible ASP**, forma moderna de la porra.
+### 1976 — se funda ASP
+Se funda **Armament Systems and Procedures (ASP Inc.)**, la empresa cuyo bastón extensible se convertirá en la forma moderna de la porra.
+
+> ⚠️ **Corregido: 1976 es la fundación de la empresa, no el lanzamiento del bastón extensible.** Son cosas distintas y no se ha podido documentar la fecha del producto.
 
 ### 1977 — Donald Egner
 **Primer paper técnico crítico** sobre armas menos letales, desde dentro del **U.S. Army Land Warfare Laboratory**: [[../marco-legal/bibliografia/egner-1977|*The Evaluation of Less-Lethal Weapons*]].
@@ -126,7 +143,17 @@ Se crea el **bastón extensible ASP**, forma moderna de la porra.
 **Servicio postal estadounidense** desarrolla el **OC** (gas pimienta) para **proteger a carteros de perros**. En los 80 lo adoptan las policías.
 
 ### Años 80 — Parlamento Europeo
-Tras las muertes por balas de plástico y al menos **181 heridos**, se aprueban **4 resoluciones** a favor de su prohibición.
+**13 de mayo de 1982.** En una sola sesión, tras un debate conjunto, el Parlamento Europeo aprueba **cuatro resoluciones** sobre las balas de plástico. El acta lo dice así: *«The next item was the joint debate on four motions for resolutions»*. Se publican consecutivamente en el **Diario Oficial de las Comunidades Europeas, C 149 de 14.6.1982**:
+
+| Documento | Título | Página |
+|---|---|---|
+| Doc. 1-229/82 | sobre el uso de balas de plástico en Irlanda | 66 |
+| Doc. 1-233/82 | sobre la prohibición del uso de balas de plástico | 67 |
+| Doc. 1-245/82 | — | 69 |
+
+La cuarta resolución (Doc. 1-245/82) afirma en su considerando A que **«181 personas han resultado gravemente heridas (varias de ellas cegadas) desde principios de 1981»**.
+
+> ✅ **Signaturas localizadas el 26 de agosto de 2026.** Escribir siempre «181 heridos graves **según la resolución del Parlamento Europeo de 13 de mayo de 1982**», nunca «al menos 181»: el texto da 181 en firme y el «al menos» era un añadido de la wiki. Y es una afirmación del propio Parlamento, sin fuente primaria detrás.
 
 > ✅ **Corregido el 26 de agosto de 2026.** El informe del Committee on the Administration of Justice de 1998 dice: *«In 1981 alone, seven people died as a result of plastic bullets - four were adults and three were children.»* Son **siete muertos en 1981, tres de ellos menores**, no «7 entre 1981-82, 5 menores de 15 años». El mismo informe documenta **16.656 balas de plástico disparadas solo en mayo de 1981**. Las cuatro resoluciones del Parlamento Europeo siguen **sin signatura anotada**: hay que localizarlas antes de citarlas.
 
@@ -143,8 +170,14 @@ Diciembre de 1987 a 1993, hasta los Acuerdos de Oslo. **58 palestinos** muertos 
 ### 1991 — Rodney King
 **Los Ángeles**. Hombre afroamericano golpeado y **electrocutado dos veces con Taser**. Vídeo viral. Absolución de los policías → **disturbios con 50 muertos y 2.000 heridos**. La policía pide **mejores armas menos letales**. → [[../casos/estados-unidos/rodney-king-1991]].
 
-### 1993 — Asedio de Waco
-El FBI usa gas en la casa de los davidianos. Incendio. **76 muertos, 20 niños**. Nuevo impulso a la investigación en armas menos letales.
+### 19 abril 1993 — Asedio de Waco
+El FBI introduce **gas CS** en el recinto de los davidianos de Mount Carmel. Se declara un incendio y mueren **75 personas dentro del recinto, 25 de ellas menores de 15 años**, según el forense citado por el informe del Departamento de Justicia de 8 de octubre de 1993 (NCJ 145689, p. 311): *«The Medical Examiner has concluded that 75 persons died inside the compound during the April 19 fire, including 50 adults and 25 children under the age of 15.»* El mismo informe añade que al menos 17 murieron por disparos, incluidos varios niños, y otro niño apuñalado. Nuevo impulso a la investigación en armas menos letales.
+
+> ⚠️ **Dos correcciones del 26 de agosto de 2026, y la segunda es la importante.**
+>
+> **La cifra**: circulan cuatro recuentos oficiales y ninguno sostiene la pareja «76 muertos, 20 niños». El del forense en el informe del DOJ es 75, con 25 menores de 15 años; el Informe Provisional Danforth (21 de julio de 2000, párr. 114) dice «at least 74 Davidians died on April 19».
+>
+> **La causa**: la ficha daba por hecho que el gas provocó el incendio, y **dos investigaciones oficiales independientes lo refutan**. Informe Provisional Danforth: *«Government agents did not start or materially contribute to the spread of the fire»*, *«the experts further concluded that the CS and methylene chloride did not start or contribute to the spread of the fire»* y *«the Office of Special Counsel has concluded that the CS and methylene chloride did not kill any Davidians»*. Informe del DOJ de 1993: *«we are of the opinion that these operations did not contribute to the ignition or spread of the fire»*, con tres focos de origen. Lo que sí concede la nota 13 del Informe Provisional es que las aberturas hechas por los vehículos de ingeniería *«did allow for greater ventilation, which could have accelerated»* la propagación. Waco sirve para el documental por la escala del gaseo, no como caso de muerte causada por el gas.
 
 ### 1995 — Francia
 Se introduce la **Flash-Ball** de [[../empresas-de-armas/empresas/verney-carron|Verney-Carron]] para unidades antiterroristas. **"Para situaciones extremas."**
@@ -169,17 +202,24 @@ Versión mejorada, aún **particularmente imprecisa**.
 ### 2001 — Armas de energía dirigida
 Aparecen los primeros sistemas operativos ([[../empresas-de-armas/empresas/raytheon|Raytheon]] ADS).
 
-### 2002 — Teatro Dubrovka
-Fuerzas rusas intentan liberar rehenes con **gas anestésico**. **117 muertos**.
+### 23-26 octubre 2002 — Teatro Dubrovka
+Las fuerzas rusas intentan liberar a los rehenes con un **gas anestésico** derivado del fentanilo. Mueren **125 rehenes**, y el TEDH considera que prácticamente todos murieron por efecto del gas.
 
-### 2006 — Francia adopta el Taser (X26)
-X26 en gendarmería, policía y administración penitenciaria francesa.
+Fuente: TEDH, *Finogenov y otros c. Rusia*, demandas 18299/03 y 27311/03.
+
+> ✅ **Corregido el 26 de agosto de 2026**: la cifra de 117 es el recuento oficial ruso inmediato y quedó desfasada.
+
+### 2006 — Francia pone el Taser X26 en dotación
+El X26 entra en las fuerzas del Ministerio del Interior francés **a partir de agosto de 2006**, tras una evaluación del CREL de la policía nacional en 2004 y una experimentación desde finales de 2004 por el RAID.
+
+> ⚠️ La extensión a la **administración penitenciaria** es posterior y no se ha podido fijar con documento en esta pasada. No escribir «gendarmería, policía y administración penitenciaria» como si las tres fueran de 2006.
 
 ### 2007 — LBD40 (Francia)
 Nueva arma de [[../empresas-de-armas/empresas/verney-carron|Verney-Carron]]: **más pequeña, más pesada, doble velocidad** que la Flash-Ball.
 
-### 2007 — Kosovo prohíbe las balas de goma
-**Primer territorio europeo** en prohibirlas.
+### Kosovo y las balas de goma — dato retirado
+
+> ⚠️ **Retirado el 26 de agosto de 2026.** La entrada decía «2007 — Kosovo prohíbe las balas de goma. Primer territorio europeo en prohibirlas», una afirmación de primicia sin norma citada. No se ha localizado ninguna norma que la respalde. Si la pista es buena, hay que buscarla en los reglamentos de la UNMIK o en las directivas de la Policía de Kosovo antes de volver a escribirla.
 
 ### 2009 — Primer uso del LRAD
 **Cumbre G20 Pittsburgh (EE.UU.)** — primer uso policial civil documentado.
@@ -187,8 +227,12 @@ Nueva arma de [[../empresas-de-armas/empresas/verney-carron|Verney-Carron]]: **m
 ### 2010 — Rayo de calor en Afganistán
 El **Active Denial System** de [[../empresas-de-armas/empresas/raytheon|Raytheon]] se usa un mes en Afganistán.
 
-### 2010 — Stuttgart
-117 heridos por cañón de agua en Alemania. Una persona mutilada. Otra pierde la vista de un ojo.
+### 30 septiembre 2010 — Stuttgart
+Operación policial contra la protesta de **Stuttgart 21**, con cañones de agua **WaWe 9** a un máximo de **16 bares**. **Dietrich Wagner**, jubilado de 66 años, queda prácticamente ciego por el impacto del chorro. El Verwaltungsgerichtshof de Baden-Württemberg declaró después ilegal la operación.
+
+Fuente de la presión y del operativo: Landtag de Baden-Württemberg, Drucksache 14/7500.
+
+> ⚠️ **Los «117 heridos» no se sostienen con la fuente oficial** y se retiran hasta poder fijarlos. «Una persona mutilada» tampoco ha podido documentarse. Lo que sí está verificado es el caso de Dietrich Wagner.
 
 ### 2011 — La ola de revueltas
 - **[[../casos/internacionales/egipto-tahrir-2011|Plaza Tahrir (Egipto)]]**: al menos 2 muertos por gas lacrimógeno.
@@ -326,7 +370,7 @@ Tras 3 años de presidio, se le concede.
 **Deniega amnistía** a los 4 policías del caso Roger Español.
 
 ### Junio 2025 — Junts frena Tasers en Barcelona
-La Guàrdia Urbana no recibe los 22 tasers por voto del Ayuntamiento.
+La Guàrdia Urbana no recibe los **22 tasers** por voto del Ayuntamiento de Barcelona. ✅ Verificado.
 
 ### 2026 — La convergencia
 - **16, 17, 30 septiembre y 1 octubre**: juicio por el caso Roger Español. **El juicio concluye en el noveno aniversario del referéndum**.
