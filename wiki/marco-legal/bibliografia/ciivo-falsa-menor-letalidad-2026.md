@@ -28,7 +28,7 @@ La categoría de «armas menos letales» (AML) **no describe el impacto real** d
 - **Dispositivo de deshumanización**: entrenamiento que anula la identidad individual del agente y produce «máquinas de represión».
 - **Negacionismo oficial**: relativización del daño, criminalización de las víctimas, opacidad institucional, dilación judicial, transparencia ilusoria.
 - **60 años de control del orden público**: de las colonias británicas (años 60) al mercado global (años 2000s), pasando por antiterrorismo (80s) y neoliberalismo (90s).
-- Caso emblemático: **Dylan Cruz** (Bogotá, 23 nov 2019) — 18 años, asesinado por disparo directo del ESMAD.
+- Caso emblemático: **Dilan Cruz** (Bogotá, 23 nov 2019) — 18 años, asesinado por disparo directo del ESMAD.
 
 ### Cap. 4 — La arquitectura global de la represión
 - **Industria económica del control**: Rheinmetall (sobornos de 37M€ en Grecia), Condor («Proteger vidas, preservar el orden» — 80% de granadas en Chile), Combined Systems (frontera EE.UU. + George Floyd).
@@ -103,7 +103,7 @@ El informe demuestra que la «precisión quirúrgica» es un mito: los proyectil
 - ↔ [[../../empresas-de-armas/empresas/fn-herstal]] — FN303 / Smart Protector.
 - ↔ [[../../empresas-de-armas/empresas/raytheon]] — Active Denial System.
 - ↔ [[../../empresas-de-armas/renders/blast-effect-wapo-ar15]] — lenguaje visual de referencia.
-- ↔ [[../../casos/latam/colombia-2021]] — Paro Nacional, ESMAD, Dylan Cruz.
+- ↔ [[../../casos/latam/colombia-2021]] — Paro Nacional, ESMAD, Dilan Cruz.
 - ↔ [[../../casos/latam/chile-estallido-2019]] — 460 heridos oculares.
 - ↔ [[../../casos/internacionales/palestina-2023-2024]] — laboratorio de exportación represiva.
 - ↔ [[../../historia/armas-quimicas]] · [[../../historia/balas-goma]] · [[../../historia/armas-acusticas]] · [[../../historia/taser]] — cada arma analizada.

@@ -72,7 +72,7 @@ Los cuatro merecen ficha propia si el documental los necesita, con su causa de m
 
 No hay un recuento único defendible, y no por falta de trabajo sino porque cada censo usa una definición y una ventana distintas, y casi todos beben del mismo sitio. Irídia/Novact 2021 cubre solo 2000-2020. El Salto cubre 1976-2014 en muertes y su nota al pie remite al informe de Stop Bales. Amnistía Internacional y Omega, en ACT 30/6384/2023, dan «una muerte por traumatismo craneal y 24 lesiones graves entre 2000 y 2020» y cuentan el Tarajal aparte. El propio informe de Irídia lo dice: *«el Estado español no dispone de registros oficiales que den cuenta de la totalidad de personas muertas o heridas a causa de las balas de goma.»*
 
-→ el detalle de por qué no son comparables, en [[../../../AUDITORIA|AUDITORIA.md]], apartado 1.
+→ el detalle de por qué no son comparables está en `AUDITORIA.md` (raíz del repo), apartado 1.
 
 → las cifras agregadas y los heridos emblemáticos, en [[compilacion-espana]]
 

@@ -25,21 +25,27 @@ Catalunya fue **el primer territorio autónomo del Estado español** en prohibir
 
 ## La prohibición
 
-### **Abril de 2014** — Catalunya
-El **Parlament de Catalunya** prohíbe las balas de goma para los **Mossos d'Esquadra**.
+### Catalunya — tres actos y tres fechas
+
+> ✅ **Corregido el 26 de agosto de 2026.** La wiki fundía en uno («abril de 2014, el Parlament prohíbe») lo que son tres actos distintos. «Abril de 2014» es correcto como fecha de **efectividad**, no como fecha del acto del Parlament.
+
+1. **Acto parlamentario — 18 de diciembre de 2013.** La **Resolució 476/X del Parlament de Catalunya**, adoptada por el Ple el 18 de diciembre de 2013 y publicada el 23, aprueba las conclusiones del *Informe de la Comissió d'Estudi dels Models de Seguretat i Ordre Públic i de l'Ús de Material Antiavalots en Esdeveniments de Masses*. **No es una ley**: es una resolución que aprueba unas conclusiones.
+2. **Plazo fijado.** El apartado 24 de esas conclusiones ordena iniciar «inmediatamente» la retirada de las pilotes de goma y fija que *«en data 30 d'abril de 2014 sigui efectiva la prohibició total»*.
+3. **Acto ejecutivo — 30 de abril de 2014.** La **Instrucció 11/2014, de 30 d'abril**, de la Direcció General de la Policia (Departament d'Interior), firmada en Barcelona por Manel Prat i Pelaez, deja sin efecto la autorización del uso de pilotes de cautxú o de goma del punto 3.7 y del anexo de la Instrucció 16/2013.
 
 ⚠️ **Importante**: la prohibición **solo afecta a los Mossos**. La **Policía Nacional** y la **Guardia Civil** han seguido usándolas en territorio catalán. Casos paradigmáticos:
 - **1-O 2017** — referéndum: caso **[[../casos/espana-europa/roger-espanol|Roger Español]]**.
 - **Octubre 2019** — sentencia del Procés: caso **[[../casos/espana-europa/olga-proces|Olga]]**.
 
 ### **Febrero 2014** — Frontera sur
-Tras las **14 muertes en Tarajal** (Ceuta, 6 febrero 2014), la **Dirección General de la Guardia Civil** limita el uso de balas de goma y botes de humo a "**circunstancias extremas**" en los puestos fronterizos de Ceuta y Melilla.
+Tras las muertes del **[[../casos/espana-europa/tarajal-2014|Tarajal]]** (Ceuta, 6 de febrero de 2014; al menos 14, 15 según el recuento oficial y judicial), la **Dirección General de la Guardia Civil** limita el uso de balas de goma y botes de humo a "**circunstancias extremas**" en los puestos fronterizos de Ceuta y Melilla.
 - Solo afecta a la Guardia Civil.
 - **Se desconoce si la instrucción sigue vigente o no**.
 - **Ocho años después**, **[[../casos/espana-europa/melilla-2022|masacre de Melilla 2022]]** con 37 muertos.
 
-### **Abril 2015** — Euskadi
-Las balas de goma **se prohíben para la Ertzaintza** en Euskadi. Detonante directo: la muerte de **[[../casos/espana-europa/inigo-cabacas|Iñigo Cabacas]]** (abril 2012).
+### Euskadi — dato sin cerrar
+
+> ⚠️ **Ni «2012» ni «abril de 2015» han podido documentarse (26 de agosto de 2026), y hay indicios de que el marco entero es incorrecto.** Las dos piezas de elDiario.es Euskadi que se pudieron abrir describen un **cese de hecho**, no una prohibición, y una afirma explícitamente que las balas de goma no están prohibidas allí, sino desplazadas por una lanzadera de proyectiles viscoelásticos (foam). Lo que se puede afirmar con la prensa disponible, con la cautela de que es una sola redacción, es que **desde la muerte de [[../casos/espana-europa/inigo-cabacas|Iñigo Cabacas]] en abril de 2012 la Ertzaintza no ha vuelto a disparar una pelota de goma**. No poner ninguna de las dos fechas en cartela hasta tener el acuerdo del Departamento de Seguridad o del Parlamento Vasco.
 
 ### **Mayo 2017** — Navarra
 La **Policía Foral** de Navarra deja de usar balas de goma.

@@ -68,3 +68,16 @@ Es la **primera muerte documentada por rebote** de una bala de goma — el patr�
 - ↔ [[inigo-cabacas]] · [[ester-quintana]] · [[carles-guillot]] · [[roger-espanol]] · [[../latam/fabiola-campillai]] — los descendientes históricos del caso Geddis.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita explícitamente Geddis.
 - ↔ [[../../marco-legal/onu-orientaciones-2020]] — la ONU prohíbe el disparo indirecto por rebote precisamente por casos como este.
+
+## El recuento completo de Irlanda del Norte
+
+**17 muertos por balas de goma y de plástico en Irlanda del Norte, 8 de ellos menores.** Tres por bala de goma (introducida en 1970, retirada por tasas de lesión inaceptables) y catorce por bala de plástico (introducida por el ejército en 1973 y por la RUC en 1978). Los ocho menores: Francis Rowntree (11, 22 abr 1972, bala de goma), Stephen Geddis (10, 30 ago 1975), Brian Stewart (13, 10 oct 1976), Paul Whitters (15, 25 abr 1981), Julie Livingstone (14, 13 may 1981), Carol Ann Kelly (12, 22 may 1981), Stephen McConomy (11, 19 abr 1982) y Seamus Duffy (15, 9 ago 1989). Los otros nueve: Tobias Molloy (18), Thomas Friel (21), Michael Donnelly (21), Henry Duffy (45), Nora McCabe (30), Peter Doherty (36), Peter McGuinness (41), Sean Downes (22) y Keith White (20). Todos católicos salvo Keith White. Responsables: British Army en 11 casos, RUC en 6.
+
+Dos caminos independientes dan la misma suma. El **CAIN Archive** (Ulster University) lo detalla caso por caso con el tipo de proyectil. Y el **Committee on the Administration of Justice**, en su informe de 1998, escribe *«responsible for the deaths of 14 people, seven of whom were children»* para las balas de plástico y *«the rubber bullet, first used in 1970, which resulted in three deaths»*: 14 + 3 = 17 y 7 + 1 = 8.
+
+> ✅ **Añadido el 26 de agosto de 2026.** La wiki daba «16 muertos, 9 niños» sin fuente en [[nicola-celebracion-mundial]] y en la cronología. Los dos números eran incorrectos.
+
+### Fuentes
+- **CAIN Archive**, Ulster University — listado nominal con tipo de proyectil: <https://cain.ulster.ac.uk/>
+- **Committee on the Administration of Justice**, informe de 1998 sobre balas de plástico.
+- **Pat Finucane Centre** — campaña por el recuento y la memoria de las víctimas.

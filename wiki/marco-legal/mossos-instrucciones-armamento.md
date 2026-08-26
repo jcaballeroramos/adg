@@ -25,12 +25,21 @@ Punto crítico del texto:
 
 > La redacción es **peligrosamente ambigua**: «**percepción** de riesgo» y **«nivel medio»** son conceptos subjetivos sin definición operacional clara. No hay un baremo objetivo. Queda al arbitrio del agente.
 
-### 2. Instrucció 11/2014 — Modificación
-**30 de abril de 2014**. Tras la **prohibición de las balas de goma** por el Parlament (abril 2014), modifica la Instrucción 16/2013 para sustituir las **pelotas de goma** por los **proyectiles de foam SIR-X**.
+### 2. Instrucció 11/2014 — Retirada de la goma y entrada del LRAD
+**30 de abril de 2014**, firmada por Manel Prat i Pelaez, director general de la Policia. Hace exactamente dos cosas:
+
+1. **Deroga la autorización del uso de pilotes de cautxú o de goma** del punto 3.7 de la Instrucció 16/2013 y de su anexo, así como su regulación en normas de rango inferior, *«en especial en el PNT217/03/11 d'actuació policial en concentracions i manifestacions»*.
+2. **Incorpora un punto nuevo, el 3.10**, sobre el **dispositiu acústic de llarg abast (LRAD)**.
+
+> ✅ **Corregido el 26 de agosto de 2026.** El texto de la Instrucció 11/2014 **no menciona en ningún momento el foam ni el SIR-X**. Esta ficha decía que sustituía las pelotas de goma por los proyectiles de foam: la introducción del foam es un hecho posterior, documentado por otra vía (el *Protocol d'utilització de les llançadores de 40 mm i dels seus projectils*, de 16 de julio de 2019, revisado el 27 de octubre de 2023), y no por esta instrucción. El acto del Parlament que está detrás es además la **Resolució 476/X, de 18 de diciembre de 2013**, con efectividad fijada para el 30 de abril de 2014.
 
 URL: https://mossos.gencat.cat/web/.content/home/01_els_mossos_desquadra/eines_policials/doc/Instruccio-11_2014-de-30-dabril-de-modificacio-de-la-16_2013-sobre-lus-darmes-i-eines-PG-ME.pdf
 
-**Problema clave**: el texto **no incorpora** las indicaciones del fabricante del SIR-X (distancia mínima, zonas del cuerpo prohibidas). Ver [[../casos/espana-europa/africa-pablo-hasel]] y [[../casos/espana-europa/roger-garcia-foam-2019]] para los casos que derivan de esta omisión.
+**Problema clave**, que es de la regulación del foam y no de esta instrucción: el **Procediment Intern de Treball núm. 22** fijaba para el SIR-X una distancia mínima de **20 metros**, por debajo de la que el propio Departament d'Interior atribuye al fabricante, **25 metros**, y por debajo de los **30 metros** del informe de test TR-16973.02 de B&T que cita Irídia. El mínimo no sube a 30 metros hasta la **revisión del protocolo de 27 de octubre de 2023**, que lo fundamenta además en un dictamen pericial de la Fundació d'Investigació Omega y no en el fabricante. Ver [[../casos/espana-europa/africa-pablo-hasel]] y [[../casos/espana-europa/roger-garcia-foam-2019]].
+
+El fabricante del SIR y del SIR-X es **[[../empresas-de-armas/empresas/brugger-thomet|B&T AG]]** (Thun, Suiza), el mismo de la lanzadora BT-GL06. **SIR** significa *Safe Impact Round*.
+
+<https://mossos.gencat.cat/web/.content/home/01_els_mossos_desquadra/eines_policials/doc/Protocol-dutilitzacio-de-les-llancadores-de-40-mm-i-dels-seus-projectils_16_07_2019-Revisio_27_10_2023-1.pdf>
 
 ### 3. Instrucció 4/2018 — Dispositivos conductores de energía (TASER)
 **20 de abril de 2018**. Regula el uso del **Taser** por parte de los Mossos d'Esquadra tras su autorización oficial.

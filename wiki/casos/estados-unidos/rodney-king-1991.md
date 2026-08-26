@@ -33,7 +33,9 @@ Holliday entrega la cinta a **KTLA Channel 5**. Esa noche se emite. **Al día si
 **29 de abril de 1992** — un jurado del **condado de Ventura** (en su mayoría blanco) **absuelve a los cuatro agentes** pese al vídeo.
 
 La absolución desata los **disturbios de Los Ángeles de 1992** — los más graves de la historia urbana de EE.UU. desde los años 60:
-- **63 muertos**.
+- **63 fallecimientos investigados, 54 vinculados a los disturbios.**
+
+  > ✅ **Corregido el 26 de agosto de 2026.** El 63 no es un recuento de muertos: es el número de **fichas** de la base de datos caso por caso de *Los Angeles Times* («Deaths during the L.A. riots», 25 de abril de 2012), y el propio periódico clasifica **9 de esas 63 como «Not riot-related»**. Desglose por estatus: 36 «Homicide», 10 «Officer involved shooting», 8 «Death» (muertes ligadas a los disturbios sin ser homicidios) y 9 descartadas. Coincide con su propia cabecera: *«Ten were shot to death by law enforcement officials. An additional 44 people died in other homicides or incidents tied to the rioting»* (10 + 44 = 54). *Public Health Reports*, del Departamento de Salud del Condado de Los Ángeles (1993), da **53 muertes y 2.325 heridos**. **«63 muertos» a secas no es defendible**; si se usa el 63, decir «63 fallecidos investigados, 54 de ellos vinculados a los disturbios según la revisión caso por caso de Los Angeles Times».
 - **+2.000 heridos**.
 - **+12.000 detenidos**.
 - **+1.000 millones $** en daños.

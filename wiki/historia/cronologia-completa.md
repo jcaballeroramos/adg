@@ -126,7 +126,9 @@ Se crea el **bastón extensible ASP**, forma moderna de la porra.
 **Servicio postal estadounidense** desarrolla el **OC** (gas pimienta) para **proteger a carteros de perros**. En los 80 lo adoptan las policías.
 
 ### Años 80 — Parlamento Europeo
-Tras **7 muertos entre 1981-82** (5 menores de 15 años) y al menos **181 heridos** por balas de plástico, se aprueban **4 resoluciones** a favor de su prohibición.
+Tras las muertes por balas de plástico y al menos **181 heridos**, se aprueban **4 resoluciones** a favor de su prohibición.
+
+> ✅ **Corregido el 26 de agosto de 2026.** El informe del Committee on the Administration of Justice de 1998 dice: *«In 1981 alone, seven people died as a result of plastic bullets - four were adults and three were children.»* Son **siete muertos en 1981, tres de ellos menores**, no «7 entre 1981-82, 5 menores de 15 años». El mismo informe documenta **16.656 balas de plástico disparadas solo en mayo de 1981**. Las cuatro resoluciones del Parlamento Europeo siguen **sin signatura anotada**: hay que localizarlas antes de citarlas.
 
 ### 1987-1993 — Primera Intifada
 Diciembre de 1987 a 1993, hasta los Acuerdos de Oslo. **58 palestinos** muertos por balas de goma del ejército israelí **entre 1988 y 1998**, que es la ventana de la serie estadística y no la del levantamiento. **Otoño de 2000**: Amnistía concluye que las balas causaron **50 palestinos muertos más** en un año.
@@ -148,7 +150,13 @@ El FBI usa gas en la casa de los davidianos. Incendio. **76 muertos, 20 niños**
 Se introduce la **Flash-Ball** de [[../empresas-de-armas/empresas/verney-carron|Verney-Carron]] para unidades antiterroristas. **"Para situaciones extremas."**
 
 ### Años 90 — La explosión industrial
-De **13 empresas en 5 países** (años 70) a **370 empresas en 40 países** (finales 90s).
+De **13 empresas en 5 países** (1978) a **más de 369 fabricantes, proveedores y distribuidores en unos 40 países** (hacia 1999).
+
+> ✅ **Corregido el 26 de agosto de 2026.** La cifra procede del estudio final del STOA *Crowd Control Technologies*, PE 168.394/FinSt., Luxemburgo, junio de **2000** (no del informe de 1998), autor **OMEGA Foundation**, resumen ejecutivo p. xix: *«more than 369 major manufacturers, suppliers or distributers across 40 countries»* por 1999, frente a *«only 13 companies in 5 countries»* en 1978, de los cuales «only 2 of which, Israel and the USA, were non-European». Son **fabricantes, proveedores y distribuidores** rastreados en literatura de ferias, no empresas fabricantes, y es una **cota inferior abierta**: escribir «370» cerrado altera el dato. El informe anterior (PE 166 499, 1998) da una cifra distinta y mucho mayor, «some 856 companies across 47 countries», en recuento acumulativo.
+>
+> ⚠️ **No encadenar esta cifra con el «más de 200 en más de 60 países» de 2019**: cuentan cosas distintas. Ver [[../marco-legal/bibliografia/centre-delas-armas-letales]].
+
+<https://www.europarl.europa.eu/RegData/etudes/etudes/stoa/2000/168394/DG-4-STOA_ET(2000)168394_EN(PAR02).pdf>
 
 ### 1999 — Flash-Ball Super Pro
 Versión mejorada, aún **particularmente imprecisa**.

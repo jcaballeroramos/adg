@@ -14,7 +14,7 @@ tags: [iridia, organización, derechos-humanos, litigio-estratégico, catalunya,
 Centro catalán especializado en **defensa de derechos humanos**, con un enfoque marcado en el **litigio estratégico contra la violencia institucional**. Es una de las organizaciones que más ha empujado el debate público sobre el uso de armas menos letales en Catalunya.
 
 ## Voces referentes
-- **Anaïs Franquesa** — abogada, voz pública del centro en muchos de los casos más relevantes (Roger Español, África, etc.).
+- **Anaïs Franquesa** — abogada, voz pública del centro en muchos de los casos más relevantes (Roger Español, Áfrika, etc.).
 
 ## Áreas de trabajo
 - **Litigio estratégico** contra la tortura y los malos tratos por parte de agentes del Estado.

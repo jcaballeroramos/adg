@@ -54,7 +54,7 @@ Esta frase, citada por [[../../autores-y-referencias/paul-rocher/paul-rocher|Pau
 ## Casos documentados
 - **R.D. del Congo 2011** — Francia autoriza la exportación de Flash-Ball y munición Verney-Carron al Congo.
 - **Francia — chalecos amarillos**: los 19.071 disparos de LBD son del **año natural 2018** completo y corresponden al **GL-06 de B&T**, no a Verney-Carron. Ver [[brugger-thomet]].
-- **Roger Español, Ester Quintana, Carles Guillot** fueron heridos con **pelota de goma española** disparada con escopeta del calibre 12, arma y munición distintas del Flash-Ball y del LBD 40. **África** fue herida con un proyectil de foam **SIR-X de B&T**. Ninguno de estos casos se puede atribuir a Verney-Carron.
+- **Roger Español, Ester Quintana, Carles Guillot** fueron heridos con **pelota de goma española** disparada con escopeta del calibre 12, arma y munición distintas del Flash-Ball y del LBD 40. **Áfrika** fue herida con un proyectil de foam **SIR-X de B&T**. Ninguno de estos casos se puede atribuir a Verney-Carron.
 
 ## Conexiones
 - ↔ [[00-indice]]

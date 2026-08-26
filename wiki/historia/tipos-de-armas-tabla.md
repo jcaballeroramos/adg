@@ -12,7 +12,7 @@ Clasificación de las armas "menos letales" según su **tecnología principal**,
 
 | Categoría | Tecnología | Fabricantes principales | Casos documentados | Estado legal (ONU 2020) |
 |---|---|---|---|---|
-| Kinetic / impacto | Balas de goma, foam, LBD40, cañón de agua, porra | Verney-Carron · Brügger & Thomet · MAXAM · Combined Systems · Condor · Sides · ALS | Roger Español, Ester Quintana, Carles Guillot, Iñigo Cabacas, África, Olga, Fabiola, Tarajal, Melilla, Rufo Chacón | **Categoría B** (controlada), prohibido disparar cabeza/cuello, prohibidos múltiples proyectiles |
+| Kinetic / impacto | Balas de goma, foam, LBD40, cañón de agua, porra | Verney-Carron · Brügger & Thomet · MAXAM · Combined Systems · Condor · Sides · ALS | Roger Español, Ester Quintana, Carles Guillot, Iñigo Cabacas, Áfrika, Olga, Fabiola, Tarajal, Melilla, Rufo Chacón | **Categoría B** (controlada), prohibido disparar cabeza/cuello, prohibidos múltiples proyectiles |
 | Química | CS, CN, OC, PAVA, Skunk | Alsetex · Nobel Sport · Falken · CTS · NLT · Safariland · Defense Technology | Juan Pablo Pernalete, Fabiola Campillai, Steve Caniço, Chalecos Amarillos, Dubrovka 2002 | **Categoría B**, prohibido disparar al cuerpo o en recintos cerrados |
 | Eléctrica | Taser X26, Taser 7/10 | Axon Enterprise | Antonio C. Badalona, Rodney King, Patrulla Fronteriza EE.UU. | **Categoría A** parcial (contactos directos/drive-stun = tortura). Taser a distancia = B |
 | Acústica | LRAD, Mosquito, GLI-F4 (híbrida) | Genasys (LRAD) · Vimad (distribuidor) · Alsetex (GLI-F4) | G20 Pittsburgh 2009, Bélgrado 2025, Rémi Fraisse | **Categoría B**, prohibido uso con daño auditivo permanente |

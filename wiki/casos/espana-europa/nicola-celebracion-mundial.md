@@ -61,7 +61,8 @@ El colectivo tiene como principios:
 - La clave de su testimonio: **deshumanización del protestante**. *"Son vándalos, son malos, tú eres el culpable. Tú te has situado en la trayectoria de la bala."*
 - El patrón mundial: **"Estas armas se fabrican en el norte y se prueban en el sur global"**.
   - 1967: Hong Kong — balas de madera
-  - 1970s: Irlanda — 16 muertos, 9 niños
+  - 1970s-80s: Irlanda del Norte — **17 muertos, 8 de ellos menores**
+    > ✅ Corregido el 26 de agosto de 2026: la wiki decía «16 muertos, 9 niños» y los dos números estaban mal. Ver [[stephen-geddis]].
   - 1976: Sudáfrica (apartheid)
   - Hasta 2000: 23 muertos en España
 - **Sanidad pública**: operado 5 o 6 veces sin coste personal — patrón que contrasta con los casos italianos/chilenos donde los mutilados se endeudan.
