@@ -34,7 +34,9 @@ Este es el proceso que los historiadores okinawenses llaman **«las armas del ca
 ### Uso policial moderno
 - **1829** — **Robert Peel**, fundador de la **Metropolitan Police** de Londres, institucionalizó los **bastones rígidos de madera** (*truncheons*) como **«extensión física del Estado»** para sus agentes. La elección fue deliberadamente **civil**: Peel quería una policía **desarmada** en comparación con el ejército, y la porra era el compromiso estético.
 - **Años 1860-1900** — los **bobbies** londinenses portaban *wooden truncheons* pintadas con la **insignia real** y el **número de agente**. Se convierten en **símbolo cultural** del orden victoriano.
-- **1958** — **Lon Anderson**, exmarine estadounidense, inventa la **PR-24 (Prosecutor Restraint 24-inch)** inspirándose explícitamente en la **tonfa tradicional**. El añade el **mango lateral** que caracteriza a la tonfa okinawense y que permite técnicas de bloqueo, golpe rotatorio y retención. Monadnock Lifetime Products patenta y comercializa la PR-24 a **miles de departamentos de policía** de EE.UU.
+- **Datación pendiente** — **Lon Anderson**, exmarine estadounidense, inventa la **PR-24 (Prosecutor Restraint 24-inch)** inspirándose explícitamente en la **tonfa tradicional**. Añade el **mango lateral** que caracteriza a la tonfa okinawense y que permite técnicas de bloqueo, golpe rotatorio y retención. Monadnock Lifetime Products la comercializa a miles de departamentos de policía de EE.UU.
+
+  > ⚠️ **La fecha de 1958 se retira (26 de agosto de 2026).** El portfolio completo de Monadnock Lifetime Products en Google Patents son quince patentes, y la más antigua tiene prioridad de **13 de febrero de 1976** (CA1079320A, *Police type baton*, inventor Paul D. Starrett). No hay ninguna de 1958 ni de 1971, y esa de 1976 describe un bastón recto con un anillo, no uno de mango lateral. La datación habitual de 1971 tampoco se ha podido documentar con fuente primaria.
 
 > **Nota** (años 60): irónico — el mismo movimiento que convierte la tonfa en arte marcial "antiguo" (el Kobudō moderno) permite su rediseño como porra policial.
 - **Años 80-2000s** — la PR-24 se convierte en **estándar de facto** para academias policiales estadounidenses, adoptada también por la **Policía Nacional de España**, **Carabineros de Chile**, la **Policía Militar de São Paulo**, y muchos cuerpos policiales europeos y latinoamericanos.
@@ -60,4 +62,4 @@ A pesar de esta distinción, en la práctica:
 - ↔ [[../marco-legal/onu-relatora-tortura]] — bastones con púas como tortura.
 - ↔ [[../casos/espana-europa/juan-andres-benitez]] — muerte por porras de los Mossos (Raval 2013).
 - ↔ [[../autores-y-referencias/sven-lindqvist]] — la genealogía colonial.
-- ↔ [[cronologia-completa]] — 1609, 1829, 1958, PR-24.
+- ↔ [[cronologia-completa]] — 1609, 1829, PR-24.

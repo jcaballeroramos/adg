@@ -43,8 +43,10 @@ Reino Unido rocía con gas a los **insurgentes afganos** y los **revolucionarios
 ### 13 abril 1919 — Masacre de Amritsar
 Ejército británico mata a **379 indios**. La administración colonial esgrime el argumento del gas lacrimógeno: **"habría evitado la masacre"**. Presión para autorizar el gas en las colonias.
 
-### 1920 — Agente CS desarrollado
-El cuerpo militar de EE.UU. desarrolla el agente **CS**, que reemplazaría al **CN** en los años 50.
+### 1928 — Síntesis del agente CS
+**Ben Corson** y **Roger Stoughton** sintetizan el **o-clorobencilideno malononitrilo** en el **Middlebury College** (Vermont), en contexto académico. De sus iniciales viene el nombre, **C-S**. Su desarrollo como agente antidisturbios es posterior y **británico**, en Porton Down, durante los años cincuenta y sesenta, y de ahí pasa a reemplazar al CN.
+
+> ✅ **Corregido el 26 de agosto de 2026.** Esta entrada decía «1920 — el cuerpo militar de EE.UU. desarrolla el agente CS». Ni la fecha ni el autor eran correctos. Ver [[../autores-y-referencias/figuras-historicas/00-trio-quimico]].
 
 ### 1925 — Protocolo de Ginebra
 Prohibición del gas lacrimógeno **en conflictos armados**. Ese mismo año, Reino Unido lo usa contra insurgentes en las colonias. La **doble vara** queda establecida.
@@ -73,8 +75,10 @@ Informe final de la comisión de investigación, con análisis de la **American 
 
 ## 1945-1990 — Guerra Fría y descolonización
 
-### 1958 — PR-24
-Un exmarine estadounidense inventa la **porra policial PR-24**, inspirada en la **tonfa japonesa**. Sigue siendo el estándar actual.
+### PR-24 — datación pendiente
+La **porra policial PR-24** de mango lateral, inspirada en la **tonfa okinawense**, sigue siendo el estándar actual.
+
+> ⚠️ **La datación de 1958 no se sostiene (26 de agosto de 2026).** La búsqueda por cesionario en Google Patents devuelve el portfolio completo de **Monadnock Lifetime Products**: quince resultados, y la patente más antigua tiene prioridad de **13 de febrero de 1976** (CA1079320A, *Police type baton*, inventor Paul D. Starrett, prioridad estadounidense US 657.744). No hay ninguna patente de Monadnock anterior a 1976, ni de 1958 ni de 1971. Esa patente de 1976 describe además un bastón **recto con un anillo**, no un bastón de mango lateral; todo el portfolio posterior es de bastones extensibles, y lo único de mango lateral es un diseño de **funda** (USD386612S, 1996). La datación habitual de 1971 tampoco se ha podido documentar con fuente primaria. No usar ninguna fecha en pantalla hasta cerrarla.
 
 ### Años 50s-60s — Gas CS a gran escala
 **Gas CS** probado por primera vez en **Chipre** por los británicos. Más potente que el CN.
@@ -124,8 +128,10 @@ Se crea el **bastón extensible ASP**, forma moderna de la porra.
 ### Años 80 — Parlamento Europeo
 Tras **7 muertos entre 1981-82** (5 menores de 15 años) y al menos **181 heridos** por balas de plástico, se aprueban **4 resoluciones** a favor de su prohibición.
 
-### 1988-1998 — Primera Intifada
-**58 palestinos** muertos por balas de goma del ejército israelí en 10 años. **Otoño 2000**: Amnistía concluye que las balas causaron **50 palestinos muertos más** en un año.
+### 1987-1993 — Primera Intifada
+Diciembre de 1987 a 1993, hasta los Acuerdos de Oslo. **58 palestinos** muertos por balas de goma del ejército israelí **entre 1988 y 1998**, que es la ventana de la serie estadística y no la del levantamiento. **Otoño de 2000**: Amnistía concluye que las balas causaron **50 palestinos muertos más** en un año.
+
+> ⚠️ **Corregido el 26 de agosto de 2026.** La **Primera Intifada es de diciembre de 1987 a 1993** (Acuerdos de Oslo). «1988-1998» es la ventana de la serie estadística de los 58 muertos, no la duración del levantamiento, y en la wiki se había convertido por error en el periodo histórico. La cifra de 58 sigue **sin fuente anotada**: hay que atribuirla antes de llevarla a pantalla.
 
 ## Años 90 — El salto neoliberal
 

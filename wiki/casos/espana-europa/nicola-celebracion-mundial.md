@@ -50,7 +50,8 @@ El colectivo tiene como principios:
 ## Logros
 
 - Consiguieron **eliminar un proyectil de goma** coincidiendo con el asesinato de **Juan Andrés Benítez**. La presión política logró que el Estado retirara ese proyectil específico.
-- Han contactado con organizaciones internacionales: **MOCAO** (Colombia, 150 mutilados en un mes), **Coordinadora de Traumas Oculares de Chile** (500 personas, algunas suicidadas).
+- Han contactado con organizaciones internacionales: **MOCAO** (Colombia, «Movimiento en Resistencia contra las Agresiones Oculares del ESMAD»), **Coordinadora de Traumas Oculares de Chile**.
+  > ✅ Corregido el 26 de agosto de 2026. Los «150 mutilados en un mes» no existen: MOCAO nunca ha publicado esa cifra. Sus dos cifras propias son 116 lesiones oculares (28 abr - 31 dic 2021) y 169 desde la creación del ESMAD en 1999 hasta junio de 2022. Ver [[../latam/colombia-2021]].
 - Organizaron el **encuentro de Bogotá** (2024): 60 personas mutiladas de Bolivia, Argentina, Chile, España, Colombia y Bangladesh.
 - Intentos de contactar con franceses (chalecos amarillos, Soulèvements de la Terre) sin éxito por ahora.
 
@@ -100,6 +101,6 @@ El colectivo tiene como principios:
 - ↔ [[inigo-cabacas]] — acompañamiento a la familia
 - ↔ [[lince-bolonia-italia-2024]] — caso italiano paralelo
 - ↔ [[../latam/fabiola-campillai]] — Chile, Coordinadora de Traumas Oculares
-- ↔ [[../latam/colombia-2021]] — MOCAO, 150 mutilados
+- ↔ [[../latam/colombia-2021]] — MOCAO y las cifras del Paro Nacional
 - ↔ [[../../historia/balas-goma]] — genealogía colonial del arma
 - ↔ [[../../empresas-de-armas/empresas/condor]] — Cóndor hacía armas a medida

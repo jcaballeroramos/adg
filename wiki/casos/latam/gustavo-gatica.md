@@ -27,7 +27,7 @@ tags: [gustavo-gatica, chile, estallido-2019, perdigones, carabineros, claudio-c
 
 Durante el [[chile-estallido-2019|estallido social]], Gustavo Gatica recibió **dos disparos de perdigones en el rostro** que le reventaron ambos ojos en Plaza Italia (rebautizada Plaza Dignidad por el movimiento). La foto de Gatica sentado en la acera tras quedar ciego (8 nov 2019, fotógrafo Osvaldo Pereira) se convirtió en **imagen mundial** del estallido.
 
-Junto a [[fabiola-campillai|Fabiola Campillai]] —cegada dieciocho días después—, Gatica es **una de las dos víctimas oculares emblemáticas** del estallido chileno, en el que el INDH documentó **+460 personas con trauma ocular**.
+Junto a [[fabiola-campillai|Fabiola Campillai]] —cegada dieciocho días después—, Gatica es **una de las dos víctimas oculares emblemáticas** del estallido chileno, en el que el INDH documentó **460 personas con lesiones oculares**, 35 de ellas con estallido o pérdida del ojo (datos ingresados hasta el 13 de marzo de 2020). <https://www.indh.cl/bb/wp-content/uploads/2020/04/Reporte-INDH-19-de-marzo-de-2020.pdf>
 
 ## Proceso judicial
 
@@ -48,7 +48,7 @@ El capitán de Fuerzas Especiales de Carabineros **Claudio Crespo** fue identifi
 
 ## Conexiones
 
-- ↔ [[chile-estallido-2019]] — el contexto: +460 traumas oculares.
+- ↔ [[chile-estallido-2019]] — el contexto y la serie completa del INDH con sus cortes: 460 lesiones oculares al 13 de marzo de 2020.
 - ↔ [[fabiola-campillai]] — la otra víctima ocular emblemática del estallido (cegada 26 nov 2019).
 - ↔ [[../espana-europa/roger-espanol]] — agente identificado y juzgado, mismo patrón judicial.
 - ↔ [[colombia-2021]] · [[../internacionales/iran-mahsa-amini-2022]] — la ola global de violencia ocular.

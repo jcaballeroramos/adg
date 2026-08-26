@@ -21,8 +21,11 @@ El conflicto en **Palestina** es el escenario histórico más prolongado del uso
 
 ## Datos históricos (1988-2024)
 
-### Primera Intifada (1988-1998)
-- **58 palestinos muertos** por balas de goma del ejército israelí **en 10 años**.
+### Primera Intifada (diciembre 1987 – 1993)
+- **58 palestinos muertos** por balas de goma del ejército israelí **entre 1988 y 1998**, en una serie de diez años que desborda la duración del levantamiento.
+
+> ⚠️ **Corregido el 26 de agosto de 2026.** La **Primera Intifada es de diciembre de 1987 a 1993** (Acuerdos de Oslo). «1988-1998» es la ventana de la serie estadística de los 58 muertos, no la duración del levantamiento, y en la wiki se había convertido por error en el periodo histórico. La cifra de 58 sigue **sin fuente anotada**: hay que atribuirla antes de llevarla a pantalla.
+
 - **Al menos 28 niños + 30 adultos** entre las víctimas mortales.
 
 ### Otoño 2000 (Segunda Intifada)

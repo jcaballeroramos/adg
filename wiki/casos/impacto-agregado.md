@@ -34,7 +34,19 @@ Página-**dashboard** con las cifras más importantes del daño producido por la
 
 → Fuente única para el Estado español: **[[espana-europa/compilacion-espana|Compilación España — cifras agregadas]]**. Este dashboard solo mantiene la cifra de muertes:
 
-- **~77 muertes** documentadas por armas menos letales en España desde 1978 (24 por balas de goma + Tarajal 2014 + Melilla 2022 + Iñigo Cabacas + Antonio C. Badalona). El desglose completo, los heridos, los ojos perdidos, la geografía y el reparto por cuerpo policial están en *compilacion-espana*.
+> ✅ **Los ~77 se retiran (26 de agosto de 2026): eran doble contabilidad.** La fórmula que los generaba («24 por balas de goma + Tarajal 2014 + Melilla 2022 + Iñigo Cabacas + Antonio C. Badalona») suma dos veces entre 15 y 16 muertes, porque los 24 de El Salto **ya incluyen** a Cabacas y **ya incluyen** el Tarajal, ambos nominalmente en su cronología. La fecha de inicio «1978» también era incorrecta: la primera muerte documentada es Juan Gabriel Rodrigo Knafo, Tarragona, 5 de marzo de **1976**. Ninguna fuente sostiene 77.
+
+**No hay una cifra total defendible**, y no por falta de trabajo. Cada censo usa una definición y una ventana distintas, y casi todos beben del mismo sitio: la nota al pie 1 del informe de Irídia remite al artículo de El Salto, que a su vez se apoya en el informe de Stop Bales de Goma de 2013. Lo que sí se puede llevar a pantalla, cada cosa con su fuente:
+
+- **Al menos 8 muertes por bala de goma entre 1976 y 2000**, con nombre y apellidos (Stop Bales de Goma, *Informe 2013*; Irídia/Novact 2021, p. 76 y nota 163).
+- **Iñigo Cabacas**, Bilbao, abril de 2012, con la única condena conocida en España por bala de goma.
+- **El Tarajal**, 6 de febrero de 2014: al menos 14 muertos, 15 según el recuento oficial y judicial.
+- **Melilla**, 24 de junio de 2022, **aparte**: ninguna fuente del expediente adscribe esas muertes al material antidisturbios en el sentido en que lo hace el resto de la serie.
+- **Antonio C.**, Badalona, noviembre de 2021, primera muerte por taser en Catalunya.
+
+Y el dato que es en sí mismo el hallazgo: **el Estado español no lleva ningún registro**. El propio informe de Irídia lo dice, *«el Estado español no dispone de registros oficiales que den cuenta de la totalidad de personas muertas o heridas a causa de las balas de goma»*, y en el lado parlamentario lo que hay no es un recuento sino la negación de que exista, en las respuestas del Gobierno a Jon Iñarritu.
+
+El desglose completo, los heridos, los ojos perdidos, la geografía y el reparto por cuerpo policial están en *compilacion-espana*; los nombres, en [[espana-europa/stop-bales-listado-historico]].
 
 ## 🇫🇷 Francia (David Dufresne, chalecos amarillos)
 - **+800 denuncias** contabilizadas.
@@ -43,24 +55,44 @@ Página-**dashboard** con las cifras más importantes del daño producido por la
 - **5 personas** que perdieron una mano.
 - **+300 personas** con heridas en la cabeza.
 
-### Chalecos amarillos + reforma pensiones (1,5 años, street medics)
-- **+24.000 personas** heridas por la policía.
-- **Varios cientos** de lesiones severas.
-- **+300.000 personas afectadas por gas lacrimógeno**.
-- **Dato oficial del gobierno** en el mismo periodo: ~2.000 heridos. **Discrepancia: 150×**.
+### Chalecos amarillos + reforma de pensiones (17 nov 2018 – 14 mar 2020, Observatoire des Street-médics)
+- **27.800 personas heridas en total** (±3.360), de las cuales **24.300** (±4.200) atribuibles a maniobras, armas y violencias de las fuerzas del orden.
+- **3.090 personas** (±100) que necesitaron evacuación hospitalaria o atención de socorristas profesionales.
+- **311.000 personas afectadas por gases lacrimógenos** (±47.200).
+- Solo para el periodo de los chalecos amarillos (17 nov 2018 – 14 oct 2019): 25.700 víctimas (±3.200) y 275.000 afectadas por gas (±44.400).
+- **Cifra oficial: 2.495 heridos.** Es el recuento del COGIC transmitido por el Ministerio del Interior, y **solo cuenta a quien atendieron los bomberos**: *«ce chiffre du COGIC ne comptabilisant en réalité que les personnes prises en charge par les sapeurs-pompiers»*. **Discrepancia real: unas 10 veces** (24.300 / 2.495 ≈ 9,7).
 
-### Disparos en los primeros 6 meses de los chalecos amarillos
-- **19.071 disparos de LBD40**.
-- **5.420 disparos de granada de dispersión**.
-- **1.428 disparos de GLI-F4**.
+> ✅ **Corregido el 26 de agosto de 2026.** El «335.300» que traía esta ficha era **24.300 + 311.000**, es decir, heridos más personas gaseadas, que el informe presenta por separado y que son categorías distintas. La cifra oficial es 2.495, no ~2.000. Y la ratio era de 10 veces, no de 150. El «24.000 / 300.000» de Rocher es un redondeo de las mismas cifras del Observatoire, no un recuento distinto.
+
+### Disparos de LBD por año (IGPN y datos del Ministerio del Interior al Sénat)
+
+| Año | Police nationale | Gendarmerie mobile |
+|---|---|---|
+| 2014 | 3.814 | 7 |
+| 2015 | 4.915 | 18 |
+| 2016 | 6.604 | 15 |
+| 2017 | 6.543 | 48 |
+| **2018** | **19.071** | 983 |
+| 2019 | 10.785 (−43%) | — |
+| 2020 | 7.275 | — |
+
+> ✅ **Corregido: los 19.071 son el AÑO NATURAL 2018 completo, no los primeros seis meses del movimiento.** Informe anual de la IGPN 2018, p. 29: 4.005 declaraciones de empleo para 19.071 municiones, un +200% respecto a 2017, y el propio informe atribuye el alza a *«las manifestaciones o violencias urbanas ligadas al movimiento de los "gilets jaunes" y de los "lycéens", durante el periodo del 17 de noviembre al 31 de diciembre de 2018»*. El movimiento empezó el 17 de noviembre de 2018, de modo que seis meses de movimiento llegan hasta mayo de 2019 y no coinciden con el año 2018. La cifra para el arranque es otra: **13.460 disparos** de la Police nationale entre el 17 de noviembre de 2018 y el 5 de febrero de 2019, más «un millar» estimado por la IGGN para la gendarmería móvil.
+>
+> Control aritmético que valida la serie: la IGPN 2020 escribe *«96 blessés pour 37.131 tirs»* sobre los tres últimos años, y 19.071 + 10.785 + 7.275 = 37.131 exactos.
+
+Los **18.805** que aparecen en [[../marco-legal/bibliografia/centre-delas-armas-letales]] no contradicen nada: son las municiones de LBD disparadas entre el **17 de noviembre de 2018 y el 31 de diciembre de 2019**, según el informe del Observatoire des Street-médics, junto con **6.735 granadas de désencerclement** del mismo periodo. La aritmética cierra: 18.805 − 10.785 (año 2019 completo) = 8.020 para el tramo 17-nov a 31-dic de 2018.
+
+- **5.420 disparos de granada de dispersión** y **1.428 de GLI-F4** en los primeros seis meses del movimiento. ⚠️ **Sin fuente anotada.** Ver AUDITORIA-datos-sin-fuente.md.
 
 ### Evolución (2009 → 2018)
-- **+480×** más disparos de LBD40 que en 2019.
-- **+50×** más granadas GMD que en 2009.
-- **+500%** uso de Tasers entre 2010 y 2017.
+- **×480 más disparos de LBD entre 2009 y 2018.** Es un **multiplicador**, no un porcentaje, y no compara con el año anterior. Paul Rocher: *«entre 2009 et 2018, les tirs de LBD ont été multipliés par 480, passant de 40 à 19 000»*. El aumento de 2017 a 2018 fue del **+200%** según la IGPN.
+  > ⚠️ Los 40 disparos de 2009 no se han podido verificar. Rocher los atribuye genéricamente a «les chiffres du ministère de l'Intérieur» sin referencia; el Défenseur des droits escribió en 2017 que *«aucune donnée officielle ne nous renseigne sur le nombre de fois où cette arme est utilisée»*, y el fichero TSUA, único registro sistemático, arranca en enero de 2012. En 2009 el LBD 40 acababa de introducirse y lo que se usaba masivamente era el Flash-Ball, de manera que el ×480 mide sobre todo la sustitución de un arma por otra. Citar atribuido a Rocher, nunca como dato oficial.
+- **+50×** más granadas GMD que en 2009. ⚠️ Sin fuente anotada.
+- **+500%** uso de Tasers entre 2010 y 2017. ⚠️ Sin fuente anotada.
 
-## 🇮🇱 Palestina (Primera Intifada 1988-1998 + después)
-- **58 palestinos muertos** por balas de goma del ejército israelí (1988-1998).
+## 🇮🇱 Palestina
+- **Primera Intifada: diciembre de 1987 – 1993** (Acuerdos de Oslo). El «1988-1998» que traía esta ficha **no es la duración del levantamiento**: es la ventana de una serie estadística que se convirtió por error en el periodo histórico.
+- **58 palestinos muertos** por balas de goma del ejército israelí **entre 1988 y 1998**. ⚠️ Cifra sin fuente anotada en la wiki: hay que atribuirla (probablemente B'Tselem, vía Rocher) antes de usarla.
 - **+50 palestinos muertos** por balas de goma en el otoño de 2000 (observadores de Amnistía).
 - **Al menos 28 niños + 30 adultos** palestinos muertos por balas de goma del ejército israelí entre 1988 y 1998.
 
@@ -70,14 +102,14 @@ Página-**dashboard** con las cifras más importantes del daño producido por la
 - **160 personas fallecidas solo en 2017**.
 
 ## 🇨🇱 Chile (estallido social, octubre 2019)
-- **+460 personas con lesiones oculares documentadas** (INDH).
+- **460 personas con lesiones oculares**, 35 de ellas con estallido o pérdida del ojo (INDH, datos ingresados hasta el 13 de marzo de 2020). Cifra cerrada: escribir «460», no «+460». <https://www.indh.cl/bb/wp-content/uploads/2020/04/Reporte-INDH-19-de-marzo-de-2020.pdf>
 - [[latam/fabiola-campillai|Fabiola Campillai]] — ceguera total + pérdida olfato y gusto.
 - **Una de las mayores crisis de derechos humanos** del Cono Sur en el siglo XXI.
 
 ## 🇨🇴 Colombia (Paro Nacional 2021)
-- **+146 heridos** solo en Popayán.
+- **146 heridos en el departamento del Cauca** (Misión de Solidaridad Internacional y DDHH, junio de 2021; es un recorrido por el departamento, no una cifra de Popayán ciudad, y sigue con fuente única).
 - **1 muerto**.
-- **103+ lesiones oculares a nivel nacional (11 en Popayán)**.
+- **Al menos 103 personas con lesiones oculares a nivel nacional** (Temblores ONG / plataforma GRITA, 28 abr - 20 jul 2021), 14 con pérdida del ojo y 14 con pérdida total de la visión. Los «11» eran investigaciones disciplinarias de la CIDH en todo el país, no lesiones en Popayán.
 - **40 lesiones por impactos** de munición menos letal.
 - **Denuncias de violencia sexual** por agentes del ESMAD (suicidio de Alison Salazar).
 

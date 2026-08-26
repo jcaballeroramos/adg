@@ -169,7 +169,7 @@ El juicio concluye exactamente en el **noveno aniversario del referéndum**.
 - En contacto con **Human Rights Watch** y **Amnistía Internacional** para impulsar una **campaña por la prohibición estatal** de las balas de goma. Las balas de goma están prohibidas en Catalunya desde 2014 (decisión del Parlament tras el caso Ester Quintana) y en Euskadi desde la muerte de **Iñigo Cabacas** (2012). Siguen activas en el resto del Estado.
 - Comparece en el **Congreso de los Diputados** junto a Ester Quintana y Carles Guillot reclamando la prohibición.
 - Apoyo continuado a Stop Bales de Goma.
-- Coro internacional: contactos con **MOCAO** (Colombia, 150 mutilados en un mes durante el Paro Nacional 2021), **Coordinadora de Traumas Oculares de Chile** (500 personas), **encuentro de Bogotá 2024** (60 mutiladas de Bolivia, Argentina, Chile, España, Colombia y Bangladesh), **Bangladesh** (1.500 mutilados identificados).
+- Coro internacional: contactos con **MOCAO** (Colombia, «Movimiento en Resistencia contra las Agresiones Oculares del ESMAD»; los «150 mutilados en un mes» que circulaban no son suyos, ver [[../latam/colombia-2021]]), **Coordinadora de Traumas Oculares de Chile** (500 personas), **encuentro de Bogotá 2024** (60 mutiladas de Bolivia, Argentina, Chile, España, Colombia y Bangladesh), **Bangladesh** (1.500 mutilados identificados).
 
 > *"Quiero ser el último herido por bala de goma en el Estado español y Catalunya."* — rueda de prensa noviembre 2017
 
