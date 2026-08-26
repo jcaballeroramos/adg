@@ -28,7 +28,10 @@ Oftalmóloga especializada en el **campo de la órbita**, la reconstrucción de 
 - Caucho macizo.
 - **85 g** de peso.
 - **54 mm (≈5 cm)** de diámetro.
-- Velocidad: **720 km/h**.
+- Velocidad: **720 km/h**, según su comparecencia.
+
+> ⚠️ **Los 720 km/h no están verificados (26 de agosto de 2026).** La cifra procede de la cadena Gisbert (Diagonal, 2012) y La Marea (2013), sin documento. El catálogo del fabricante del cartucho da **60 m/s**, y las mediciones de baton rounds británicos del informe de Omega para la Northern Ireland Human Rights Commission (2003) van de 60,5 a 74 m/s: 200 m/s queda fuera de todo el rango conocido de proyectiles de impacto cinético. Con 85 g, 200 m/s darían ~1.700 J, incompatible con los 144 J documentados por Irídia. El **peso (80-85 g) y el diámetro (54,30 mm) sí son oficiales**, de la respuesta del Gobierno al Senado de 16 de abril de 2018. Ver `AUDITORIA.md`, apartado 2.
+
 
 ## Hallazgos clínicos clave
 

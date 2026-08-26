@@ -8,6 +8,9 @@ tags: [transcripción, oftalmología, parlament, balas-de-goma, literal]
 
 # Transcripción íntegra · Dra. Estrella Fernández Martínez
 
+> 📌 **Nota editorial (26 de agosto de 2026).** Esta es una transcripción literal y no se modifica. Pero uno de los datos que la doctora cita, los **720 km/h**, no está verificado: procede de prensa de 2012-2013 sin documento, y el catálogo del fabricante del cartucho da 60 m/s. El peso de 85 g y el diámetro de 54 mm sí son correctos. Ver `AUDITORIA.md`, apartado 2, antes de usar la velocidad en pantalla.
+
+
 Transcripción palabra por palabra de la comparecencia. El archivo síntesis / análisis está en [[oftalmologa-estrella-fernandez]].
 
 ---
