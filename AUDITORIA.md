@@ -19,9 +19,11 @@ su propio apartado, dicho explícitamente y con la vía por donde habría que ir
 
 Dos avisos sobre el material de partida. El primero, que `raw/` no contiene el volcado original:
 `raw/00-lote1-documento-original.md` sigue siendo el placeholder de cuatro líneas que nunca se
-rellenó, de modo que el barrido se hizo sobre `wiki/`, que son 237 ficheros. El segundo, que
-**ninguna ficha se ha modificado en esta pasada**. Todas las correcciones están descritas aquí con
-su fuente para que quien las aplique la copie dentro de la ficha, que es la condición para tocarlas.
+rellenó, de modo que el barrido se hizo sobre `wiki/`, que son 237 ficheros. El segundo, sobre el estado de
+las fichas: **las correcciones de la fase 1 ya están aplicadas** en la rama
+`correcciones-auditoria-agosto-2026`, 40 fichas, cada una con la fuente escrita dentro. Los 384
+datos sin fuente del barrido **no**: ahí no hay fuente que copiar, hay que ir a buscarla, y eso es
+otra ronda de verificación.
 
 Lo ya corregido en agosto está en el historial de git y no se repite.
 
@@ -913,10 +915,18 @@ su testimonio en Instagram en noviembre 2025». Son dos hechos distintos, y bast
 frase.
 ---
 
-## Correcciones que hay que aplicar en las fichas
+## Correcciones aplicadas en las fichas
 
-Ninguna se ha aplicado. Cada una lleva arriba, en su apartado, la fuente con la que hay que
-escribirla dentro de la ficha.
+**Aplicadas el 26 de agosto de 2026** en la rama `correcciones-auditoria-agosto-2026`, cuatro
+commits, 40 fichas tocadas. Cada corrección lleva la fuente escrita dentro de la ficha, y las que
+retiran un dato dejan constancia de qué se retiró y por qué, para que no vuelva a entrar. `build.py`
+corre limpio con 235 notas y no quedan enlaces internos rotos nuevos.
+
+Dos cosas no se han tocado. Las **transcripciones literales**: la comparecencia de la Dra. Estrella
+Fernández ante el Parlament cita los 720 km/h, y lo que se ha hecho es añadir una nota editorial
+delante, sin alterar sus palabras. Y los **nombres de fichero** de las dos del TEDH: renombrarlas
+obligaría a reescribir todos los enlaces entrantes, así que la grafía queda corregida en el
+contenido y el fichero se deja como está.
 
 | Ficha | Qué cambia |
 |---|---|
