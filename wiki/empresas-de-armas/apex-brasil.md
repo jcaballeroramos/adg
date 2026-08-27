@@ -19,7 +19,8 @@ La **Agência Brasileira de Promoção de Exportações e Investimentos (Apex Br
 ## El caso Condor
 - **Condor** es **el caso emblemático** de empresa beneficiada por Apex.
 - Pasó de empresa local brasileña (1985) a **líder global** con presencia en **+80 países**.
-- En **2011**, fue **invitada por la OTAN** — única empresa latinoamericana — a un evento internacional. Apex contribuyó.
+- La **propia Condor** afirmó en su cronología institucional haber sido «la única empresa latinoamericana invitada por la OTAN» al *North American Technology Demonstration* de **2011**.
+  > ⚠️ **Retirada la atribución a Apex el 27 de agosto de 2026.** No hay documentación de terceros que acredite la invitación, **ninguna fuente relaciona a Apex-Brasil con ella**, y la empresa ha retirado la afirmación de su cronología actual.
 
 ## Por qué importa para el documental
 - **Caso paradigmático** de **promoción estatal de la industria de armas menos letales**.
