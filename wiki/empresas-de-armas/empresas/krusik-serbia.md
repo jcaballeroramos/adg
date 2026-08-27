@@ -9,14 +9,15 @@ tags: [krusik, serbia, balcanes, granadas, exportacion, yemen, arabia-saudi]
 
 # Krušik — Serbia
 
-**Krušik** (oficialmente **Holding Corporation Krušik a.d. Valjevo**) es una empresa serbia **estatal-mayoritaria** con sede en **Valjevo**, fundada en **1939**. Es uno de los **mayores exportadores de munición y armamento ligero** de los Balcanes, y una fuente **crítica** de granadas lacrimógenas y explosivas para clientes de todo el mundo — incluyendo **regímenes autoritarios** y **zonas de guerra**.
+**Krušik** (oficialmente **Holding Corporation Krušik a.d. Valjevo**) (oficialmente **Holding Korporacija «Krušik» a.d.**, Vladike Nikolaja 59, 14000 Valjevo) es una empresa serbia de capital **mayoritariamente público**, fundada en **1939**. Según el registro mercantil serbio (**APR**), la propiedad se reparte entre la **República de Serbia (37,90%)**, el **Fondo Republicano de Pensiones (23,10%)** y la **Ciudad de Valjevo (18,01%)**, cerca del **79% en manos públicas**, aunque el Estado central por sí solo no tiene la mayoría. Es uno de los **mayores exportadores de munición y armamento ligero** de los Balcanes, y una fuente **crítica** de granadas lacrimógenas y explosivas para clientes de todo el mundo — incluyendo **regímenes autoritarios** y **zonas de guerra**.
 
 ## Datos
 - País: **Serbia**.
 - Fundación: **1939**.
 - Sede: **Valjevo** (centro de Serbia).
 - Tipo: **mayoritariamente estatal**.
-- Trabajadores: **~2.500**.
+- Trabajadores: **unos 2.050** según el registro mercantil serbio (**APR**, ejercicio **2025**); la propia empresa declara **2.070** en su web.
+  > ⚠️ Corregido el «~2.500», que no lo sostiene ninguna fuente. Fechar siempre la cifra.
 
 ## Qué fabrica
 - **Granadas de mano** (ofensivas y defensivas).

@@ -54,7 +54,7 @@ tags: [elbit, israel, haifa, drones, hermes, cisjordania, gaza, oak, skylark]
 
 ### Reino Unido — fábricas objetivo de protesta
 - **Palestine Action** (organización británica de desobediencia civil) ha **atacado repetidamente** las fábricas de Elbit en Reino Unido (Shenstone, Tamworth, Leicester) para **sabotearlas** y denunciar el suministro de armas a Israel.
-- **Arrestos, juicios, gobierno británico declara a Palestine Action "organización terrorista" en 2025**.
+- **Proscripción de Palestine Action (Reino Unido, 2025).** El Gobierno británico la incluyó en la lista de organizaciones terroristas del **Anexo 2 de la Terrorism Act 2000** mediante *The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2025*, **S.I. 2025 n.º 803**, dictada al amparo del art. 3(3)(a) y (c) de esa ley y **firmada el 4 de julio de 2025**. ✅
 
 ## El argumento "combat-proven"
 Elbit usa como **argumento comercial central** el hecho de que sus armas y drones han sido **probados en combate real** — es decir, **contra población civil palestina**. Este argumento es **único en la industria**: ningún otro fabricante puede decir con la misma rotundidad *"este drone ya ha matado personas reales"*.

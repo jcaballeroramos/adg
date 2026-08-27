@@ -44,8 +44,10 @@ Empresa **española** fundada el **24 de noviembre de 1981**, especializada en *
 
 ## Historia política
 - **Fundador**: vinculado al **Partido Popular** (España).
-- **2005**: se asocia con la venezolana **CAVIM** para fabricación conjunta.
-- **2005-2014**: exportaciones a Venezuela por **5,6 millones de euros** — equipos usados en represión de protestas.
+- **2005**: según *El negocio de la represión* (CLIP y Efecto Cocuyo), Falken se asoció ese año con la estatal venezolana **Cavim** «para la elaboración conjunta de estos materiales en Venezuela».
+  > ⚠️ **Dato no verificado (27 de agosto de 2026): fuente única y sin documento.** No hay Gaceta Oficial, registro mercantil, contrato ni comunicación corporativa que acredite la sociedad. No usar en pantalla hasta cerrarlo.
+- **2005-2014**: España exportó a Venezuela **5.638.952 €** de «otro material», según las *Estadísticas españolas de exportación de material de defensa, de otro material y de productos y tecnologías de doble uso* de la **Secretaría de Estado de Comercio**. Serie realizada, año a año: 2005 = 152.445 €; 2006 y 2007 = Venezuela no figura en «otro material»; 2008 = 155.942 €; 2009 = 841.xxx €; y así hasta 2014.
+  > ⚠️ La cifra es de **exportación española total en la categoría «otro material»**, no de Falken en exclusiva. Atribuirla al país, no a la empresa, salvo que se documente el reparto.
 - **2020**: pasa a formar parte del **grupo francés Etienne Lacroix**.
 
 ## Coordenadas FEINDEF 2025

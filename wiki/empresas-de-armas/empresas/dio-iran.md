@@ -15,10 +15,15 @@ tags: [dio, iran, granadas-militares, gas-lacrimogeno, irak-2019, safaa-al-sarai
 - País: **Irán**.
 - Tipo: **empresa estatal** (Ministerio de Defensa).
 - Sede: **Teherán**.
-- Sanciones: **EE.UU., UE, ONU** por programa nuclear y proliferación.
+- Sanciones ✅ **verificadas con referencia**:
+  - **ONU** — designada en el **Anexo, sección A («Entidades implicadas en el programa nuclear»), entrada 6, de la Resolución 1737 (2006)** del Consejo de Seguridad, de 23 de diciembre de 2006, como «entidad global controlada por el MODAFL, algunas de cuyas filiales han participado en el programa de centrifugadoras fabricando componentes y en el programa de misiles».
+  - **UE** — **Anexo VIII, A, entrada (9), del Reglamento (UE) nº 267/2012**.
+  - **Estados Unidos** — listas OFAC.
 
 ## El producto relevante para el documental
-Las **granadas lacrimógenas militares iraníes** (tipo **"long-range tear gas"**) son **proyectiles largos y pesados** — alrededor de **180 gramos** — diseñados para **saturar un campo de batalla**, no para dispersar manifestantes. Se disparan desde **lanzagranadas** con alcance de **hasta 300 metros**.
+Las granadas de **40 mm** identificadas en Bagdad son los modelos **M651** (lacrimógeno) y **M713** (fumígeno) de la **Defense Industries Organization** iraní. La identificación es de **Amnistía Internacional**, en la actualización del **7 de noviembre de 2019** de su nota del 31 de octubre: *«a significant portion of the deadly projectiles are in fact M651 tear gas grenades and M713 smoke grenades»* fabricadas por DIO. Se disparan desde **lanzagranadas de 40 mm**.
+
+> ⚠️ **Dos datos retirados el 27 de agosto de 2026.** Los **«alrededor de 180 gramos»** no corresponden a estos modelos. Y el **«alcance de hasta 300 metros»** no tiene respaldo: **no existe ficha técnica pública de DIO** que documente el alcance, y ninguna fuente disponible da un alcance nominal. Lo único documentado es la distancia de un disparo concreto en Bagdad, y en el testimonio recogido por Amnistía se refiere a un **fumígeno**, no a un lacrimógeno.
 
 **Problema**: cuando se usan contra manifestantes **a distancias cortas**, se convierten en **proyectiles letales**. El cuerpo humano no resiste un impacto directo de un bote de 180g volando a gran velocidad.
 

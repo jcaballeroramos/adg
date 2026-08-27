@@ -33,8 +33,9 @@ Fabricante **francés** especializado en **granadas de gas lacrimógeno, lanzado
 - Municiones **<40 mm**.
 
 ## Casos documentados
-- **Bahréin 2011** — gas lacrimógeno Alsetex usado para sofocar la revolución. Tras las críticas, Francia "deja" de exportar oficialmente, pero **mantiene exportaciones a Arabia Saudí, EAU, y a Bahréin con otra licencia** para preservar un mercado de **3 millones de euros**.
-- **R.D. del Congo 2011** — granadas de gas lacrimógeno, granadas aturdidoras, granadas de dispersión, lanzadores y munición Alsetex.
+- **Bahréin 2011** — Francia **suspendió el 17 de febrero de 2011** las entregas de material susceptible de uso represivo al reino. En **febrero de 2015**, fotografías tomadas por activistas de derechos humanos documentaron granadas lacrimógenas francesas **fabricadas en 2012**, es decir, posteriores a la prohibición, usadas en Bahréin (Jean-Baptiste Renaud, *Orient XXI*, 25 de febrero de 2015).
+  > ⚠️ **El «mercado de 3 millones de euros preservado con otra licencia» no se sostiene con lo verificado (27 de agosto de 2026).** Lo documentado es la contradicción entre la suspensión de 2011 y la munición de 2012 sobre el terreno. La cifra y el mecanismo de la licencia alternativa quedan sin fuente.
+- **R.D. del Congo 2011** — El Gobierno francés **notificó al Comité de Sanciones de Naciones Unidas** un envío destinado a los **batallones 1.º y 7.º de la Policía de Intervención Rápida** de la Policía Nacional congolesa, con entrega prevista el **10 de septiembre de 2011** y finalidad declarada de «garantizar la seguridad durante las elecciones». El material incluía granadas de gas lacrimógeno, aturdidoras, de dispersión, lanzadores y munición.
 - **Burkina Faso (2014)** — el levantamiento contra Blaise Compaoré: gases Nobel Sport (no Alsetex específicamente), pero patrón similar.
 
 ## Comportamiento corporativo

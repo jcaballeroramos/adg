@@ -25,7 +25,7 @@ Empresa **estadounidense** con sede en Florida. Forma parte de **Cadre Holdings*
 
 ## Casos documentados
 - **Frontera sur EE.UU.** — uso contra migrantes (CBP).
-- **Préstamo Colombia → Ecuador 2019** — los cartuchos prestados eran de Combined Systems y **Safariland**.
+- **Préstamo Colombia → Ecuador, octubre de 2019** — La Policía Nacional colombiana entregó a la ecuatoriana los días **9 y 10 de octubre de 2019**: **7.140 cartuchos de 37 mm, 2.000 de 40 mm, 8.000 granadas de mano trifásicas, 2.000 granadas multiimpacto y 10 fusiles lanzagases**. La Policía colombiana confirmó el préstamo por escrito a la alianza periodística. Los cartuchos eran de Combined Systems y **Safariland**.
 - → ver [[../../casos/latam/transferencias-cross-country]].
 
 ## En España
