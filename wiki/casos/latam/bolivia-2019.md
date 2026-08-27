@@ -21,7 +21,7 @@ tags: [bolivia, 2019, evo-morales, jeanine-añez, lanzagranadas, combined-system
 - **Pérdidas oculares**: **José Fernando Jaldín Flores** y **Hernán Maldonado Rosales**, entre otros.
 
 ## Cómo se usaron las armas
-- **Lanzagranadas de gas lacrimógeno disparados a menos de 7 metros del rostro**, cuando el protocolo establece **más de 80 metros**.
+- El **24 de octubre de 2019**, en la calle Juan José Pérez de La Paz, cerca de la UMSA, un policía disparó un rifle lanzagranadas de gas lacrimógeno contra **José Fernando Jaldín Flores** «a una distancia no mayor de siete metros», cuando el **Manual para operaciones policiales de mantenimiento y restablecimiento del orden público** fija una distancia muy superior. ✅ Caso nominal y fechado, no una generalización.
 - **Disparos directos al cuerpo**.
 - **Municiones y armas militares** usadas en operaciones de control civil.
 - Incumplimiento sistemático del **Manual para operaciones policiales de mantenimiento y restablecimiento del orden público**.
@@ -31,7 +31,8 @@ tags: [bolivia, 2019, evo-morales, jeanine-añez, lanzagranadas, combined-system
 - **Condor** (Brasil).
 - **Norinco** (China).
 - **Falken** (España) — había suministrado a la venezolana Cavim, también con presencia en Bolivia.
-- **Santa Bárbara EP** (Ecuador) — granadas GL-302.
+- Antes de que terminara el **16 de noviembre de 2019**, un avión de la **Fuerza Aérea Boliviana** aterrizó en **Quito** para retirar **5.000 granadas de mano GL-302, 2.398 proyectiles de largo alcance de 37 mm, 560 de corto alcance de 37 mm y 500 granadas de sonido y destello**.
+  > ⚠️ Corregido el 27 de agosto de 2026: el material se **retiró desde Ecuador**, y la ficha lo atribuía a «Santa Bárbara EP» como fabricante sin documentarlo.
 
 ## Corrupción documentada
 - El gobierno de Áñez promulgó **Decretos Supremos que autorizaron compras por excepción** sin licitación, con **exenciones tributarias**.
@@ -39,7 +40,8 @@ tags: [bolivia, 2019, evo-morales, jeanine-añez, lanzagranadas, combined-system
 - **Decreto de 2020**: el gobierno instruyó que los contratos de seguridad **NO sean alojados en el SICOES** (Sistema de Contrataciones del Estado), limitando la transparencia.
 
 ## La trama Argentina — Macri → Áñez (Hércules C-130)
-En noviembre de 2019 un **Hércules C-130 argentino** aterrizó en El Alto con **70.000 cartuchos antimotines, 100 sprays de gas pimienta y 700 granadas de gas** para la Policía y las Fuerzas Armadas bolivianas. Por ese envío, la justicia argentina procesó en 2021-2022 a **Mauricio Macri** y altos funcionarios por **tráfico ilícito de armas**.
+- El **12 de noviembre de 2019 a las 13:06**, quince minutos después del comienzo de la cumbre de seguridad en la oficina de Marcos Peña, el director de Logística de la **Gendarmería argentina, Rubén Yavorsky**, firmó una nota pidiendo **70.000 cartuchos antimotines, 100 sprays de gas pimienta y 700 granadas de gas**.
+  > ⚠️ Corregido: es una **petición argentina** dentro del envío del gobierno de Macri, no material del arsenal boliviano.
 
 → ver [[transferencias-cross-country]] para la cronología completa.
 

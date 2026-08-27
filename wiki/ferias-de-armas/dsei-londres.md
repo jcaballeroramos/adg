@@ -12,7 +12,7 @@ tags: [dsei, londres, reino-unido, condor, spark, expulsión-2019]
 **DSEI** es una de las **ferias internacionales de defensa y seguridad más importantes del mundo**, celebrada en **Londres**. Es la principal ventana del mercado armamentístico angloparlante.
 
 ## El escándalo Condor 2019
-**En 2019**, **Condor (Brasil)** fue **expulsada de la feria** por promocionar el arma tipo taser **'Spark'**, **prohibida en Reino Unido y la Unión Europea** por **regulaciones contra la tortura**.
+> ⚠️ **Corregido el 27 de agosto de 2026: la base legal es británica, no europea.** El **Spark** de Condor es un arma de descarga eléctrica **de proyectil** (*electric shock projectile weapon*, en la descripción de la Omega Research Foundation), y lo que la ficha presentaba como prohibición «de Reino Unido y la Unión Europea» se apoya en la normativa británica.
 
 - El arma emite **descargas eléctricas en proyectiles disparados contra personas** (taser de proyectil).
 - Reflejó las **diferencias en regulaciones internacionales** sobre el mismo tipo de arma:
