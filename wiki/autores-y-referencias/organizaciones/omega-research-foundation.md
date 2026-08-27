@@ -11,7 +11,7 @@ tags: [omega, organización, ddhh, equipamiento-policial, investigación]
 
 # Omega Research Foundation
 
-Organización **sin fines de lucro registrada en Inglaterra y Gales** (1990). Especializada en **identificar y exponer abusos de derechos humanos relacionados con el uso de equipamiento policial, de seguridad y militar**. Es **la fuente técnica más rigurosa** del mundo sobre el sector.
+Organización **sin fines de lucro registrada en Inglaterra y Gales**, **fundada en 1990**. ✅ Especializada en **identificar y exponer abusos de derechos humanos relacionados con el uso de equipamiento policial, de seguridad y militar**. Es **la fuente técnica más rigurosa** del mundo sobre el sector.
 
 ## Datos
 - **Registro**: 1105918 (Inglaterra y Gales) / 05224240 (Companies House)
@@ -42,7 +42,7 @@ Organización **sin fines de lucro registrada en Inglaterra y Gales** (1990). Es
 - Registran fabricantes y uso.
 - Documentan lesiones causadas.
 - **Abogan por la prohibición** de lanzadores de **múltiples cañones**.
-- Tipos comunes: 37/38 mm, 40 mm, 56 mm, escopetas calibre 12.
+- Calibres comunes de lanzador: **37/38 mm, 40 mm, 56 mm** y **escopeta del calibre 12**. ✅
 
 ### 5. Kinetic Impact Projectiles (KIPs)
 - Registran fabricantes y uso.

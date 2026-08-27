@@ -27,7 +27,7 @@ Para el documental es relevante porque:
 4. Posible **fuente de testimonios** para el documental sobre casos argentinos.
 
 ## Contexto Argentina
-- **Automation Systems** — empresa de un oficial argentino condenado por crímenes de la dictadura, ganó +30 contratos con el Estado para máscaras antigás, drones y equipo. Ver [[../../casos/latam/intermediarios-latam]].
+- **Automation Systems** — empresa de un oficial argentino condenado por crímenes de la dictadura, ganó **31 licitaciones** en la plataforma estatal **Compr.ar** entre 2014 y 2021, **doce de ellas por contratación directa**. Su fundador, **Carlos María Robbio**, fue **condenado a prisión perpetua el 27 de abril de 2020** por la Subzona 15 de Mar del Plata, y la empresa **siguió vendiendo al Estado argentino** después de la condena. Ver [[../../casos/latam/intermediarios-latam]].
 - **Argentina → Bolivia 2019** — el caso del avión Hércules C-130 de Macri llevando armas a Bolivia tras el golpe contra Evo Morales. Mauricio Macri fue **procesado por tráfico ilícito de armas**. Ver [[../../casos/latam/transferencias-cross-country]].
 - **Protocolo Bullrich** — reglamento policial de mano dura impulsado por Patricia Bullrich (ministra de Seguridad).
 

@@ -28,10 +28,13 @@ El fotógrafo de **Reuters Kim Kyung-Hoon** captura **la imagen que dará la vue
 - **Kirstjen Nielsen**, entonces secretaria de **Homeland Security**, defendió el uso del gas lacrimógeno afirmando que los migrantes eran una «amenaza» y que los agentes «tenían derecho a defenderse».
 
 ## Las armas
-- **Gas lacrimógeno CS** en botes manuales y lanzadoras de 40 mm.
+- **Gas lacrimógeno**, cuyo uso defendieron públicamente la CBP y el DHS en las horas siguientes.
+  > ⚠️ **No procede escribir «CS»** (27 de agosto de 2026): ningún responsable dio esa designación química —la fórmula «tear gas or CS gas» es del redactor de PBS NewsHour— y Forensic Architecture habla solo de «granadas de gas lacrimógeno».
+- **Gas pimienta**, cuyo uso defendió **Rodney Scott**, entonces jefe del sector San Diego de la Patrulla Fronteriza: «es un irritante, no hay daño permanente; la forma más fácil de evitarlo es cumplir la ley». No consta en fuentes abiertas qué agente concreto se empleó.
 - **Pepper spray** OC en algunos casos.
-- **Dispositivos acústicos LRAD** documentados en la zona.
-- Proveedores: **Combined Systems** (EE.UU.), **Safariland**, **Axon Enterprise** (Tasers), y probablemente **Aardvark Tactical** como distribuidor (ver [[../../empresas-de-armas/empresas/aardvark-tactical]]).
+> ⚠️ **Dato retirado**: «dispositivos acústicos LRAD documentados en la zona» no está sostenido para San Ysidro en noviembre de 2018.
+- **Proveedores.** Los botes recogidos en el paso fronterizo de **San Ysidro** llevaban las marcas **Safariland** y **Defense Technology**, la filial de gases de Safariland, según las fotografías del periodista **Patrick Timmons** publicadas por *Hyperallergic* el **27 de noviembre de 2018**.
+  > ⚠️ Retiradas las atribuciones a **Combined Systems** y **Axon**, y el «probablemente Aardvark Tactical»: no están documentadas para este caso. Ver [[../../empresas-de-armas/empresas/safariland]].
 
 ## El patrón
 Este caso **no es aislado**: el uso sistemático de armas «menos letales» por la CBP en la frontera sur está documentado en [[ee-uu-frontera-sur]].

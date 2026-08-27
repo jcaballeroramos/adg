@@ -885,6 +885,7 @@ Entidades **nombradas en las transcripciones** que ya tienen ficha en el wiki:
 El **material de control de masas** de las demostraciones de la Gendarmería Móvil (ids **87** y **99**) —**lanzador de pelotas de defensa (LBD)** y **gas lacrimógeno**— es de fabricación francesa, de empresas con ficha propia:
 
 - [[../../empresas-de-armas/empresas/alsetex|Alsetex]] · [[../../empresas-de-armas/empresas/verney-carron|Verney-Carron]] · [[../../empresas-de-armas/empresas/nobel-sport|Nobel Sport]].
+  > ⚠️ **Atribución pendiente de verificar (27 de agosto de 2026).** Que el LBD y el gas de las demostraciones de la Gendarmería Móvil sean **de esas tres empresas** no está documentado. Y ojo: el **LBD 40 lo fabrica [[../../empresas-de-armas/empresas/brugger-thomet|B&T]]**, no Verney-Carron, que hace el Flash-Ball de 44 mm.
 
 Grandes *primes* europeos citados en discursos y demos, con ficha propia:
 

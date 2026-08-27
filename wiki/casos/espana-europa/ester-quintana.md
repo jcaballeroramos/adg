@@ -60,7 +60,8 @@ El juicio terminó en **absolución de los policías**:
 
 Su caso, junto con el de **Juan Andrés Benítez** (octubre 2013), fue **decisivo** para que el **Parlament de Catalunya prohibiera el uso de balas de goma por los Mossos d'Esquadra en abril de 2014**.
 
-Cataluña fue así el **primer territorio autónomo de España** en prohibir las balas de goma, antes que Euskadi (2015) y Navarra (2017).
+Cataluña fue así el **primer territorio autónomo de España** en prohibir las balas de goma, antes que Euskadi y Navarra.
+> ⚠️ Corregido el 27 de agosto de 2026: en **Euskadi** no se ha podido documentar prohibición formal (sí el cese de hecho tras Cabacas, abril de 2012), y en **Navarra** la retirada de la dotación de la Policía Foral es de **2016**, no de 2017.
 
 ⚠️ **Importante**: la prohibición solo afecta a los Mossos. La **Policía Nacional** las ha seguido usando en territorio catalán (1-O 2017, octubre 2019, etc.) — ver [[roger-espanol]].
 

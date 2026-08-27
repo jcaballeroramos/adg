@@ -35,8 +35,10 @@ La **Agencia de Aduanas y Protección Fronteriza (CBP)** ha incrementado masivam
 - Mal uso pese a las "nuevas políticas" de regulación.
 
 ## Aardvark Tactical: el principal proveedor
-- **Aardvark Tactical** (intermediario): contratos por casi **62 millones de dólares** con la CBP entre 2014 y 2022.
-- **~70%** del monto destinado a **Tasers**.
+- **Aardvark Tactical Inc.** (UEI DGSKHRKYPDK9): la CBP le ha obligado **62,8 millones de dólares** sumando **todo el registro disponible en USAspending.gov, del año fiscal 2008 al 2026** (consulta del 27 de agosto de 2026).
+  > ⚠️ **La ventana «2014-2022» era incorrecta**: la cifra cubre el registro completo, no ese periodo.
+- **En torno al 85% de ese dinero** corresponde a contratos cuya descripción menciona expresamente tásers, cartuchos o equipo asociado —«TASERS AND ACCESSORIES», «TASERS (X2 AND X26P) AND CARTRIDGES», «TASER AND TASER RELATED ITEMS»—: **53,6 millones sobre 63,5, un 84,4%**.
+  > ⚠️ Corregido: es **más** que el «~70%» que decíamos, no menos.
 - → ver [[../latam/intermediarios-latam]].
 
 ## Marco legal: el manual de la Patrulla Fronteriza
@@ -54,7 +56,7 @@ La **Agencia de Aduanas y Protección Fronteriza (CBP)** ha incrementado masivam
 
 ## Conexiones
 
-- ↔ [[../../empresas-de-armas/empresas/compliant-technologies]] — los guantes de electrochoque que el ICE compra en 2026 (10-20 M$)
+- ↔ [[../../empresas-de-armas/empresas/compliant-technologies]] — los **guantes de electrochoque G.L.O.V.E.** de Compliant Technologies LLC (Lexington, Kentucky) que el ICE **prevé comprar** por entre 10 y 20 millones de dólares para los agentes de ERO y HSI. **Previsión de adquisición publicada el 10 de agosto de 2026, no compra ejecutada.**
 - ↔ [[../espana-europa/melilla-2022]] — el caso paralelo en la frontera sur europea.
 - ↔ [[../../empresas-de-armas/empresas/anduril]] — Sentry Tower y vigilancia autónoma.
 - ↔ [[../../historia/laws-armas-autonomas]].

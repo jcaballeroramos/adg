@@ -120,7 +120,7 @@ Antes de la prohibición: **7 ojos perdidos en 5 años en Catalunya**.
 - **Conferencia en el Parlamento Europeo** (julio 2016) organizada por EH Bildu, sobre el caso Cabacas. Guillot como ponente.
 - Acompañó públicamente a **[[roger-espanol|Roger Español]]** tras el 1-O; promovió que su querella se sumara a la lucha por la prohibición estatal.
 - Comparecencia con Roger Español y Ester Quintana en el **Congreso de los Diputados** reclamando la prohibición.
-- Campaña con **200 colectivos** por la prohibición estatal.
+- Campaña por la prohibición estatal, respaldada por unos **200 colectivos**. ⚠️ Cifra pendiente de fuente.
 - Colaboración con **[[../../autores-y-referencias/organizaciones/iridia|Irídia]]** y **[[../../autores-y-referencias/organizaciones/novact|Novact]]** en informes técnicos y jurídicos.
 - Publicación académica: artículo de Guillot en primera persona en *Torture Journal* (IRCT) vol. 34 nº 1, 2024 — junto a la pieza colectiva *"Stop Rubber Bullets. The use of kinetic energy projectiles and torture in the Spanish State"*.
 - Entrevistas: *Carne Cruda* (eldiario.es), *La Marea*, *La Directa*, *El Salto Diario*, *Naiz / INFO7* (24 oct 2018), *EITB Radio Euskadi (Ganbara)*, *bcnmes.com*, *datecuenta.org*, *Grupo Tortuga*, *Cáñamo*.
