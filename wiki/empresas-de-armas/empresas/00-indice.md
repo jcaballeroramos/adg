@@ -231,7 +231,8 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 - → [[norinco]]
 
 ### Fox-Armor
-- Equipo antidisturbios; comercializa **escudos antidisturbios** (incluidos modelos **con pinchos**, prohibidos por la UE y la ONU). El tipo de material retirado en Milipol 2025.
+- **Deqing Fox Armor Co., Ltd.** (Zhejiang, China). Equipo antidisturbios. Su catálogo en línea publica **ochenta modelos de escudo** antidisturbios, redondos, cuadrados, convexos, de policarbonato, metálicos, plegables, de brazo y **eléctricos**. **Ninguno lleva púas** (comprobado sobre las siete páginas de catálogo y los sitemaps del dominio, 2.367 URL).
+- Sí ofrece un **escudo antidisturbios eléctrico** de descarga en toda la superficie, producto que el **Anexo III, punto 2.1, del Reglamento (UE) 2019/125** nombra expresamente y somete a licencia.
 - → [[fox-armor]]
 
 ## España
