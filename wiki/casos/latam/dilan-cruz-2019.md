@@ -87,9 +87,21 @@ Eso **contradice la tesis del cruce accidental**: el agente siguió a Dilan con 
 
 El **Tribunal Administrativo de Cundinamarca** confirmó en **julio de 2026** la condena contra el Estado, el Ministerio de Defensa y la Policía Nacional.
 
-**En qué consiste la falla en el servicio, y esto es lo más aprovechable de toda la ficha.** El tribunal dice que hubo falla en el servicio **al clasificar como «menos letal» un arma que es capaz de matar**. No es un fallo sobre la puntería del agente ni sobre el protocolo de disparo: es un fallo sobre **la categoría misma**. Un tribunal declarando que el problema está en la etiqueta.
+**En qué consiste la falla en el servicio, y esto es lo más aprovechable de toda la ficha.** Fuente primaria: comunicado del propio **Tribunal Administrativo de Cundinamarca, Sección Tercera, Subsección A**, magistrado ponente **Juan Carlos Garzón Martínez**, radicado **11001334306220220004301**. <https://tac.gov.co/dilan/>
 
-También declaró que Dilan **ejercía su derecho a la protesta** y ordenó que el **director de la Policía pida perdón en un acto público**.
+> *«Concluyó que existió una falla en el servicio porque la institución clasificó el arma utilizada como "menos letal" y no informó adecuadamente a sus uniformados sobre su potencial capacidad de causar la muerte. Según el fallo, esta circunstancia impidió evaluar correctamente los principios de necesidad, proporcionalidad y racionalidad en el uso de la fuerza.»*
+
+La falla tiene **dos mitades y conviene no perder la segunda**: la clasificación como «menos letal» **y la ausencia de advertencia a los propios agentes** sobre su capacidad de matar. No es un fallo sobre la puntería ni sobre el protocolo de disparo: es un fallo sobre **la categoría y sobre lo que la categoría oculta a quien aprieta el gatillo**.
+
+**Los tres puntos que subraya el tribunal**, y el tercero es el más duro:
+
+- *«El ejercicio legítimo del derecho convencional y constitucional a la protesta no puede constituir causa eficiente para que ninguna autoridad estatal afecte otros derechos fundamentales —como la vida o la dignidad humana— de las personas que libre y voluntariamente deciden participar de marchas o manifestaciones pacíficas.»*
+- Dilan Cruz **estaba ejerciendo ese derecho**.
+- **Haber devuelto gases lacrimógenos lanzados por el ESMAD «no legitimaba el uso de un arma potencialmente letal».**
+
+El tribunal **descartó la concurrencia de culpas** de la víctima, calificó el caso como **grave violación de derechos humanos** y por eso **incrementó las indemnizaciones por perjuicios morales por encima de los montos ordinarios**. Y advirtió que las pruebas **no evidenciaban un escenario de violencia** que justificara emplear una fuerza capaz de causar la muerte.
+
+También declaró que Dilan **ejercía su derecho a la protesta** y ordenó al **Comandante de la Policía Nacional** que, en representación de la entidad, realice un **acto público de reconocimiento institucional de responsabilidad y pida disculpas a los familiares**.
 
 La sentencia identifica el arma: escopeta con proyectil **tipo «bean bag»**, que impactó en la cabeza.
 
@@ -120,7 +132,8 @@ La Procuraduría **anuló su propia sentencia de 2024**, en la que había sancio
 - [ ] El **informe de Forensic Architecture** en su fuente original, con fecha exacta y autoría del equipo.
 - [x] El **tipo de munición**: la sentencia del Tribunal Administrativo de Cundinamarca lo fija como munición **tipo «bean bag»**. Falta el calibre exacto y el fabricante.
 - [ ] La **pieza original de Señal Investigativa y Revista RAYA**, y el vídeo de Jhon Niño.
-- [ ] El expediente de la **Procuraduría** reabierto en febrero de 2026, con su número.
+- [ ] El expediente de la **Procuraduría** reabierto en 2026, con su número de radicado.
+- [ ] **El PDF íntegro de la sentencia.** El enlace del tribunal apunta a `samaicore.consejodeestado.gov.co`, que devuelve **403 a la descarga automatizada**; hay que bajarlo a mano desde <https://tac.gov.co/dilan/>, botón «Descarga la providencia aquí».
 
 ## Conexiones
 - ↔ [[colombia-2021]] — el Paro Nacional de 2021 y las lesiones oculares del ESMAD.
