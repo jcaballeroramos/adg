@@ -25,7 +25,7 @@ Es la **primera muerte documentada por rebote** de una bala de goma — el patr�
 - **El primer niño muerto** por la munición que el Ministerio de Defensa británico **había diseñado específicamente** para el "control colonial" de Irlanda del Norte.
 - Su muerte, junto con las decenas que la siguieron, demostró que **el rebote era la regla, no la excepción**.
 - Las balas de plástico fueron introducidas **sin haberse realizado ningún estudio preciso sobre su impacto en el cuerpo humano**.
-- En **5 años**, el ejército británico disparó al menos **55.000 balas** en Irlanda del Norte.
+- **Al menos 55.000 proyectiles** disparados por el ejército británico en Irlanda del Norte en cinco años. ⚠️ Ventana y fuente pendientes de fijar: la cifra circula sin acotar el periodo. El dato contiguo que **sí** está documentado por el CAJ son las **16.656 balas de plástico disparadas solo en mayo de 1981**.
 
 ## Marco
 - **The Troubles** (1968-1998).

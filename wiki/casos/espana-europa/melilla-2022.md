@@ -7,7 +7,8 @@ lugar: Frontera Melilla–Marruecos
 victimas: 37 muertos, 77 desaparecidos a julio 2023
 cuerpo: Guardia Civil + Policía Nacional + fuerzas marroquíes
 arma:
-  - 270 salvas
+- Según las cifras que el **mando de la Guardia Civil en Melilla facilitó a los diputados de la Comisión de Interior el 7 de noviembre de 2022**, difundidas después por los portavoces de ERC y EH Bildu, las fuerzas españolas emplearon aquel día **270 salvas, 65 pelotas de goma, 86 botes de gas lacrimógeno, 28 botes de humo y 41 aerosoles**.
+  > ⚠️ Corregido el 27 de agosto de 2026: la ficha traducía «ATF» y «ATL» sin desarrollar, y la distinción entre los 41 aerosoles RSG de 700 ml y los 12 MK 46 **no está documentada** en esa comparecencia.
   - 28 ATF (artefacto triple fumígeno)
   - 86 ATL (artefacto triple lacrimógeno)
   - 65 bolas de goma
@@ -26,7 +27,8 @@ Entre **1.500 y 2.000 personas refugiadas o migrantes**, **la mayoría sudanesas
 
 Para dispersar al grupo se usaron **gas lacrimógeno, porras, balas y pelotas de goma**.
 
-**Unas 700-800 personas lograron cruzar a un patio pequeño** que da paso a Melilla, de unos **1.350 m²**. Durante **dos horas** recibieron una **gran cantidad de balas de goma y gases lacrimógenos** disparados por las fuerzas españolas y marroquíes.
+- Cuando la mayoría ya había caído de las vallas, las fuerzas marroquíes las condujeron a golpes de porra **a un espacio acotado de unos 200 m²** en el paso de Barrio Chino. **Unas 400 personas quedaron atrapadas allí**, sin salida posible, mientras se disparaba gas lacrimógeno hacia ese recinto **durante dos horas**.
+  > ⚠️ **Corregido: eran 200 m² y unas 400 personas**, no «un patio de 1.350 m²» con 700-800. El dato correcto es peor: menos espacio y gaseo sostenido.
 
 ## Inventario del armamento usado
 > Se utilizaron **270 salvas, 28 ATF (artefacto triple fumígeno), 86 ATL (artefacto triple lacrimógeno), 65 bolas de goma, 41 aerosoles RSG (700 ml espray defensa personal) y 12 aerosoles MK 46 (espray policial antidisturbios)**.
