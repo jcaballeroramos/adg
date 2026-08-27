@@ -40,11 +40,13 @@ Lo que hace de este caso una base metodológica es que las tres se pueden ordena
 
 <https://cerosetenta.uniandes.edu.co/dilan-muerte-video/> · <https://ligacontraelsilencio.com/2019/12/03/el-segundo-a-segundo-del-disparo-que-mato-de-dilan-cruz/>
 
+**Y una segunda pieza de 070**: contrastar las declaraciones que el capitán dio sobre los hechos con los vídeos, con voces de expertos y con testigos. Encontró que **lo que decía no coincidía con los hechos**. Y el propio capitán acabó reconociéndolo en su declaración: **«La persona que apunta soy yo.»**
+
 **En paralelo**, la Fiscalía General de la Nación hizo su propia reconstrucción sobre el terreno en diciembre de 2019, que sostuvo la tesis que después defendería el capitán: que Dilan Cruz **cruzó accidentalmente la trayectoria** de un disparo dirigido a otra parte.
 
-### 2 · *The Killing of Dilan Cruz*, Forensic Architecture en colaboración con 070 (2023)
+### 2 · *The Killing of Dilan Cruz*, Forensic Architecture en colaboración con 070 (septiembre de 2023)
 
-**Forensic Architecture**, la agencia de investigación de **Goldsmiths, University of London**, **en colaboración con Cerosetenta (070)**, publicó en **julio de 2023** una reconstrucción dentro de su proyecto **«Plano Negativo»**. El Espectador la difundió el 10 de septiembre de 2023, y en febrero de 2024 hubo una nueva ola de cobertura.
+**Forensic Architecture**, la agencia de investigación de **Goldsmiths, University of London**, **en colaboración con Cerosetenta (070)**, publicó en **septiembre de 2023** una reconstrucción dentro de su proyecto **«Plano Negativo»**. El Espectador la difundió el 10 de septiembre de 2023, y en febrero de 2024 hubo una nueva ola de cobertura.
 
 **Metodología**, que es lo que aquí interesa:
 - Modelado 3D de la calle 19 entre carreras 3 y 4.
@@ -64,7 +66,9 @@ Eso **contradice la tesis del cruce accidental**: el agente siguió a Dilan con 
 
 **Qué muestra**: un ángulo nuevo en el que se ve al capitán **Manuel Cubillos Rodríguez apuntar y disparar por la espalda** a Dilan Cruz mientras corría.
 
-**Respuesta de Red+ Noticias**: su director, **Giovanni Celis**, dijo sorprenderse de la acusación de censura pero reconoció conocer el vídeo. El canal declaró que *«Red+noticias reitera su respeto por la libertad de expresión, la autonomía editorial y la labor periodística»*.
+**La acusación es más grave que ocultar.** Una periodista del canal denunció que el director, **Giovanni Celis**, **ordenó eliminar el vídeo y presentar a Dilan como un vándalo**.
+
+**Respuesta de Red+ Noticias**: Celis dijo sorprenderse de la acusación de censura pero reconoció conocer el vídeo. El canal declaró que *«Red+noticias reitera su respeto por la libertad de expresión, la autonomía editorial y la labor periodística»*.
 
 ## Estado del proceso
 
@@ -76,15 +80,25 @@ Eso **contradice la tesis del cruce accidental**: el agente siguió a Dilan con 
 | Informe de Forensic Architecture | julio 2023 |
 | **La Procuraduría reabre la investigación** por violaciones graves de derechos humanos y uso excesivo de la fuerza | **febrero 2026** |
 | Publicación del vídeo oculto | 25 mayo 2026 |
+| **La Procuraduría anula su propia sentencia de 2024** y reabre el disciplinario como grave violación de DDHH | **marzo 2026** |
 | **El Tribunal Administrativo de Cundinamarca condena al Estado**, al Ministerio de Defensa y a la Policía Nacional | **julio 2026** |
+| Publicación del reel de Cerosetenta que ordena las tres investigaciones | 20 julio 2026 |
 
 ### La condena
 
-El **Tribunal Administrativo de Cundinamarca** confirmó en **julio de 2026** la responsabilidad del Estado, el Ministerio de Defensa y la Policía Nacional. Concluyó que hubo **falla en el servicio**, calificó el caso como **violación grave de derechos humanos** y ordenó **reparación integral**: indemnización económica a la familia y un **acto público de reconocimiento de responsabilidad y disculpas**.
+El **Tribunal Administrativo de Cundinamarca** confirmó en **julio de 2026** la condena contra el Estado, el Ministerio de Defensa y la Policía Nacional.
 
-La sentencia identifica el arma: munición **tipo «bean bag»** disparada por un miembro del entonces ESMAD.
+**En qué consiste la falla en el servicio, y esto es lo más aprovechable de toda la ficha.** El tribunal dice que hubo falla en el servicio **al clasificar como «menos letal» un arma que es capaz de matar**. No es un fallo sobre la puntería del agente ni sobre el protocolo de disparo: es un fallo sobre **la categoría misma**. Un tribunal declarando que el problema está en la etiqueta.
 
-La familia reconoció el fallo como un avance e insistió en que **sigue faltando justicia penal**: la vía contencioso-administrativa declara la responsabilidad del Estado, no la responsabilidad individual del agente.
+También declaró que Dilan **ejercía su derecho a la protesta** y ordenó que el **director de la Policía pida perdón en un acto público**.
+
+La sentencia identifica el arma: escopeta con proyectil **tipo «bean bag»**, que impactó en la cabeza.
+
+La familia: *«no hay sentencia que pueda devolverlo»*. Y sigue faltando la vía penal: la contencioso-administrativa declara la responsabilidad del Estado, no la individual del agente.
+
+### La vuelta atrás de la Procuraduría (marzo de 2026)
+
+En **marzo de 2026** la Procuraduría **anuló su propia sentencia de 2024**, en la que había sancionado al capitán Cubillos por una falta **grave, no gravísima**, con una multa de **14 millones de pesos**. Reabrió el caso disciplinario para juzgarlo como **grave violación de derechos humanos**.
 
 **Manuel Cubillos fue ascendido a mayor y sigue en servicio activo.** La fiscal Claudia Niño no había adoptado una decisión de fondo transcurridos dieciocho meses.
 
@@ -92,6 +106,8 @@ La familia reconoció el fallo como un avance e insistió en que **sigue faltand
 
 - **Tres capas de investigación sobre el mismo minuto**, hechas por un consorcio periodístico con OSINT, una agencia forense universitaria y un equipo de periodismo de investigación. El toolkit tiene que poder sostener las tres y dejar ver en qué se contradicen. Y las tres las hizo la sociedad civil, no el Estado: la reconstrucción de la Fiscalía sostuvo la versión que las tres desmontaron.
 - **La identificación por vestimenta llega a lo mismo en dos continentes.** Bogotá 2019 y Barcelona 2017 resolvieron el mismo problema con la misma técnica y sin conocerse. Ese es el argumento para construir la herramienta.
+- **Un tribunal ha declarado que la falla está en la etiqueta.** La sentencia de julio de 2026 sitúa la falla en el servicio en *«clasificar un arma como menos letal que es capaz de matar»*. No en la puntería del agente, no en el protocolo: en la **categoría**. Es la tesis del documental dicha por un tribunal, y conviene tener la sentencia entera.
+- **El material existía y alguien decidió que no.** Una periodista denunció que el director del canal ordenó **eliminar el vídeo y presentar a Dilan como vándalo**. El archivo no es un problema técnico previo al relato: es parte del relato.
 - **La sincronización geotemporal de fuentes dispersas** es exactamente el problema que el mapa quiere resolver: diez cámaras de origen distinto, ninguna con metadatos fiables, y un solo hecho que reconstruir.
 - **El material existía desde el primer día y estuvo seis años guardado.** Eso convierte la cuestión del archivo y del acceso en parte del caso, no en un asunto técnico previo.
 - **La reconstrucción tiene valor probatorio.** El método de Forensic Architecture ha entrado como prueba en tribunales de tres países, lo que fija el listón de rigor al que el toolkit debe aspirar.
@@ -99,7 +115,7 @@ La familia reconoció el fallo como un avance e insistió en que **sigue faltand
 
 ## Pendiente de documentar
 
-- [x] **El reel de Instagram** que reúne las tres investigaciones, publicado por **@cerosetenta**: leído el 27 de agosto de 2026 con sesión iniciada. Su pie de foto está transcrito abajo. **Falta la transcripción del audio del vídeo**, que no se puede extraer sin descargarlo.
+- [x] **El reel de Instagram**, publicado por **@cerosetenta** el **20 de julio de 2026**. Descargado (31 MB, 2:57) y archivado en `media/video/cerosetenta-dilan-cruz-tres-investigaciones-2026-07-20.mp4`, con su `.info.json` y los subtítulos en `.srt`. **Transcripción íntegra abajo.**
 - [ ] El **informe de Forensic Architecture** en su fuente original, con fecha exacta y autoría del equipo.
 - [x] El **tipo de munición**: la sentencia del Tribunal Administrativo de Cundinamarca lo fija como munición **tipo «bean bag»**. Falta el calibre exacto y el fabricante.
 - [ ] La **pieza original de Señal Investigativa y Revista RAYA**, y el vídeo de Jhon Niño.
@@ -143,3 +159,27 @@ Cuenta **@cerosetenta**. 6.288 «me gusta», 99 comentarios, 1.294 compartidos e
 <https://www.instagram.com/reels/DbA5EFluoMV/>
 
 > El «News» del punto 1 es **Newsy**, el medio estadounidense que participó en la investigación junto a Bellingcat.
+
+## Transcripción del reel
+
+Transcrita el 27 de agosto de 2026 con Whisper (modelo *medium*, español) sobre el audio del archivo descargado. Subtítulos con marcas de tiempo en `media/video/cerosetenta-dilan-cruz-tres-investigaciones-2026-07-20.srt`.
+
+> Seis años y medio después de la muerte de Dilan Cruz por parte de un agente del ESMAD, un tribunal dijo que el Estado es responsable de ese hecho. Estas son tres investigaciones periodísticas que esclarecieron los hechos sobre el caso de Dilan Cruz.
+>
+> 23 de noviembre de 2019, Paro Nacional. Dilan Cruz, estudiante de 18 años, protestaba en el centro de Bogotá. Un capitán del ESMAD, Manuel Cubillos, le disparó a Dilan con una escopeta de proyectil tipo *bean bag* que le impactó en la cabeza. Dos días después, Dilan moriría.
+>
+> **Primera investigación.** Cuando la versión oficial hablaba de hechos confusos, 070, La Liga Contra el Silencio, Bellingcat y Newsy reconstruyeron el disparo segundo a segundo con vídeos de fuente abierta, vídeos inéditos, e identificaron al agente 003478. Luego, 070 contrastó las declaraciones sobre los hechos que dio el capitán con vídeos, voces de expertos y testigos. 070 encontró que lo que decía el capitán no coincidía totalmente con los hechos. El mismo capitán lo reconoció en su declaración: «La persona que apunta soy yo», dijo.
+>
+> **Segunda investigación.** En septiembre de 2023, Forensic Architecture, en colaboración con 070, llevó la investigación al terreno de lo forense. Modeló en 3D la escena y la trayectoria del disparo. La investigación llegó a la conclusión opuesta a la de la Fiscalía, que sostenía que el capitán no le estaba apuntando al joven. El estudio de Forensic Architecture muestra que el disparo sí fue deliberado.
+>
+> **Tercera investigación.** En mayo de este año, Revista Raya y Señal Investigativa revelaron un vídeo que Red Más Noticias guardó por más de seis años. Grabado por un propio camarógrafo del canal, el vídeo muestra el disparo del agente del ESMAD y a Dilan Cruz corriendo indefenso, de espaldas. Una periodista del canal denunció que el director, Giovanni Celis, ordenó eliminar el vídeo y presentar a Dilan como un vándalo.
+>
+> Julio de 2026. El Tribunal Administrativo de Cundinamarca confirma la condena contra el Estado, el Ministerio de Defensa y la Policía. Dice que hubo una falla en el servicio al clasificar un arma como menos letal que es capaz de matar. También dijo que Dilan ejercía su derecho a la protesta, y ordena que el director de la Policía pida perdón en un acto público. La familia de Dilan dice que no hay sentencia que pueda devolverlo.
+>
+> En marzo de este año, la Procuraduría anuló su propia sentencia de 2024, en la que había sancionado al capitán Cubillos por una falta grave, no gravísima, y le cobraba una multa de 14 millones de pesos. La Procuraduría reabrió el caso disciplinario para juzgarlo como grave violación de derechos humanos.
+>
+> Tres investigaciones periodísticas, la de 070 con Bellingcat, la de Forensic Architecture y la de Revista Raya, han dado luces sobre la muerte de Dilan Cruz a manos del ESMAD. **La verdad estaba en las imágenes desde 2019.**
+
+> Correcciones de transcripción automática aplicadas: «beam bag» → *bean bag*; «Dylan» → Dilan; «Bellingham» → Bellingcat; «la agente 003478» → el agente; «La Señal Investigativa» → Señal Investigativa.
+
+**El cierre es la tesis del proyecto en una frase**: *«La verdad estaba en las imágenes desde 2019.»* No faltaban pruebas. Faltaba quien las cruzara, y quien no las guardara en un cajón.
