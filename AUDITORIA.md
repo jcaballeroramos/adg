@@ -21,9 +21,8 @@ Dos avisos sobre el material de partida. El primero, que `raw/` no contiene el v
 `raw/00-lote1-documento-original.md` sigue siendo el placeholder de cuatro líneas que nunca se
 rellenó, de modo que el barrido se hizo sobre `wiki/`, que son 237 ficheros. El segundo, sobre el estado de
 las fichas: **las correcciones de la fase 1 ya están aplicadas** en la rama
-`correcciones-auditoria-agosto-2026`, 40 fichas, cada una con la fuente escrita dentro. De los 384 datos sin fuente del barrido están verificados y aplicados los
-**41 de las tres fichas agregadoras** y los **95 de las 38 fichas de empresa**. Quedan **248
-pendientes**, y ahí no hay fuente que copiar sino que buscar.
+`correcciones-auditoria-agosto-2026`, 40 fichas, cada una con la fuente escrita dentro. **El barrido está cerrado entero**: los 384 datos sin fuente se han verificado en
+cuatro rondas y están aplicados.
 
 Lo ya corregido en agosto está en el historial de git y no se repite.
 
@@ -1068,6 +1067,53 @@ fusionarse.
 1977, así que salen del patrón de «empresas oportunistas sin trayectoria» que la ficha de Azimuth
 construía. Las verdaderamente anómalas son Azimuth, de dispositivos médicos auditivos, y Mir & Cruz,
 de venta al por mayor no especializada.
+
+### Cuarta ronda: los 236 datos restantes
+
+Casos, historia, autores, marco legal, ferias y guion. Los agentes los descompusieron en **207
+afirmaciones: 32 verificadas, 102 parciales, 49 refutadas y 24 no verificables**. Es la ronda con la
+tasa de refutación más alta, y la que obliga a mirar de frente un problema de método.
+
+**Le poníamos nombre y apellidos al fabricante del gas sin tener nada.** En Argentina, «CS
+estadounidense (CTS, Federal Labs) y local (Fabricaciones Militares)». En Chile, «CS y CN
+estadounidense e israelí». En Líbano, «estadounidense, probablemente CTS o Safariland, y balas
+brasileñas de Condor». En Túnez, «CAC Systems, Alsetex, Combined Systems, Federal Labs». En Libia,
+«italiano, RUAG / Ammotec», cuando RUAG es suiza. **Cinco países, ninguna fuente.** Todas retiradas.
+En Líbano, además, lo documentado apunta a lo contrario: Amnistía analizó 101 vídeos y 175
+instancias de uso entre 2015 y 2020 y lo que identificó fue material **francés**, granadas Alsetex
+CM4 y CM6, Nobel Securité MP7 y lanzagranadas Alsetex Chouka.
+
+**Dos signaturas de la ONU que no existen.** `A/HRC/26/36/Add.4` no está en el sistema de documentos:
+el contenido sobre armas menos letales está en el cuerpo del informe principal, sección E, párrafos
+101-107. Y la «Resolución 73/304 sobre derechos humanos en la era de la IA» tampoco: A/RES/73/304 es
+*«Towards torture-free trade»*, de 28 de junio de 2019, que resulta ser mucho más útil para el
+proyecto que la que creíamos tener. La signatura de Melzer también estaba mal asignada: A/HRC/34/54
+es su primer informe de presentación del mandato, y el temático es **A/72/178**.
+
+**La genealogía colonial de la bala de goma se queda sin sus pilares.** El «Singapur, década de 1880,
+trozos de madera cortados de mangos de escoba» —que la wiki presentaba como primer antecedente
+documentado del proyectil de impacto cinético— **no tiene ninguna fuente**. Tampoco «los años 60 en
+Hong Kong y Malasia», ni «1971, EE. UU. contra manifestantes anti-Vietnam» con su cita
+entrecomillada sin atribuir, ni «la Alemania nazi de los años treinta» como primer uso del cañón de
+agua. Es el relato que sostiene la ficha `historia/balas-goma` y hay que reconstruirlo entero.
+
+**Rodney King: el Taser que citábamos no podía existir.** «Modelo TF-76 de Taser International» es
+imposible en 1991, porque **Taser International no se llamaba así hasta 1998**; el arma del LAPD la
+fabricaba Tasertron. Y ningún documento del caso identifica el modelo, ni tampoco el de las porras,
+así que el «PR-24» también se retira.
+
+**Y cuatro cifras que eran de otra cosa.** Los «+30 cañones de agua» de Hong Kong eran **tres**. El
+patio de Melilla eran **200 m² con unas 400 personas**, no 1.350 m² con 700-800, y el dato correcto
+es peor. Las «+1.000 denuncias» de Dufresne son **993 señalamientos**, de los que 781 son heridas y
+211 son trabas a la prensa. Y los «2 muertos» de su recuento son **cuatro**.
+
+**Lo que la ronda cierra en positivo**, y no es poco. La **escopeta Franchi SPS 350** queda
+verificada por fin, en los pliegos de contratación del propio Cuerpo Nacional de Policía, cerrando un
+pendiente de la primera ronda. El disparo a Roger Español fue a **14,12 metros**, según el auto de la
+Audiencia de 19 de marzo de 2025. La patente del bastón eléctrico para ganado tiene número y fecha:
+**US 427.549, «Electric Prod-Pole», John M. Burton, Wichita, concedida el 13 de mayo de 1890**, diez
+años después de lo que decíamos. Y los 151.288 cartuchos de Chile salen de una respuesta de
+Carabineros por transparencia, amparo rol C742-20, publicada por CIPER.
 
 Lo que la ronda cierra en positivo: los **58 palestinos** quedan verificados con B'Tselem
 (*Death Foretold*, diciembre de 1998), y el 28/30 resulta ser el desglose de esos mismos 58, no una
