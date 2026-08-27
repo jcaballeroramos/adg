@@ -77,10 +77,9 @@ Eso **contradice la tesis del cruce accidental**: el agente siguió a Dilan con 
 | Impacto del proyectil | 23 noviembre 2019 |
 | Muerte | 25 noviembre 2019 |
 | Reconstrucción de la Fiscalía | diciembre 2019 |
-| Informe de Forensic Architecture | julio 2023 |
-| **La Procuraduría reabre la investigación** por violaciones graves de derechos humanos y uso excesivo de la fuerza | **febrero 2026** |
+| Informe de Forensic Architecture con 070 | septiembre 2023 |
+| **La Procuraduría anula su propia sentencia de 2024** —que había sancionado a Cubillos por falta grave, no gravísima, con multa de 14 millones de pesos— y reabre el disciplinario para juzgarlo como grave violación de derechos humanos | **febrero-marzo 2026** |
 | Publicación del vídeo oculto | 25 mayo 2026 |
-| **La Procuraduría anula su propia sentencia de 2024** y reabre el disciplinario como grave violación de DDHH | **marzo 2026** |
 | **El Tribunal Administrativo de Cundinamarca condena al Estado**, al Ministerio de Defensa y a la Policía Nacional | **julio 2026** |
 | Publicación del reel de Cerosetenta que ordena las tres investigaciones | 20 julio 2026 |
 
@@ -96,9 +95,11 @@ La sentencia identifica el arma: escopeta con proyectil **tipo «bean bag»**, q
 
 La familia: *«no hay sentencia que pueda devolverlo»*. Y sigue faltando la vía penal: la contencioso-administrativa declara la responsabilidad del Estado, no la individual del agente.
 
-### La vuelta atrás de la Procuraduría (marzo de 2026)
+### La vuelta atrás de la Procuraduría (principios de 2026)
 
-En **marzo de 2026** la Procuraduría **anuló su propia sentencia de 2024**, en la que había sancionado al capitán Cubillos por una falta **grave, no gravísima**, con una multa de **14 millones de pesos**. Reabrió el caso disciplinario para juzgarlo como **grave violación de derechos humanos**.
+La Procuraduría **anuló su propia sentencia de 2024**, en la que había sancionado al capitán Cubillos por una falta **grave, no gravísima**, con una multa de **14 millones de pesos**. Reabrió el caso disciplinario para juzgarlo como **grave violación de derechos humanos**.
+
+> ⚠️ La fecha exacta baila entre fuentes: el reel de Cerosetenta dice marzo de 2026, RTVC sitúa la reapertura en febrero, e Infobae informa de la orden de reinicio el 21 de mayo. Pueden ser pasos distintos del mismo expediente. **Pendiente de fijar con el número de radicado de la Procuraduría.**
 
 **Manuel Cubillos fue ascendido a mayor y sigue en servicio activo.** La fiscal Claudia Niño no había adoptado una decisión de fondo transcurridos dieciocho meses.
 
