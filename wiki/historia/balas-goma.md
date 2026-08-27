@@ -10,7 +10,7 @@ tags: [historia, kinetic, balas-goma, singapur, hong-kong, irlanda-norte, stephe
 ## El laboratorio colonial británico
 
 ### Los primeros prototipos
-El **Imperio británico** fue pionero. En la **década de 1880, en Singapur**, los británicos disparaban **trozos de madera cortados de mangos de escoba** contra los manifestantes. En los **años 60** usaron balas de madera más avanzadas en **Hong Kong y Malasia**.
+> ⚠️ **Dato retirado hasta documentarlo (27 de agosto de 2026).** La ficha decía que «en la década de 1880, en Singapur, los británicos disparaban trozos de madera cortados de mangos de escoba contra los manifestantes», y lo presentaba como **primer antecedente documentado del proyectil de impacto cinético**. **No se ha localizado ninguna fuente que lo sostenga.** Es la piedra angular de la genealogía colonial que sostiene esta ficha, así que conviene cerrarla bien antes de usarla en pantalla.
 
 ### La industrialización del dolor
 El paso a los proyectiles de **goma y plástico de PVC** se dio en los **años 70** durante el conflicto en **Irlanda del Norte (The Troubles)**.
@@ -18,7 +18,7 @@ El paso a los proyectiles de **goma y plástico de PVC** se dio en los **años 7
 - Provocó la primera muerte documentada por **rebote**: el niño **[[../casos/espana-europa/stephen-geddis|Stephen Geddis]]**.
 
 ### EE.UU.
-También probó las balas de goma en **1971** contra manifestantes anti-Vietnam. Tras causar una muerte, admitieron que:
+> ⚠️ **Dato y cita retirados (27 de agosto de 2026).** La ficha afirmaba que EE. UU. probó balas de goma en 1971 contra manifestantes anti-Vietnam, que causaron una muerte, y que «los militares» admitieron que «se introdujeron sin haberse realizado ningún estudio preciso sobre su impacto en el cuerpo humano». **Nada de eso se ha podido localizar**, y la cita entrecomillada no tiene atribución.
 
 > "Se introdujeron sin haberse realizado ningún estudio preciso sobre su impacto en el cuerpo humano."
 
