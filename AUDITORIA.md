@@ -811,8 +811,13 @@ técnica. El enlace de Irídia a ese informe (issuu.com/stopbalesdegoma/docs/inf
 devuelve 404. Los 144 J de Irídia tampoco tienen doble fuente independiente: la corroboración es
 aritmética (masa oficial por velocidad de fabricante), no una segunda medición, y el catálogo de
 MAXAM que da los 60 m/s se cita a través de Irídia porque maxam.net ya no resuelve. Por dónde
-seguir: pedir a Stop Bales de Goma el informe de 2013 y a Irídia el catálogo *Law Enforcement* de
-MAXAM que citan en su nota 92.
+seguir: pedir a Irídia el catálogo *Law Enforcement* de MAXAM que citan en su nota 92. (El informe de
+Stop Bales de Goma de 2013 ya está localizado: ver arriba.)
+
+**El informe de Stop Bales de Goma de 2013 SÍ está disponible** (comprobado el 27 de agosto de 2026).
+La URL de `stopbalesdegoma.wordpress.com` devuelve **HTTP 200 y 5,8 MB**, y hay copia en el Internet
+Archive (instantánea de 5 de julio de 2024). Lo que da 404 es el **enlace de issuu que cita Irídia**,
+no el original. Este pendiente queda cerrado.
 
 **El informe de test TR-16973.02 de B&T sobre el SIR-X.** Es la única fuente de los «30 metros del
 fabricante», y solo la cita Irídia. Toda la prensa del 16 de febrero de 2022 (Directa, VilaWeb,
@@ -820,7 +825,14 @@ NacióDigital, El Punt Avui, elmon.cat, elDiario.es) reproduce su nota y no es i
 Amnistía Internacional Catalunya repite los 30 m en diciembre de 2023, probablemente de la misma
 fuente. B&T no publica especificaciones de la SIR-X y el distribuidor solo da alcance efectivo (80
 m). Para cartela hay que escribir «según el informe de test TR-16973.02 de B&T citado por Irídia»,
-o usar los 25 m, que sí están en documento oficial abierto. Por dónde seguir: pedirlo a Irídia,
+o usar los 25 m, que sí están en documento oficial abierto. La formulación completa que Irídia cita
+es más específica de lo que teníamos: por debajo de 30 metros el proyectil puede causar «lesiones
+severas como laceraciones, traumatismo craneoencefálico, rotura de bazo, hígado o corazón,
+traumatismo torácico grave y hemorragias internas».
+
+**Y hay un desenlace que la wiki no tenía**: el **28 de marzo de 2025 los Mossos retiraron el SIR-X**
+de los arsenales de la ARRO y de la Brimo, por orden de Josep Lluís Trapero, en cumplimiento del
+acuerdo del Parlament de 2023. Las unidades de orden público quedan solo con el SIR. Por dónde seguir: pedirlo a Irídia,
 que lo tiene, y buscarlo en el sumario del Juzgado de Instrucción 7 de Barcelona.
 
 **El dictamen pericial de la Fundació d'Investigació Omega sobre el protocolo de los Mossos.** Lo

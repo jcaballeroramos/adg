@@ -83,6 +83,17 @@ Es **la primera pieza sonora importante** del ecosistema mediático español que
 - **Padre — Eric Cuesta** — entrevista realizada por nosotros (pendiente de localizar archivo).
 - **Som Defensores** campaign: https://x.com/SomDefensores/status/1978476832812118154
 
+
+## El SIR-X fue retirado en marzo de 2025
+
+**El 28 de marzo de 2025 los Mossos retiraron el proyectil SIR-X** de los arsenales de las unidades **ARRO** y de la **Brimo**. La orden la dio el director general de la policía, **Josep Lluís Trapero**, a la División de Intervención, después de que los mandos de unidad ordenaran esa semana inventariar y retirar los proyectiles.
+
+Las dos unidades antidisturbios quedan solo con el **SIR**, de menor alcance y potencia, autorizado «cuando el objetivo se encuentra a 5 metros —tres más de lo que pide el fabricante— y hasta 30 metros». Como alternativa disponen de gas CS y fumígenos, que se disparan con la misma lanzadora de 40 mm.
+
+La retirada cumple el acuerdo del **Parlament de 2023**, en el marco de la Comissió d'Estudi del Model Policial, y llegó condicionada a que existieran «herramientas alternativas para la policía». Fue una concesión de ERC a la CUP para la investidura de Aragonès.
+
+> ✅ **Añadido el 27 de agosto de 2026.** Es el desenlace normativo del caso y la wiki no lo tenía. El arma que dejó ciega a Áfrika ya no está en manos de las unidades de orden público catalanas.
+
 ## Conexiones
 - ↔ [[roger-garcia-foam-2019]] · [[abdelillah-foam-2019]] — las otras víctimas de foam de los Mossos. **No intervienen en el programa de Carne Cruda**, al contrario de lo que decía esta ficha.
 - ↔ [[olga-proces]] — otra víctima de bala de foam de los Mossos en protestas.

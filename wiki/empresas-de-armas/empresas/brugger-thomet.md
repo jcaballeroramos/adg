@@ -63,6 +63,16 @@ La suministradora al Departament d'Interior de la Generalitat fue **Eurodistribu
 - ↔ [[verney-carron]] — el fabricante del Flash-Ball de 44 mm, el arma anterior, al que la wiki atribuía por error el LBD 40.
 - ↔ [[alsetex]] · [[../../empresas-de-armas/empresas/target-dynamics-international]] — distribución y licencias.
 
+## El SIR-X, retirado en Catalunya
+
+**El 28 de marzo de 2025** los Mossos d'Esquadra **retiraron el SIR-X** de los arsenales de la **ARRO** y de la **Brimo**, por orden del director general de la policía **Josep Lluís Trapero**. Las unidades de orden público quedan solo con el **SIR**, de menor alcance y potencia. Cumple el acuerdo del **Parlament de 2023** en el marco de la Comissió d'Estudi del Model Policial, condicionado a que existieran «herramientas alternativas».
+
+## El contenido del informe de test TR-16973.02
+
+Sigue sin ser público, pero la formulación que cita Irídia es más específica de lo que esta ficha recogía: por debajo de **30 metros** el proyectil puede causar **«lesiones severas como laceraciones, traumatismo craneoencefálico, rotura de bazo, hígado o corazón, traumatismo torácico grave y hemorragias internas»**.
+
+> ⚠️ Sigue siendo **cita de Irídia, no documento abierto**. Atribuir siempre.
+
 ## Fuentes (acceso 26 ago 2026)
 
 - **Protocol d'utilització de les llançadores de 40 mm i dels seus projectils**, Policia de la Generalitat – Mossos d'Esquadra, 16/07/2019, revisión 27/10/2023: <https://mossos.gencat.cat/web/.content/home/01_els_mossos_desquadra/eines_policials/doc/Protocol-dutilitzacio-de-les-llancadores-de-40-mm-i-dels-seus-projectils_16_07_2019-Revisio_27_10_2023-1.pdf>
