@@ -6,7 +6,7 @@ edad: 38
 fecha_hechos: 2021-11
 lugar: Badalona, Catalunya
 arma: Taser X26 (Mossos d'Esquadra)
-resultado: muerte (primera muerte por taser en Catalunya)
+resultado: muerte (única muerte conocida en Catalunya asociada al uso del Taser)
 abogada: Mireia Salazar Gabarró
 tags: [antonio-c, taser, mossos, badalona, primera-muerte-taser, omega]
 ---
@@ -18,7 +18,9 @@ tags: [antonio-c, taser, mossos, badalona, primera-muerte-taser, omega]
 
 Llegaron los **Mossos d'Esquadra**. La respuesta fue **6 descargas de Taser**, de **5 segundos cada una**. **Dos de las descargas se produjeron cuando ya estaba reducido y totalmente desarmado**.
 
-Antonio murió. Es la **primera muerte por taser en Catalunya**.
+Antonio murió en el hospital **veinticuatro horas después**. Es, hasta donde se sabe, la **única muerte conocida en Catalunya asociada al uso del Taser**. Así lo formula **Andrés García Berrio**, de [[../../autores-y-referencias/organizaciones/iridia|Irídia]], la organización que acompaña a la familia: «de momento, es el único caso de muerte conocido en Cataluña por el uso del Taser».
+
+> ⚠️ **Matiz corregido el 27 de agosto de 2026.** «Única muerte conocida **asociada al uso**» no es lo mismo que «primer muerto **por** Taser». La causalidad es precisamente lo que se discute en el procedimiento, y afirmarla cerrada debilita el caso en vez de reforzarlo.
 
 ## El recorrido judicial
 - **Caso archivado** inicialmente.

@@ -10,7 +10,11 @@ tags: [historia, taser, jack-cover, NASA, tom-swift, derechos-civiles, ganado]
 ## De picana para ganado a arma policial
 
 ### Origen ganadero
-Pasó de ser un **bastón eléctrico para ganado** patentado en **1880** a usarse contra los manifestantes de los **derechos civiles en Alabama** en los años 60.
+Pasó de ser un **bastón eléctrico para ganado** a usarse contra los manifestantes de los **derechos civiles en Alabama** en los años 60.
+
+La patente tiene número y fecha: **US 427.549, «Electric Prod-Pole»**, de **John M. Burton, de Wichita (Kansas)**, solicitada el **18 de marzo de 1890** (Serial No. 344.280) y **concedida el 13 de mayo de 1890**. ✅
+
+> ⚠️ **Corregido el 27 de agosto de 2026: es 1890, no 1880.** La fecha que circulaba estaba diez años desplazada y sin número de patente.
 
 ### El nombre: Tom Swift Electric Rifle
 El acrónimo **T.A.S.E.R.** fue creado en **1974** por **Jack Cover**, un ingeniero de la **NASA**.

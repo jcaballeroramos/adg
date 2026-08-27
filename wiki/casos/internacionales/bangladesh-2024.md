@@ -17,7 +17,7 @@ tags: [bangladesh, sheikh-hasina, awami-league, estudiantes, cuotas, rab, perdig
 # Caso · Bangladesh — Revolución de julio (2024)
 
 ## El contexto
-**Julio-agosto 2024**. Estudiantes universitarios bangladesíes protestan contra el sistema de **cuotas de empleo público** que reservaba el 30% de los puestos para descendientes de combatientes de la **Guerra de Liberación de 1971**. La movilización se transforma rápidamente en una **revuelta general** contra el gobierno autoritario de **Sheikh Hasina** (Awami League), que llevaba **15 años en el poder**.
+**Julio-agosto 2024**. Estudiantes universitarios bangladesíes protestan contra el sistema de **cuotas de empleo público** que reservaba el **30% de las plazas** para descendientes de combatientes de la **Guerra de Liberación de 1971** —una fracción de un esquema de cuotas más amplio, no su totalidad—. El Gobierno de Sheikh Hasina lo había abolido por circular en **2018**; el **Tribunal Superior lo restableció el 5 de junio de 2024**, revocando aquella decisión, y ese es el detonante inmediato. ✅ La movilización se transforma rápidamente en una **revuelta general** contra el gobierno autoritario de **Sheikh Hasina** (Awami League), que llevaba **15 años en el poder**.
 
 ## La represión
 La respuesta del gobierno fue **brutal y desproporcionada**:

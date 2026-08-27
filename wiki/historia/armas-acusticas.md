@@ -9,13 +9,17 @@ tags: [historia, acústica, LRAD, mosquito, schallkanone, valaushek, G20]
 
 ## El fracaso nazi y la modernidad
 
-### Schallkanone (cañón sónico nazi)
-Durante la **Segunda Guerra Mundial**, el ingeniero alemán **Richard Valaushek** creó el **cañón sónico nazi**: una máquina enorme diseñada para emitir **infrasonidos** que causaran vértigo y pánico.
+### Schallkanone (cañón sónico)
+Circula en la literatura divulgativa la historia de un cañón sónico alemán de la Segunda Guerra Mundial que habría emitido infrasonidos para provocar vértigo y pánico, y que habría fracasado porque el sonido no se podía dirigir y afectaba a los propios operadores.
+
+> ⚠️ **Dato sin fuente, no llevar a pantalla (27 de agosto de 2026).** No se ha localizado documentación que acredite el aparato, y el nombre **«Richard Valaushek» no aparece en ninguna fuente localizable**: probablemente esté mal transcrito.
 
 Fracasó porque el sonido **no se podía dirigir** y terminaba afectando a los propios operadores.
 
 ### LRAD (Long Range Acoustic Device)
-En el año **2000**, la tecnología militar lo hizo posible creando el **LRAD**, capaz de emitir **162 decibelios**.
+El **LRAD** lo desarrolla la empresa estadounidense **American Technology Corporation** (San Diego, hoy **Genasys**) a partir del atentado contra el **USS Cole** del **12 de octubre de 2000**, y en paralelo a los requisitos de las *Naval Vessel Protection Zone* de la Marina estadounidense.
+
+> ⚠️ **Corregido el 27 de agosto de 2026.** El año 2000 no es «la fecha de creación» sino la del atentado que lo origina. Y **los 162 decibelios no son una cifra del LRAD sin más: dependen del modelo** y de la distancia de medición. La tabla por modelo está en [[tipos-de-armas-tabla]].
 
 Cronología de uso:
 - **2009** — cumbres del **G20** y contra **piratas**.
