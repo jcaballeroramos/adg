@@ -45,11 +45,15 @@ Catálogo de **empresas intermediarias** que han facilitado la venta y distribuc
 - Vinculada a **uso excesivo de la fuerza** por parte de fuerzas que emplean sus productos.
 
 ### Falken S.A. (España)
-- **Fundada en 1981**, especializada en producción de armas "menos letales".
-- **Asociada en 2005 con la venezolana CAVIM** para fabricación conjunta.
+- **Falken S.A.**, inscrita en el **Registro Mercantil de Madrid** (hoja **H M 76903**), especializada en artificios pirotécnicos y productos «menos letales». Las bases registrales fechan su constitución el **24 de noviembre de 1981**.
+- Empresa **de la familia Bardisa Jordá**: la presidencia y el consejo los ocuparon los hermanos **José, Juan y Jorge Bardisa Jordá**, con Fernando como exconsejero. Un quinto hermano, **Ismael Bardisa Jordá**, fue **diputado del PP por Madrid entre 1996 y 2008**.
+  > ⚠️ Corregido el 27 de agosto de 2026: **no fue «su fundador» quien fue político del PP**, sino un hermano de los que dirigían la empresa.
+- **Asociada en 2005 con la venezolana Cavim** «para la elaboración conjunta de estos materiales en Venezuela», según *El negocio de la represión* (El CLIP con Efecto Cocuyo, 7 de junio de 2022).
+  > ⚠️ **Dato no verificado: fuente única y sin documento.** No hay Gaceta Oficial, registro mercantil ni contrato que acredite la sociedad. No usar en pantalla hasta cerrarlo.
 - **Exportaciones a Venezuela** entre 2005 y 2014 por **5,6 millones de euros**.
-- **46 contratos públicos en España** hasta 2012.
-- En **2020 pasó a formar parte del Grupo Etienne Lacroix de Francia**.
+- **Hasta 46 contratos públicos** con el Gobierno español —gas lacrimógeno y fumígenos sobre todo, pero también grilletes, máscaras antigás y balas de goma—, **muchos por procedimiento negociado y sin publicidad**, según el recuento de *Diagonal* (Ter García, 9 de mayo de 2012).
+- Adquirida por el grupo francés **Etienne Lacroix a finales de 2018**. El **11 de enero de 2019** el Registro Mercantil de Madrid inscribe la declaración de unipersonalidad con **Etienne Lacroix Finances** como socio único, y en el mismo asiento cesan los tres hermanos Bardisa Jordá.
+  > ⚠️ **Corregido: la adquisición es de 2018-2019, no de 2020.**
 - Su **fundador fue político del Partido Popular**.
 - Suministró equipos utilizados en la represión de protestas en Venezuela.
 - También expone en [[../../ferias-de-armas/feindef/00-overview|FEINDEF]].
@@ -80,7 +84,10 @@ Catálogo de **empresas intermediarias** que han facilitado la venta y distribuc
 
 ### 🇦🇷 Argentina — Automation Systems
 - Empresa de un **oficial condenado por crímenes durante la dictadura militar**.
-- Ganó **31 contratos con el Estado**, **una docena directos**.
+- Entre **2014 y 2021** ganó **31 licitaciones** en la plataforma estatal **Compr.ar**, **doce de ellas por contratación directa**, y proveyó a casi todas las fuerzas de seguridad argentinas (Revista Anfibia / El CLIP, Laureano Barrera, 7 de junio de 2022).
+  > La ficha de [[../../autores-y-referencias/organizaciones/buccello-y-asociados]] decía «+30 contratos»: es la misma cifra, 31, y conviene unificarla.
+- Empresa de **Carlos María Robbio**, oficial de la Armada, que la fundó en 2006 —primero como A1-TEC, con su compañero de promoción Armando Raúl Mayora—. El **27 de abril de 2020** Robbio fue **condenado a prisión perpetua** en el juicio de la **Subzona 15 de Mar del Plata** por encabezar una asociación ilícita durante la dictadura.
+  > **Tras la condena, la empresa siguió vendiendo al Estado argentino**: drones, cámaras, munición de 7,62 mm para francotiradores, munición de 5,56 × 45, un sistema de seguridad para la Casa de Gobierno en Olivos y municiones para la Fuerza Alacrán. ⚠️ La ficha hablaba de «ventas de armas a Bolivia durante el gobierno de Áñez»: **eso no está documentado**; lo documentado son las ventas al Estado argentino.
 - Ventas al Ministerio de Ambiente y Desarrollo Sostenible (2020-2021).
 - Provisión de equipos para el **G20 en Argentina**.
 - **Ventas de armas a Bolivia** durante el gobierno de Jeanine Áñez.
@@ -92,7 +99,7 @@ Catálogo de **empresas intermediarias** que han facilitado la venta y distribuc
 | **Comercial FF E.I.R.L.** | Ingeniero industrial intermediando NonLethal Technologies | ~500.000 USD |
 | **Defensa Representaciones** | Exfuncionario del Ejército + su hijo publicista | (en el mercado) |
 | **Mir y Cruz SpA** | Agrónomo + veterinaria, dueños de tienda de airsoft | **2,2 millones USD** |
-| **Sociedad Comercial Millennium** | Dueño Salomón Goldbaum, defensor de la ultraderecha | **86% de las escopetas** (408.000 USD) + cartuchos por 370.000 USD |
+| **Sociedad Comercial Millennium Limitada** | Activa desde **marzo de 1999** (entonces Taurus Limitada), RUT 77.261.030-0, Paseo Bulnes 193, Santiago. Socio mayoritario **Salomón Goldbaum Molina** | 408.000 USD en escopetas + 370.000 USD en cartuchos. ⚠️ **El «86% de las escopetas» no se sostiene** con lo verificado, y **no es una empresa sin trayectoria**: lleva más de veinte años en el sector con representación de Taurus, Sig Sauer y Springfield Armory |
 | **TEC Harseim SpA** | Gerente exdeportista olímpico de tiro | 107.000 USD |
 
 → ver [[chile-estallido-2019]].

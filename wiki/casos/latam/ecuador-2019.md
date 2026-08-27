@@ -17,13 +17,15 @@ tags: [ecuador, paro-octubre, conaie, lenín-moreno, perdigones, lacrimógenos-v
 - **Inocencio Tucumbi** — muerto por impacto de **bomba lacrimógena en la frente**.
 - **Édison Mosquera** (29 años) — muerto por impacto de perdigón en la cabeza.
 - **6 muertos** según informe de la Defensoría del Pueblo.
-- **22 personas con lesiones severas**, incluyendo **pérdida de ojos** y discapacidades permanentes.
+- **20 personas civiles con lesiones oculares** por impacto de bombas, perdigones u objetos contundentes; **14 perdieron el globo ocular** y 6 quedaron con la visión afectada (**Comisión Especial para la Verdad y la Justicia** de la Defensoría del Pueblo del Ecuador, informe **PE-002-DPE-2021**). La **CIDH** recibió «al menos diecinueve testimonios» de pérdida total o parcial de visión.
+  > ⚠️ **Retirado el «22»**: en el informe de la CEVJ ese número corresponde a otra categoría.
 
 ## Cómo se usaron las armas
 - **Bombas lacrimógenas**, algunas **vencidas**.
 - **Perdigones y balas de goma disparados directamente al cuerpo a corta distancia**.
 - Policías **avanzaron y dispararon a corta distancia mientras los manifestantes estaban en el suelo**.
-- **40.000 bombas lacrimógenas y perdigones** utilizados (cifra oficial).
+- **Cerca de 39.000 municiones menos letales** en once días, según la contabilidad de la **propia Policía Nacional**: el general **Patricio Carrillo** declaró ante la Comisión de Fiscalización de la Asamblea Nacional el **28 de octubre de 2020** el uso de **38.500 unidades de gas CS**, y el informe del Puesto de Mando Unificado que él mismo firma habla de unas 38.600 bombas de todo tipo.
+  > ⚠️ **No escribir «40.000»**: ningún documento da esa cifra.
 - Falta total de protocolos adecuados.
 
 ## El intermediario clave: Juan Francisco Herdoíza Palacios
