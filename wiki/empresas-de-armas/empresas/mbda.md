@@ -9,7 +9,7 @@ tags: [mbda, misiles, europa, airbus, bae-systems, leonardo, aster, mistral, ake
 
 # MBDA
 
-**MBDA** es el **principal grupo europeo de misiles**, creado en **2001** como filial conjunta de **Airbus**, **BAE Systems** y **Leonardo** (con participación menor española). Fabrica misiles antiaéreos, antitanque, de crucero y de defensa aérea para los ejércitos europeos y para exportación.
+**MBDA** es el **principal grupo europeo de misiles**, creado en **2001** como filial conjunta de **Airbus**, **BAE Systems** y **Leonardo** ✅ (con participación menor española). Fabrica misiles antiaéreos, antitanque, de crucero y de defensa aérea para los ejércitos europeos y para exportación.
 
 - Productos citados en Eurosatory 2026: el misil antiaéreo **Aster** (base del sistema **SAMP/T NG**), el **Mistral** (antiaéreo portátil), el **Akeron MMP** (misil antitanque de medio alcance, sucesor del Milan). En el discurso de inauguración se anunció una **negociación exclusiva Safran/MBDA para el sucesor del LRU** (lanzacohetes unitario francés).
 

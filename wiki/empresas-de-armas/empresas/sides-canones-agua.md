@@ -12,7 +12,8 @@ tags: [sides, francia, cañones-agua, hong-kong, mezclas-químicas]
 Empresa **francesa** especializada en la fabricación de **cañones de agua** para control de multitudes. Una de las pocas empresas europeas que conserva esta línea de producto.
 
 ## Por qué importa para el documental
-- **Hong Kong, 2018**: el Estado francés autorizó la **exportación de cañones de agua Sides a Hong Kong** **a pesar de la represión** post-revolución de los paraguas (2014). El argumento del Estado fue que los **intereses económicos prevalecían**.
+- **Hong Kong, 2018**: la policía de Hong Kong recibió **tres vehículos antidisturbios con cañón de agua** sobre chasis Mercedes-Benz, por **16,59 millones de dólares de Hong Kong**; llegaron en **mayo de 2018** y la instrucción corrió a cargo de «a team of French police officers and experts from the manufacturer» (*South China Morning Post*).
+  > ⚠️ **Corregido el 27 de agosto de 2026.** Lo documentado es la **formación por policías franceses y técnicos del fabricante**, no una «autorización de exportación del Estado francés», y tampoco consta el argumento de que «los intereses económicos prevalecían». Son afirmaciones distintas y la segunda no tiene fuente.
 - Implicada en la **creación de mezclas químicas peligrosas** (huesos triturados, sangre seca, pezuñas — ver [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]]).
 - Probable proveedor de cañones de agua de la Policía Nacional francesa.
 
