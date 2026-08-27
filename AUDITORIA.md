@@ -21,9 +21,9 @@ Dos avisos sobre el material de partida. El primero, que `raw/` no contiene el v
 `raw/00-lote1-documento-original.md` sigue siendo el placeholder de cuatro líneas que nunca se
 rellenó, de modo que el barrido se hizo sobre `wiki/`, que son 237 ficheros. El segundo, sobre el estado de
 las fichas: **las correcciones de la fase 1 ya están aplicadas** en la rama
-`correcciones-auditoria-agosto-2026`, 40 fichas, cada una con la fuente escrita dentro. De los 384 datos sin fuente del barrido, los **41 de las tres fichas
-agregadoras** también están verificados y aplicados; los **343 restantes** siguen pendientes, y ahí
-no hay fuente que copiar sino que buscar.
+`correcciones-auditoria-agosto-2026`, 40 fichas, cada una con la fuente escrita dentro. De los 384 datos sin fuente del barrido están verificados y aplicados los
+**41 de las tres fichas agregadoras** y los **95 de las 38 fichas de empresa**. Quedan **248
+pendientes**, y ahí no hay fuente que copiar sino que buscar.
 
 Lo ya corregido en agosto está en el historial de git y no se repite.
 
@@ -1022,6 +1022,52 @@ agentes, que es otra cosa.
 
 **Y los 5.420 GMD arrastraban el mismo error de ventana que los 19.071 LBD**: son el año natural
 2018 completo, de la misma página del mismo informe de la IGPN.
+
+### Tercera ronda: las 38 fichas de empresa
+
+Verificados los **95 datos** de las fichas de `empresas-de-armas`, que los agentes descompusieron en
+107 afirmaciones: **17 verificadas, 54 parciales, 26 refutadas y 10 no verificables**. Todas
+aplicadas.
+
+El modo de fallo dominante en estas fichas es distinto al de las de caso: **la fuente corporativa
+disfrazada de dato**. Por eso los agentes llevaban una regla añadida, que la web de una empresa vale
+para su catálogo y sus especificaciones y nunca para su posición en el mercado.
+
+**Nadie puede decir quién domina este mercado.** Seis fichas afirmaban ser «una de las N empresas que
+dominan el mercado» con N distinto en cada una, 8, 10 y 15. Las seis salen de la misma Tabla 2 del
+Informe 56 del Centre Delàs, que lista quince empresas, diez estadounidenses. Y no mide cuota: el
+propio informe explica que recoge «las empresas que más destacan en el sector» según **dos informes
+comerciales de pago**. La Omega Research Foundation se lo dice al ACNUDH sin rodeos: «there are no
+reliable statistics for the size of the trade in less lethal weapons and equipment, partly because no
+States adequately regulate the trade, or collect meaningful data on it». La ausencia de estadística
+es en sí misma un dato del documental.
+
+**Fox-Armor no vende escudos con púas.** Se descargaron las siete páginas de su catálogo de escudos,
+80 URL de producto, y los dos sitemaps del dominio, 2.367 URL: cero ocurrencias de púa, pincho, spike
+o barb. Le estábamos atribuyendo un producto prohibido que no fabrica. Lo que sí vende es un
+**escudo eléctrico**, que el Anexo III.2.1 del Reglamento (UE) 2019/125 somete a licencia.
+
+**«Intrínsecamente abusivo» no es de la Relatora.** Su fórmula es «intrínsecamente cruel, inhumano o
+degradante», categoría A de A/78/324, párrafos 44, 50 y 51. La etiqueta viene de comunicados de
+Amnistía y de Omega.
+
+**Arquus ya no es del grupo Volvo.** AB Volvo cerró la venta a John Cockerill Defense el 2 de julio
+de 2024.
+
+**ALS y AMTEC son la misma empresa.** «ALS Less Lethal» es el nombre comercial de AMTEC Less Lethal
+Systems (Perry, Florida), comprada por PACEM Defense el 18 de octubre de 2018. Las dos fichas deben
+fusionarse.
+
+**Tres correcciones de categoría que cambian el sentido.** Los 183 M$ de Condor son exportaciones del
+**municipio** de Nova Iguaçu, atribuidas a la empresa por una inferencia que Omega declara. Los
++30.000 proyectiles de Diehl no existen: lo documentado es un contrato marco de hasta 350.000 hasta
+2029 con una agrupación en la que está Nammo, y un pedido en firme de 4.700. Y St. Louis compró Skunk
+**después** de Ferguson, no durante: factura del 14 de noviembre de 2014.
+
+**Y dos fechas que sostenían un relato equivocado.** Millennium lleva desde 1999 y TEC Harseim desde
+1977, así que salen del patrón de «empresas oportunistas sin trayectoria» que la ficha de Azimuth
+construía. Las verdaderamente anómalas son Azimuth, de dispositivos médicos auditivos, y Mir & Cruz,
+de venta al por mayor no especializada.
 
 Lo que la ronda cierra en positivo: los **58 palestinos** quedan verificados con B'Tselem
 (*Death Foretold*, diciembre de 1998), y el 28/30 resulta ser el desglose de esos mismos 58, no una
