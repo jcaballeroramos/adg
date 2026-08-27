@@ -39,7 +39,7 @@ y a Amnistía.
 
 - Da nombre y fecha al umbral jurídico que el documental necesita: la ONU ya no discute solo
   el *uso* de estas armas sino su *comercio*, que es exactamente el terreno de las ferias.
-- Los guantes de electrochoque de [[../empresas-de-armas/empresas/compliant-technologies|Compliant Technologies]]
+- Los **guantes de electrochoque** de [[../empresas-de-armas/empresas/compliant-technologies|Compliant Technologies]] que el **ICE planea comprar**: una **previsión de adquisición** publicada por el DHS en **agosto de 2026**, por entre 10 y 20 millones de dólares, con intención de contrato sin licitación **aún no publicado**. Es una previsión, no una compra ejecutada. Pertenecen a la familia de las **armas de electrochoque de contacto directo**, que el informe **A/78/324** sitúa entre el material prohibido de la **categoría A**: «"Electric shock weapons", such as body-worn electric shock devices and direct contact electric shock weapons». ✅
   comprados por el ICE en 2026 caen de lleno en la categoría de dispositivos de contacto
   directo del anexo 1.
 
