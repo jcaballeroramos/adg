@@ -5,7 +5,7 @@ pais: Túnez
 año: 2011
 fecha_inicio: 2010-12-17
 contexto: Revolución del Jazmín — inicio de la Primavera Árabe
-victimas: "338 muertos y 2.174 heridos (datos ONU)"
+victimas: "338 muertos y 2.147 heridos, cifra provisional de la Comisión Bouderbala (informe final, 4 de mayo de 2012)"
 tags: [tunez, 2011, primavera-arabe, jazmin, bouazizi, ben-ali, gas-lacrimogeno, inicio]
 ---
 
@@ -18,14 +18,15 @@ Su gesto desata una **oleada de protestas** en toda Túnez contra la dictadura d
 
 ## La represión con gas lacrimógeno
 Desde las primeras protestas, la **policía tunecina** responde con **gas lacrimógeno masivo** en las **avenidas principales de Túnez capital**, **Sfax**, **Kasserine** y **Thala**. El régimen utilizaba principalmente:
-- **Material francés** (CAC Systems / Alsetex) — Francia era aliada histórica del régimen Ben Ali.
-- **Material estadounidense** (Combined Systems, Federal Labs).
+> ⚠️ **Atribución retirada el 27 de agosto de 2026.** Esta ficha daba «material francés (CAC Systems / Alsetex)» y «material estadounidense (Combined Systems, Federal Labs)». **El material de 2010-2011 no está atribuido a ningún fabricante** en las fuentes disponibles. Lo documentado es que desde las primeras protestas la policía tunecina responde con **gas lacrimógeno masivo** en las avenidas principales de Túnez capital, Sfax, Kasserine y Thala, y con **munición real**. Francia sí era aliada histórica del régimen de Ben Ali, pero eso no acredita qué material se usó.
 - **Municiones locales** de fabricación nacional.
 
 ## Las cifras
 - **14 de enero de 2011** — Ben Ali huye a Arabia Saudí. El régimen cae.
-- **338 muertos** y **2.174 heridos** (datos del informe de la **Comisión ONU sobre Túnez**, 2011).
-- De estas muertes, una parte significativa fue causada por **disparos con munición real**, pero **decenas** murieron por **asfixia** en calles saturadas de gas, especialmente en barrios populares como **Ettadhamen**.
+- **338 muertos y 2.147 heridos**, cifra provisional del informe final de la **Comisión Bouderbala**, la comisión nacional de investigación tunecina presidida por Taoufik Bouderbala, presentado el **4 de mayo de 2012**. Su relatora general, Amel Wahchi, precisó que no existió un cuerpo específico de francotiradores, «sino más bien actos de asesinato cometidos» por agentes.
+  > ⚠️ Corregido el 27 de agosto de 2026: la fuente es la **Comisión Bouderbala** (2012), no un «informe de la Comisión ONU sobre Túnez» de 2011, y son **2.147** heridos, no 2.174.
+  >
+  > ⚠️ **Y no está documentado que «decenas murieran por asfixia»** en calles saturadas de gas. Esa afirmación se retira: no hay fuente que la sostenga y es exactamente el tipo de dato que el documental no puede permitirse dar por bueno.
 
 ## Francia y el "ofrecimiento Alliot-Marie"
 **11 de enero de 2011** — a solo 3 días de la caída del régimen, la ministra de Asuntos Exteriores francesa **Michèle Alliot-Marie** **ofrece públicamente en la Asamblea Nacional** el **"savoir-faire francés en mantenimiento del orden"** al régimen Ben Ali para ayudar a sofocar las protestas.

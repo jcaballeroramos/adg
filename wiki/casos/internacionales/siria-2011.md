@@ -47,7 +47,8 @@ Es decir: **el paso del gas lacrimógeno al sarín** se produjo **en dos años**
 - **Paul Rocher** y otros analistas ven Siria como el **punto de quiebre** donde el "menos letal" se reveló como **parte del mismo continuum represivo** que el arma química.
 
 ## El coste humano
-- **+500.000 muertos** (guerra civil 2011-2024).
+- **Muertos: no hay una cifra única, y las que existen no son comparables entre sí.** La **OACNUDH** estimó **306.887 civiles muertos** entre el 1 de marzo de 2011 y el 31 de marzo de 2021: 143.350 documentados uno a uno y 163.537 estimados con técnicas de imputación y estimación por sistemas múltiples (informe de 28 de junio de 2022). Las cifras de «+500.000» incluyen combatientes y proceden de otros recuentos con otra metodología.
+  > ⚠️ Corregido el 27 de agosto de 2026: dar siempre la cifra **con su fuente y su universo** (civiles frente a total, documentados frente a estimados).
 - **+13 millones de desplazados**.
 - **Miles de torturados** a muerte en cárceles del régimen.
 - **2024-2025** — caída de al-Ásad por una ofensiva relámpago de HTS tras 13 años de guerra.

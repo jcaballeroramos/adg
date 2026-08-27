@@ -50,7 +50,8 @@ Los botes **militares** (vs. los "policiales" civiles) son **cilindros largos y 
 
 ## Casos individuales emblemáticos
 - **Safaa al-Sarai** — poeta y activista muerto por un bote de gas lacrimógeno **directamente en la frente** el **28 de octubre de 2019**. Su muerte lo convirtió en **símbolo del movimiento**.
-- **Riham Yacoub** — doctora y activista LGBT, asesinada en **Basora en agosto de 2020** junto con su compañera activista Tahseen Osama.
+- **Basora, agosto de 2020 — dos asesinatos, no uno.** El **14 de agosto de 2020** fue asesinado el activista **Tahseen Oussama**; su muerte desencadenó protestas en la ciudad exigiendo depurar responsabilidades. El **19 de agosto**, en medio de esas protestas, pistoleros mataron a tiros a **Riham Yacoub**, de **30 años**. UNAMI documentó además que el **17 de agosto** hombres armados dispararon contra vehículos que transportaban activistas.
+  > ⚠️ **Corregido el 27 de agosto de 2026.** La ficha los daba como asesinados juntos y describía a Yacoub como «doctora y activista LGBT». Son dos hechos separados por cinco días, y la caracterización de Yacoub no está sostenida por las fuentes.
 - **Hisham al-Hashimi** — investigador del extremismo islamista, asesinado por milicianos en Bagdad (julio 2020).
 
 ## Los fabricantes iraníes
