@@ -25,7 +25,8 @@ Las empresas de **Silicon Valley** — especialmente **Anduril Industries**, **S
 
 ### 2. Drones de consumo → drones asesinos
 Ucrania ha **popularizado el dron comercial modificado** como arma:
-- **DJI Mavic** (chino, 500-2000 €) con **granada RGD-5** atada.
+- **Dron comercial modificado**: cuadricópteros de consumo, comprados en tiendas, adaptados para soltar munición y pilotados desde teléfonos Android con software libre. Precios del catálogo oficial de DJI **a comienzos de 2022**: Mavic 2 Zoom, 1.349 $; Mavic 2 Pro, 1.599 $.
+  > ⚠️ La horquilla «500-2000 €» no corresponde a ningún precio de catálogo. Fechar siempre el precio.
 - Lanzamiento desde teléfonos Android con software open source.
 - **Miles de bajas** causadas por drones FPV (First Person View) en Bajmut, Avdíivka, Pokrovsk.
 - Este patrón se **exportará**: los manuales que Ucrania está generando hoy serán el **manual global** de las próximas guerras urbanas (y de las próximas represiones).

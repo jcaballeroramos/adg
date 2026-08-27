@@ -6,7 +6,7 @@ ciudad: Los Ángeles
 año: 1991
 fecha_hechos: 1991-03-03
 victima: Rodney Glen King
-mecanismo: Porra (PR-24), patadas, taser, palos de béisbol
+mecanismo: Porra (porra (modelo no identificado en los documentos del caso)), patadas, taser, palos de béisbol
 tags: [rodney-king, los-angeles, 1991, taser, lapd, video, disturbios-92]
 ---
 
@@ -15,10 +15,13 @@ tags: [rodney-king, los-angeles, 1991, taser, lapd, video, disturbios-92]
 ## El caso
 **3 de marzo de 1991**. **Rodney Glen King** (1965-2012), **conductor afroamericano** de 25 años, es perseguido en su Hyundai por la **California Highway Patrol** y luego por agentes del **Los Angeles Police Department (LAPD)** tras una **persecución a alta velocidad** en la **interestatal 210**.
 
-Cuando finalmente se detiene en la **intersección de Foothill Boulevard con Osborne Street** (Lake View Terrace), es **rodeado por al menos 21 agentes**. Cuatro de ellos — **Stacey Koon, Laurence Powell, Theodore Briseno** y **Timothy Wind** — lo someten a una **paliza de 81 segundos**, asestándole:
-- **56 golpes con porras laterales PR-24**.
+- **Una paliza de aproximadamente minuto y medio.** La cronología que fija el Tribunal Supremo sobre la cinta sitúa los golpes entre el arranque de la grabación y el marcador **1:29**, cuando King pone las manos a la espalda y es esposado.
+  > ⚠️ La cifra de «81 segundos» que circula en prensa **no aparece ni en el informe de la Comisión Christopher ni en la sentencia**.
+- **56 golpes de porra y 6 patadas**, según el recuento de la Comisión Christopher sobre la cinta de Holliday: «after 56 baton blows and six kicks, five or six officers swarmed in». Las patadas las asestó el agente **Timothy Wind** «en la zona torácica alta o cervical» entre los marcadores 1:07 y 1:26 (*Koon v. United States*, 518 U.S. 81, 1996). A ellas se suma, como acto distinto, el **pisotón de Briseno** en la espalda o el cuello de King en el segundo 1:05.
+  > ⚠️ **Retirado «porra (modelo no identificado en los documentos del caso)»**: los documentos del caso hablan solo de «porras» y **ninguno identifica el modelo**. Retirarlo también del frontmatter.
 - **6 patadas**.
-- **2 descargas de Taser** (modelo TF-76 de Taser International, predecesor del X26).
+- **2 descargas de Taser**: el sargento Stacey Koon disparó el arma «una vez, y luego otra», y declaró que King «no respondió a ninguno de los dos disparos» (*Report of the Independent Commission on the LAPD*, comisión Christopher, julio de 1991, epígrafe «Use of the Taser»).
+  > ⚠️ **Retirado el «modelo TF-76 de Taser International» (27 de agosto de 2026).** **Ningún documento del caso identifica el modelo**: la Comisión Christopher y el Tribunal Supremo hablan solo de «the Taser electric stun gun» y de «taser darts». Y **Taser International no existía en 1991**: el arma que usaba el LAPD la fabricaba **Tasertron**, sucesora de la quebrada Taser Systems Inc. de Jack Cover.
 
 Resultado: **fracturas** en el cráneo, en la cara, en el tobillo, **dientes rotos**, **trastorno cerebral** permanente.
 

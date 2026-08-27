@@ -38,9 +38,9 @@ La represión fue **excepcionalmente letal**:
 - **Granadas aturdidoras**.
 
 ## Casos individuales emblemáticos
-- **Mya Thwe Thwe Khaing** — primera muerte documentada del movimiento. **19 años**, recibió un disparo en la cabeza durante una protesta el **9 de febrero de 2021**. Murió el **19 de febrero**. Su rostro se convirtió en símbolo de la resistencia.
-- **Kyal Sin ("Angel")** — joven manifestante de 19 años, muerta de un disparo en la cabeza el **3 de marzo de 2021**. Llevaba una camiseta que decía *"Everything will be OK"*.
-- **Khin Myo Chit** — niña de **7 años**, muerta dentro de su casa por una bala de las fuerzas del orden.
+- **Mya Thwe Thwe Khaing** — **la primera muerte** del movimiento contra el golpe. Recibió un disparo en la cabeza el **9 de febrero de 2021** en **Nay Pyi Taw**, cuando la policía dispersó a los manifestantes, y murió el **19 de febrero**. Tenía **19 años y le faltaban dos días para cumplir 20**. Amnistía Internacional, que analizó los vídeos, la sitúa resguardándose de los cañones de agua junto a otros manifestantes. ✅
+- **Kyal Sin**, conocida como **«Angel»**, 19 años, murió de un disparo en la cabeza el **miércoles 3 de marzo de 2021 en Mandalay**. Llevaba una camiseta con la frase **«Everything will be OK»**. Aquel 3 de marzo fue **la jornada más sangrienta desde el golpe: 38 manifestantes muertos**. ✅
+- **Khin Myo Chit**, de **siete años**, murió de un disparo el **martes 23 de marzo de 2021** en el municipio de **Chan Mya Thazi, Mandalay**, **dentro de su casa**. Según el relato de su hermana a *Myanmar Now*, estaba sentada en el regazo de su padre cuando los soldados entraron en la vivienda e intentaron dispararle a él. ✅
 
 ## Las protestas estéticas
 - **Saludo de tres dedos** (de *Los juegos del hambre*) adoptado del movimiento tailandés y birmano.
