@@ -21,10 +21,12 @@ tags: [dufresne, francia, periodismo, allo-place-beauveau, chalecos-amarillos, m
 **Allô Place Beauvau** (referencia irónica al ministerio del Interior francés, situado en la **Place Beauvau** de París) es el proyecto de **periodismo colaborativo** que Dufresne lanzó en *Mediapart* en noviembre 2018. Recogía a través de **redes sociales** y verificaba uno por uno cada caso de **violencia policial** durante los Chalecos Amarillos.
 
 Cifras finales (cierre del recuento, marzo 2020):
-- **+1.000 denuncias verificadas**.
+- **993 señalamientos verificados** al cierre del recuento (David Dufresne, *«Allo Place Beauvau — c'est pour un signalement final»*, davduf.net, **12 de enero de 2021**); 992 en el contador de la plataforma en Mediapart, última actualización del 12 de febrero de 2022.
+  > ⚠️ Corregido el 27 de agosto de 2026: **no eran «+1.000»**, y un *señalamiento* es un caso documentado, no una denuncia judicial.
 - **+800 heridos** documentados con nombres.
-- **2 muertos** (incluido **Zineb Redouane**, anciana de 80 años en Marsella, alcanzada por un bote de gas lacrimógeno).
-- **+30 personas que perdieron un ojo** por LBD40.
+- **4 muertes** en el recuento (contador de Allô Place Beauvau, 12 de febrero de 2022), que conviene no fundir en una sola cifra. Entre ellas, **Zineb Redouane**, de **80 años**, alcanzada en **Marsella** por una granada lacrimógena.
+  > ⚠️ Corregido: eran cuatro, no dos.
+- **Más de 30 personas que perdieron un ojo** por LBD 40 y **más de 5 manos arrancadas** por GLI-F4. Cifras del recuento de Dufresne; darlas atribuidas a *Allô Place Beauvau*, no como dato oficial.
 - **+5 manos arrancadas** por GLI-F4.
 
 Cada caso era publicado como un **hilo en Twitter** con foto, vídeo, fecha, ubicación y herida. La **base de datos pública** se convirtió en la **única fuente fiable** para Naciones Unidas, Amnistía Internacional y Human Rights Watch.

@@ -38,7 +38,8 @@ Catalunya fue **el primer territorio autónomo del Estado español** en prohibir
 - **Octubre 2019** — sentencia del Procés: caso **[[../casos/espana-europa/olga-proces|Olga]]**.
 
 ### **Febrero 2014** — Frontera sur
-Tras las muertes del **[[../casos/espana-europa/tarajal-2014|Tarajal]]** (Ceuta, 6 de febrero de 2014; al menos 14, 15 según el recuento oficial y judicial), la **Dirección General de la Guardia Civil** limita el uso de balas de goma y botes de humo a "**circunstancias extremas**" en los puestos fronterizos de Ceuta y Melilla.
+**Europa Press informó el 25 de febrero de 2014** de que la Guardia Civil había dictado una **instrucción verbal** que **prohibía** a sus agentes de fronteras disparar pelotas de goma.
+> ⚠️ **Corregido el 27 de agosto de 2026.** La ficha hablaba de una «Instrucción de la Dirección General de la Guardia Civil» que «limitaba» el uso a «circunstancias extremas». Lo documentado es una **instrucción verbal**, no un documento escrito con rango, y lo que se comunicó fue una **prohibición**, no una limitación. No se ha localizado texto escrito, y por eso tampoco se puede saber si sigue vigente.
 - Solo afecta a la Guardia Civil.
 - **Se desconoce si la instrucción sigue vigente o no**.
 - **Ocho años después**, **[[../casos/espana-europa/melilla-2022|masacre de Melilla 2022]]** con 37 muertos.
@@ -54,7 +55,8 @@ La **Policía Foral** de Navarra deja de usar balas de goma.
 
 > En lugar de eliminar el problema, Catalunya lo **sustituyó**.
 
-Tras la prohibición de las balas de goma, los Mossos comenzaron a usar **balas de foam** — espuma viscoelástica disparada por la **lanzadora [[../empresas-de-armas/empresas/brugger-thomet|Brügger & Thomet]] BT-GL06**, también llamada **GL-06 / LL-06**. La misma munición ya había dejado **personas heridas en Francia** antes de su importación a Catalunya.
+Tras la prohibición de las balas de goma, los Mossos pasaron a las **balas de foam**, disparadas por la lanzadora de 40 mm de **[[../empresas-de-armas/empresas/brugger-thomet|Brügger & Thomet]]** (B&T AG, Thun, Suiza). El fabricante la denomina **GL06** o **B&T GL06**; el protocolo de los Mossos la consigna como **BT-GL06**.
+> La denominación «LL-06» no aparece en las fuentes del fabricante.
 
 ### Los casos que demuestran que el reemplazo no resolvió nada
 - **Febrero 2021** — **[[../casos/espana-europa/africa-pablo-hasel|África]]** pierde un ojo en las protestas por el encarcelamiento de Pablo Hasél. Le dispararon a 22 m.
@@ -72,7 +74,7 @@ Tras la presión sostenida de [[../autores-y-referencias/organizaciones/iridia|I
 - Anuncio: desde 2024 se reemplazarían las **municiones foam de largo alcance** por **municiones de corto alcance de menor lesividad**.
 
 ### El consenso sobre las SIRX
-- **Diciembre 2022** — la **Comisión de Estudio sobre el Modelo Policial (CEMP)** del Parlament de Catalunya recoge el consenso social para que los Mossos **dejen de utilizar los proyectiles SIRX**, los más lesivos.
+- **2 de diciembre de 2022** — la **Comissió d'Estudi sobre el Model Policial (CEMP)** del Parlament de Catalunya aprueba su informe y sus conclusiones (expediente **260-00001/13**, sesión núm. 24, DSPC-C 491). El dictamen se publica en el **BOPC núm. 460, de 20 de diciembre de 2022**. ✅
 - **2024** — Iridia confirma que se hacen gestiones para llevarlo a cabo.
 - A raíz del caso de [[../casos/espana-europa/africa-pablo-hasel|África]], **se prohíbe el uso de munición SIRX en Catalunya**.
 

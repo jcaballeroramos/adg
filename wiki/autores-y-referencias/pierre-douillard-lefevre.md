@@ -19,8 +19,9 @@ Fuente inicial del director: [instagram.com/pierre.douillard.lefevre](https://ww
 El **27 de noviembre de 2007**, con **16 años** y siendo alumno de liceo, Pierre Douillard participó en una manifestación estudiantil frente al **rectorado de Nantes** contra la ley **LRU (ley Pécresse)** de reforma universitaria. Un agente le disparó con un **LBD** —el lanzador de proyectiles de goma que la policía francesa estaba entonces probando y generalizando— y el impacto le hizo **perder la visión del ojo derecho**.
 
 Su caso judicial es revelador de la impunidad:
-- El **30 de noviembre de 2016**, el tribunal administrativo de Nantes **condenó al Estado a indemnizarle con 48.000 €**.
-- Pero los jueces aplicaron un **"reparto de responsabilidad" del 50 %**, declarando al propio herido **corresponsable** del disparo que lo mutiló, por lo que solo cobró la mitad. Él reclamaba unos 170.000 €.
+El **28 de noviembre de 2016**, por **sentencia n° 1403983**, el *tribunal administratif de Nantes* condenó al Estado a pagarle **48.000 €**. El ministro del Interior recurrió y perdió: la **Cour administrative d'appel de Nantes** (4ª sala, **5 de julio de 2018, n° 17NT00411**) rechazó el recurso y **elevó la indemnización a 86.400 €**, más 1.500 € por costas.
+> ⚠️ Corregido el 27 de agosto de 2026: la sentencia es del **28** de noviembre, no del 30, y la cifra final tras la apelación es **86.400 €**, no 48.000.
+Él reclamaba **172.000 €**. En la vista del 21 de octubre de 2016 el *rapporteur public* había propuesto una responsabilidad del Estado del 70%, equivalente a 67.200 €.
 
 En **2014**, a raíz de su proceso, impulsó la **Assemblée des blessés** ("Asamblea de los heridos"), red que ayuda a las personas mutiladas por armas policiales y denuncia el uso de armas de guerra contra la población civil. Está vinculado al colectivo **Désarmons-les!** ("Desarmémoslos"), que documenta la violencia de Estado y reclama el desarme de la policía.
 
@@ -29,7 +30,7 @@ En **2014**, a raíz de su proceso, impulsó la **Assemblée des blessés** ("As
 Douillard-Lefèvre convierte su experiencia en análisis político. Su tesis central es que las armas mal llamadas "menos letales" no son un accesorio sino el síntoma de un **cambio de doctrina de orden público**: *"ya no se repele a una multitud, se golpean cuerpos"*. La lógica, según él, es **"mutilar a uno para aterrorizar a cien"**.
 
 Libros:
-- **«L'arme à l'œil. Violences d'État et militarisation de la police»** (Le Bord de l'eau, **2016**). Su ensayo clave: repasa cómo los sucesivos gobiernos han ido armando a la policía (Flash-Ball, LBD40, Taser, granadas) y sostiene que la muerte de **Rémi Fraisse** (2014) no fue un "error" ni un accidente, sino el producto de un proceso estructural de militarización e impunidad de dos décadas. El LBD40 se introdujo precisamente en 2007, el año en que a él lo hirieron.
+> ⚠️ **Matiz corregido el 27 de agosto de 2026.** En **2007 el LBD 40x46 estaba en fase de experimentación**, no introducido. El **Défenseur des droits** lo fija así en su *Rapport sur trois moyens de force intermédiaire* (28 de mayo de 2013, p. 23): «Entre 2007 et 2008, une phase d'expérimentation a été initiée concernant le LBD 40x46. Cette arme a ensuite été mise en dotation». Y a Douillard-Lefèvre lo hirió un **Flash-Ball**, que es el arma anterior y de otro calibre.
 - **«Nous sommes en guerre. Terreur d'État et militarisation de la police»** (Éditions Grévis, **2021**).
 - **«Dissoudre»** (Éditions Grévis, **2024**), sobre la disolución de colectivos como herramienta de represión política (pendiente de verificar el detalle del contenido).
 
