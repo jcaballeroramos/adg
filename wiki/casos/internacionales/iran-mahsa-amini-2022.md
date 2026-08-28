@@ -116,7 +116,7 @@ Lo más documentado **médicamente** es la **estrategia sistemática del régime
 - **Graphic News** — infografía timeline de las protestas iraníes. <https://www.graphicnews.com/en/pages/43395/politics-iran-protest-timeline>
 
 ## Conexiones
-- ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] · [[bangladesh-2024]] · [[nepal-gen-z-2024]] — la ola global 2019-2024.
+- ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] · [[bangladesh-2024]] · [[nepal-gen-z-2025]] — la ola global 2019-2025.
 - ↔ [[../latam/fabiola-campillai]] · [[../espana-europa/carles-guillot]] · [[../espana-europa/roger-espanol]] · [[../espana-europa/africa-pablo-hasel]] — el ojo como blanco común.
 - ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología clínica.
 - ↔ [[../impacto-agregado]].

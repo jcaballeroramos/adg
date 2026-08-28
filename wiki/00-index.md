@@ -264,7 +264,7 @@ Cómo se entrena, cómo se aplica.
 - [[casos/internacionales/sri-lanka-2022|Sri Lanka — Aragalaya 2022]] — la insurrección que derrocó a Rajapaksa.
 - [[casos/internacionales/iran-mahsa-amini-2022|Irán «Mujer, Vida, Libertad» 2022]] — Mahsa Amini, +500 muertos, +580 ojos.
 - [[casos/internacionales/bangladesh-2024|Bangladesh — Revolución de Julio 2024]] — +1.000 muertos, caída de Sheikh Hasina.
-- [[casos/internacionales/nepal-gen-z-2024|Nepal — Protestas Gen Z 2024]] — el movimiento sin liderazgo.
+- [[casos/internacionales/nepal-gen-z-2025|Nepal — Protestas Gen Z 2025]] — 76 muertos, del bloqueo de redes a la munición real.
 - [[casos/internacionales/palestina-2023-2024|Palestina 2023-2024]] — Gaza, Cisjordania, Skunk, +700 muertos CJ.
 
 ### 6.6 · Casos internacionales — dictaduras y guerras

@@ -303,6 +303,10 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 
 ### Zira Silah Sanayi
 - Fabricante de la marca **Blow**: pistolas traumáticas réplica de la Beretta 92, masivas en Colombia.
+- → [[genasys]] — LRAD, el fabricante del arma acústica.
+- → [[etienne-lacroix]] — matriz de Alsetex y Falken.
+- → [[rivolier]] — adjudicataria de los contratos franceses de LBD.
+- → [[pacem-defense]] — propietaria de ALS.
 - → [[zira-silah-sanayi]]
 
 ## Irán

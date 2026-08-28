@@ -98,6 +98,6 @@ La Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos pub
 - **WITNESS** — análisis del rol del vídeo ciudadano. <https://blog.witness.org/2025/08/bangladesh-student-uprising-2024-protest-videos/>
 
 ## Conexiones
-- ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] · [[iran-mahsa-amini-2022]] · [[nepal-gen-z-2024]] — la ola global 2019-2024.
+- ↔ [[endsars-nigeria-2020]] · [[hong-kong-2019-2020]] · [[myanmar-2021]] · [[sri-lanka-2022]] · [[iran-mahsa-amini-2022]] · [[nepal-gen-z-2025]] — la ola global 2019-2025.
 - ↔ [[../impacto-agregado]] — incluido.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el patrón "crisis política → represión letal".
