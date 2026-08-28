@@ -36,6 +36,14 @@ Le **dispararon a 22 metros** de distancia. **Perdió un ojo**.
 
 La revisión del protocolo de **27 de octubre de 2023** subió el mínimo del SIR-X de 20 a 30 metros (*«les distàncies d'ús es troben entre els 30 metres la mínima i els 50 metres la màxima»*, apartado 3.2.2) y el máximo del SIR de 25 a 30. La nota al pie atribuye el nuevo margen al *«Dictamen pericial de la Fundació d'Investigació Omega sobre el Protocol dels Mossos d'Esquadra en l'ús del projectil SIR-X»*, no al fabricante. La revisión restringe además el disparo de abdomen hacia abajo.
 
+> ⚠️ **El dictamen de Omega no es público** (comprobado el 28 de agosto de 2026). Se conoce por la nota al pie del protocolo que lo cita; no aparece en el repositorio de la Omega Research Foundation ni en la web del Departament d'Interior. Hay que pedirlo directamente a Omega o por transparencia al Departament. Es el único de los cuatro documentos buscados en esta auditoría que sigue sin localizarse.
+
+### El arma que la cegó ya no se usa
+
+**El 28 de marzo de 2025 los Mossos retiraron el SIR-X de la ARRO y de la Brimo**, por orden de la dirección general que encabeza Josep Lluís Trapero, cumpliendo la resolución del Parlament. Las dos unidades conservan solo el SIR. Es el final de la secuencia que arranca en este ojo: lesión en 2021, informe, comisión parlamentaria, revisión del protocolo en 2023 y retirada en 2025.
+
+**La página pública de los Mossos, consultada en agosto de 2026, sigue sin recogerlo**: publica todavía las distancias anteriores a 2023 y no menciona la retirada. → [[../../marco-legal/mossos-instrucciones-armamento]]
+
 > El **fabricante no es una empresa española** y **SIR no significa «Sistema de Impacto Reducido»**: es *Safe Impact Round*, munición desarrollada por [[../../empresas-de-armas/empresas/brugger-thomet|B&T AG]] (Thun, Suiza), la misma empresa que fabrica la lanzadora BT-GL06 con la que se dispara. La suministradora al Departament d'Interior fue Eurodistribución de Sistemas España (EDS), S.L., que es distribuidora.
 - **Omega Research Foundation** analizó el protocolo y dictaminó que vulneraba la normativa internacional de la ONU.
 

@@ -133,7 +133,9 @@ La Procuraduría **anuló su propia sentencia de 2024**, en la que había sancio
 - [x] El **tipo de munición**: la sentencia del Tribunal Administrativo de Cundinamarca lo fija como munición **tipo «bean bag»**. Falta el calibre exacto y el fabricante.
 - [ ] La **pieza original de Señal Investigativa y Revista RAYA**, y el vídeo de Jhon Niño.
 - [ ] El expediente de la **Procuraduría** reabierto en 2026, con su número de radicado.
-- [ ] **El PDF íntegro de la sentencia.** El enlace del tribunal apunta a `samaicore.consejodeestado.gov.co`, que devuelve **403 a la descarga automatizada**; hay que bajarlo a mano desde <https://tac.gov.co/dilan/>, botón «Descarga la providencia aquí».
+- [ ] **El PDF íntegro de la sentencia. Hay que bajarlo a mano.** El enlace real, extraído del botón «Descarga la providencia aquí» de <https://tac.gov.co/dilan/>, es:
+  `https://samaicore.consejodeestado.gov.co/api/DescargarProvidenciaPublica/2500023/11001334306220220004301/99718CA9D08788C6980C6FD0DF1FDC5A1B19EDFE4502A238F8C435CBA91BD920/2`
+  El servidor del Consejo de Estado devuelve **403 Forbidden** a `curl` y bloquea también el `fetch` desde otra pestaña del navegador: tiene un WAF que exige sesión de navegador real. **Abrirlo pegando la URL en Chrome y guardarlo en `media/pdf/`.** Es lo único que falta para tener la sentencia entera; el comunicado del tribunal, que sí es fuente primaria, ya está volcado arriba.
 
 ## Conexiones
 - ↔ [[colombia-2021]] — el Paro Nacional de 2021 y las lesiones oculares del ESMAD.

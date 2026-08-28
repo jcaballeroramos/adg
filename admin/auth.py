@@ -16,7 +16,7 @@ router = APIRouter(prefix="/api/auth", tags=["auth"])
 SECRET_KEY = os.environ.get("ADG_SECRET_KEY", "dev-secret-change-me")
 
 # Users loaded from env: [{"username":"jorge","password":"..."},...]
-_raw = os.environ.get("ADG_USERS", '[{"username":"jorge","password":"admin"},{"username":"anna","password":"admin"},{"username":"irene","password":"admin"}]')
+_raw = os.environ.get("ADG_USERS", '[{"username":"jorge","password":"admin1123"},{"username":"anna","password":"admin1123"},{"username":"irene","password":"admin1123"}]')
 USERS: dict[str, str] = {}
 for u in json.loads(_raw):
     USERS[u["username"]] = u["password"]

@@ -29,7 +29,7 @@ Plataforma de **víctimas y familiares** de balas de goma en el Estado español.
 **Periodo 2000-2020**:
 - **40 personas afectadas** entre 2000 y 2020: 37 hombres, 3 mujeres, edad media 30 años. Es el universo del informe de **Irídia y Novact** de 2021, que en el análisis de lesiones excluye a las 14 personas del Tarajal y trabaja con 26.
 - **Datos territoriales**, **por cuerpo policial**, **por tipo de evento**.
-- **p. 32 y siguientes** — recopilación de **jurisprudencia del TEDH** sobre balas de goma y material antidisturbios: más condenas además de [[../../marco-legal/bibliografia/tedh-kilici-vs-turquia|Kilici c. Turquía]] y [[../../marco-legal/bibliografia/tedh-yasa-vs-turquia|Abdullah Yasa c. Turquía]].
+- **p. 32 y siguientes** — recopilación de **jurisprudencia del TEDH** sobre balas de goma y material antidisturbios: más condenas además de [[../../marco-legal/bibliografia/tedh-kilici-vs-turquia|Kılıcı c. Turquía]] y [[../../marco-legal/bibliografia/tedh-yasa-vs-turquia|Abdullah Yaşa c. Turquía]].
 - Síntesis y cifras completas: [[../../casos/espana-europa/compilacion-espana]].
 
 ## Logros políticos
