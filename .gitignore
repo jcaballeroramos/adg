@@ -32,6 +32,16 @@ media/audio/*.flac
 # Material interno de producción (guion/escaleta): NO publicar
 wiki/produccion/
 
+# Secretos: NUNCA en el repo. La clave vive solo en ~/.zshrc como variable de entorno.
+.env
+.env.*
+*.env
+secrets.json
+credentials.json
+*.pem
+*.key
+!*.public.key
+
 # Temporales
 *.log
 *.tmp
