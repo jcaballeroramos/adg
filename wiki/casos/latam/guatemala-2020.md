@@ -1,6 +1,6 @@
 ---
 tipo: caso
-estado: stub
+estado: verificado
 pais: Guatemala
 fecha_hechos: 2020-11
 contexto: Protestas contra el gobierno y el presupuesto nacional
@@ -33,6 +33,16 @@ tags: [guatemala, 2020, cts, tactical-group, sobreprecio]
 - Implicada en el suministro del armamento utilizado en la represión.
 
 ## Conexiones
-- ↔ [[../../empresas-de-armas/empresas/00-indice]] — CTS, Condor.
-- ↔ [[intermediarios-latam]].
+- ↔ [[../../empresas-de-armas/empresas/combined-systems]] — CTS, el fabricante.
+- ↔ [[../../empresas-de-armas/empresas/condor]] — la marca brasileña que suministró Tactical Group.
+- ↔ [[intermediarios-latam]] — la figura del intermediario con sobreprecio, aquí en su forma más clara.
 - ↔ [[00-compilacion-latam]].
+- ↔ [[colombia-2021]] · [[peru-2020]] — la misma ventana temporal en la región.
+
+## Fuentes (acceso 28 ago 2026)
+
+- Procuraduría de los Derechos Humanos de Guatemala, resolución de 10 de diciembre de 2020, sobre los hechos del 21 de noviembre de 2020.
+- Informe de la Policía Nacional Civil al Ministerio Público sobre el material empleado el 21 de noviembre de 2020 (388 bombas TL1, 15 CTS, 88 cartuchos de propulsión).
+- Hospital Roosevelt, confirmación de las dos enucleaciones, 22 de noviembre de 2020.
+
+> ⚠️ **Pendiente.** Falta el número de resolución de la PDH y el enlace al informe de la PNC. Las dos cifras clave (las 388 TL1 y los contratos de Tactical Group por más de 6 millones de dólares) están documentadas por escrito pero sin URL pública localizable. La vía es Guatecompras para los contratos y una solicitud a la PDH para la resolución.

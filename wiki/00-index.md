@@ -231,7 +231,7 @@ Cómo se entrena, cómo se aplica.
 - [[casos/espana-europa/africa-pablo-hasel|África (protestas Pablo Hasél, 2021)]] — bala de foam a 22 m, perdió un ojo.
 - [[casos/espana-europa/roger-garcia-foam-2019|Roger García (Procés, octubre 2019)]] — foam SIR-X Mossos, pérdida de visión.
 - [[casos/espana-europa/abdelillah-foam-2019|Abdelillah (Procés, octubre 2019)]] — foam SIR-X, perfilado racial.
-- [[casos/espana-europa/olga-proces|Olga (Procés 2019)]] — bala de foam, ganó por vía administrativa.
+- [[casos/espana-europa/olga-proces|Olga (Procés 2019)]] — foam en la cabeza, 69.218 € por vía administrativa sin pasar por lo penal.
 - [[casos/espana-europa/juan-andres-benitez|Juan Andrés Benítez (Raval, 2013)]] — paliza de los Mossos, segundo detonante de la prohibición catalana.
 
 ### 6.3 · Frontera sur — España
@@ -277,7 +277,7 @@ Cómo se entrena, cómo se aplica.
 ### 6.7 · América Latina (compilación El Clip)
 
 - [[casos/latam/00-compilacion-latam|**Compilación LATAM — 14 patrones transversales**]]
-- 🇧🇴 [[casos/latam/bolivia-2019|Bolivia 2019]] · 🇧🇷 [[casos/latam/brasil-2017-2021|Brasil 2017-2021]] · 🇨🇱 [[casos/latam/chile-estallido-2019|Chile estallido 2019]] · 🇨🇴 [[casos/latam/colombia-2021|Colombia Paro Nacional 2021]] · 🇪🇨 [[casos/latam/ecuador-2019|Ecuador Octubre 2019]] · 🇺🇸 [[casos/estados-unidos/ee-uu-frontera-sur|EE.UU. Frontera sur]] · 🇬🇹 [[casos/latam/guatemala-2020|Guatemala 2020]] · 🇲🇽 [[casos/latam/mexico-feminista-2020|México marchas feministas]] · 🇵🇪 [[casos/latam/peru-2020|Perú 2020]] · 🇻🇪 [[casos/latam/venezuela-2017-2019|Venezuela 2017-2019]]
+- 🇧🇴 [[casos/latam/bolivia-2019|Bolivia 2019]] · 🇧🇷 [[casos/latam/brasil-2017-2021|Brasil 2017-2022]] · 🇧🇷 [[casos/latam/genivaldo-santos-2022|Genivaldo Santos 2022]] · 🇨🇱 [[casos/latam/chile-estallido-2019|Chile estallido 2019]] · 🇨🇴 [[casos/latam/colombia-2021|Colombia Paro Nacional 2021]] · 🇪🇨 [[casos/latam/ecuador-2019|Ecuador Octubre 2019]] · 🇺🇸 [[casos/estados-unidos/ee-uu-frontera-sur|EE.UU. Frontera sur]] · 🇬🇹 [[casos/latam/guatemala-2020|Guatemala 2020]] · 🇲🇽 [[casos/latam/mexico-feminista-2020|México marchas feministas]] · 🇵🇪 [[casos/latam/peru-2020|Perú 2020]] · 🇻🇪 [[casos/latam/venezuela-2017-2019|Venezuela 2017-2019]]
 - [[casos/latam/fabiola-campillai|Fabiola Campillai (Chile, 2019)]] — bomba lacrimógena al rostro, condena Patricio Maturana.
 - [[casos/latam/gustavo-gatica|Gustavo Gatica (Chile, 2019)]] — cegado de ambos ojos por perdigones, condena Claudio Crespo.
 - [[casos/latam/rufo-chacon|Rufo Chacón (Venezuela, 2019)]] — 16 años, 64 perdigones de plomo Cheddite en el rostro.
