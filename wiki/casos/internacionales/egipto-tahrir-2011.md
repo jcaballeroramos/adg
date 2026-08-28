@@ -24,7 +24,8 @@ tags: [egipto, tahrir, mubarak, primavera-arabe, cs, ccs-bahrein-combined, gabri
 Durante **18 días** (25 ene - 11 feb), millones de egipcios ocupan las plazas del país. La represión alterna con momentos de retirada policial. El **11 de febrero de 2011**, tras **30 años en el poder**, **Hosni Mubarak renuncia**.
 
 ## Cifras oficiales (posteriores)
-- **+846 muertos** (cifra oficial del gobierno post-Mubarak).
+- **Al menos 846 muertos**: cifra anunciada el **19 de abril de 2011** por la comisión oficial de investigación egipcia presidida por **Omar Marwan**, a partir de 17.058 testimonios de funcionarios y testigos presenciales y de 800 vídeos e imágenes. ✅
+- **840 muertos y 6.467 heridos**: cifras del **Ministerio de Sanidad y Población egipcio**, recogidas por Amnistía Internacional. Las dos series son oficiales y no coinciden exactamente: darlas con su origen.
 - **+6.000 heridos**.
 - **Miles de detenidos** y torturados en comisarías.
 
@@ -61,7 +62,7 @@ La periodista italo-egipcia **Gabriele Zavi** reportaba desde la Plaza Tahrir. S
 - **Francia** — post-2011, Egipto se convierte en su **principal receptor de armas** en Oriente Medio. Tras el golpe de Sisi (2013), Amnistía exige en 2018 que Francia cese las exportaciones, incluidas las menos letales.
 
 ## La contra-revolución
-**Julio 2013** — golpe militar de **Abdel Fattah el-Sisi**. Masacre de **Rabaa al-Adawiya** (14 agosto 2013): **800+ muertos** en una sola jornada por disparos contra partidarios de Morsi.
+**Julio 2013** — golpe militar de **Abdel Fattah el-Sisi**. Masacre de **Rabaa al-Adawiya** (**14 de agosto de 2013**): policía y ejército dispersaron a tiros la acampada de partidarios de Morsi con blindados, excavadoras, fuerzas de tierra y francotiradores. **Human Rights Watch**, tras un año de investigación (*All According to Plan*, agosto de 2014), documenta **al menos 817 muertos y probablemente más de 1.000 en una sola jornada**, y concluye que los hechos probablemente constituyen **crímenes de lesa humanidad**. ✅
 
 Desde entonces, Egipto ha **recuperado** su posición como uno de los **mayores importadores de armas menos letales** del mundo, especialmente de Francia.
 

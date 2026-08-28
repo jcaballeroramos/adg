@@ -45,11 +45,13 @@ El **Protocolo IV** es el **primer tratado internacional** de la historia que **
 4. **Precedente para prohibir LAWS**: la campaña actual «Stop Killer Robots» se inspira directamente en «Stop Blinding Laser Weapons».
 
 ## Firmantes clave y ausencias
-- **Firmantes**: EE.UU., Rusia, China, Reino Unido, Francia, Alemania, España, Suecia, la mayoría de la UE.
+- **Estados obligados**: Rusia, China, Reino Unido, Francia, Alemania, España, Suecia, la mayoría de la UE, y Estados Unidos **desde el 21 de enero de 2009**.
+
+> ✅ **Corregido el 26 de agosto de 2026.** El registro depositario de la ONU (capítulo XXVI-2-a) **no tiene columna de firma** para este instrumento: los Estados manifiestan «consentimiento en obligarse», marcado «P». Y **Estados Unidos consta con fecha 21 de enero de 2009**, catorce años después de la adopción, no en 1995. El Protocolo fue transmitido al Senado el 7 de enero de 1997 y el Comité de Relaciones Exteriores lo informó favorablemente el 29 de julio de 2008.
 - **No firmantes o con reservas**: Irán, Corea del Norte, Pakistán, India (con reservas), Myanmar, Siria.
 
 ## La ironía estadounidense
-EE.UU. firmó el Protocolo IV en 1995 **el mismo año** en que el Pentágono **desarrollaba el programa PEP** (Pulsed Energy Projectile) — un arma de plasma/láser para control de multitudes que **técnicamente no causa ceguera permanente** pero sí **dolor agudo y lesiones temporales severas**. El programa nunca se desplegó oficialmente, pero **Raytheon** y **Lockheed** siguieron desarrollando energía dirigida bajo el argumento de que no era técnicamente "láser cegador". Ver [[../../empresas-de-armas/empresas/raytheon]] — Active Denial System.
+Estados Unidos queda obligado por el Protocolo IV el **21 de enero de 2009**, catorce años después de su adopción en Viena. En ese intervalo el Pentágono **desarrolló el programa PEP** (Pulsed Energy Projectile) — un arma de plasma/láser para control de multitudes que **técnicamente no causa ceguera permanente** pero sí **dolor agudo y lesiones temporales severas**. El programa nunca se desplegó oficialmente, pero **Raytheon** y **Lockheed** siguieron desarrollando energía dirigida bajo el argumento de que no era técnicamente «láser cegador». La ironía se sostiene igual sin la coincidencia de año: Estados Unidos tardó catorce años en obligarse por un protocolo que prohíbe cegar, mientras trabajaba en armas de energía dirigida diseñadas para quedar justo al otro lado de esa definición. Ver [[../../empresas-de-armas/empresas/raytheon]] — Active Denial System.
 
 ## Conexiones
 - ↔ [[../../historia/laws-armas-autonomas]] — precedente para la prohibición de LAWS.

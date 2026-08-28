@@ -12,7 +12,7 @@ Organización que **monitoriza y documenta sistemáticamente** lo que ocurre en 
 
 ## Casos clave documentados
 - **Tarajal, 6 de febrero de 2014** — **14 muertes** de personas migrantes intentando alcanzar la costa, tras recibir disparos de balas de goma, salvas y botes de humo de la Guardia Civil. Tras este suceso, la Dirección General de la Guardia Civil **limitó** el uso de balas de goma y botes de humo en los puertos fronterizos de Ceuta y Melilla a "circunstancias extremas".
-- **[[../../casos/espana-europa/melilla-2022|Melilla, 24 de junio de 2022]]** — masacre del Barrio Chino con **37 muertos** y **77 desaparecidos** a julio 2023.
+- **[[../../casos/espana-europa/melilla-2022|Melilla, 24 de junio de 2022]]** — masacre del Barrio Chino. **El recuento depende de quién cuente**: el organismo oficial marroquí **CNDH** reconoce **23 muertos** y 217 heridos; la **AMDH de Nador** informó de **27**; **Caminando Fronteras** cifra **37 muertos y 77 desaparecidos** (a julio de 2023). Dar las tres con su fuente.
 
 ## Informes
 - **Informe de análisis de hechos y recopilación de testimonios de la tragedia que tuvo lugar el 6 de febrero de 2014 en la zona fronteriza de Ceuta** (Tánger: Caminando Fronteras, 13 de marzo de 2014).

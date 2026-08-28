@@ -59,7 +59,9 @@ El Skunk **no es** un arma dispersora como el gas lacrimógeno clásico. Es un a
 El Skunk ha sido usado **recientemente también contra disidentes judío-israelíes** que protestan contra el gobierno de Netanyahu (reforma judicial 2023, protestas contra la guerra en Gaza 2024). Esto confirma el patrón de Rocher: **lo que se prueba primero en los Territorios Ocupados acaba usándose en la metrópoli**.
 
 ### Exportaciones
-Aunque Odortec afirma no exportar, hay denuncias de **venta a EE.UU.** (donde se probó en Ferguson 2014 según algunos testimonios) y a otros aliados regionales.
+Odortec afirma no exportar, pero el **Departamento de Policía Metropolitana de St. Louis** compró Skunk **después** del levantamiento de Ferguson: pedido de **catorce botes de 1,4 litros a 30,60 $ la unidad, 428 $ en total**, según **factura del 14 de noviembre de 2014** obtenida al amparo de la ley de transparencia de Misuri.
+
+> ✅ **Corregido el 27 de agosto de 2026.** La ficha decía que Skunk «se probó en Ferguson 2014 según algunos testimonios». La compra documentada es **posterior** al levantamiento, no durante. La distinción importa: no hay constancia de que se usara en Ferguson, sí de que St. Louis lo compró después.
 
 ## Conexiones
 - ↔ [[00-indice]]

@@ -48,7 +48,7 @@ Asegurarán la **plena protección de la salud** de las personas bajo su custodi
 **El Código de Conducta de 1979 es el primer documento internacional** que establece, **explícitamente y para todos los Estados**, que la **brutalidad policial puede constituir tortura**. Esta línea conceptual es la que retomarán:
 - **Nils Melzer** en su [[melzer-onu-2017|informe de 2017]] (parágrafo 47).
 - La **OMCT** en [[omct-2021|2021]] ("brutalidad policial como forma de tortura").
-- Las **dos sentencias del TEDH** ([[tedh-kilici-vs-turquia|Kilici]] y [[tedh-yasa-vs-turquia|Yasa]]).
+- Las **dos sentencias del TEDH** ([[tedh-kilici-vs-turquia|Kılıcı]] y [[tedh-yasa-vs-turquia|Yaşa]]).
 
 ## El cuerpo de doctrina ONU (cronología)
 1. **1979** — Código de Conducta (este documento).

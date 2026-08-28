@@ -20,7 +20,7 @@ tags: [ozkursan, turquia, fogueo, traumatica, 9mm, colombia, intermediarios]
 
 ## Por qué importa para el documental
 - Sus municiones han sido **importadas a Colombia** y utilizadas en **armas traumáticas** que se han documentado en contextos de **violencia y protestas**.
-- **Falta total de regulación** en la importación y distribución de sus productos en países latinoamericanos hasta 2021.
+- **Colombia** —no «países latinoamericanos» en general— no reguló las armas traumáticas hasta el **Decreto 1417 de 2021, de 4 de noviembre**, «sobre la clasificación y reglamentación de la tenencia y el porte de las armas traumáticas», que las mete en el régimen de permisos del sector Defensa y obliga a marcarlas y registrarlas ante **INDUMIL**. Hasta entonces se vendían en tiendas deportivas sin permiso especial.
 - Ventas a través de **intermediarios y tiendas locales** sin trazabilidad.
 - Es **proveedor cómplice** del fenómeno de las pistolas Blow / Ekol / Zoraki / Retay que han causado numerosas muertes y lesiones en Colombia, especialmente cuando se modifican para disparar **munición letal real**.
 

@@ -15,7 +15,7 @@ Nació en la **Primera Guerra Mundial** (impulsado por científicos como **[[../
 Tras la **Gran Depresión de 1929**, su uso se masificó contra civiles en las ciudades.
 
 ### Gas pimienta (OC — Oleorresina de Capsicum)
-Se empezó a desarrollar en **EE.UU. en los años 70** no para personas, sino **para animales**: el **servicio postal** lo usaba para proteger a los carteros de los ataques de perros.
+> ⚠️ **Origen pendiente de fuente (27 de agosto de 2026).** La ficha afirmaba que el OC se desarrolló en EE. UU. en los años setenta para que el **servicio postal** protegiera a los carteros de los perros, y que la policía lo adoptó en los ochenta. **No se ha localizado ningún documento que lo respalde.** Lo que sí está documentado es el hito posterior: **1980**, primer producto comercial, y **1987**, cuando el FBI aprueba el spray como «método de incapacitación».
 
 Tras perfeccionarse, la policía lo adoptó en los años 80.
 

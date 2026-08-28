@@ -24,7 +24,9 @@ tags: [juan-pablo-pernalete, venezuela, caracas, norinco, lacrimógena, pecho, g
 - **Bomba lacrimógena modelo NF01** (o similar) fabricada por **[[../../empresas-de-armas/empresas/norinco|Norinco]]** (China).
 - Disparada al pecho a corta distancia.
 - El **impacto cinético directo** fue la causa de la muerte (no el químico).
-- La energía de impacto de una bomba lacrimógena es **muy superior** a los **122 julios** que cualquier munición es **potencialmente letal** ([[../../empresas-de-armas/empresas/maxam|MAXAM]] como referencia).
+- La energía de impacto de una bomba lacrimógena es muy superior a los **122 julios** por encima de los cuales los ensayos del US Army Land Warfare Laboratory (Egner; Wargovich, Technical Report 24-75) sitúan los impactos en la «región de daño severo», umbral recogido por el informe del STOA del Parlamento Europeo *Crowd Control Technologies* (PE 168.394/Fin.St., junio de 2000, redactado por la [[../../autores-y-referencias/organizaciones/omega-research-foundation|Omega Foundation]]). <https://www.europarl.europa.eu/RegData/etudes/etudes/stoa/2000/168394/DG-4-STOA_ET(2000)168394_EN(PAR02).pdf>
+
+  > Corregido el 26 de agosto de 2026: esta ficha atribuía el umbral a [[../../empresas-de-armas/empresas/maxam|MAXAM]], que es un fabricante y no una fuente de umbral.
 
 ## La cobertura del Estado venezolano
 El régimen intentó **negar la responsabilidad** durante meses:

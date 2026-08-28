@@ -52,7 +52,7 @@ Lo más documentado **médicamente** es la **estrategia sistemática del régime
 - **Decenas perdieron uno o ambos ojos**.
 - **Patrón claramente intencional**: la mayoría de impactos en cara/ojos ocurrieron **a corta distancia y a quemarropa**.
 
-> Es **idéntico al patrón documentado en Catalunya** (Roger Español, Carles Guillot, África) y en **Chile** (Fabiola Campillai), pero **multiplicado por escala y por intencionalidad de género**.
+> Es **idéntico al patrón documentado en Catalunya** (Roger Español, Carles Guillot, Áfrika) y en **Chile** (Fabiola Campillai), pero **multiplicado por escala y por intencionalidad de género**.
 
 ## Casos individuales emblemáticos
 - **Nika Shakarami** — joven de **16 años**, desaparecida y luego encontrada muerta. Imágenes manipuladas y testimonios contradictorios del régimen.

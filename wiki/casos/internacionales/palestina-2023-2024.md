@@ -21,8 +21,11 @@ El conflicto en **Palestina** es el escenario histórico más prolongado del uso
 
 ## Datos históricos (1988-2024)
 
-### Primera Intifada (1988-1998)
-- **58 palestinos muertos** por balas de goma del ejército israelí **en 10 años**.
+### Primera Intifada (diciembre 1987 – 1993)
+- **58 palestinos muertos** por balas de goma del ejército israelí **entre 1988 y 1998**, en una serie de diez años que desborda la duración del levantamiento.
+
+> ⚠️ **Corregido el 26 de agosto de 2026.** La **Primera Intifada es de diciembre de 1987 a 1993** (Acuerdos de Oslo). «1988-1998» es la ventana de la serie estadística de los 58 muertos, no la duración del levantamiento, y en la wiki se había convertido por error en el periodo histórico. La cifra de 58 sigue **sin fuente anotada**: hay que atribuirla antes de llevarla a pantalla.
+
 - **Al menos 28 niños + 30 adultos** entre las víctimas mortales.
 
 ### Otoño 2000 (Segunda Intifada)
@@ -42,7 +45,7 @@ Aunque **Gaza** está fuera del alcance estricto del debate sobre "armas menos l
 
 ### Cisjordania — donde sí se usan armas "menos letales"
 Durante **2023-2024**, **Cisjordania** ha visto un **aumento exponencial** de:
-- **Balas de goma con núcleo metálico** (M16 Rubber Bullet) disparadas a corta distancia.
+- **Balas de metal recubiertas de goma.** ⚠️ **No existe un producto llamado «M16 Rubber Bullet»**: el **M16 es el fusil**, y la munición se dispara con un **lanzador acoplado a la boca del cañón**, cargando el arma con cartuchos sin bala. Según el informe *Crowd Control* de **B'Tselem** (enero de 2013), las fuerzas israelíes usan dos tipos, ambos de **Israel Military Industries**.
 - **Granadas aturdidoras** en espacios cerrados.
 - **Gas lacrimógeno** en campos de refugiados.
 - **Skunk** — el líquido pestilente israelí fabricado por **Odortec**.
@@ -76,7 +79,7 @@ El Skunk, las balas de goma metálicas, el uso de drones para "identificar" mani
 ## Casos individuales emblemáticos
 - **Shireen Abu Akleh** — periodista de Al Jazeera, muerta por disparo en el rostro en Jenin (**mayo 2022**). El IDF inicialmente negó la responsabilidad; investigaciones posteriores la confirmaron.
 - **Muhammad al-Durrah** (2000) — niño de 12 años, muerto en brazos de su padre durante un enfrentamiento en Gaza. Imagen icónica de la Segunda Intifada.
-- **Razan al-Najjar** — enfermera de 21 años, muerta por un francotirador israelí durante las Marchas del Retorno (junio 2018).
+- **Razan al-Najjar** — **paramédica voluntaria** de la **Palestinian Medical Relief Society**, muerta de un disparo de bala real en el pecho el **1 de junio de 2018**, hacia las 18:45, mientras atendía a heridos en el punto de manifestación de **Khuza'a**, al este de Jan Yunis. Llevaba el chaleco blanco de sanitaria. (No era «enfermera»: era paramédica voluntaria.)
 - **Miles de casos** sin nombre documentados por B'Tselem, Al-Haq, Adalah, Physicians for Human Rights Israel.
 
 ## Las protestas globales de solidaridad
@@ -135,7 +138,7 @@ El Skunk, las balas de goma metálicas, el uso de drones para "identificar" mani
 
 ## Organizaciones palestinas de referencia
 - **B'Tselem** — Centro de Información Israelí para los Derechos Humanos en los Territorios Ocupados.
-- **Al-Haq** — organización palestina fundada en 1979.
+- **Al-Haq** — organización palestina de derechos humanos con sede en **Ramala**, **fundada en 1979** por un grupo de abogados ante la falta de mecanismos de protección en el Territorio Palestino Ocupado. Nació como *«Al-Haq: Law in the Service of Man»*, filial de la **Comisión Internacional de Juristas** de Ginebra. ✅
 - **Adalah** — Legal Center for Arab Minority Rights in Israel.
 - **Physicians for Human Rights Israel**.
 - **Defence for Children International - Palestine**.

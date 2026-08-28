@@ -19,7 +19,7 @@ tags: [mexico, feminismo, encapsulamiento, ley-uso-fuerza-2019, química-improvi
 - **Negación oficial** del uso de gases.
 
 ## Marco legal violado
-**Ley Nacional sobre el Uso de la Fuerza (2019)**:
+**Ley Nacional sobre el Uso de la Fuerza**, publicada en el **Diario Oficial de la Federación el 27 de mayo de 2019**:
 > Por ningún motivo se podrá hacer uso de armas (de fuego, letales o menos letales) contra quienes participen en manifestaciones o reuniones públicas pacíficas con objeto lícito.
 
 A pesar de esta ley, se han documentado **violaciones sistemáticas** durante las protestas feministas.

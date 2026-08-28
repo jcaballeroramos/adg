@@ -9,9 +9,10 @@ tags: [knds, nexter, kmw, giat, francia, alemania, defensa-terrestre, caesar, le
 
 # KNDS (Nexter + KMW)
 
-**KNDS** es el **gigante franco-alemán de la defensa terrestre**, nacido en **2015** de la fusión de la francesa **Nexter** (antes **GIAT Industries**) y la alemana **Krauss-Maffei Wegmann (KMW)**. Es uno de los mayores fabricantes europeos de blindados y artillería, y **anfitrión ineludible de [[../../ferias-de-armas/eurosatory-2026/00-overview|Eurosatory]]** (feria organizada por el GICAT, la patronal francesa que KNDS lidera).
+**KNDS** es el **gigante franco-alemán de la defensa terrestre**, nacido en **2015** de la fusión de la francesa **Nexter** (antes GIAT Industries) y la alemana **Krauss-Maffei Wegmann (KMW)**. ✅ Es uno de los mayores fabricantes europeos de blindados y artillería, y **anfitrión ineludible de [[../../ferias-de-armas/eurosatory-2026/00-overview|Eurosatory]]** (feria organizada por el GICAT, la patronal francesa que KNDS lidera).
 
 - **Nexter / KNDS France**: fabrica el cañón autopropulsado **CAESAR**, el carro **Leclerc** (y su modernización **Leclerc XLR**), el **VBCI**, y participa con [[arquus|Arquus]] y Thales en el programa **Scorpion** (**Griffon**, **Jaguar**). También munición y el cañón **CTA 40 mm**.
+  > Reparto verificado: **CAESAR, Leclerc XLR, VBCI y CTA 40 mm** son de la rama francesa (Nexter / KNDS France); **Leopard 2, PzH 2000 y Boxer** son de la alemana (KMW). En **Scorpion**, la **DGA** describe la organización industrial del Griffon y el Jaguar como «co-traitance solidaire par un groupement momentané d'entreprises constitué des sociétés Nexter Systems, Renault Trucks Defense [hoy [[arquus|Arquus]]] et Thales». ✅
 - **KMW**: fabrica el carro **Leopard 2**, el obús **PzH 2000** y el **Boxer**.
 
 ## Presencia en Eurosatory 2026

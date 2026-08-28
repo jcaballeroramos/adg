@@ -31,7 +31,7 @@ A diferencia de Túnez o Egipto, la represión libia **escaló directamente a mu
 
 ## Las armas "menos letales" antes de la guerra
 Durante los **primeros días** de protesta, antes del colapso:
-- **Gas lacrimógeno italiano** (RUAG / Ammotec europea).
+> ⚠️ **Atribución retirada el 27 de agosto de 2026.** La ficha daba «gas lacrimógeno italiano (RUAG / Ammotec europea)». **RUAG es suiza**, no italiana, y **la identificación de los fabricantes del material usado en Libia no está documentada**. Lo que sí consta es que en los primeros días de protesta, antes del colapso, las fuerzas del régimen emplearon **gas lacrimógeno y balas de goma** del arsenal policial. A diferencia de Baréin o Egipto, el gas duró muy poco en Libia: el conflicto pasó rápidamente a munición real y a guerra abierta.
 - **Granadas de fabricación rusa y china** (importadas en años anteriores).
 - **Balas de goma** del arsenal policial.
 

@@ -4,11 +4,11 @@ estado: borrador
 victima: Lince
 pais: Italia
 ciudad: Bolonia
-fecha_hechos: 2024
-contexto: Manifestación pro-Palestina reprimida por la policía italiana
-arma: proyectil policial (presunto foam/bala de goma)
+fecha_hechos: 2025-10-02
+contexto: Manifestación contra el genocidio en Palestina, en la víspera de la huelga general italiana del 3 de octubre de 2025
+arma: bote de gas lacrimógeno disparado en tiro tenso, «ad altezza d'uomo»
 resultado: Fractura craneal, fractura tabique nasal, explosión globo ocular, desprendimiento de retina
-tags: [lince, italia, bolonia, palestina, foam, bala-goma, mutilacion-ocular, decreto-seguridad, ojo-con-tu-ojo, 2024]
+tags: [lince, italia, bolonia, palestina, gas-lacrimogeno, tiro-tenso, mutilacion-ocular, decreto-sicurezza, ojo-con-tu-ojo, 2025]
 fuentes: []
 ---
 
@@ -17,7 +17,10 @@ fuentes: []
 **Víctima**: Lince
 **Lugar**: Bolonia, Italia
 **Contexto**: Manifestación pro-Palestina — la policía encerró a los manifestantes sin posibilidad de salida
-**Arma**: Proyectil policial (presunto foam o bala de goma)
+**Fecha**: **2 de octubre de 2025**, víspera de la huelga general italiana del día 3
+**Arma**: **bote de gas lacrimógeno disparado en tiro tenso**, «ad altezza d'uomo»
+
+> ✅ **Ficha corregida el 27 de agosto de 2026.** La fecha no era «2024» sino el **2 de octubre de 2025**, y el arma no era un «presunto foam o bala de goma» sino un **bote de gas lacrimógeno disparado horizontalmente**, que es una categoría distinta y con su propia literatura. El contexto tampoco era una manifestación pro-Palestina genérica: era la víspera de la huelga general.
 
 ## Los hechos
 
@@ -41,17 +44,18 @@ Los médicos le dijeron que había que **sacar el ojo**. Ella se negó: quería 
 ## Recuperación
 
 - **Un mes sin poder llorar, toser ni dormir tumbada** (dormía sentada).
-- **Primera operación**: 8 horas de quirófano para operar detrás del ojo sin saber si se lo iban a sacar. Al final conservaron el ojo, pero sin garantías de futuro.
+- **Dos intervenciones quirúrgicas**, sin esperanza de recuperación: «me operaron dos veces, pero no hay margen; por la derecha veo alguna sombra». Pérdida irreversible de la visión de un ojo, más migrañas en seguimiento neurológico.
+  > ⚠️ Las «8 horas de quirófano» no se han podido documentar y se retiran.
 - **Segunda operación** (10 días después): para la retina. Le quitaron partes de delante del ojo.
 - **1 mes de baja** + otro mes muy duro de recuperación.
 
 ## Impacto económico y campaña de apoyo
 
-Las amigas le ayudaron a pagar **~900 euros** en medicamentos y alquiler durante la recuperación. Lanzaron una **campaña de solidaridad** con un **ilustrador muy conocido**.
+Las amigas le ayudaron a pagar los gastos de medicamentos y alquiler durante la recuperación. ⚠️ La cifra de «~900 euros» no se ha podido documentar. Lanzaron una **campaña de solidaridad** con un **ilustrador muy conocido**.
 
 ## Contexto político italiano
 
-La campaña se inserta en un momento de **represión en Italia** marcado por los **decretos de seguridad** que promueven la violencia policial. La campaña ha recibido **varios casos similares**:
+La campaña se inserta en un momento de represión en Italia marcado por el llamado **decreto sicurezza**: el **Decreto-legge de 11 de abril de 2025, núm. 48**, «Disposizioni urgenti in materia di sicurezza pubblica, di tutela del personale in servizio». Los hechos ocurren **cuatro meses después de su entrada en vigor**. La campaña ha recibido **varios casos similares**:
 
 - La gente **está asustada** y no sabe cómo crear redes de apoyo.
 - Se construye una **imagen de criminalización del movimiento** social.
@@ -59,7 +63,7 @@ La campaña se inserta en un momento de **represión en Italia** marcado por los
 - Está haciendo entrevistas, pero no sabe con quién hablar — cree que **es mejor hablar desde abajo**.
 
 ## Por qué importa para el documental
-- Caso reciente (2024) de **mutilación ocular en Italia** — amplía el mapa europeo de la violencia ocular.
+- Caso reciente (**octubre de 2025**) de **mutilación ocular en Italia** — amplía el mapa europeo de la violencia ocular.
 - Confirma el patrón internacional «norte fabrica / sur prueba» que articula [[../espana-europa/nicola-celebracion-mundial|Nicola Tanno]].
 - La amiga reconociéndola **por los anillos y el olor** es una imagen potente sobre la deshumanización que provoca el impacto.
 - Caso vinculado a la represión de protestas **pro-Palestina** — conecta la lucha antiimperialista con la violencia policial.

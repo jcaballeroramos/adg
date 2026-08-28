@@ -3,7 +3,7 @@ tipo: datos-mercado
 estado: borrador
 ámbito: global
 periodo: 2015-2033 (proyectado)
-fuente_principal: "Centre Delàs · INCLO · SGI Global Security Index · SIPRI"
+fuente_principal: "informes de mercado comerciales (Grand View Research, MarketsandMarkets, The Insight Partners, Renub Research) vía Centre Delàs"
 tags: [mercado, cifras, crecimiento, top-10, top-15, eeuu, eu]
 ---
 
@@ -15,13 +15,25 @@ Dossier único con **todas las cifras** del crecimiento del sector, la distribuc
 
 | Año | Valor | Fuente |
 |---|---|---|
-| **2015** | ~5.650 millones de dólares | SGI Global Security Index |
-| **2019** | 867,4 millones de dólares | estudio citado por Centre Delàs |
-| **2020** | ~8.370 millones de dólares | estimaciones industria |
-| **2021** | 6.150 millones de dólares | estudio industria |
-| **2024** | **8.580 millones** de dólares | INCLO / market research |
-| **2028** | 9.380 millones (estimado) | proyección 2022 |
-| **2033** | **13.910 millones** (estimado) | proyección 2024 |
+| Año | Cifra | Consultora y fecha del informe | Qué mide | Observación |
+|---|---|---|---|---|
+| 2015 | ~5.650 M$ | MarketsandMarkets, abril 2016 | non-lethal weapons | **Año base deducido** de la serie 8,37/1,082⁵ |
+| **2019** | **867,4 M$** | Grand View Research | **less lethal ammunition** | **Otro mercado**: solo proyectiles y cartuchos |
+| 2020 | ~8.370 M$ | MarketsandMarkets, abril 2016 | non-lethal weapons | **Proyección**, no medición |
+| 2021 | 6.150 M$ | The Insight Partners | non-lethal weapons | Año base estimado |
+| 2024 | 8.580 M$ | **Renub Research** | non-lethal weapons | |
+| 2028 | **9.280 M$** (est.) | The Insight Partners | non-lethal weapons | El informe dice 9,28, no 9,38 |
+| 2033 | 13.910 M$ (est.) | Renub Research | non-lethal weapons | Mismo informe que 2024 |
+
+> ✅ **Tabla reetiquetada el 26 de agosto de 2026.** La serie anterior encadenaba **cuatro orígenes con definiciones no comparables** y dos atribuciones falsas. Lo que se corrige:
+>
+> - **El 867 M$ de 2019 no era un error de orden de magnitud: mide otro mercado.** Grand View Research estima en 867,4 M$ el segmento de *less lethal ammunition*, que cubre solo proyectiles y cartuchos (balas de goma, bean bag, munición OC/CS y de humo, flash bang, paintballs) y **excluye** Tasers, cañones de agua, LRAD y armas de energía dirigida. Los vecinos de 5.600-8.600 M$ son el mercado *non-lethal weapons* completo. MarketsandMarkets sitúa el segmento de munición en 828 M$ (2018) y Polaris en 1.230 M$ (2022), lo que confirma la escala.
+> - **El «SGI Global Security Index» no puede ser fuente de una cifra de mercado.** Es un índice bursátil patrocinado por Société Générale sobre empresas de seguridad física y tecnológica: **mide cotizaciones, no facturación sectorial**. Error de categoría. Los 5.650 M$ de 2015 se deducen de la misma serie de MarketsandMarkets.
+> - **La anomalía 2020 > 2021 no tenía ningún hecho económico detrás.** Los 8.370 M$ son la **proyección a 2020** hecha por MarketsandMarkets en abril de 2016 («Global Forecast to 2020»), y los 6.150 M$ de 2021 son un año base estimado por otra consultora cinco años después. Poner una previsión al lado de una base real produce mecánicamente el descenso aparente. La previsión de 2016 sobreestimó el mercado en torno a un 35%.
+> - **Los 8.580 M$ de 2024 no son de INCLO.** *Lethal in Disguise 2* (INCLO, Physicians for Human Rights y Omega Research Foundation) se publicó el **22 de marzo de 2023** y no puede contener una estimación de 2024; su página oficial no recoge ninguna cifra de tamaño de mercado. Son de **Renub Research**, que da 8,58 mm$ (2024) → 13,91 mm$ (2033), CAGR 5,52%. Su ficha vigente ya ha corrido la base a 8,53 mm$ (2025) → 13,88 mm$ (2034).
+> - **Los 9.380 M$ de 2028 son 9.280 en el informe original.** The Insight Partners proyecta «USD 9.28 billion by 2028» partiendo de 6,15 mm$ con CAGR 6,1%. Los 9.380 vienen del Informe 56 del Centre Delàs, compatibles con aplicar un +52% redondeado a 6.150. Si se usa, poner 9.280 M$ o citar explícitamente al Delàs.
+
+> ⚠️ **Ninguno de estos informes es fuente primaria**, y conviene decirlo cada vez que se usen. Son productos comerciales de suscripción: no publican metodología auditable, lo único accesible sin pagar es la nota de prensa (que es material de marketing del informe de pago) y **reescriben sus páginas en silencio**. Durante la verificación de agosto de 2026, MarketsandMarkets, Global Market Insights y Renub ya habían sustituido las cifras que citaba esta ficha. La dispersión entre consultoras para un mismo horizonte va de **1,94 a 19,60 mil millones**: Fortune Business Insights 3,25 mm$ para 2034, Grand View 15,64 mm$ para 2033, IMARC 15,3 mm$ para 2034, Global Market Insights 16,78 mm$ para 2035 y MarketsandMarkets 19,60 mm$ para 2035. Si van a pantalla, con nombre de consultora, año de publicación y definición de mercado delante.
 
 > ⚠️ **Nota metodológica**: las cifras varían considerablemente entre fuentes, debido a que **unas incluyen o no** pistolas eléctricas, pistolas no letales civiles, sistemas de entrenamiento, etc. Usar siempre **citando la fuente exacta**. Lo que SÍ es consistente: **la tendencia es de crecimiento sostenido >10% anual**, muy superior al PIB global.
 
@@ -95,7 +107,7 @@ Dossier único con **todas las cifras** del crecimiento del sector, la distribuc
 
 ### Indicadores indirectos
 - **Market capitalization** de las empresas cotizadas (Axon, Byrna, [[empresas/general-dynamics|General Dynamics]], RTX) — muy alta.
-- **SGI Global Security Index**: índice bursátil del sector seguridad global.
+- **SGI Global Security Index**: índice bursátil del sector seguridad global patrocinado por Société Générale. Mide **cotizaciones de empresas**, no facturación sectorial, y por tanto **no sirve como fuente de tamaño de mercado**.
 - **Informes del Tribunal de Cuentas**: especialmente el francés que destapó el **+232,8%** en compras de armas y munición entre 2012 y 2017.
 
 ## El contexto español — qué se sabe

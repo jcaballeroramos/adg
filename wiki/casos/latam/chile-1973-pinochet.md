@@ -19,22 +19,26 @@ Empieza la **dictadura cívico-militar** más larga de la historia moderna chile
 ## Las cifras de la represión
 - **3.216 ejecutados y desaparecidos políticos** (Informe Rettig 1991 + ampliación).
 - **38.254 víctimas de prisión política y tortura** (Informe Valech 2004-2005).
-- **+200.000 exiliados**.
-- **1.132 centros de detención y tortura** identificados.
+- **Más de 200.000 exiliados**, según cifras atribuidas a la **Comisión Chilena de Derechos Humanos** —una ONG— y recogidas por el Archivo Nacional de Chile.
+  > ⚠️ El **Museo de la Memoria** advierte que «no existen cifras únicas ni oficiales» del exilio, y algunas estimaciones duplican ese número. A diferencia de los ejecutados, los desaparecidos y los torturados, **el exilio nunca tuvo comisión de verdad ni registro estatal**.
+- **1.132 recintos de detención** sobre los que la **Comisión Nacional sobre Prisión Política y Tortura (Informe Valech, 2004)** reunió antecedentes en las trece regiones, de los cuales el informe **singulariza e identifica 802**, «aquellos que registran un mayor número de detenidos o un uso más prolongado en el tiempo».
 
 ## El gas lacrimógeno como herramienta cotidiana
 Bajo la dictadura, el **gas lacrimógeno** dejó de ser un instrumento ocasional para convertirse en la **herramienta cotidiana de control urbano** en Santiago, Valparaíso, Concepción y otras ciudades. Las **protestas estudiantiles, obreras y de pobladores** (especialmente en las «poblaciones» de la periferia santiaguina) fueron reprimidas **semana tras semana** con:
-- **Gas CS y CN** de fabricación estadounidense e israelí.
+- **Gas lacrimógeno**, empleado de forma sistemática y semanal contra protestas estudiantiles, obreras y de pobladores, especialmente en las poblaciones de la periferia de Santiago.
+  > ⚠️ **Atribución retirada el 27 de agosto de 2026.** No se han localizado fuentes que acrediten el **agente químico concreto** ni el **país de fabricación** del gas usado por Carabineros entre 1973 y 1990. La ficha daba «CS y CN de fabricación estadounidense e israelí» sin ninguna.
 - **Carabineros** (policía militarizada) con entrenamiento especializado en control de multitudes.
 - **«Jornadas de protesta nacional»** (1983-1986) — represión particularmente brutal con decenas de muertos.
 
 ## El caso Rodrigo Rojas de Negri (1986)
 **2 de julio de 1986** — durante una jornada de protesta nacional contra Pinochet, los fotógrafos **Rodrigo Rojas de Negri** (18 años, chileno-estadounidense) y **Carmen Gloria Quintana** (18 años, estudiante) son **detenidos por una patrulla militar** en Santiago. Los soldados los **rocían con combustible y les prenden fuego vivos**, luego los abandonan en un camino rural.
 
-- **Rodrigo murió** cuatro días después con **quemaduras en el 64% del cuerpo**.
-- **Carmen Gloria sobrevivió** con el **60% del cuerpo quemado** — sigue viva en 2026.
+- **Rodrigo Rojas de Negri murió** cuatro días después, con quemaduras de segundo y tercer grado en cabeza, cuello, tronco y extremidades.
+- **Carmen Gloria Quintana sobrevivió** con quemaduras que cubrían **más del 60% de su cuerpo**. Sigue viva en 2026.
+  > ⚠️ **Porcentaje exacto retirado el 27 de agosto de 2026**: el «64%» de Rodrigo no se ha podido documentar en fuente primaria. Para Carmen Gloria, «más del 60%» sí resiste.
 
-**2015** — 29 años después, un exconscripto confiesa: la patrulla estaba al mando del teniente **Pedro Fernández Dittus**. **11 militares procesados** en 2018.
+**2015** — 29 años después, un exconscripto confiesa: la patrulla estaba al mando del teniente **Pedro Fernández Dittus**. **Septiembre de 2017** el ministro en visita **Mario Carroza** acusa a once militares por el homicidio calificado de Rodrigo Rojas de Negri y el homicidio calificado frustrado de Carmen Gloria Quintana. En **marzo de 2019** Carroza **condena a once exmilitares**: tres como autores, a diez años y un día.
+  > ⚠️ Corregido: no fue «11 procesados en 2018». Acusación en 2017, condena en 2019.
 
 ## El caso Carmen Gloria Quintana (superviviente)
 Carmen Gloria se convirtió en **símbolo internacional** de la dictadura. Su caso fue **el detonante** de la condena internacional que precipitó el plebiscito de 1988.

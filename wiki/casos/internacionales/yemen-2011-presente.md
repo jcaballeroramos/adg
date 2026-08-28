@@ -34,7 +34,8 @@ tags: [yemen, 2011, primavera-arabe, arabia-saudi, coalicion, huthies, krusik, h
 - **+4 millones de desplazados** internos.
 - **24 millones** necesitando ayuda humanitaria (el 80% del país).
 - **Bloqueo naval** saudí que provoca **hambruna** — niños muriendo de desnutrición documentados por UNICEF.
-- **Epidemia de cólera** (2016-2019) — la mayor de la historia moderna: **+2,5 millones de casos**.
+- **Epidemia de cólera** — «la mayor epidemia de cólera documentada de los tiempos modernos» (*The Lancet Global Health*), y para la OMS la peor desde que empezó la séptima pandemia en 1961. El sistema de vigilancia yemení (**eDEWS**) notificó **1.103.683 casos sospechosos y 2.385 muertes entre el 28 de septiembre de 2016 y el 12 de marzo de 2018** (DOI 10.1016/S2214-109X(18)30230-4).
+  > ⚠️ Los «+2,5 millones» corresponden a una ventana más larga y a otro recuento. Si se usa una cifra, dar la del sistema de vigilancia con sus fechas.
 - **Bombardeos contra hospitales, bodas y funerales** documentados por **Médicos sin Fronteras** y **Human Rights Watch**.
 
 ## La cadena de suministro
@@ -42,7 +43,8 @@ Yemen es **el caso testigo** del modelo exportador europeo y occidental:
 - **Krušik (Serbia)** — lacrimógenos y explosivos transferidos vía **Arabia Saudí / EAU**.
 - **BAE Systems (Reino Unido)** — aviones **Typhoon** operados por la Royal Saudi Air Force.
 - **Raytheon (EE.UU.)** — bombas **Paveway** documentadas en restos de ataques a civiles.
-- **Lockheed Martin (EE.UU.)** — la bomba que mató a **40 niños en un bus escolar** en **Dahyan (agosto 2018)** llevaba marcas MK-82 de Lockheed.
+- **Lockheed Martin (EE. UU.)** — el **9 de agosto de 2018** un ataque aéreo de la coalición liderada por Arabia Saudí alcanzó un autobús escolar en el mercado de **Dahyan** (Saada). Los restos de munición recuperados corresponden a una **GBU-12 Paveway II**: cuerpo de bomba **Mk-82 de 500 libras** con kit de guiado láser Paveway II. La aleta de guiado fotografiada lleva código **CAGE 94271**, de Lockheed Martin.
+  > Precisión: la Mk-82 es el cuerpo de la bomba; el kit Paveway II es lo que la convierte en munición guiada. Decir «bomba MK-82 de Lockheed» se queda corto y pierde el dato que permite trazarla.
 - **Airbus, Dassault, MBDA** — aviones y misiles europeos.
 - **Ferias Milipol e IDEX** — los contratos de armamento se cerraban en paralelo mientras la guerra escalaba.
 
@@ -50,7 +52,8 @@ Yemen es **el caso testigo** del modelo exportador europeo y occidental:
 - **Yemen es el cementerio del paradigma "menos letal"**. Aquí se ve cómo el mismo Estado que vende gas lacrimógeno para protestas vende también las bombas que arrasan escuelas.
 - **Krušik** — el mismo fabricante serbio de lacrimógenos que aparece en Irak 2019 aparece aquí.
 - **El bloqueo naval** y la **hambruna** como arma son la **evolución final** del control de población que empieza con el gas.
-- **Cómplice europeo**: España, Alemania, Francia, Reino Unido y Bélgica siguieron exportando armamento a la coalición saudí **pese a sentencias del TJUE y Eurocámara** denunciando el genocidio.
+- **Cómplice europeo**: España, Alemania, Francia, Reino Unido y Bélgica siguieron autorizando exportaciones de armamento a la coalición liderada por Arabia Saudí pese a las **resoluciones no vinculantes del Parlamento Europeo** que pedían un embargo —la del **30 de noviembre de 2017** se aprobó por **539 votos a favor, 13 en contra y 81 abstenciones**— y pese a resoluciones judiciales **nacionales**, entre ellas la del **Tribunal de Apelación** británico.
+  > ⚠️ **Corregido el 27 de agosto de 2026.** La ficha hablaba de «sentencias del TJUE y Eurocámara denunciando el genocidio». Tres errores: el **TJUE no ha dictado sentencia** sobre esto; el Parlamento Europeo aprueba **resoluciones no vinculantes**, no sentencias; y **«genocidio» es un término jurídico preciso** que ninguno de esos textos emplea para Yemen. Los pronunciamientos judiciales que sí existen son de tribunales nacionales.
 - **Conexión con España**: **MAXAM** (ver [[../../empresas-de-armas/empresas/maxam]]) exportó bombas y propulsores a Arabia Saudí durante la guerra.
 
 ## Conexiones

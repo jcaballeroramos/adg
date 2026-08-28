@@ -32,7 +32,7 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 ### ALS Less Lethal
 - 🌐 https://www.lesslethal.com/
 - Lanzadoras de balas, granadas de impacto, granadas/balas rompedoras de barricadas, tiras explosivas, balas con gas lacrimógeno, granadas de dispersión y aturdimiento, balas de goma.
-- → [[als-less-lethal]]
+- → [[als-less-lethal]] — *incluye AMTEC Less Lethal Systems, la misma empresa.*
 
 ### ASP Inc.
 - 🌐 https://www.asp-usa.com/
@@ -110,7 +110,7 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 
 ### AmTec Less Lethal Systems
 - Granadas, balas de goma y armas de dispersión; sin innovaciones desde hace dos décadas.
-- → [[amtec-less-lethal]]
+- → [[amtec-less-lethal]] — *fusionada en [[als-less-lethal]]: misma empresa.*
 
 ### Compliant Technologies
 - Guantes con descargas eléctricas (**G.L.O.V.E.**); contrato previsto del ICE de 10-20 M$ (agosto 2026).
@@ -231,7 +231,8 @@ Catálogo de las **principales empresas fabricantes** de armas menos letales y t
 - → [[norinco]]
 
 ### Fox-Armor
-- Equipo antidisturbios; comercializa **escudos antidisturbios** (incluidos modelos **con pinchos**, prohibidos por la UE y la ONU). El tipo de material retirado en Milipol 2025.
+- **Deqing Fox Armor Co., Ltd.** (Zhejiang, China). Equipo antidisturbios. Su catálogo en línea publica **ochenta modelos de escudo** antidisturbios, redondos, cuadrados, convexos, de policarbonato, metálicos, plegables, de brazo y **eléctricos**. **Ninguno lleva púas** (comprobado sobre las siete páginas de catálogo y los sitemaps del dominio, 2.367 URL).
+- Sí ofrece un **escudo antidisturbios eléctrico** de descarga en toda la superficie, producto que el **Anexo III, punto 2.1, del Reglamento (UE) 2019/125** nombra expresamente y somete a licencia.
 - → [[fox-armor]]
 
 ## España

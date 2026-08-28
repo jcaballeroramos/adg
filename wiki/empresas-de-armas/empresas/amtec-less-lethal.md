@@ -1,23 +1,17 @@
 ---
-tipo: empresa
-estado: stub
+tipo: redirección
+estado: fusionado
 nombre: AmTec Less Lethal Systems
-pais: Estados Unidos
-tags: [amtec, eeuu, less-lethal, granadas, balas-goma, sin-innovación]
+redirige_a: als-less-lethal
+tags: [amtec, als, redirección, fusionado]
 ---
 
-# AmTec Less Lethal Systems
+# AmTec Less Lethal Systems → [[als-less-lethal]]
 
-Empresa **estadounidense** de armas menos letales. Productos principales: **granadas, balas de goma, armas de dispersión**.
+> 🔀 **Ficha fusionada el 28 de agosto de 2026.** «AmTec Less Lethal Systems» y «ALS Less Lethal» **son la misma empresa**, y el proyecto las tenía como dos fabricantes distintos, cada una con una cifra distinta sobre el mismo mercado.
 
-## Lo que dice "Humo en las calles" sobre la empresa
-> Expansión significativa en la industria de armas no letales; **sin innovaciones recientes desde hace dos décadas**, manteniendo tecnologías existentes en uso global.
+**La razón social es AMTEC LESS LETHAL SYSTEMS, INC.** (Perry, Florida). **«ALS» es su nombre comercial.** El registro federal de licencias de armas de fuego del ATF lista al titular «AMTEC LESS LETHAL SYSTEMS, INC.» operando como *«ALS / PACEM DEFENSE»* en 4700 Providence Rd, Perry, FL 32347. La adquirió **PACEM Defense** el **18 de octubre de 2018**, y el comunicado de la propia PACEM escribe la equivalencia dentro del titular: «AMTEC Less Lethal Systems, Inc. (ALS)».
 
-## Por qué importa para el documental
-- Es uno de los **8 fabricantes** estadounidenses que dominan el mercado global de menos letales (junto con CTS, Safariland, Axon, Raytheon, Zarc, PepperBall, NLT).
-- El hecho de que **no haya innovado en 20 años pero siga vendiendo** es **una de las pruebas más claras** de la tesis de [[../../autores-y-referencias/paul-rocher/paul-rocher|Paul Rocher]]: el sector no necesita ser técnicamente sofisticado, solo necesita **demanda política**.
+**Todo el contenido está ahora en → [[als-less-lethal]]**, incluido lo que solo estaba aquí: el dato de *Humo en las calles* sobre las dos décadas sin innovar.
 
-## Conexiones
-- ↔ [[00-indice]]
-- ↔ [[combined-systems]] · [[lamperd-less-lethal]] — competidores directos en el mismo segmento.
-- ↔ [[../../casos/latam/00-compilacion-latam]] — el problema del **armamento caducado** circulando.
+> Esta ficha se conserva únicamente para no romper los enlaces que ya apuntaban aquí. No añadir contenido nuevo.

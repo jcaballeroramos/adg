@@ -88,7 +88,11 @@ Cifras agregadas y datos transversales sobre el daño producido por armas "menos
 > **Esta es la única condena conocida que existe en el Estado español por un caso de bala de goma.**
 
 ### Procesos judiciales abiertos a principios de 2024
-**82 agentes investigados**:
+### Los procedimientos que sostiene Irídia (informe de violencia institucional 2023)
+
+En los procedimientos penales en los que **Irídia es parte** —como acusación particular, popular o ambas— había a cierre de 2023 un total de **156 agentes o funcionarios encausados**, de ellos **82 investigados**: 34 Mossos d'Esquadra, 12 Policía Nacional, 19 policías locales y 10 funcionarios de prisiones. ✅
+
+> Precisión importante: **no son todos los agentes investigados en España**, sino los de los procedimientos en los que Irídia está personada.
 - **34** Mossos d'Esquadra
 - **12** Policía Nacional
 - **19** policías locales

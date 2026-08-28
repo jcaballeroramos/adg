@@ -24,7 +24,11 @@ Es **la primera publicación del Centre Delàs** dedicada específicamente a las
 - **Churchill 1919**: defensor del gas contra «tribus incivilizadas» — la narrativa de «humanización» nace aquí.
 - **Rocher**: la transición a armas menos letales no respondió a consideraciones éticas sino a la **búsqueda de mayor eficacia** represiva.
 - **Normativa internacional**: Código de Conducta ONU 1979 → Principios Básicos 1990 → Orientaciones 2020. El último documento defiende «menos letal» en vez de «no letal» porque *«el uso de cualquier arma puede tener consecuencias fatales»*.
-- **Proliferación**: de **13 empresas en 5 países** (1978) a **+200 empresas en +60 países** (2019, Omega Research Foundation).
+- **Proliferación**: de **13 empresas en 5 países** (1978) a **más de 200 empresas en más de 60 países** (2019). La cifra **es de la Omega Research Foundation**, no del Centre Delàs: el Informe 56 (Ainhoa Ruiz Benedicto y Anna Montull Garcia, noviembre de 2022, pp. 13-14) la cita correctamente. El texto original de Omega dice *«Omega's databases contain details of over 200 companies in over 60 countries currently manufacturing less lethal weapons»*, y su nota 11 precisa que la consulta **excluyó medios de inmovilización y protecciones balísticas** y cuenta solo empresas que **fabrican actualmente**.
+
+> ⚠️ **No encadenar 13 → 369 → 200 como si fuera una serie (26 de agosto de 2026).** Los tres números cuentan cosas distintas. El «más de 369 across 40 countries» del estudio del STOA de 2000 cuenta **fabricantes, proveedores y distribuidores** rastreados en ferias; el «más de 200 en más de 60 países» de Omega en 2019 cuenta **solo fabricantes**, excluyendo grilletes y protecciones. El número de **países** sí crece de forma coherente (5 en 1978, ~40 en 1999, más de 60 en 2019); lo que «cae» es el recuento de empresas, por cambio de criterio.
+>
+> Si se quiere una serie homogénea, usar la que la propia Omega publica a partir de Jane's: **13 empresas en 5 países (1978) → 50 en 17 (1999) → 89 en 28 (2014-15)**. Fuentes que cita: Archer (ed.), *Jane's Infantry Weapons 1978*; Heyman (ed.), *Jane's Police and Security Equipment 1998-99*; *IHS Jane's Police & Homeland Security Equipment 2014-2015*. Ojo: esas fuentes son de pago y no se han podido consultar.
 - **Proyectiles cinéticos**: la demanda de los últimos 30 años ha generado **+75 tipologías** de balas y escopetas.
 
 ### Bloque 2 — Casos de uso ilícito
@@ -32,7 +36,8 @@ Es **la primera publicación del Centre Delàs** dedicada específicamente a las
 #### Francia — Chalecos Amarillos y reforma pensiones (2018-2020)
 - **24.300 personas heridas** (±4.200) según Street-médics — **10 veces más** que la cifra oficial (2.448, Ministerio del Interior).
 - **3.090** requirieron traslado hospitalario o asistencia in situ.
-- **18.805 municiones LBD** + **6.735 granadas de désencerclement** disparadas.
+- **18.805 municiones LBD** + **6.735 granadas de désencerclement** disparadas **entre el 17 de noviembre de 2018 y el 31 de diciembre de 2019**, según el informe del Observatoire des Street-médics de donde el Delàs toma la cifra.
+  > ✅ Corregido el 26 de agosto de 2026. No es una serie 2018-2020 y **no contradice** los 19.071 de la IGPN, que son el año natural 2018 completo. La aritmética cierra: 18.805 − 10.785 (año 2019 completo según la IGPN) = 8.020 para el tramo del 17 de noviembre al 31 de diciembre de 2018, y 19.071 − 8.020 = 11.051 para el 1 de enero al 16 de noviembre. Ver [[../../casos/impacto-agregado]] para la serie anual.
 - **Gases lacrimógenos**: afectaron a **311.000 personas** (±47.200) que requirieron descontaminación. Solo el **1 de diciembre de 2018** se usaron **10.000 granadas de gas**.
 - **Lesiones traumáticas**: 66,7% del total. De ellas, **más de 1 de cada 6** fue craneoencefálica.
 - Armas responsables de lesiones en la cabeza: bastón policial (43%), KIPs (13,9%), granadas de impacto cinético (17,6%), granadas explosivas (12,5%), cartuchos lacrimógenos (36,4%).
@@ -105,7 +110,8 @@ Las autoras justifican la elección del término **«armas potencialmente letale
 ## Por qué importa para el documental
 - Es **la cita de autoridad española** más completa para el documental — una institución barcelonesa con 30+ años de trayectoria.
 - **Anna Montull García** (coautora) ya tiene ficha propia en el wiki como autora vinculada al documental.
-- **Datos cuantitativos extraordinarios**: 24.300 heridos en Francia, 460 ojos en Chile, 13→200 empresas en 40 años, mercado de 9.380 M$.
+- **Datos cuantitativos extraordinarios**: 24.300 heridos en Francia (Observatoire des Street-médics, 17 nov 2018 - 14 mar 2020), 460 personas con lesiones oculares en Chile (INDH, corte del 13 de marzo de 2020), la serie de empresas de Omega, y un mercado que el Delàs cifra en 9.380 M$ para 2028.
+  > El informe original de The Insight Partners dice **9.280 M$**, no 9.380. Ver [[../../empresas-de-armas/mercado-mundial]].
 - **Conexión directa** con todos los casos del wiki: Bahréin, Egipto, Chile, Francia, Colombia, Israel/Palestina, EE.UU. frontera.
 - **Marco teórico compartido** con Paul Rocher y Sven Lindqvist (genealogía colonial → militarización urbana → mercado global).
 - **La tabla de las 15 empresas** es exactamente el listado que ya tenemos en el wiki como fichas individuales.

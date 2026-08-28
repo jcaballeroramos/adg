@@ -30,8 +30,8 @@ Fabricante **israelí** de un catálogo amplio de armas menos letales. **Único 
 
 ## Casos documentados
 - **Territorios Ocupados — Palestina** — uso continuo y sistemático contra población palestina.
-- **Burundi 2015** — protestas reprimidas con armas ISPRA.
-- **Azerbaiyán 2013** — protestas reprimidas con armas ISPRA.
+- **Burundi 2015** — **Amnistía Internacional** identificó, a partir de fotografías y vídeos publicados por el medio **Quartz**, granadas lacrimógenas ISPRA azules y naranjas usadas por la policía burundesa contra las protestas. Un primer plano muestra «marcas exclusivas de ISPRA», y Amnistía las asocia al modelo **CSS-STCS** del catálogo de la empresa.
+- **Azerbaiyán, enero de 2013** — Las fotografías de los botes lacrimógenos usados para dispersar a la multitud en las protestas de **Ismayilli** llevaban códigos que los vinculan a **ISPRA** (Herzliya, Israel), según **RFE/RL** (Arifa Kazimova y Daisy Sindelar, **13 de marzo de 2013**). En las protestas del **10 de marzo** de ese año se identificó además un cañón de agua.
 - → ver [[../../casos/latam/00-compilacion-latam]] (mencionada como fabricante israelí relevante).
 
 ## Por qué importa para el documental

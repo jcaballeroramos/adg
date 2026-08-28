@@ -17,11 +17,12 @@ Empresa **estatal china** fabricante de armas. Proveedor de equipos militares y 
 
 ## Productos
 ### Bombas lacrimógenas
-- **NF01** — modelo principal exportado.
+- **NF01** — cartucho lacrimógeno **CS de 38 mm**. Según el investigador de armamento **George Colclough** (*Hong Kong Free Press*, 1 de mayo de 2020), usa **magnesio y aluminio en polvo** como acelerantes, lo que eleva la temperatura de las submuniciones «a 500 °C o más» y degrada el CS liberando **dioxinas cancerígenas**. Es el modelo que mató a [[../../casos/latam/juan-pablo-pernalete|Juan Pablo Pernalete]].
 - **Bombas lacrimógenas** que la **Guardia Nacional Bolivariana** ha utilizado en Venezuela.
 
 ### Vehículos blindados — el "bestiario venezolano"
-- **VN-4** — vehículo base.
+- **VN-4** — blindado 4×4 de reconocimiento y transporte de personal, el **«Rinoceronte»**. Las unidades venezolanas se modificaron para control de disturbios: en lugar de ametralladora en el techo, llevan un lanzador de nueve cañones.
+  > ⚠️ **Corregido el 27 de agosto de 2026: el «Ballena», el «Rinoceronte» y el «Murciélago» no son versiones de un mismo vehículo.** Son **tres modelos distintos del catálogo de Norinco**, apodados en la calle venezolana por su aspecto. La ficha los presentaba como derivados del VN-4.
 - **"Ballena"** — versión venezolana.
 - **"Rinoceronte"** — versión venezolana.
 - **"Murciélago"** — versión venezolana.
@@ -32,8 +33,9 @@ Empresa **estatal china** fabricante de armas. Proveedor de equipos militares y 
 **Murió por impacto directo** de una **bomba lacrimógena Norinco** disparada al pecho a corta distancia.
 - → ver [[../../casos/latam/venezuela-2017-2019]].
 
-### Contrato 2012 con Venezuela
-- **500 millones de dólares**.
+### Contrato 2012 con Venezuela — 500 millones de dólares, con el objeto en disputa
+- **500 millones de dólares**. Las dos fuentes que dan la cifra **coinciden en el importe y discrepan en el objeto**, y ninguna publica el contrato. Según *El negocio de la represión* (CLIP), el dinero fue a «cascos, fornituras, chalecos antibalas, escudos y trajes de protección corporal». Otras fuentes lo sitúan en material distinto.
+  > ⚠️ Escribir el importe con la atribución y **sin cerrar el objeto** hasta tener el documento.
 - Cascos, chalecos antibalas, escudos, trajes de protección.
 - **Adaptación de vehículos militares para control de disturbios** en Venezuela.
 

@@ -20,7 +20,7 @@ Aunque el AR-15 es un **arma de fuego letal** (no «menos letal»), esta pieza e
 
 1. **El modelo visual** — las animaciones 3D de la trayectoria de la bala, el «blast effect» (onda de choque) y las heridas de entrada/salida son **el mismo tipo de visualización** que el wiki ya tiene para las armas «menos letales»: ver [[tear-gas-amnesty]] (gas CS sobre el cuerpo), [[flash-bang-m84-tecnico]] y [[flash-bang-m84-fisiologia]] (granada M84 sobre ojo y oído). The Blast Effect es la **referencia de máxima calidad** para este lenguaje visual.
 
-2. **El continuum letal** — la pieza compara explícitamente el impacto de un AR-15 (rifle) con el de una **9mm** (pistola común). Esa comparación es exactamente el mismo argumento que aplica la Dra. Estrella Fernández cuando compara la bala de goma (85g a 720 km/h) con un puñetazo: la energía cinética determina el daño. El «blast effect» del AR-15 es la versión letal del mismo principio que hace que un bote de gas lacrimógeno mate cuando impacta directamente.
+2. **El continuum letal** — la pieza compara explícitamente el impacto de un AR-15 (rifle) con el de una **9mm** (pistola común). Esa comparación es exactamente el mismo argumento que aplica la Dra. Estrella Fernández cuando compara la bala de goma (85g a 720 km/h ⚠️ [cifra sin verificar, ver AUDITORIA.md]) con un puñetazo: la energía cinética determina el daño. El «blast effect» del AR-15 es la versión letal del mismo principio que hace que un bote de gas lacrimógeno mate cuando impacta directamente.
 
 3. **La invisibilidad del daño** — el WaPo publica estas animaciones porque *«the carnage is rarely visible to the public»* y *«we often sanitize what is happening»*. Es **exactamente la misma tesis** del documental «Artefactos de Guerra»: las armas «menos letales» causan un daño que es sistemáticamente invisibilizado.
 
@@ -63,7 +63,7 @@ Al final de la pieza, un contador indica el tiempo que el lector ha pasado en la
 ## El paralelismo con las armas «menos letales»
 | Concepto | AR-15 (letal) | Bala de goma / gas lacrimógeno |
 |---|---|---|
-| **Energía cinética** | .223 a 3.240 fps | 85g a 720 km/h (Estrella Fernández) |
+| **Energía cinética** | .223 a 3.240 fps | 85g a 720 km/h ⚠️ [cifra sin verificar, ver AUDITORIA.md] (Estrella Fernández) |
 | **Blast effect** | Destruye tejido fuera de la trayectoria | «Estallido del globo ocular + muerte celular de la grasa» (Estrella) |
 | **Fragmentación** | La bala se fragmenta dentro del cuerpo | El bote de gas se fragmenta al impactar en el cráneo |
 | **Invisibilidad** | Fotos de autopsias clasificadas | Lesiones internas no visibles externamente |

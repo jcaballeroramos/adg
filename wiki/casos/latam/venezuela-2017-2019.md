@@ -4,7 +4,7 @@ estado: borrador
 pais: Venezuela
 periodo: 2017-2019
 contexto: Protestas contra el gobierno de Nicolás Maduro
-victimas: 248 muertes en protestas, 33% por fuerza pública
+victimas: 163 asesinadas en el contexto de las manifestaciones de 2017 (OVCS); 33% de los homicidios del país en 2018 por fuerzas de seguridad (Keymer Ávila)
 fabricante: Norinco (China), Condor (Brasil)
 tags: [venezuela, maduro, plan-zamora, norinco, ballena, rinoceronte, murcielago, juan-pablo-pernalete, rufo-chacon]
 ---
@@ -12,9 +12,10 @@ tags: [venezuela, maduro, plan-zamora, norinco, ballena, rinoceronte, murcielago
 # Venezuela · 2017-2019
 
 ## El balance global
-- **248 muertes en protestas** durante el periodo.
-- **33% de los homicidios intencionales** cometidos por la fuerza pública.
-- **160 personas fallecidas en 2017**.
+> ⚠️ **Las «248 muertes en protestas» se retiran (27 de agosto de 2026): no hay documento que las sostenga.** El recuento publicado más cercano pertenece a otra serie y a otro perímetro.
+- **En 2018, un 33% de los homicidios registrados en Venezuela fue obra de las fuerzas de seguridad del Estado**, según el criminólogo **Keymer Ávila** (UCV): «en 2010 era apenas de un 4%, ocho años después llega a 33%». Metodología en *Utopía y Praxis Latinoamericana*, vol. 24, núm. Esp. 2, 2019, DOI 10.5281/zenodo.3344852.
+  > Es el porcentaje sobre **todos los homicidios del país**, no sobre los muertos en protestas.
+- **163 personas asesinadas** en el contexto de las manifestaciones de 2017, en 14 estados, según el balance anual del **Observatorio Venezolano de Conflictividad Social**, que registró ese año 9.787 protestas. Para el pico represivo, el Ministerio Público registró **124 muertes entre el 1 de abril y el 31 de julio de 2017**; de ellas, el ACNUDH atribuyó **46 a las fuerzas de seguridad**, 27 a colectivos armados y dejó 51 sin autoría determinada.
 
 ## Casos emblemáticos
 - **Juan Pablo Pernalete** (2017) — joven muerto por impacto de **bomba lacrimógena Norinco** disparada **directamente al pecho a corta distancia**.

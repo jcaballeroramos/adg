@@ -31,4 +31,4 @@ Fabricante **estadounidense** de armas menos letales. Cuestionada por su nombre 
 - ↔ [[../../casos/latam/chile-estallido-2019]]
 - ↔ [[../../casos/latam/intermediarios-latam]]
 - ↔ [[azimuth-medical-devices]] — el otro proveedor de Carabineros vía intermediario anómalo (~400k$ vs ~500k$).
-- ↔ [[combined-systems]] · [[als-less-lethal]] · [[amtec-less-lethal]] · [[lamperd-less-lethal]] — mismo segmento.
+- ↔ [[combined-systems]] · [[als-less-lethal]] · [[lamperd-less-lethal]] — mismo segmento.

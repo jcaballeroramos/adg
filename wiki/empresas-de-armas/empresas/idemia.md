@@ -59,6 +59,9 @@ En el vocabulario de esta wiki, IDEMIA representa **la otra cara del continuo de
 - **Francia** — programas nacionales de identidad.
 - **Singapur, Emiratos Árabes Unidos, Albania** — despliegues biométricos y de reconocimiento facial.
 - **Kenia** — kits de captura biométrica para el registro nacional **Huduma Namba / NIIMS** (2018-19) → ver controversias.
+- **Sesgo del sistema**: los tests del **NIST** (*Face Recognition Vendor Test*) documentan tasas de falso positivo notablemente más altas para rostros de mujeres negras que para los de mujeres blancas.
+  > ⚠️ **El «~10 veces más» que traía esta ficha no se ha podido fijar** (27 de agosto de 2026): la magnitud depende del algoritmo concreto, del umbral y del conjunto de datos, y el NIST publica los resultados por algoritmo, no como una cifra única. Dar la referencia del FRVT y el algoritmo, o no dar multiplicador.
+- **Compra por Amadeus**: la adquisición de **IDEMIA Public Security** por Amadeus se anunció por unos **1.200 M€** (abril de 2026). ⚠️ Cifra pendiente de confirmar en el hecho relevante.
 
 ## Contexto — Eurosatory 2026
 

@@ -32,7 +32,8 @@ Empresa **estadounidense** fundada en **1981**. Principal proveedor mundial de *
 Citas de catálogo del VENOM ("multiplicador de fuerza" capaz de "determinar la intención") → análisis completo en [[../../ferias-de-armas/feindef/02-cts-venom]].
 
 ## Mercado y presencia
-- Contratos con el **Cuerpo de Marines y la Marina de EE.UU.** desde **2006**.
+- **Contratación federal estadounidense** (FPDS-NG, registro primario): contratos con el **Departamento de la Marina** desde al menos el **7 de abril de 2000** —orden 0007 bajo N0016498D0010, Naval Surface Warfare Center, **674.502 $**, epígrafe «1330 GRENADES»—, con adjudicaciones sucesivas desde entonces.
+  > ✅ **Corregido el 27 de agosto de 2026: la relación arranca en 2000, no en 2006.**
 - **Mayor presencia en América Latina**, especialmente Centroamérica y México.
 - Ventas del **Sistema VENOM a Colombia** (usado por el ESMAD).
 - Implicada en **casos de corrupción en Bolivia** por intermediarios.

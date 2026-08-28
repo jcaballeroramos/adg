@@ -25,7 +25,7 @@ El evento combina zona expositiva y programa de conferencias, articulado en vari
 Entre los **ejes temáticos** anunciados: seguridad física impulsada por **IA**, **cibercrimen** y amenazas en dispositivos móviles, gestión de **emergencias**, **redes de lectores de matrículas** (LPR), aplicaciones de **seguridad con drones**, verificación de imagen/vídeo en videovigilancia e investigación de delitos con criptomonedas.
 
 ## Expositores y participantes
-Históricamente ha reunido a **más de 500 marcas** (cifra a confirmar por edición). Entre las empresas citadas: **Verkada, Honeywell, Elecnor Sistemas, RKL Integral, Altona Spain**, entre otras.
+Las **«más de 500 marcas»** son un **acumulado histórico de todas las ediciones**, no la cifra de una sola: para 2026 el listado oficial de participantes recoge del orden de **una cuarentena**. La edición de 2026 reunió, según la organización, a **más de 3.000 profesionales**, en las **Reials Drassanes** de Barcelona. ✅ Entre las empresas citadas: **Verkada, Honeywell, Elecnor Sistemas, RKL Integral, Altona Spain**, entre otras.
 
 En el lado **público**, participan cuerpos policiales y de emergencias como **Guardia Urbana de Barcelona**, **Bombers de Barcelona**, **Mossos d'Esquadra**, **Policía Nacional**, **Guardia Civil** y **Ertzaintza**.
 

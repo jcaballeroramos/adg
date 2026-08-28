@@ -27,14 +27,15 @@ Plataforma de **víctimas y familiares** de balas de goma en el Estado español.
 
 ## Su informe principal
 **Periodo 2000-2020**:
-- **40 personas afectadas**: 37 hombres, 3 mujeres, edad media 30 años.
+- **40 personas afectadas** entre 2000 y 2020: 37 hombres, 3 mujeres, edad media 30 años. Es el universo del informe de **Irídia y Novact** de 2021, que en el análisis de lesiones excluye a las 14 personas del Tarajal y trabaja con 26.
 - **Datos territoriales**, **por cuerpo policial**, **por tipo de evento**.
-- **p. 32 y siguientes** — recopilación de **jurisprudencia del TEDH** sobre balas de goma y material antidisturbios: más condenas además de [[../../marco-legal/bibliografia/tedh-kilici-vs-turquia|Kilici c. Turquía]] y [[../../marco-legal/bibliografia/tedh-yasa-vs-turquia|Abdullah Yasa c. Turquía]].
+- **p. 32 y siguientes** — recopilación de **jurisprudencia del TEDH** sobre balas de goma y material antidisturbios: más condenas además de [[../../marco-legal/bibliografia/tedh-kilici-vs-turquia|Kılıcı c. Turquía]] y [[../../marco-legal/bibliografia/tedh-yasa-vs-turquia|Abdullah Yaşa c. Turquía]].
 - Síntesis y cifras completas: [[../../casos/espana-europa/compilacion-espana]].
 
 ## Logros políticos
 - Fueron clave en la **prohibición de balas de goma en Cataluña en 2014** (junto con los casos de Ester Quintana y [[../../casos/espana-europa/juan-andres-benitez|Juan Andrés Benítez]]).
-- Su trabajo apuntala las prohibiciones posteriores en **Euskadi (2015)** y **Navarra (2017)**.
+- Su trabajo apuntala las decisiones posteriores en **Euskadi** y **Navarra**.
+  > ⚠️ Corregido el 27 de agosto de 2026: en **Euskadi** no se ha podido documentar ninguna prohibición formal, ni en 2012 ni en 2015; lo documentado es el **cese de hecho** tras la muerte de Iñigo Cabacas en abril de 2012. Y en **Navarra** es **2016**, y es retirada de la dotación, no prohibición legal.
 
 ## Lo que persigue ahora
 - **Prohibición de balas de foam** (sustituto introducido tras la prohibición de las de goma).

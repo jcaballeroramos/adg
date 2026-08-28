@@ -100,8 +100,8 @@ Los argumentos de Fries ("humanitario", "sin rastros", "necesario para el orden"
 ### Cronología
 - **Años 70** — EE.UU. busca alternativa al gas CS. El Servicio Postal ya usa OC contra los perros que atacan a los carteros.
 - **Loghman contratado por el FBI** para desarrollar un aerosol OC humano.
-- **1980** — primer producto comercial.
-- **1987** — el FBI aprueba el spray como "método de incapacitación".
+- **1980** — primer producto comercial de spray OC. ⚠️ Fecha pendiente de fuente primaria.
+- **1987** — el FBI aprueba el spray como «método de incapacitación». ✅
 - **Años 90** — masificación policial mundial.
 
 ### Occupy Wall Street, 18 noviembre 2011 — UC Davis

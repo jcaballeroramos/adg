@@ -59,7 +59,7 @@ Informe de **Amnistía Internacional** publicado en octubre de **2021** (código
 | **Brasil** | 4.670 muertes por policía en 2017 (tasa 2.3/100k) |
 | **El Salvador** | 617 muertes por policía en 2016 (tasa 9.5/100k) |
 | **Jamaica** | Hasta 2014: +200 muertes/año por policía. Post-INDECOM: reducción 53% |
-| **Chile 2019** | 300+ traumas oculares, 8.000+ investigaciones abiertas |
+| **Chile 2019** | 347 personas con heridas oculares al 30 de noviembre de 2019 (INDH, *Informe Anual 2019*, p. 35); 460 al 13 de marzo de 2020, cierre de la serie observacional. 8.000+ investigaciones abiertas |
 | **Colombia 2019-2020** | Múltiples denuncias de abuso, muerte de Javier Ordóñez |
 
 ## Recomendaciones
@@ -83,7 +83,8 @@ Informe de **Amnistía Internacional** publicado en octubre de **2021** (código
 - ↔ [[coe-comisario-ddhh]] — los cinco principios europeos coinciden.
 - ↔ [[iridia-mecanismos-independientes]] — misma demanda desde Cataluña.
 - ↔ [[unodc-ohchr-manual-uso-fuerza]] — base normativa ONU citada.
-- ↔ [[../../casos/latam/chile-estallido-2019]] — 300+ traumas oculares documentados.
+- ↔ [[../../casos/latam/chile-estallido-2019]] — la serie completa del INDH con sus cortes.
+  > ✅ Corregido el 26 de agosto de 2026. El «300+» se sustituye por cifras fechadas. El INDH, en su *Informe Anual 2019*, p. 35, escribe: «según las inspecciones realizadas en recintos hospitalarios al 30 de noviembre, se reporta un total de 347 heridas oculares». Su nota 62 explica que esa cifra anual «es hasta el 30 de noviembre e incluye las cifras reportadas por las Sedes Regionales del INDH», es decir, es una consolidación retrospectiva, mientras que el reporte periódico de esa misma fecha daba 241 porque era una instantánea de ingesta con seis regiones sin reportar. El Colegio Médico daba 340 en la misma fecha. La otra cifra con primario es 352, del reporte del 6 de diciembre de 2019, que ACNUDH reproduce.
 - ↔ [[../../casos/latam/colombia-2021]] — Paro Nacional, ESMAD.
 - ↔ [[../../casos/latam/gustavo-gatica]] — caso central del informe "Ojos sobre Chile".
 - ↔ [[../../casos/latam/fabiola-campillai]] — víctima ocular Chile.

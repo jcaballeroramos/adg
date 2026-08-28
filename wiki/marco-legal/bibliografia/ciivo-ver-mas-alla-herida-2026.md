@@ -44,7 +44,7 @@ La **violencia ocular** no es un accidente ni un efecto colateral: es una **form
 | **Sudáfrica (apartheid)** | Balas de goma como herramienta de control racial. |
 | **Egipto (2011-2013)** | Ahmed El Shinawi, apodado «el cazador de ojos» — francotirador policial que disparaba deliberadamente a los ojos de manifestantes. |
 | **Chile (2019)** | **500+ heridos oculares** durante el Estallido Social. Casos emblemáticos: Fabiola Campillai, Gustavo Gatica (ambos perdieron los dos ojos). |
-| **Colombia (2019-2021)** | **80+ heridos oculares** solo en Bogotá durante el Paro Nacional. Dylan Cruz asesinado por el ESMAD. |
+| **Colombia (2019-2021)** | **80+ heridos oculares** solo en Bogotá durante el Paro Nacional. Dilan Cruz asesinado por el ESMAD. |
 | **EE.UU. (2020)** | Protestas George Floyd — múltiples casos de trauma ocular por KIPs (kinetic impact projectiles). |
 
 ### Cap. 3 — Los cinco impactos postraumáticos

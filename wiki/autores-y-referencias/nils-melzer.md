@@ -15,7 +15,9 @@ tags: [melzer, suiza, onu, tortura, assange, less-lethal, 2017]
 Es **mundialmente conocido** por su trabajo en el **caso Julian Assange**, sobre el que publicó el libro **«El caso Assange: historia de una persecución política»** (2022), pero su contribución al debate sobre las **armas «menos letales»** es igualmente importante.
 
 ## El informe ONU 2017
-**Marzo 2017** — Melzer presenta al Consejo de Derechos Humanos su informe **«Uso de la fuerza al margen de la detención y prohibición de la tortura y otros tratos o penas crueles, inhumanos o degradantes»** (A/HRC/34/54).
+**20 de julio de 2017** — Melzer presenta **a la Asamblea General** el informe **«Extra-custodial use of force and the prohibition of torture and other cruel, inhuman or degrading treatment or punishment»** (**A/72/178**), que examina «si el uso de la fuerza por agentes del Estado fuera de la detención constituye tortura u otros tratos o penas crueles, inhumanos o degradantes, y en qué circunstancias, y cómo se aplica la prohibición de la tortura al desarrollo, la adquisición, el comercio y el uso de armas en el mantenimiento del orden».
+
+> ⚠️ **Signatura corregida el 27 de agosto de 2026.** La ficha lo databa en marzo de 2017 con la signatura **A/HRC/34/54**, que es en realidad su **primer informe**, de presentación del mandato (Distr. General de 14 de febrero de 2017, 34º período de sesiones). Allí el uso de la fuerza fuera de la detención aparece solo como sección IV.D, párrs. 41-42, y **en tiempo futuro**, anunciando el tema. El informe temático es el A/72/178, y va a la Asamblea General, no al Consejo.
 
 Tesis central:
 - La **prohibición absoluta de la tortura** del **artículo 5 de la Declaración Universal** y del **artículo 7 del PIDCP** **se aplica también** al uso de la fuerza por agentes del Estado **fuera de los contextos de detención**.

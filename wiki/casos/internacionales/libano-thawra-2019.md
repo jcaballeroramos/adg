@@ -43,10 +43,14 @@ La policía reprimió con:
 - **Cientos de detenidos**.
 
 ## Fabricantes implicados
-Aunque la documentación es parcial, se ha confirmado el uso de:
-- **Gas lacrimógeno estadounidense** (probablemente [[../../empresas-de-armas/empresas/combined-systems|CTS]] o Safariland).
-- **Balas de goma brasileñas** de [[../../empresas-de-armas/empresas/condor|Condor]].
-- **Cañones de agua europeos**.
+
+**El material de represión identificado en Líbano es francés.** Amnistía Internacional recogió, verificó y analizó **101 vídeos de protestas** e identificó **175 instancias de uso de armas entre el 22 de agosto de 2015 y el 8 de octubre de 2020**:
+
+- Granadas lacrimógenas **[[../../empresas-de-armas/empresas/alsetex|Alsetex]] CM4 y CM6**.
+- Granadas **Nobel Securité MP7** ([[../../empresas-de-armas/empresas/nobel-sport|Nobel Sport]]).
+- Lanzagranadas **Alsetex Chouka**.
+
+> ⚠️ **Atribución retirada el 27 de agosto de 2026.** Esta ficha daba «gas lacrimógeno estadounidense (probablemente CTS o Safariland)» y «balas de goma brasileñas de Condor». **Ninguna de las dos tiene respaldo**, y el «probablemente» era ya un aviso de que no se sabía. Lo documentado apunta a la industria francesa, no a la estadounidense ni a la brasileña.
 
 ## Casos individuales
 - **Alaa Abou Fakher** — joven manifestante muerto por disparo policial el **12 de noviembre de 2019** cuando regresaba a casa tras una protesta. Primera muerte documentada del movimiento.
@@ -57,7 +61,9 @@ Aunque la documentación es parcial, se ha confirmado el uso de:
 - El movimiento continúa durante meses, pero se **enfría progresivamente**.
 - **COVID-19** golpea el país (marzo 2020), interrumpiendo las protestas.
 - **4 de agosto de 2020** — **explosión del puerto de Beirut**: 218 muertos, 7.000 heridos, 300.000 sin hogar. El movimiento renace brevemente.
-- **Crisis económica**: la lira libanesa pierde el **90% de su valor**. El país se hunde en una de las **peores crisis económicas del siglo XXI**.
+  > Estas tres cifras son de la **explosión del puerto**, no de la represión del *thawra*. No mezclarlas con el recuento de heridos por armas menos letales.
+- **Crisis económica**: según el **Banco Mundial**, la crisis abierta en 2019 —«el colapso económico y financiero más grave de la historia del país»— dejó insolvente al sector bancario e hizo que **la lira libanesa perdiera el 98% de su valor**, empujando a más de un tercio de la población a la pobreza. El tipo de cambio medio se depreció un **129% en 2020**, con una inflación del **84,3%**.
+  > ⚠️ Corregido: era el **98%**, no el 90%. El país se hunde en una de las **peores crisis económicas del siglo XXI**.
 
 ## Por qué importa para el documental
 - **Caso paradigmático de la ola 2019** junto con Chile, Hong Kong, Colombia, Ecuador, Irak.

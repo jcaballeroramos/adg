@@ -33,7 +33,7 @@ Una de las **mayores empresas de armamento de Alemania y de Europa**. Catálogo 
 - Mortero, munición de cañones.
 
 ## Casos documentados
-- **Bahréin 2011** — uso de productos Rheinmetall en la represión.
+- **Bahréin 2011** — uso de productos Rheinmetall en la represión. ⚠️ **Pendiente de fuente**: no se ha localizado documentación que acredite qué producto ni por qué vía.
 - → ver [[../../casos/latam/00-compilacion-latam]] (mencionado entre los fabricantes implicados en LATAM).
 
 ## Coordenadas FEINDEF 2025

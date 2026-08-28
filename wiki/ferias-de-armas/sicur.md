@@ -36,7 +36,7 @@ SICUR abarca la seguridad de forma transversal. Áreas cubiertas:
 ## Relevancia y cifras (edición 2026)
 - **+670 empresas expositoras** de unos **25 países**.
 - **+47.000 visitantes profesionales**, procedentes de **83 países**.
-- **Impacto económico** estimado de **120 millones de euros** para Madrid.
+> Todas las cifras de SICUR proceden del **balance publicado por IFEMA MADRID el 11 de marzo de 2026**: son **datos del organizador, no auditados por un tercero**. Edición 2026: **673 empresas participantes** en cuatro pabellones. El «impacto económico estimado de 120 millones de euros para Madrid» es una estimación del propio organizador.
 - Lema de la edición: **"La seguridad es lo que nos une"**, con énfasis en la **seguridad integral** y la innovación tecnológica (ciberseguridad e IA como focos principales).
 
 SICUR es, junto a [[feindef/00-overview]], una de las dos grandes citas feriales del sector seguridad/defensa en España, aunque con perfil distinto: FEINDEF es defensa e industria militar; SICUR es **seguridad integral** (privada, contra incendios, laboral, ciber), con componente de defensa y emergencias.

@@ -11,7 +11,11 @@ tags: [telefónica, españa, vigilancia, taser, guardia-civil, axon, comunicacio
 
 # Telefónica Ingeniería de Seguridad
 
-**Brazo de Telefónica** dedicado a productos de **vigilancia y seguridad**. Nacida tras el **atentado a CNTE en 1984**. **Vendió Tasers a la Guardia Civil**, junto con equipos de comunicaciones y registro.
+**Brazo de Telefónica** dedicado a productos de **vigilancia y seguridad**. **Vendió Tasers a la Guardia Civil**, junto con equipos de comunicaciones y registro.
+
+> ⚠️ **Dos datos pendientes de fuente (27 de agosto de 2026).** Ni la fundación «post-1984 tras el atentado a CNTE» ni el detalle de los contratos del Taser X26 con la Guardia Civil se han podido documentar. La vía para cerrarlos es la **Plataforma de Contratación del Sector Público** y el registro mercantil.
+
+**Lo que sí está documentado** es su papel en Euskadi: según la investigación de El Salto y Hordago de 30 de junio de 2026, Telefónica Ingeniería de Seguridad suministró **16 pistolas táser y 1.387 bodycams** a la Ertzaintza, y es proveedora también de Santurtzi y Basauri. El reportaje documenta además **inversiones suyas en tres empresas israelíes**. → [[../../marco-legal/bibliografia/elsalto-taser-euskadi-2026]]
 
 ## Datos
 - País: España

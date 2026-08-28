@@ -20,8 +20,10 @@ tags: [milipol, francia, parís, feria-mundial, less-lethal, acat, norinco]
 
 ### Norinco en Milipol 2017
 En **2017**, los trabajadores de **[[../empresas-de-armas/empresas/norinco|Norinco]]** (China) **expusieron en Milipol** mostrando los **vehículos blindados y equipos** que ya estaban en uso en **Venezuela**:
-- **VN-4** ("ballena", "rinoceronte", "murciélago").
-- **Bombas lacrimógenas NF01** — incluyendo modelos similares a los que matarían a **[[../casos/latam/juan-pablo-pernalete|Juan Pablo Pernalete]]**.
+- **VN-4**, blindado 4×4 de reconocimiento y transporte de personal, el «rinoceronte».
+  > ⚠️ **Corregido el 27 de agosto de 2026: «ballena», «rinoceronte» y «murciélago» no son tres apodos del VN-4.** Son **tres modelos distintos del catálogo de Norinco**, apodados así en la calle venezolana por su aspecto. Ver [[../empresas-de-armas/empresas/norinco]].
+- **Bombas lacrimógenas NF01**, cartucho lacrimógeno CS de 38 mm.
+  > ⚠️ **Retirada la equivalencia con el caso Pernalete.** [[../casos/latam/juan-pablo-pernalete|Juan Pablo Pernalete]], de 20 años, murió el **26 de abril de 2017** en Altamira (Caracas) por el impacto de una bomba lacrimógena en el pecho, según las conclusiones que la Fiscal General presentó el 27 de mayo de 2017. Pero **no consta el modelo concreto que lo alcanzó**, así que decir que lo expuesto en Milipol era «similar» no está documentado.
 - Lanzadores de gases adaptados.
 
 > Evidenció la utilización de armamento y vehículos adaptados para represión de protestas. La presencia de estos productos generó preocupación por su uso contra civiles.

@@ -113,7 +113,8 @@ Articulada con organizaciones de derechos humanos para exigir:
 
 ### Material gráfico
 - **Pulitzer Center** — *"A Vision of Justice: Chile's First Blind Senator"* (reportaje con fotos editoriales de alta calidad). <https://pulitzercenter.org/stories/vision-justice-chiles-first-blind-senator>
-- **INDH** — cifras oficiales sobre el estallido (2.381 hospitalizados, 222 traumas oculares).
+- **INDH** — *Información constatada por el INDH al 18-11-2019 a las 16.30 hrs*, datos desde la noche del 17 de octubre: **222 personas con heridas oculares** (Tabla 3: estallido ocular 2, lesión ocular 61, pérdida ocular 5, trauma ocular 154; 194 de ellas en la Región Metropolitana) y **2.391 personas heridas o fallecidas** constatadas por observadores en centros de salud (Tabla 2: 1.482 por disparos, 903 por otras causas y 6 fallecidos), sobre **2.587 personas catastradas en hospitales** (Tabla 1: 2.351 adultos y 218 niños, niñas y adolescentes).
+  > ✅ Corregido el 26 de agosto de 2026. Esta ficha decía «2.381 hospitalizados»: el dígito era erróneo y la etiqueta también. El 2.391 incluye seis muertos y no es el censo hospitalario; el censo hospitalario son 2.587. El propio reporte es internamente incoherente en un punto: su cuerpo dice «se cuentan hasta la fecha 5 muertes por acción de agentes del Estado» mientras la Tabla 2 suma 6 fallecidos.
 
 ## Conexiones
 - ↔ [[gustavo-gatica]] — la otra víctima ocular emblemática del estallido (cegado 8 nov 2019).

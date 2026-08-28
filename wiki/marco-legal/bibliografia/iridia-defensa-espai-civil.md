@@ -31,7 +31,7 @@ Esta tesis está alineada con el argumento de [[../../autores-y-referencias/paul
 
 ## Casos ilustrativos del informe
 - **Pablo Hasél 2021** — Áfrika pierde un ojo. La protesta se criminaliza mediáticamente.
-- **1-O 2017** — Roger Español pierde un ojo. La acusación se dilata 8 años.
+- **1-O 2017** — Roger Español pierde un ojo. El juicio oral se fija para el **16, 17 y 30 de septiembre y 1 de octubre de 2026**: **nueve años** después de los hechos, no ocho.
 - **Proces 2019** — Roger García y Abdelillah pierden visión. Ninguna condena.
 - **Melilla 24-J 2022** — 37 migrantes muertos. Impunidad total.
 - **Tarajal 2014** — 14 migrantes muertos. Impunidad total.

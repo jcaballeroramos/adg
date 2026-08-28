@@ -36,7 +36,7 @@ Es **la única revista académica indexada del mundo** especializada **exclusiva
 - **Continuum tortura ↔ menos letal** — uno de los marcos conceptuales clave del documental.
 
 ## El IRCT — la organización editora
-El **IRCT** es la **mayor red mundial de centros de rehabilitación de víctimas de tortura** — más de **160 centros** en **75 países**, incluyendo **España** (a través del **CINTRAS** y otras organizaciones afiliadas). Sus directrices clínicas son referencia mundial.
+El **IRCT** es la **mayor red mundial de centros de rehabilitación de víctimas de tortura** — más de **160 centros** en **75 países** (cifra declarada por la propia red **IRCT**; no auditada por un tercero), incluyendo **España** (a través del **CINTRAS** y otras organizaciones afiliadas). Sus directrices clínicas son referencia mundial.
 
 ## Conexiones
 - ↔ [[../../autores-y-referencias/fionnuala-ni-aolain]] — Relatora ONU contra la Tortura, cita Torture Journal.

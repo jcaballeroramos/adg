@@ -25,21 +25,28 @@ Catalunya fue **el primer territorio autónomo del Estado español** en prohibir
 
 ## La prohibición
 
-### **Abril de 2014** — Catalunya
-El **Parlament de Catalunya** prohíbe las balas de goma para los **Mossos d'Esquadra**.
+### Catalunya — tres actos y tres fechas
+
+> ✅ **Corregido el 26 de agosto de 2026.** La wiki fundía en uno («abril de 2014, el Parlament prohíbe») lo que son tres actos distintos. «Abril de 2014» es correcto como fecha de **efectividad**, no como fecha del acto del Parlament.
+
+1. **Acto parlamentario — 18 de diciembre de 2013.** La **Resolució 476/X del Parlament de Catalunya**, adoptada por el Ple el 18 de diciembre de 2013 y publicada el 23, aprueba las conclusiones del *Informe de la Comissió d'Estudi dels Models de Seguretat i Ordre Públic i de l'Ús de Material Antiavalots en Esdeveniments de Masses*. **No es una ley**: es una resolución que aprueba unas conclusiones.
+2. **Plazo fijado.** El apartado 24 de esas conclusiones ordena iniciar «inmediatamente» la retirada de las pilotes de goma y fija que *«en data 30 d'abril de 2014 sigui efectiva la prohibició total»*.
+3. **Acto ejecutivo — 30 de abril de 2014.** La **Instrucció 11/2014, de 30 d'abril**, de la Direcció General de la Policia (Departament d'Interior), firmada en Barcelona por Manel Prat i Pelaez, deja sin efecto la autorización del uso de pilotes de cautxú o de goma del punto 3.7 y del anexo de la Instrucció 16/2013.
 
 ⚠️ **Importante**: la prohibición **solo afecta a los Mossos**. La **Policía Nacional** y la **Guardia Civil** han seguido usándolas en territorio catalán. Casos paradigmáticos:
 - **1-O 2017** — referéndum: caso **[[../casos/espana-europa/roger-espanol|Roger Español]]**.
 - **Octubre 2019** — sentencia del Procés: caso **[[../casos/espana-europa/olga-proces|Olga]]**.
 
 ### **Febrero 2014** — Frontera sur
-Tras las **14 muertes en Tarajal** (Ceuta, 6 febrero 2014), la **Dirección General de la Guardia Civil** limita el uso de balas de goma y botes de humo a "**circunstancias extremas**" en los puestos fronterizos de Ceuta y Melilla.
+**Europa Press informó el 25 de febrero de 2014** de que la Guardia Civil había dictado una **instrucción verbal** que **prohibía** a sus agentes de fronteras disparar pelotas de goma.
+> ⚠️ **Corregido el 27 de agosto de 2026.** La ficha hablaba de una «Instrucción de la Dirección General de la Guardia Civil» que «limitaba» el uso a «circunstancias extremas». Lo documentado es una **instrucción verbal**, no un documento escrito con rango, y lo que se comunicó fue una **prohibición**, no una limitación. No se ha localizado texto escrito, y por eso tampoco se puede saber si sigue vigente.
 - Solo afecta a la Guardia Civil.
 - **Se desconoce si la instrucción sigue vigente o no**.
 - **Ocho años después**, **[[../casos/espana-europa/melilla-2022|masacre de Melilla 2022]]** con 37 muertos.
 
-### **Abril 2015** — Euskadi
-Las balas de goma **se prohíben para la Ertzaintza** en Euskadi. Detonante directo: la muerte de **[[../casos/espana-europa/inigo-cabacas|Iñigo Cabacas]]** (abril 2012).
+### Euskadi — dato sin cerrar
+
+> ⚠️ **Ni «2012» ni «abril de 2015» han podido documentarse (26 de agosto de 2026), y hay indicios de que el marco entero es incorrecto.** Las dos piezas de elDiario.es Euskadi que se pudieron abrir describen un **cese de hecho**, no una prohibición, y una afirma explícitamente que las balas de goma no están prohibidas allí, sino desplazadas por una lanzadera de proyectiles viscoelásticos (foam). Lo que se puede afirmar con la prensa disponible, con la cautela de que es una sola redacción, es que **desde la muerte de [[../casos/espana-europa/inigo-cabacas|Iñigo Cabacas]] en abril de 2012 la Ertzaintza no ha vuelto a disparar una pelota de goma**. No poner ninguna de las dos fechas en cartela hasta tener el acuerdo del Departamento de Seguridad o del Parlamento Vasco.
 
 ### **Mayo 2017** — Navarra
 La **Policía Foral** de Navarra deja de usar balas de goma.
@@ -48,7 +55,8 @@ La **Policía Foral** de Navarra deja de usar balas de goma.
 
 > En lugar de eliminar el problema, Catalunya lo **sustituyó**.
 
-Tras la prohibición de las balas de goma, los Mossos comenzaron a usar **balas de foam** — espuma viscoelástica disparada por la **lanzadora [[../empresas-de-armas/empresas/brugger-thomet|Brügger & Thomet]] BT-GL06**, también llamada **GL-06 / LL-06**. La misma munición ya había dejado **personas heridas en Francia** antes de su importación a Catalunya.
+Tras la prohibición de las balas de goma, los Mossos pasaron a las **balas de foam**, disparadas por la lanzadora de 40 mm de **[[../empresas-de-armas/empresas/brugger-thomet|Brügger & Thomet]]** (B&T AG, Thun, Suiza). El fabricante la denomina **GL06** o **B&T GL06**; el protocolo de los Mossos la consigna como **BT-GL06**.
+> La denominación «LL-06» no aparece en las fuentes del fabricante.
 
 ### Los casos que demuestran que el reemplazo no resolvió nada
 - **Febrero 2021** — **[[../casos/espana-europa/africa-pablo-hasel|África]]** pierde un ojo en las protestas por el encarcelamiento de Pablo Hasél. Le dispararon a 22 m.
@@ -66,7 +74,7 @@ Tras la presión sostenida de [[../autores-y-referencias/organizaciones/iridia|I
 - Anuncio: desde 2024 se reemplazarían las **municiones foam de largo alcance** por **municiones de corto alcance de menor lesividad**.
 
 ### El consenso sobre las SIRX
-- **Diciembre 2022** — la **Comisión de Estudio sobre el Modelo Policial (CEMP)** del Parlament de Catalunya recoge el consenso social para que los Mossos **dejen de utilizar los proyectiles SIRX**, los más lesivos.
+- **2 de diciembre de 2022** — la **Comissió d'Estudi sobre el Model Policial (CEMP)** del Parlament de Catalunya aprueba su informe y sus conclusiones (expediente **260-00001/13**, sesión núm. 24, DSPC-C 491). El dictamen se publica en el **BOPC núm. 460, de 20 de diciembre de 2022**. ✅
 - **2024** — Iridia confirma que se hacen gestiones para llevarlo a cabo.
 - A raíz del caso de [[../casos/espana-europa/africa-pablo-hasel|África]], **se prohíbe el uso de munición SIRX en Catalunya**.
 

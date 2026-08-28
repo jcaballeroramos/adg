@@ -14,7 +14,7 @@ tags: [iridia, organización, derechos-humanos, litigio-estratégico, catalunya,
 Centro catalán especializado en **defensa de derechos humanos**, con un enfoque marcado en el **litigio estratégico contra la violencia institucional**. Es una de las organizaciones que más ha empujado el debate público sobre el uso de armas menos letales en Catalunya.
 
 ## Voces referentes
-- **Anaïs Franquesa** — abogada, voz pública del centro en muchos de los casos más relevantes (Roger Español, África, etc.).
+- **Anaïs Franquesa** — abogada, voz pública del centro en muchos de los casos más relevantes (Roger Español, Áfrika, etc.).
 
 ## Áreas de trabajo
 - **Litigio estratégico** contra la tortura y los malos tratos por parte de agentes del Estado.
@@ -37,7 +37,8 @@ Centro catalán especializado en **defensa de derechos humanos**, con un enfoque
 ## Apariciones en prensa y pódcasts
 - **Beteve Bàsics** (octubre 2025) — *Reclamen explicacions per l'ús de gas pebre a les protestes per Palestina*: https://beteve.cat/societat/reclamen-explicacions-us-gas-pebre-protestes-per-palestina/ · Programa completo: https://beteve.cat/basics/basics-1269/
 - **Pòdcast de Crític amb Iridia** — *«Qui vigila la policia?»* — entrevista en profundidad sobre supervisión policial independiente.
-- **Carne Cruda T12x47** (26 nov 2024) — *«Tu palabra contra la de la policía»* — programa especial con testimonios de [[../../casos/espana-europa/africa-pablo-hasel|Áfrika]], [[../../casos/espana-europa/roger-garcia-foam-2019|Roger García]] y [[../../casos/espana-europa/abdelillah-foam-2019|Abdelillah]]. Primer programa español que aborda la impunidad policial con testimonios directos de víctimas del foam.
+- **Carne Cruda** (25 nov 2025) — *«Tu palabra contra la de la policía»*, programa especial en colaboración con Irídia. Testimonio de [[../../casos/espana-europa/africa-pablo-hasel|Áfrika]], que perdió un ojo por un proyectil de foam en 2021, y participación de Irene Urango y Sonia Olivella (Irídia), el abogado Eric Sanz de Bremond, Jorge del Cura (Centro de Documentación contra la Tortura) y Rubén Vaquero, abogado de la familia de Abderrahim, fallecido en Torrejón de Ardoz. <https://www.eldiario.es/carnecruda/programas/>
+  > Corregido el 26 de agosto de 2026: la fecha era 2025, no 2024; [[../../casos/espana-europa/roger-garcia-foam-2019|Roger García]] y [[../../casos/espana-europa/abdelillah-foam-2019|Abdelillah]] no constan en la ficha del episodio; y el identificador «T12x47» no aparece en ella.
 - **Iridia.cat** (2024) — *«El protocol d'ús dels projectils de foam no respecta les indicacions del fabricant de l'arma»*: https://iridia.cat/es/el-protocol-dus-dels-projectils-de-foam-no-respecta-les-indicacions-del-fabricant-de-larma/ — investigación clave que demuestra que los Mossos disparaban el foam SIR-X a distancias inferiores a las mínimas del fabricante.
 - **El Salto Diario** — *«Así son los nuevos proyectiles de los Mossos»*: https://www.elsaltodiario.com/hemeroteca-diagonal/asi-son-los-nuevos-proyectiles-de-los-mossos — análisis técnico del foam SIR-X y su historial de lesiones.
 - **Som Defensores** (Red Malla / @SomDefensores) — campaña conjunta con Iridia: https://x.com/SomDefensores/status/1978476832812118154

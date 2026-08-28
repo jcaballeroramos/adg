@@ -32,8 +32,10 @@ tags: [diehl, alemania, iris-t, ucrania, misiles, municion, defensa-aerea]
 **Octubre 2022** — Alemania entrega a Ucrania los **primeros sistemas IRIS-T SLM**, convirtiéndose en **uno de los sistemas más efectivos** contra los drones iraníes **Shahed-136** que Rusia usa masivamente contra infraestructura civil ucraniana.
 
 - **4 sistemas IRIS-T SLM** entregados hasta 2024.
-- **Tasa de interceptación** cercana al **100%** en los primeros meses.
-- **+30.000 proyectiles 155 mm** producidos por Diehl para Ucrania en 2023.
+- **Tasa de interceptación**: **Diehl** sostiene, atribuyéndolo a declaraciones del cliente, «una tasa de acierto del 100 por cien incluso en oleadas de ataque con más de 12 objetivos» (nota de prensa *Zweite IRIS-T SLM Feuereinheit an die Ukraine geliefert*, 25 de mayo de 2023).
+  > ⚠️ **Es una cifra del fabricante, no una medición independiente (27 de agosto de 2026).** Un portavoz la repitió en 2025 ante la revista especializada *hartpunkt*, que apuntó en condicional que esos resultados probablemente correspondan a un periodo concreto. Atribuirla siempre a Diehl; no escribirla como dato verificado.
+- **Munición de 155 mm**: el **10 de julio de 2023** la oficina de compras del Bundeswehr firmó un **contrato marco de hasta 350.000 disparos completos** con la agrupación **ARGE DiNa155mm** (Diehl Defence y la noruega **Nammo AS**), vigente hasta 2029, y activó un primer pedido en firme de **4.700 disparos por 27,3 millones de euros destinados a Ucrania**, con entrega hasta 2025.
+  > ⚠️ **Los «+30.000 producidos en 2023» no tienen fuente y se retiran.** Lo documentado es el marco (350.000 hasta 2029) y el pedido en firme (4.700). Contrato marco no es producción, y no es Diehl sola: es una agrupación con Nammo.
 - Pedidos adicionales de **Alemania, Letonia, Estonia, Austria, Noruega** y **Egipto**.
 
 Ver [[../../casos/internacionales/ucrania-2022-presente]].
@@ -54,10 +56,10 @@ Diehl forma parte del **núcleo de la industria militar alemana** junto a:
 - **Hensoldt** — electrónica y sensores.
 - **Airbus Defence** (Alemania/España/Francia) — aviación y satélites.
 
-Estas cinco empresas **se reparten** el pastel del presupuesto militar alemán y son las **principales beneficiarias** del **Zeitenwende** — el cambio de era anunciado por el canciller **Olaf Scholz** tras la invasión rusa de Ucrania: **100.000 millones de euros** adicionales al presupuesto militar alemán.
+Estas cinco empresas **se reparten** el pastel del presupuesto militar alemán y son las **principales beneficiarias** del **Zeitenwende** — el cambio de era anunciado por el canciller **Olaf Scholz** tras la invasión rusa de Ucrania: **100.000 millones de euros** adicionales al presupuesto militar alemán. ✅ Verificado: el **Sondervermögen Bundeswehr**, anunciado por Scholz el **27 de febrero de 2022** en sesión extraordinaria del Bundestag y escrito en la Constitución, en el **artículo 87a.1a de la Ley Fundamental**, que autoriza un fondo especial con capacidad propia de endeudamiento de hasta 100.000 millones por una sola vez.
 
 ## Exportaciones controvertidas
-- **Egipto** — compra IRIS-T (régimen de al-Sisi, responsable de Rab'a al-Adawiya 2013).
+- **Egipto** — compra IRIS-T. Régimen de al-Sisi, responsable de la dispersión por la fuerza de las acampadas de **Rab'a al-Adawiya y al-Nahda, El Cairo, 14 de agosto de 2013**. Human Rights Watch documentó **un mínimo de 817 muertos en Rab'a**, considera probable que fueran más de mil, y sitúa en al menos **1.150 manifestantes muertos** el balance de julio y agosto de 2013, concluyendo que los hechos probablemente constituyen **crímenes de lesa humanidad** (informe *All According to Plan*, 188 páginas). ✅
 - **Arabia Saudí y EAU** — componentes y munición indirecta (pese al embargo oficial tras Khashoggi).
 - **India** — crónica relación comercial con el ejército indio.
 - **Turquía** — antes del distanciamiento post-2019.

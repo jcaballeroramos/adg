@@ -4,7 +4,7 @@ estado: borrador
 pais: Colombia
 fecha_hechos: 2021-04
 contexto: Paro Nacional contra reforma tributaria y desigualdad
-victimas: 146+ heridos en Popayán, 1 muerto, 11 lesiones oculares documentadas en Popayán (El Tiempo eleva a 103 los manifestantes con lesiones oculares a nivel nacional; MOCAO habla de 150 mutilados), suicidio de Alison
+victimas: al menos 103 personas con lesiones oculares a nivel nacional (Temblores/GRITA, 28 abr - 20 jul 2021); 146 heridos en el departamento del Cauca; tres homicidios documentados en el Cauca y Putumayo; muerte de Alison tras abuso sexual policial
 arma: Sistema VENOM (Combined Systems)
 tags: [colombia, paro-nacional, popayan, esmad, venom, alison, violencia-sexual]
 ---
@@ -15,8 +15,36 @@ tags: [colombia, paro-nacional, popayan, esmad, venom, alison, violencia-sexual]
 Abril-junio 2021. El **Paro Nacional** estalla contra la reforma tributaria del gobierno Duque. La represión del **ESMAD** (Escuadrón Móvil Antidisturbios) deja un balance devastador.
 
 ## Víctimas documentadas
-- **Al menos 146 heridos** y **1 muerto** en Popayán.
-- **11 lesiones oculares documentadas en Popayán** (El Tiempo eleva a 103 los manifestantes con lesiones oculares a nivel nacional; MOCAO habla de 150 mutilados).
+- **Al menos 103 personas con lesiones oculares a nivel nacional** entre el 28 de abril y el 20 de julio de 2021, una cada 0,81 días. Desglose por departamento: Bogotá 56 (54,37%), Valle del Cauca 12, Cauca 8, Nariño 7, Cundinamarca 6, Antioquia 5, Risaralda 3, Boyacá 2, y uno en Atlántico, Casanare, Santander y Tolima. Gravedad: **14 casos de pérdida del ojo y 14 de pérdida total de la visión**. Fuente: registro de la plataforma **GRITA de Temblores ONG**, publicado en Amnistía Internacional, Temblores ONG y PAIIS-Universidad de los Andes, *Tiros a la vista: traumas oculares en el marco del Paro Nacional*, AMR 23/5005/2021, 26 de noviembre de 2021.
+- **146 heridos en el departamento del Cauca** (no en Popayán ciudad) y **tres homicidios**, según el informe preliminar de la **Misión de Solidaridad Internacional y Derechos Humanos** difundido por la Comisión Intereclesial de Justicia y Paz el 3 de junio de 2021, con trabajo de campo del 25 y 26 de mayo.
+
+> ✅ **Corregido el 26 de agosto de 2026.** Tres errores de la versión anterior:
+> - **El 103 es de Temblores, no de El Tiempo.** El Tiempo es el medio que lo difundió el 26 de noviembre de 2021.
+> - **Los 11 no son lesiones oculares en Popayán.** La CIDH, en sus observaciones tras la visita de trabajo del 8 al 10 de junio de 2021 (párr. 54), informa de **11 investigaciones disciplinarias** abiertas por lesiones oculares **en todo el país**, de las cuales solo **una** en Popayán, con 5 en Bogotá, 3 en Risaralda, 1 en Medellín y 1 en Neiva. Para Popayán ciudad no hay cifra publicada por ninguna fuente.
+> - **MOCAO nunca ha publicado la cifra de 150.** Sus dos cifras propias son **116** lesiones oculares a nivel nacional entre el 28 de abril y el 31 de diciembre de 2021, registradas en el sistema SIAP de la Campaña Defender la Libertad con documentación de MOCAO, y **169** casos desde la creación del ESMAD en 1999 hasta junio de 2022 (48 entre 1999 y 2019, más 121 entre 2020 y junio de 2022). Ambas están en *Represión en la mira. Lesiones oculares en el marco de las protestas en Colombia* (CSPP, Campaña Defender la Libertad, MOCAO y CAPS, ISBN 978-958-53871-2-6). La palabra «150» no aparece en ninguna página del informe.
+> - **El «1 muerto» está contradicho por el propio documento que se invocaba**, que lista tres homicidios: Sebastián Quintero Múnera, Jordany Rosero Estrella y Geovanny Cabezas Cruz, además de la muerte de Alison tras abuso sexual policial. Y ni siquiera los tres son del Cauca: el informe sitúa a Rosero Estrella en **Putumayo**.
+
+### Los tres sistemas de conteo no cuentan lo mismo
+
+| Fuente | Sistema | Ventana | Cifra |
+|---|---|---|---|
+| **Temblores ONG** | plataforma GRITA (denuncia ciudadana + triangulación) | 28 abr – 20 jul 2021 | **103** |
+| **Campaña Defender la Libertad** con documentación de **MOCAO** | sistema SIAP (redes y medios, línea nacional de emergencia, comisiones de verificación en terreno) | hasta 21 jul 2021 / 28 abr – 31 dic 2021 | **88** / **116** |
+| **MOCAO** | serie histórica | 1999 – jun 2022 | **169** |
+| **Defensoría del Pueblo** | denuncia formal | mediados de junio 2021 | 18 |
+| **Fiscalía** | denuncia formal | consolidado | 79 víctimas, 62 relacionadas con las protestas |
+
+**Cifra segura para cartela**: «más de 100 personas con lesiones oculares durante el Paro Nacional de 2021», sostenida por tres sistemas de conteo independientes. No sumar ni intercambiar las cifras de la tabla.
+
+### Lo que sí está verificado por dos fuentes
+
+La muerte de **Sebastián Quintero Múnera**, el **14 de mayo de 2021 en Popayán**, por munición del arma **Venom**, corroborada por el estudio de caso de Colombia de *Lethal in Disguise* y por OACNUDH.
+
+### MOCAO no significa lo que decía la wiki
+
+Son las siglas de **«Movimiento en Resistencia contra las Agresiones Oculares del ESMAD»**, tal como aparece en la portada de su propio informe y en el artículo que tres de sus integrantes firman en *Torture Journal* (2024). Se dio a conocer públicamente el **9 de abril de 2021**. Ni «Movimiento Nacional por la Libertad y los Derechos de los Ojos» ni «Movimiento de Colombianxs Afectadxs por la Violencia Ocular», que eran las dos versiones que circulaban en el repo.
+
+> Aviso colateral: el informe de Justicia y Paz nombra a Alison como **«Alison Lizeth Salazar Miranda»**. Verificar la grafía antes de llevarla a pantalla.
 - **40 lesiones por impactos** de municiones menos letales.
 - **Denuncias de violencia sexual y de género** por parte de agentes del ESMAD.
 - **Suicidio de Alison Salazar** tras agresión sexual policial.
@@ -66,7 +94,11 @@ Colombia ha **ratificado más de 11 tratados** internacionales de DDHH (frente a
 
 ### Capturas de prensa
 - **Al Jazeera** — *"Colombia protesters faced 'intentional' police violence"*. <https://www.aljazeera.com/news/2021/11/26/colombia-protesters-faced-intentional-police-violence>
-- **El Tiempo** — *"Esmad habría causado lesiones en ojos a 103 manifestantes"*. <https://www.eltiempo.com/justicia/paz-y-derechos-humanos/paro-nacional-esmad-causo-103-lesiones-en-ojos-a-manifestantes-informe-635229>
+- **Amnistía Internacional, Temblores ONG y PAIIS-Universidad de los Andes** — *Tiros a la vista: traumas oculares en el marco del Paro Nacional*, AMR 23/5005/2021, 26 de noviembre de 2021. **Origen real del 103.**
+- **CSPP, Campaña Defender la Libertad, MOCAO y CAPS** — *Represión en la mira. Lesiones oculares en el marco de las protestas en Colombia*, ISBN 978-958-53871-2-6. Origen del 116 y del 169.
+- **CIDH** — *Observaciones y recomendaciones*, visita de trabajo del 8 al 10 de junio de 2021, párr. 54. Origen del 11 (investigaciones disciplinarias, no lesiones).
+- **Comisión Intereclesial de Justicia y Paz** — informe preliminar de la Misión de Solidaridad Internacional y Derechos Humanos, 3 de junio de 2021. Origen del 146 (departamento del Cauca).
+- **El Tiempo** — *"Esmad habría causado lesiones en ojos a 103 manifestantes"* (medio que difunde el dato de Temblores). <https://www.eltiempo.com/justicia/paz-y-derechos-humanos/paro-nacional-esmad-causo-103-lesiones-en-ojos-a-manifestantes-informe-635229>
 - **Vorágine** — *"Alcaldía de Pereira culpó a Lucas Villa de su propio asesinato"*. <https://voragine.co/historias/investigacion/alcaldia-de-pereira-culpo-a-lucas-villa-de-su-propio-asesinato/>
 - **Infobae** — condena al patrullero del ESMAD por la mutilación de Leidy Cadena (abr 2026). <https://www.infobae.com/colombia/2026/04/06/condenado-a-7-anos-de-prision-patrullero-del-esmad-que-le-causo-la-perdida-de-un-ojo-a-una-joven-durante-el-paro-nacional-de-2021/>
 

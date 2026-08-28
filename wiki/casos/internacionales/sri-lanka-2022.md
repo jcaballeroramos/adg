@@ -17,7 +17,7 @@ tags: [sri-lanka, aragalaya, 2022, crisis-económica, rajapaksa, gotagogama]
 # Caso · Sri Lanka 2022 — La Aragalaya
 
 ## El contexto
-**Marzo-julio 2022** — Sri Lanka entra en su **peor crisis económica** desde la independencia (1948): bancarrota, desabastecimiento de combustible, comida y medicinas, **inflación del 50%**, cortes de luz de 13 horas al día.
+- **La inflación se disparó durante la propia revuelta, no antes.** Según el **Banco Central de Sri Lanka**, la interanual del índice de Colombo (CCPI) pasó del **18,7% en marzo de 2022** al **39,1% en mayo** y el **54,6% en junio**. La de alimentos llegó al **80,1% en junio**.
 
 El **Movimiento Aragalaya** (අරගලය — "lucha" en sinhalés) emergió como una **insurrección popular** que duró meses. Los manifestantes ocuparon el centro de Colombo, montaron un campamento permanente llamado **GotaGoGama** ("Vete-Gota-pueblo", en referencia al presidente Gotabaya Rajapaksa).
 
