@@ -20,9 +20,26 @@ su propio apartado, dicho explícitamente y con la vía por donde habría que ir
 **El 28 de agosto se cerró el trabajo.** Se aplicaron los últimos 21 datos que quedaban, se
 reconstruyó la genealogía de `historia/balas-goma` sobre la única fuente con metodología publicada
 que existe para ella, se fusionaron ALS y AMTEC, y se cerraron tres de los cuatro documentos que se
-estaban buscando a mano. La cuenta final: **438 afirmaciones evaluadas por 155 agentes en cuatro
-rondas, 0 errores de agente, 136 ficheros modificados en 35 commits.** El único documento que sigue
-sin localizarse es el dictamen de Omega sobre el protocolo de los Mossos.
+estaban buscando a mano. El único documento que sigue sin localizarse es el dictamen de Omega sobre
+el protocolo de los Mossos.
+
+**La cuenta final, recontada sobre los ficheros de resultados el 28 de agosto:**
+
+| Ronda | Afirmaciones | Refutaciones | Desempates |
+|---|---|---|---|
+| Cifras en disputa | 31 | 16 | — |
+| Fichas agregadoras | 62 | 62 | 42 |
+| Fichas de empresa | 105 | 104 | 96 |
+| Resto del corpus | 207 | 205 | 193 |
+| **Total** | **405** | **387** | **331** |
+
+Más los **384 hallazgos del barrido**, que son los que alimentaron las tres últimas rondas. En las
+fichas: **149 ficheros modificados en 37 commits**.
+
+> ⚠️ **Corrección.** Una versión anterior de este documento daba «438 afirmaciones evaluadas por 155
+> agentes». **El 438 estaba mal**: sumaba dos veces la ronda de fichas agregadoras. Y el número de
+> agentes no es verificable, porque los transcripts de los workflows ya no existen; se retira en vez
+> de repetirlo. Los números de la tabla sí salen de `results.json` … `results4.json`.
 
 Dos avisos sobre el material de partida. El primero, que `raw/` no contiene el volcado original:
 `raw/00-lote1-documento-original.md` sigue siendo el placeholder de cuatro líneas que nunca se
@@ -1116,6 +1133,11 @@ Hong Kong y Malasia», ni «1971, EE. UU. contra manifestantes anti-Vietnam» co
 entrecomillada sin atribuir, ni «la Alemania nazi de los años treinta» como primer uso del cañón de
 agua. Es el relato que sostiene la ficha `historia/balas-goma` y hay que reconstruirlo entero.
 
+> ✅ **Reconstruida el 28 de agosto de 2026** sobre la *Impact Munitions Guide* de la Omega Research
+> Foundation. **Hong Kong sí, pero años sesenta y sin Malasia**; Omega no menciona Singapur ni los
+> 1880. Ver el apartado «Lo que se cerró el 28 de agosto», al final de este documento. Lo del cañón
+> de agua y la Alemania nazi sigue abierto y pertenece a `historia/canones-agua`, no a esta ficha.
+
 **Rodney King: el Taser que citábamos no podía existir.** «Modelo TF-76 de Taser International» es
 imposible en 1991, porque **Taser International no se llamaba así hasta 1998**; el arma del LAPD la
 fabricaba Tasertron. Y ningún documento del caso identifica el modelo, ni tampoco el de las porras,
@@ -1174,9 +1196,17 @@ autorización francesa de exportar cañones de agua a Hong Kong en 2018; Telefó
 Seguridad, la entrada del Taser X26 en España por contrato público. Ninguna de esas fichas tiene
 apartado de fuentes.
 
-**122 de las 237 fichas no contienen ni una sola URL.** El dato es del escaneo mecánico previo al
-barrido, no del barrido, y explica el volumen: no es que los datos estén mal, es que en más de la
-mitad del corpus no hay forma de comprobarlos. La lista completa de esas 122 está en el companion.
+**122 de las 237 fichas no contenían ni una sola URL** cuando empezó el barrido. El dato es del
+escaneo mecánico previo, no del barrido, y explica el volumen: no era que los datos estuvieran mal,
+es que en más de la mitad del corpus no había forma de comprobarlos. La lista completa de esas 122
+está en el companion.
+
+**Recontado el 28 de agosto, al cierre: son 112 de 239.** Diez fichas ganaron fuente enlazable, y el
+corpus creció en dos (`dilan-cruz-2019` y `elsalto-taser-euskadi-2026`). Es una mejora modesta y
+conviene no venderla como más: **casi la mitad del corpus sigue sin una sola URL**. Muchas de esas
+fichas sí citan fuente por escrito —informe y página, número de expediente, radicado, fecha de
+diario oficial—, que es lo que pedía la regla de trabajo, pero eso no es lo mismo que poder abrir el
+documento de un clic. Es el trabajo que queda después de esta auditoría.
 
 ---
 

@@ -893,8 +893,6 @@ Grandes *primes* europeos citados en discursos y demos, con ficha propia:
 
 Aún sin ficha propia (citados de pasada): Eurenco, Roxel, Parrot, Thales.
 
-
-
 ## Conexiones
 
 - ↔ [[00-overview]] — la feria y su contexto.
