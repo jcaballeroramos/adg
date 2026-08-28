@@ -1,4 +1,4 @@
-# Auditoría de la wiki · 12 agosto 2026, revisada el 26 de agosto de 2026
+# Auditoría de la wiki · 12 agosto 2026, revisada el 26 y cerrada el 28 de agosto de 2026
 
 Cuatro revisores pasaron por las 231 fichas en agosto. Lo mecánico quedó corregido (enlaces,
 duplicados, reorganización, huérfanas), y este documento recogía lo que no se podía corregir sin
@@ -16,6 +16,13 @@ anotada en la propia ficha.
 
 Trece de las catorce cifras en disputa quedan cerradas con documento. Lo que sigue abierto está en
 su propio apartado, dicho explícitamente y con la vía por donde habría que ir a buscarlo.
+
+**El 28 de agosto se cerró el trabajo.** Se aplicaron los últimos 21 datos que quedaban, se
+reconstruyó la genealogía de `historia/balas-goma` sobre la única fuente con metodología publicada
+que existe para ella, se fusionaron ALS y AMTEC, y se cerraron tres de los cuatro documentos que se
+estaban buscando a mano. La cuenta final: **438 afirmaciones evaluadas por 155 agentes en cuatro
+rondas, 0 errores de agente, 136 ficheros modificados en 35 commits.** El único documento que sigue
+sin localizarse es el dictamen de Omega sobre el protocolo de los Mossos.
 
 Dos avisos sobre el material de partida. El primero, que `raw/` no contiene el volcado original:
 `raw/00-lote1-documento-original.md` sigue siendo el placeholder de cuatro líneas que nunca se
@@ -1191,9 +1198,76 @@ mitad del corpus no hay forma de comprobarlos. La lista completa de esas 122 est
 - **transparencia-cuerpos-policiales-espana** (85%/72%/91% sin URL), **krusik-serbia** (BIRN/OCCRP/HRW
   sin URL) y **zira-silah** (125.000 pistolas sin enlace) siguen igual, y ahora están además en el
   listado del barrido con el detalle de qué dato concreto falta por sostener.
-- Las **dos fichas del TEDH** ya tienen signatura: Kılıcı c. Turquie, demanda 32738/11, sentencia de
-  27 de noviembre de 2018; Abdullah Yaşa y otros c. Turquía, demanda 44827/08, sentencia de 16 de
-  julio de 2013. Falta renombrarlas y corregir la grafía.
+- ~~Las **dos fichas del TEDH**~~ ✅ **cerrado el 28 de agosto**. Signaturas: Kılıcı c. Turquie,
+  demanda 32738/11, sentencia de 27 de noviembre de 2018; Abdullah Yaşa y otros c. Turquía, demanda
+  44827/08, sentencia de 16 de julio de 2013. La grafía visible está corregida. **Los nombres de
+  fichero no se renombran**: `tedh-kilici-vs-turquia` es el slug correcto de «Kılıcı», y renombrar
+  solo rompería enlaces sin ganar nada.
+- ~~**Fusionar ALS y AMTEC**~~ ✅ **cerrado el 28 de agosto**. La confirmación que faltaba no estaba
+  en el registro mercantil de Florida sino en el **registro federal de licencias FFL del ATF**, que
+  lista al titular «AMTEC LESS LETHAL SYSTEMS, INC.» operando bajo el nombre comercial «ALS / PACEM
+  DEFENSE» en 4700 Providence Rd, Perry (Florida). Una persona jurídica, dos rótulos, y lo registra
+  así el propio Estado federal. Todo el contenido está en `als-less-lethal`; `amtec-less-lethal`
+  queda como redirección para no romper los enlaces existentes.
+- ~~**Rehacer la genealogía colonial de `historia/balas-goma`**~~ ✅ **cerrado el 28 de agosto**.
+  Ver el apartado siguiente.
+
+---
+
+## Lo que se cerró el 28 de agosto
+
+### La genealogía de la bala de goma, rehecha sobre Omega
+
+La ficha `historia/balas-goma` se quedó sin columna vertebral cuando la segunda pasada retiró sus
+tres afirmaciones fundacionales (Singapur en los 1880, Malasia, y unas pruebas estadounidenses de
+1971 con una muerte). Todas venían de Wikipedia y de ahí a decenas de artículos, siempre sin
+referencia.
+
+La reconstrucción se ha hecho sobre la **Impact Munitions Guide** de la **Omega Research
+Foundation**, del proyecto **RiotID**, que es la única cronología del proyectil de impacto que
+publica una organización con metodología. Archivada en `media/pdf/`.
+
+**Omega arranca en Hong Kong, años sesenta.** No menciona Singapur, ni los 1880, ni Malasia. El
+baton round era un cilindro de teca de siete pulgadas y media con núcleo metálico lastrado, y el
+problema original **no era el impacto sino la astilla**: la madera se rompía dentro del cuerpo. En
+los setenta ese proyectil se rediseña como «bala de goma» para Irlanda del Norte, y después llega el
+plástico presentado como alternativa *más segura* a la goma.
+
+Ahí está el patrón que el documental repite en todos sus capítulos, y ahora dicho por una fuente:
+**cada arma nueva se introduce como el remedio seguro de la anterior**. La goma corrige la astilla.
+El plástico corrige la goma. El foam corregirá el plástico. Ninguna corrección elimina las muertes.
+
+El caso que lo cierra es **Victoria Snelgrove**, Boston 2004: murió por un proyectil de plástico de
+nuevo diseño, disparado por un arma de aire comprimido comprada precisamente por ser *más precisa y
+más segura*.
+
+Dos apuntes que Omega añade y que la wiki no tenía: el proyectil de madera **no es historia**, sigue
+en uso en algunos países, Estados Unidos entre ellos; y en 2018 el uso seguía subiendo, señaladamente
+**contra solicitantes de asilo y personas refugiadas**.
+
+### Los cuatro documentos que se estaban buscando
+
+| Documento | Estado |
+|---|---|
+| **Informe de Stop Bales de Goma, 2013** | ✅ **Nunca estuvo perdido.** La URL de wordpress devuelve HTTP 200 y 5,8 MB. El 404 era el enlace de issuu que cita Irídia |
+| **Sentencia del Tribunal Administrativo de Cundinamarca** | ✅ **Fuente primaria localizada**: comunicado del propio tribunal en <https://tac.gov.co/dilan/>, Sección Tercera Subsección A, ponente Juan Carlos Garzón Martínez, radicado 11001334306220220004301. ⚠️ El **PDF íntegro** hay que bajarlo a mano: el servidor del Consejo de Estado devuelve 403 a `curl` y bloquea también el `fetch` desde el navegador |
+| **Informe de test TR-16973.02 de B&T** | ⚠️ **No es público.** Se conoce por la cita de Irídia, que reproduce la formulación del fabricante: por debajo de 30 metros puede causar «lesiones severas como laceraciones, traumatismo craneoencefálico, rotura de bazo, hígado o corazón, traumatismo torácico grave y hemorragias internas». Pedirlo a Irídia |
+| **Dictamen de la Fundació d'Investigació Omega sobre el protocolo SIR-X** | ❌ **Sigue sin localizarse.** Es el único que queda. No está en el repositorio de Omega ni en la web del Departament d'Interior; se conoce solo por la nota al pie del protocolo que lo cita como fundamento del mínimo de 30 metros. Vías: pedirlo a Omega, o solicitud de transparencia al Departament d'Interior |
+
+### Dos hallazgos que aparecieron buscando esos documentos
+
+**El SIR-X está retirado.** El **28 de marzo de 2025** los Mossos lo retiraron de la ARRO y de la
+Brimo, por orden de la dirección general que encabeza Josep Lluís Trapero, cumpliendo la resolución
+del Parlament. Las dos unidades conservan solo el SIR. Es decir: **el arma que dejó ciega a Áfrika ya
+no está en manos de los antidisturbios catalanes.** La secuencia completa —lesión en 2021, informe,
+comisión parlamentaria, revisión del protocolo en 2023, retirada en 2025— es uno de los pocos
+recorridos del proyecto en que la presión pública llega hasta el final.
+
+**Y la web oficial no lo recoge.** Consultada el 28 de agosto de 2026, la página pública de los
+Mossos sobre la lanzadora sigue publicando *«corta distancia (SIR): de 5 a 25 metros; larga distancia
+(SIR X): de 20 a 50 metros»*, que son **las cifras anteriores a la revisión de octubre de 2023**, y no
+menciona la retirada. La única información pública sobre estas armas está desactualizada por los dos
+extremos. La misma página define «SIR» como *«Safe impact round, munición de impacto seguro»*.
 
 ---
 
