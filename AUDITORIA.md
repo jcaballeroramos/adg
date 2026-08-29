@@ -1280,9 +1280,25 @@ en uso en algunos países, Estados Unidos entre ellos; y en 2018 el uso seguía 
 | Documento | Estado |
 |---|---|
 | **Informe de Stop Bales de Goma, 2013** | ✅ **Nunca estuvo perdido.** La URL de wordpress devuelve HTTP 200 y 5,8 MB. El 404 era el enlace de issuu que cita Irídia |
-| **Sentencia del Tribunal Administrativo de Cundinamarca** | ✅ **Fuente primaria localizada**: comunicado del propio tribunal en <https://tac.gov.co/dilan/>, Sección Tercera Subsección A, ponente Juan Carlos Garzón Martínez, radicado 11001334306220220004301. ⚠️ El **PDF íntegro** hay que bajarlo a mano: el servidor del Consejo de Estado devuelve 403 a `curl` y bloquea también el `fetch` desde el navegador |
+| **Sentencia del Tribunal Administrativo de Cundinamarca** | ✅✅ **Cerrado del todo el 28 de agosto de 2026.** Jorge descargó a mano el PDF íntegro, 28 páginas, archivado en `media/pdf/sentencias/`. Sentencia de **segunda instancia de 25 de junio de 2026** (no julio), proceso 2022-00043, que modifica al alza la de primera instancia del Juzgado 62 Administrativo de 10 de octubre de 2024. Ver abajo, porque de aquí sale el mejor material del corpus |
 | **Informe de test TR-16973.02 de B&T** | ⚠️ **No es público.** Se conoce por la cita de Irídia, que reproduce la formulación del fabricante: por debajo de 30 metros puede causar «lesiones severas como laceraciones, traumatismo craneoencefálico, rotura de bazo, hígado o corazón, traumatismo torácico grave y hemorragias internas». Pedirlo a Irídia |
-| **Dictamen de la Fundació d'Investigació Omega sobre el protocolo SIR-X** | ❌ **Sigue sin localizarse.** Es el único que queda. No está en el repositorio de Omega ni en la web del Departament d'Interior; se conoce solo por la nota al pie del protocolo que lo cita como fundamento del mínimo de 30 metros. Vías: pedirlo a Omega, o solicitud de transparencia al Departament d'Interior |
+| **Dictamen de la Fundació d'Investigació Omega sobre el protocolo SIR-X** | ❌ **Es el único que queda de los cuatro.** No está en el repositorio de Omega ni en la web del Departament d'Interior; se conoce solo por la nota al pie del protocolo que lo cita como fundamento del mínimo de 30 metros. Vías: pedirlo a Omega, o solicitud de transparencia al Departament d'Interior |
+
+### La sentencia de Dilan Cruz dice la tesis del documental con sus propias palabras
+
+El texto íntegro contiene algo que el comunicado del tribunal no dejaba ver. La Sala sitúa la falla del servicio en que la Policía **clasificó indebidamente el arma y no informó a sus uniformados de que podía ser potencialmente letal**, y a continuación explica de dónde sale esa creencia:
+
+> *«El conocimiento y creencia sobre las características, usos y efectos de aquellas, yace desde su misma nominación de "menos letal" y desde el entrenamiento y formación recibida al respecto.»*
+
+**Un tribunal declarando que la creencia de los agentes nace del nombre del arma.** No hay en todo el corpus una formulación mejor de lo que el proyecto sostiene, y viene de una sala de lo contencioso-administrativo, no de un activista.
+
+La sentencia reproduce además el interrogatorio del agente que disparó, con las negritas de la propia Sala. A la pregunta de si alguien le dijo alguna vez que esa arma podía quitar la vida, responde: *«Siempre se habla de armas y municiones menos letales»*. Y al repreguntarle si nunca nadie se lo dijo, si le dijeron que hieren pero no matan: *«Sí señor […] nunca estuvimos conscientes de que pudiera llegar a un incidente de esta clase.»*
+
+El razonamiento sobre el caso fortuito cierra el argumento. Siendo un arma *menos* letal y no *no* letal, la muerte **era previsible para cualquiera debidamente instruido**, de modo que solo dejó de serlo porque la institución no lo explicó.
+
+Y hay una contradicción interna aprovechable: la misma sentencia que declara que la Policía no informó a sus agentes **niega** la garantía de no repetición que pedía la familia (estudio obligatorio del fallo en los cursos de formación), por considerarla innecesaria dado que la formación en derechos humanos ya existe y el uso de la fuerza ya está regulado por la Resolución 02903 de 23 de junio de 2017.
+
+Datos que la wiki tenía mal o no tenía: la fecha es **25 de junio de 2026**, no julio; el arma es **escopeta calibre 12 con cartucho de envoltura normal y bolsa blanca de kevlar con mini perdigones** dentro, según la declaración del propio tirador; las indemnizaciones **subieron de 100 a 150 SMLMV** para la madre y de 50 a 75 para hermanos y abuelo; y el acto público de disculpas tiene un **plazo de 30 días** desde la firmeza.
 
 ### Dos hallazgos que aparecieron buscando esos documentos
 

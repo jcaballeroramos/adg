@@ -80,30 +80,85 @@ Eso **contradice la tesis del cruce accidental**: el agente siguió a Dilan con 
 | Informe de Forensic Architecture con 070 | septiembre 2023 |
 | **La Procuraduría anula su propia sentencia de 2024** —que había sancionado a Cubillos por falta grave, no gravísima, con multa de 14 millones de pesos— y reabre el disciplinario para juzgarlo como grave violación de derechos humanos | **febrero-marzo 2026** |
 | Publicación del vídeo oculto | 25 mayo 2026 |
-| **El Tribunal Administrativo de Cundinamarca condena al Estado**, al Ministerio de Defensa y a la Policía Nacional | **julio 2026** |
+| Sentencia de 1.ª instancia, Juzgado 62 Administrativo de Bogotá | 10 octubre 2024 |
+| **Sentencia de 2.ª instancia del Tribunal Administrativo de Cundinamarca**, que sube las indemnizaciones y ordena el acto público de disculpas | **25 junio 2026** |
 | Publicación del reel de Cerosetenta que ordena las tres investigaciones | 20 julio 2026 |
 
 ### La condena
 
-El **Tribunal Administrativo de Cundinamarca** confirmó en **julio de 2026** la condena contra el Estado, el Ministerio de Defensa y la Policía Nacional.
+**Sentencia de segunda instancia del Tribunal Administrativo de Cundinamarca, Sección Tercera Subsección "A", de 25 de junio de 2026.** Magistrado ponente **Juan Carlos Garzón Martínez**, proceso **2022-00043**, acción de reparación directa. Modifica al alza la sentencia de primera instancia del **Juzgado 62 Administrativo del Circuito Judicial de Bogotá, de 10 de octubre de 2024**.
 
-**En qué consiste la falla en el servicio, y esto es lo más aprovechable de toda la ficha.** Fuente primaria: comunicado del propio **Tribunal Administrativo de Cundinamarca, Sección Tercera, Subsección A**, magistrado ponente **Juan Carlos Garzón Martínez**, radicado **11001334306220220004301**. <https://tac.gov.co/dilan/>
+📄 **Texto íntegro archivado**: `media/pdf/sentencias/cundinamarca-dilan-cruz_2022-00043_sentencia-2a-instancia_2026-06-25.pdf` (28 páginas).
 
-> *«Concluyó que existió una falla en el servicio porque la institución clasificó el arma utilizada como "menos letal" y no informó adecuadamente a sus uniformados sobre su potencial capacidad de causar la muerte. Según el fallo, esta circunstancia impidió evaluar correctamente los principios de necesidad, proporcionalidad y racionalidad en el uso de la fuerza.»*
+> ⚠️ La fecha correcta es el **25 de junio de 2026**, no julio. Julio es la fecha de la difusión pública.
 
-La falla tiene **dos mitades y conviene no perder la segunda**: la clasificación como «menos letal» **y la ausencia de advertencia a los propios agentes** sobre su capacidad de matar. No es un fallo sobre la puntería ni sobre el protocolo de disparo: es un fallo sobre **la categoría y sobre lo que la categoría oculta a quien aprieta el gatillo**.
+**Demandantes**: Yenny Alejandra Medina Pulido (madre), Deivid Yessyt Gutiérrez Medina (hermano), Geraldine, Denis Zayury y Zulay Mayerly Cruz Medina (hermanas) y José Arturo Medina Pulido (abuelo).
 
-**Los tres puntos que subraya el tribunal**, y el tercero es el más duro:
+#### El arma, descrita por el propio tribunal
 
-- *«El ejercicio legítimo del derecho convencional y constitucional a la protesta no puede constituir causa eficiente para que ninguna autoridad estatal afecte otros derechos fundamentales —como la vida o la dignidad humana— de las personas que libre y voluntariamente deciden participar de marchas o manifestaciones pacíficas.»*
+**Escopeta calibre 12 con cartucho tipo "bean bag"**. La descripción técnica más precisa está en la declaración del agente que lo disparó, recogida en la sentencia: *«un cartucho de calibre 12 en su envoltura normal, pero en su interior tenía una bolsa blanca en material kevlar, el cual portaba unos mini perdigones, los cuales servían para el impacto»*.
+
+#### La frase que sostiene el documental entero
+
+La Sala sitúa la falla en el servicio en dos actos de la institución, y el segundo es el que importa: **clasificó indebidamente el arma y no informó a sus uniformados de que podía ser potencialmente letal**.
+
+Y explica de dónde sale esa creencia:
+
+> *«El conocimiento y creencia sobre las características, usos y efectos de aquellas, yace desde su misma nominación de "menos letal" y desde el entrenamiento y formación recibida al respecto.»*
+
+**Un tribunal declara que la creencia de los agentes nace del nombre del arma.** No de un fallo de puntería, no de un protocolo mal aplicado: de la palabra con la que se etiqueta el producto. Es la tesis de *Artefactos de guerra* dicha por una sala de lo contencioso-administrativo.
+
+#### El interrogatorio del agente
+
+Reproducido literalmente en la sentencia, con las negritas de la propia Sala:
+
+> *«PREGUNTADO: Cuando usted recibe la instrucción del uso del tipo de armas que se manejan en los operativos del ESMAD, ¿en algún momento alguien le señaló a usted que el arma que accionó podría eventualmente quitarle la vida a una persona?*
+> *CONTESTÓ: Siempre se habla de armas y municiones menos letales.*
+> *PREGUNTADO: ¿Puede concluir de acuerdo a su respuesta anterior que nunca nadie le dijo a usted que esa arma que usted accionó podía matar a una persona, le dijeron la hieren pero no la matan, eso es correcto?*
+> *CONTESTÓ: Sí señor, en su mal empleo puede que ocasione una herida o algo más que no sea dispersarla, pero nunca estuvimos conscientes de que pudiera llegar a un incidente de esta clase.»*
+
+Es el testimonio del tirador diciendo que no sabía que podía matar. **Y el tribunal le da la razón**, y traslada la responsabilidad a quien le formó.
+
+#### Por qué eso descarta el caso fortuito
+
+La Sala razona que, siendo un arma *menos* letal y no *no* letal, la muerte **era previsible para cualquiera que estuviera debidamente instruido en su uso**. Al no estarlo el agente, no hay caso fortuito y sí hay falla del servicio.
+
+El argumento se muerde la cola de una manera devastadora para la institución: la muerte era previsible por definición del producto, y solo dejó de serlo porque la Policía no lo explicó.
+
+#### Los tres puntos que subraya el tribunal
+
+- *«El ejercicio legítimo del derecho convencional y constitucional a la protesta no puede constituir causa eficiente para que ninguna autoridad estatal afecte otros derechos fundamentales.»*
 - Dilan Cruz **estaba ejerciendo ese derecho**.
-- **Haber devuelto gases lacrimógenos lanzados por el ESMAD «no legitimaba el uso de un arma potencialmente letal».**
+- **Haber recogido y lanzado dos granadas de gas lacrimógeno «no legitimaba el uso de un arma potencialmente letal»**. La sentencia acredita ese gesto y aun así descarta la concurrencia de culpas, porque *«la causa eficiente del daño antijurídico probado no fue otra que el uso de un arma de dotación de menor letalidad»*.
 
-El tribunal **descartó la concurrencia de culpas** de la víctima, calificó el caso como **grave violación de derechos humanos** y por eso **incrementó las indemnizaciones por perjuicios morales por encima de los montos ordinarios**. Y advirtió que las pruebas **no evidenciaban un escenario de violencia** que justificara emplear una fuerza capaz de causar la muerte.
+La Sala añade que las pruebas **no acreditan el grado de violencia o agresividad** que la defensa atribuía a los manifestantes, y que no consta que Dilan ni nadie de su entorno lanzara objeto contundente alguno contra el ESMAD.
 
-También declaró que Dilan **ejercía su derecho a la protesta** y ordenó al **Comandante de la Policía Nacional** que, en representación de la entidad, realice un **acto público de reconocimiento institucional de responsabilidad y pida disculpas a los familiares**.
+#### La condena
 
-La sentencia identifica el arma: escopeta con proyectil **tipo «bean bag»**, que impactó en la cabeza.
+Calificado el caso como **grave violación de derechos humanos**, la Sala **subió las indemnizaciones por encima de los baremos ordinarios**:
+
+| Beneficiario | Vínculo | 1.ª instancia | **2.ª instancia** |
+|---|---|---|---|
+| Yenny Alejandra Medina Pulido | madre | 100 SMLMV | **150 SMLMV** |
+| Deivid Yessyt Gutiérrez Medina | hermano | 50 SMLMV | **75 SMLMV** |
+| Geraldine Cruz Medina | hermana | 50 SMLMV | **75 SMLMV** |
+| Denis Zayury Cruz Medina | hermana | 50 SMLMV | **75 SMLMV** |
+| Zulay Mayerly Cruz Medina | hermana | 50 SMLMV | **75 SMLMV** |
+| José Arturo Medina Pulido | abuelo | 50 SMLMV | **75 SMLMV** |
+
+Más **4 SMLMV** de agencias en derecho de segunda instancia.
+
+#### La reparación simbólica, con plazo
+
+El **Comandante de la Policía Nacional** debe realizar, **en un máximo de 30 días** desde la firmeza de la sentencia, un **acto público de reconocimiento institucional de responsabilidad y de solicitud de disculpas**, en el que aclare dos cosas:
+
+> *«a) que el referido ciudadano al momento de ser impactado por una munición disparada desde un arma de dotación oficial, se encontraba desarrollando su derecho convencional y constitucional a la protesta, y b) que ningún manifestante, por ejercer su derecho legítimo a la protesta pacífica, debe ser sujeto pasivo de acciones que atenten contra su integridad, su dignidad y su vida.»*
+
+#### La garantía de no repetición que el tribunal negó
+
+Los demandantes pidieron que la sentencia se convirtiera en objeto de estudio obligatorio en los cursos de formación y ascenso de la Policía. **La Sala lo negó**, por considerarlo innecesario: los uniformados ya reciben formación en derechos humanos y el uso de la fuerza ya está regulado por la **Resolución 02903 de 23 de junio de 2017**, «Reglamento para el uso de la Fuerza y el empleo de armas, municiones, elementos y dispositivos menos letales, por la Policía Nacional».
+
+**Ahí hay una contradicción que el documental puede usar.** La misma sentencia que declara que la Policía no informó a sus agentes de que el arma podía matar, rechaza obligar a estudiarla porque la formación ya existe. La formación existía y el agente declaró que nunca le dijeron que podía matar.
 
 La familia: *«no hay sentencia que pueda devolverlo»*. Y sigue faltando la vía penal: la contencioso-administrativa declara la responsabilidad del Estado, no la individual del agente.
 
@@ -133,7 +188,8 @@ La Procuraduría **anuló su propia sentencia de 2024**, en la que había sancio
 - [x] El **tipo de munición**: la sentencia del Tribunal Administrativo de Cundinamarca lo fija como munición **tipo «bean bag»**. Falta el calibre exacto y el fabricante.
 - [ ] La **pieza original de Señal Investigativa y Revista RAYA**, y el vídeo de Jhon Niño.
 - [ ] El expediente de la **Procuraduría** reabierto en 2026, con su número de radicado.
-- [ ] **El PDF íntegro de la sentencia. Hay que bajarlo a mano.** El enlace real, extraído del botón «Descarga la providencia aquí» de <https://tac.gov.co/dilan/>, es:
+- [x] **El PDF íntegro de la sentencia.** ✅ Descargado a mano el 28 de agosto de 2026 y archivado en `media/pdf/sentencias/`. 28 páginas. Todo lo relevante está volcado arriba.
+- [ ] ~~Bajarlo a mano~~ El enlace real, extraído del botón «Descarga la providencia aquí» de <https://tac.gov.co/dilan/>, es:
   `https://samaicore.consejodeestado.gov.co/api/DescargarProvidenciaPublica/2500023/11001334306220220004301/99718CA9D08788C6980C6FD0DF1FDC5A1B19EDFE4502A238F8C435CBA91BD920/2`
   El servidor del Consejo de Estado devuelve **403 Forbidden** a `curl` y bloquea también el `fetch` desde otra pestaña del navegador: tiene un WAF que exige sesión de navegador real. **Abrirlo pegando la URL en Chrome y guardarlo en `media/pdf/`.** Es lo único que falta para tener la sentencia entera; el comunicado del tribunal, que sí es fuente primaria, ya está volcado arriba.
 
