@@ -1,41 +1,58 @@
 #!/usr/bin/env python3
-"""Genera el valor de ADG_USERS con las contraseñas en hash bcrypt.
+"""Genera ADG_USERS y ADG_SECRET_KEY. No necesita instalar nada.
 
     python3 admin/mkpasswd.py
 
-Pide los usuarios y sus contraseñas sin mostrarlas por pantalla, e imprime la
-línea lista para pegar en las variables de entorno de Railway. La contraseña
-en claro no se guarda en ningún sitio.
+Pide las contraseñas sin mostrarlas y devuelve las dos variables listas para
+pegar en Railway. Usa PBKDF2-HMAC-SHA256 de la biblioteca estándar, así que
+funciona con cualquier Python 3 sin dependencias. La contraseña en claro no
+se guarda ni se muestra en ningún momento.
 """
+import base64
 import getpass
+import hashlib
 import json
+import os
 import secrets
 
-import bcrypt
+ITERATIONS = 480_000
 
-users = []
-print("Cuentas para ADG_USERS. Enter en el usuario para terminar.\n")
-while True:
-    u = input("usuario: ").strip()
-    if not u:
-        break
-    p1 = getpass.getpass("  contraseña: ")
-    p2 = getpass.getpass("  repite:     ")
-    if p1 != p2:
-        print("  ✗ no coinciden, repite esta cuenta\n")
-        continue
-    if len(p1) < 12:
-        print("  ✗ mínimo 12 caracteres\n")
-        continue
-    users.append({"username": u, "hash": bcrypt.hashpw(p1.encode(), bcrypt.gensalt(12)).decode()})
-    print("  ✓ añadida\n")
 
-if not users:
-    raise SystemExit("Sin cuentas, no genero nada.")
+def hash_password(password: str) -> str:
+    salt = os.urandom(16)
+    dk = hashlib.pbkdf2_hmac("sha256", password.encode(), salt, ITERATIONS)
+    b64 = lambda b: base64.b64encode(b).decode()
+    return f"pbkdf2_sha256${ITERATIONS}${b64(salt)}${b64(dk)}"
 
-print("\n" + "=" * 70)
-print("Pega estas DOS variables en Railway → Variables. No las commitees.\n")
-print("ADG_USERS=" + json.dumps(users, separators=(",", ":")))
-print()
-print("ADG_SECRET_KEY=" + secrets.token_hex(32))
-print("=" * 70)
+
+def main() -> None:
+    users = []
+    print("\nCuentas para ADG_USERS. Enter en blanco en 'usuario' para terminar.\n")
+    while True:
+        u = input("usuario: ").strip()
+        if not u:
+            break
+        p1 = getpass.getpass("  contraseña (no se ve al escribir): ")
+        p2 = getpass.getpass("  repite:                           ")
+        if p1 != p2:
+            print("  ✗ no coinciden, repite esta cuenta\n")
+            continue
+        if len(p1) < 12:
+            print("  ✗ mínimo 12 caracteres\n")
+            continue
+        users.append({"username": u, "hash": hash_password(p1)})
+        print("  ✓ añadida\n")
+
+    if not users:
+        raise SystemExit("Sin cuentas, no genero nada.")
+
+    print("\n" + "=" * 72)
+    print("Pega estas DOS variables en Railway → Variables. No las commitees.\n")
+    print("ADG_USERS=" + json.dumps(users, separators=(",", ":")))
+    print()
+    print("ADG_SECRET_KEY=" + secrets.token_hex(32))
+    print("=" * 72 + "\n")
+
+
+if __name__ == "__main__":
+    main()

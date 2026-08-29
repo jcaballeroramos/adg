@@ -13,6 +13,7 @@ arranque se ve; una puerta abierta no.
 """
 from __future__ import annotations
 
+import base64
 import hashlib
 import hmac
 import json
@@ -21,9 +22,30 @@ import secrets
 import time
 from typing import Optional
 
-import bcrypt
 from fastapi import APIRouter, HTTPException, Request, Response
 from pydantic import BaseModel
+
+try:                      # bcrypt es opcional: solo para hashes antiguos
+    import bcrypt
+except ImportError:
+    bcrypt = None
+
+
+def _check_password(password: str, stored: str) -> bool:
+    """Verifica un hash PBKDF2 (estándar) o bcrypt (heredado)."""
+    if stored.startswith("pbkdf2_sha256$"):
+        try:
+            _, iters, salt_b64, dk_b64 = stored.split("$")
+            dk = hashlib.pbkdf2_hmac(
+                "sha256", password.encode(),
+                base64.b64decode(salt_b64), int(iters),
+            )
+            return hmac.compare_digest(dk, base64.b64decode(dk_b64))
+        except Exception:     # noqa: BLE001 — hash malformado
+            return False
+    if stored.startswith("$2") and bcrypt is not None:
+        return bcrypt.checkpw(password.encode(), stored.encode())
+    return False
 
 router = APIRouter(prefix="/api/auth", tags=["auth"])
 
@@ -47,7 +69,7 @@ if not _raw:
         )
     _raw = "[]"
 
-USERS: dict[str, bytes] = {}
+USERS: dict[str, str] = {}
 for u in json.loads(_raw):
     h = u.get("hash")
     if not h:
@@ -55,7 +77,7 @@ for u in json.loads(_raw):
             f"La cuenta {u.get('username')!r} de ADG_USERS no tiene 'hash'. "
             "Las contraseñas en claro ya no se aceptan: usa admin/mkpasswd.py."
         )
-    USERS[u["username"]] = h.encode()
+    USERS[u["username"]] = h
 
 COOKIE_NAME = "adg_session"
 SESSION_TTL = 86400 * 7
@@ -63,10 +85,17 @@ _sessions: dict[str, tuple[str, float]] = {}          # token -> (usuario, expir
 _failures: dict[str, list[float]] = {}                # usuario -> intentos fallidos
 MAX_FAILURES, FAILURE_WINDOW = 8, 900                 # 8 intentos en 15 min
 
-# Hash de una contraseña que nadie conoce. Se compara contra él cuando el
+# Hash de una contraseña que nadie conoce. Se comprueba contra él cuando el
 # usuario no existe, para que fallar por usuario y fallar por contraseña
-# cuesten lo mismo en tiempo.
-_DUMMY_HASH = bcrypt.hashpw(secrets.token_bytes(32), bcrypt.gensalt(12))
+# cuesten lo mismo en tiempo y no se pueda enumerar cuentas.
+def _make_dummy() -> str:
+    salt, pw = os.urandom(16), secrets.token_bytes(32)
+    dk = hashlib.pbkdf2_hmac("sha256", pw, salt, 480_000)
+    b64 = lambda b: base64.b64encode(b).decode()
+    return f"pbkdf2_sha256$480000${b64(salt)}${b64(dk)}"
+
+
+_DUMMY_HASH = _make_dummy()
 
 
 def _sign(token: str) -> str:
@@ -122,7 +151,7 @@ def login(body: LoginBody, response: Response):
     stored = USERS.get(body.username)
     # Se comprueba un hash siempre, exista o no la cuenta, para que el tiempo
     # de respuesta no revele qué usuarios existen.
-    ok = bcrypt.checkpw(body.password.encode(), stored or _DUMMY_HASH)
+    ok = _check_password(body.password, stored or _DUMMY_HASH)
     if stored is None:
         ok = False
 
