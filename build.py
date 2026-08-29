@@ -2468,6 +2468,16 @@ body:not(.graph-page) .search-result a:hover { color: var(--accent); }
 body:not(.graph-page) .search-result > div:last-child { color: var(--fg-dim); font-size: 13px; line-height: 1.5; }
 body:not(.graph-page) .search-result b { color: var(--accent); background: transparent; padding: 0; }
 body:not(.graph-page) .search-result .cat { font-size: 11px; color: var(--fg-dim); text-transform: uppercase; letter-spacing: .5px; }
+.sem-bar { display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin:0 0 14px; padding-bottom:12px; border-bottom:1px solid var(--border); }
+.sem-btn { font-family: var(--mono, ui-monospace, monospace); font-size:11px; letter-spacing:.08em; text-transform:uppercase; background:transparent; color:var(--fg-dim); border:1px solid var(--border); padding:6px 12px; cursor:pointer; }
+.sem-btn:hover:not(:disabled) { color:var(--accent); border-color:var(--accent); }
+.sem-btn:disabled { opacity:.45; cursor:default; }
+.sem-note { font-family: var(--mono, ui-monospace, monospace); font-size:11px; color:var(--fg-dim); letter-spacing:.04em; }
+.sem-note.err { color:var(--accent); }
+.sem-login { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+.sem-login input { background:var(--bg); color:var(--fg); border:1px solid var(--border); padding:6px 9px; font-size:13px; width:150px; font-family:inherit; }
+.sem-login input:focus { outline:none; border-color:var(--accent); }
+.search-result .sim { font-family: var(--mono, ui-monospace, monospace); font-size:11px; color:var(--fg-dim); float:right; }
 
 @media (max-width: 800px) {
   .layout { grid-template-columns: 1fr; }
@@ -2632,6 +2642,74 @@ SITE_JS = r"""
     resultsEl.classList.add('open');
   }
 
+  // ===== Búsqueda por significado (requiere sesión) =====
+  // El navegador solo manda la consulta. La clave de Gemini vive en el
+  // servidor y no se expone nunca; el endpoint exige sesión iniciada y
+  // tiene topes de gasto por usuario y por día.
+  let semState = null;
+  const api = (p, opt) => fetch(root + 'api/' + p, Object.assign({credentials:'same-origin'}, opt||{}));
+
+  async function semStatus() {
+    try { semState = await (await api('search/status')).json(); }
+    catch (e) { semState = { disponible:false }; }
+    return semState;
+  }
+
+  function barHTML(msg, cls) {
+    if (!semState || !semState.disponible) return '';
+    const note = msg ? `<span class="sem-note ${cls||''}">${msg}</span>` : '';
+    if (!semState.autenticado) {
+      return `<div class="sem-bar"><form class="sem-login" id="semLogin">
+        <input name="u" placeholder="usuario" autocomplete="username">
+        <input name="p" type="password" placeholder="contraseña" autocomplete="current-password">
+        <button class="sem-btn" type="submit">entrar para buscar por significado</button>
+      </form>${note}</div>`;
+    }
+    return `<div class="sem-bar">
+      <button class="sem-btn" id="semGo">≈ buscar por significado</button>
+      <span class="sem-note">${semState.consultas_hoy}/${semState.tope_diario} consultas hoy</span>${note}</div>`;
+  }
+
+  function wireBar(q) {
+    const form = document.getElementById('semLogin');
+    if (form) form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const r = await api('auth/login', {
+        method:'POST', headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({ username: form.u.value, password: form.p.value })
+      });
+      if (r.ok) { await semStatus(); runSemantic(q); }
+      else { const d = await r.json().catch(()=>({})); paint(q, barHTML(d.detail || 'No se pudo entrar', 'err') + lastList); }
+    });
+    const go = document.getElementById('semGo');
+    if (go) go.addEventListener('click', () => runSemantic(q));
+  }
+
+  let lastList = '';
+  function paint(q, html) { resultsEl.innerHTML = html; resultsEl.classList.add('open'); wireBar(q); }
+
+  async function runSemantic(q) {
+    paint(q, barHTML('buscando…') + lastList);
+    const r = await api('search/semantic', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ q: q, limit: 15 })
+    });
+    if (r.status === 401) { semState.autenticado = false; return paint(q, barHTML('La sesión ha caducado', 'err') + lastList); }
+    if (!r.ok) { const d = await r.json().catch(()=>({})); return paint(q, barHTML(d.detail || 'Error en la búsqueda', 'err') + lastList); }
+    const data = await r.json();
+    await semStatus();
+    lastList = '<h3>' + data.resultados.length + ' ficha(s) por significado para "' + q + '"</h3>' +
+      data.resultados.map(m => `
+        <div class="search-result">
+          <div class="cat">${m.categoria}<span class="sim">${m.similitud.toFixed(3)}</span></div>
+          <a href="${root}${m.slug}.html">${m.titulo}</a>
+          <div>${m.extracto}</div>
+        </div>`).join('');
+    paint(q, barHTML(data.desde_cache ? 'resultado cacheado, sin coste' : '') + lastList);
+  }
+
+  semStatus();
+
   input.addEventListener('input', () => {
     const q = input.value.trim();
     if (q.length < 2) { render([], ''); return; }
@@ -2642,6 +2720,14 @@ SITE_JS = r"""
       n.category.toLowerCase().includes(ql)
     ).slice(0, 30);
     render(matches, q);
+    lastList = resultsEl.innerHTML;
+    if (semState && semState.disponible) paint(q, barHTML('') + lastList);
+  });
+
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && semState && semState.disponible && semState.autenticado) {
+      e.preventDefault(); runSemantic(input.value.trim());
+    }
   });
 
   document.addEventListener('click', (e) => {

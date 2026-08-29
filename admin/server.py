@@ -14,6 +14,7 @@ from admin.api_notes import router as notes_router
 from admin.api_media import router as media_router
 from admin.api_build import router as build_router
 from admin.schemas import router as schemas_router
+from admin.api_search import router as search_router
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
@@ -27,6 +28,7 @@ app.include_router(notes_router)
 app.include_router(media_router)
 app.include_router(build_router)
 app.include_router(schemas_router)
+app.include_router(search_router)
 
 
 @app.on_event("startup")

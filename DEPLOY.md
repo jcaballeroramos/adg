@@ -142,3 +142,57 @@ git add . && git commit -m "Mensaje" && git push
 git status
 git log --oneline -10
 ```
+
+
+---
+
+# Búsqueda semántica · variables de Railway
+
+La wiki es pública y se lee entera sin cuenta. **La búsqueda por significado
+pide usuario y contraseña**, porque cada consulta nueva gasta cuota de la API
+de Gemini. La búsqueda literal sigue siendo pública y gratis.
+
+## La clave nunca sale del servidor
+
+El navegador manda la consulta y recibe resultados. `GEMINI_API_KEY` vive solo
+en las variables de Railway, y los 244 vectores se comparan en el servidor: al
+cliente no le llegan ni la clave ni el corpus vectorial.
+
+## Las cuatro variables
+
+Genera las dos primeras con `python3 admin/mkpasswd.py`, que pide las
+contraseñas sin mostrarlas y devuelve los hashes bcrypt listos para pegar.
+
+| Variable | Para qué | Obligatoria |
+|---|---|---|
+| `ADG_USERS` | Cuentas, con la contraseña en hash bcrypt | **Sí** |
+| `ADG_SECRET_KEY` | Firma de las cookies de sesión | **Sí** |
+| `GEMINI_API_KEY` | Embeber la consulta | Solo para la búsqueda semántica |
+| `ADG_SEARCH_PER_USER_HOUR` | Consultas nuevas por usuario y hora (40) | No |
+| `ADG_SEARCH_GLOBAL_DAY` | Tope diario de todo el sitio (400) | No |
+
+**Sin `ADG_USERS` o `ADG_SECRET_KEY` el servidor no arranca en producción.**
+Es deliberado: antes había unas credenciales por defecto escritas en el repo,
+que es público. Un fallo de arranque se ve, una puerta abierta no.
+
+Sin `GEMINI_API_KEY` el endpoint responde 503 y el sitio funciona igual, con
+la búsqueda literal.
+
+## Los tres topes de gasto
+
+1. **Caché de consultas.** La misma pregunta no se vuelve a embeber nunca.
+   Repetir una búsqueda ya hecha es gratis y así se lo dice al usuario.
+2. **Por usuario y hora.** Una cuenta filtrada no puede vaciar la cuota.
+3. **Diario global.** Corta aunque todas las cuentas estén limpias.
+
+`GET /api/search/status` devuelve las consultas del día y el tope, sin
+necesidad de sesión, y es lo que la interfaz muestra junto al buscador.
+
+## Probarlo en local
+
+```bash
+export GEMINI_API_KEY="…"
+export ADG_SECRET_KEY="$(openssl rand -hex 32)"
+export ADG_USERS='[{"username":"jorge","hash":"$2b$12$…"}]'
+python3 -m uvicorn admin.server:app --port 8788
+```
