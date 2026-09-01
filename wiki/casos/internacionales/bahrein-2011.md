@@ -5,7 +5,7 @@ pais: Bahréin
 año: 2011
 fecha_inicio: 2011-02-14
 contexto: Primavera Árabe — protestas pro-democracia
-victimas: "34 muertes relacionadas con el gas lacrimógeno reportadas por PHR en marzo de 2012; al menos 39 confirmadas en octubre de 2013"
+victimas: "34 muertes por gas lacrimógeno documentadas por Physicians for Human Rights en agosto de 2012; 39 atribuidas al gas en el recuento posterior de la propia PHR"
 tags: [bahrein, 2011, primavera-arabe, gas-lacrimogeno, phr, perla, chiitas, represion]
 ---
 
@@ -80,3 +80,14 @@ A diferencia de Egipto y Túnez, Bahréin fue **casi completamente ignorada** po
 - ↔ [[../../empresas-de-armas/empresas/combined-systems]] · [[../../empresas-de-armas/empresas/nonlethal-technologies]] — fabricantes identificados.
 - ↔ [[../../autores-y-referencias/rohini-haar]] — el informe PHR.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita Bahréin como ejemplo clave.
+
+> ⚠️ **Fecha corregida el 1 de septiembre de 2026.** El informe de PHR es de
+> **agosto de 2012**, no de marzo. Documenta **34 muertes** por gas lacrimógeno
+> a los dieciocho meses de protestas; las **39** son el recuento acumulado
+> posterior de la propia PHR. Las muertes se produjeron por gas disparado
+> **dentro de espacios cerrados** —coches, casas y mezquitas— y por impacto
+> directo de bote en la cabeza.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Richard Sollom y Holly G. Atkinson, «Weaponizing Tear Gas: Bahrain's Unprecedented Use of Toxic Chemical Agents Against Civilians», Physicians for Human Rights, agosto de 2012: <https://phr.org/wp-content/uploads/2020/11/Bahrain-TearGas-Aug2012-small.pdf>

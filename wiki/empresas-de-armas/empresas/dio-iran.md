@@ -54,3 +54,7 @@ Es **el caso más claro de un Estado autoritario armando a otro Estado autoritar
 - ↔ [[../../casos/internacionales/libano-thawra-2019]] — mismas granadas documentadas.
 - ↔ [[../../casos/internacionales/iran-mahsa-amini-2022]] — DIO también suministra a la policía iraní que reprime en casa.
 - ↔ [[../../historia/armas-quimicas]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «Iraq: Iranian tear gas grenades among those causing gruesome protester deaths», noviembre de 2019, que identifica las granadas M651 y M713 de la Defense Industries Organization iraní: <https://www.amnestyusa.org/press-releases/military-grade-grenades-used-on-protestors/>

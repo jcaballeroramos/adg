@@ -79,3 +79,7 @@ Desde entonces, Egipto ha **recuperado** su posición como uno de los **mayores 
 - ↔ [[hong-kong-2019-2020]] · [[endsars-nigeria-2020]] · [[iran-mahsa-amini-2022]] — el mismo patrón global.
 - ↔ [[libano-thawra-2019]] · [[irak-tishreen-2019]] — otras expresiones de la ola árabe post-2011.
 - ↔ [[../../historia/cronologia-completa]] — entrada de enero-febrero 2011.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «Tea and tear gas in Tahrir Square», noviembre de 2012: <https://www.amnesty.org/en/latest/news/2012/11/tea-and-tear-gas-tahrir-square/>

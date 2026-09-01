@@ -62,3 +62,7 @@ Yemen es **el caso testigo** del modelo exportador europeo y occidental:
 - ↔ [[bahrein-2011]] · [[tunez-2011]] · [[libia-2011]] · [[siria-2011]] — Primavera Árabe.
 - ↔ [[irak-tishreen-2019]] — misma cadena Krušik.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita el mercado saudí.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «Global: Misuse of tear gas killing and injuring protesters worldwide», mayo de 2023: <https://www.amnesty.org/en/latest/news/2023/05/global-misuse-of-tear-gas-killing-and-injuring-protesters-worldwide-updated-interactive-website/>

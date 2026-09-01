@@ -75,3 +75,7 @@ Esto conecta con el siguiente nivel irónico: **Irán**, que dispara perdigones 
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — DIO (Irán), Krušik (Serbia).
 - ↔ [[../../marco-legal/onu-orientaciones-2020]] — explícitamente prohíbe los botes militares contra manifestantes.
 - ↔ [[../../historia/cronologia-completa]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «Iraq: Gruesome string of fatalities as new tear gas grenades pierce protesters' skulls», 31 de octubre de 2019: <https://www.amnesty.org/en/latest/news/2019/10/iraq-gruesome-string-of-fatalities-as-new-tear-gas-grenades-pierce-protesters-skulls/>

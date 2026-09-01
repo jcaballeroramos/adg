@@ -60,3 +60,7 @@ Es decir: **el paso del gas lacrimógeno al sarín** se produjo **en dos años**
 - ↔ [[../../historia/armas-quimicas]] — continuum del gas.
 - ↔ [[irak-tishreen-2019]] · [[libano-thawra-2019]] — mismas granadas regionales.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sitúa el punto de quiebre aquí.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «MENA: Repression and violence fail to stamp out Arab activism 10 years since mass uprisings of 2011», febrero de 2021: <https://www.amnesty.org/en/latest/press-release/2021/02/mena-repression-and-violence-fail-to-stamp-out-arab-activism-10-years-since-mass-uprisings-of-2011/>

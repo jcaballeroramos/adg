@@ -53,3 +53,7 @@ Pero a diferencia de casos como Bahréin o Egipto, **el gas lacrimógeno duró m
 - ↔ [[tunez-2011]] · [[egipto-tahrir-2011]] · [[bahrein-2011]] · [[siria-2011]] — Primavera Árabe.
 - ↔ [[../../empresas-de-armas/empresas/rheinmetall]] — suministros europeos previos.
 - ↔ [[../../empresas-de-armas/empresas/krusik-serbia]] — granadas balcánicas documentadas.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «The Battle for Libya: Killings, Disappearances and Torture», MDE 19/025/2011: <https://www.amnesty.org/en/wp-content/uploads/2021/06/mde190252011en.pdf>

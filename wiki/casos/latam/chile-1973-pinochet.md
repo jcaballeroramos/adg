@@ -69,3 +69,7 @@ Carmen Gloria se convirtió en **símbolo internacional** de la dictadura. Su ca
 - ↔ [[../../historia/armas-quimicas]] — el continuum histórico.
 - ↔ [[../../historia/canones-agua]] — los «guanacos» chilenos.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sobre dictaduras y gas.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Informe de la Comisión Nacional de Verdad y Reconciliación (Informe Rettig), 1991, en la biblioteca digital del INDH: <https://bibliotecadigital.indh.cl/items/edb83a4d-9121-48ee-8e66-09fe31e926fe>

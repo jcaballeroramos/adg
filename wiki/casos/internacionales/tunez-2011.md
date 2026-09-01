@@ -50,3 +50,7 @@ El escándalo fue tan grande que **Alliot-Marie tuvo que dimitir** semanas despu
 - ↔ [[../../empresas-de-armas/empresas/combined-systems]].
 - ↔ [[../../historia/cronologia-completa]] — 17 dic 2010 / 14 ene 2011.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sitúa el inicio de la ola aquí.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «The Repression Trade», octubre de 2023, sobre el comercio de material antidisturbios usado en los levantamientos: <https://www.amnesty.org/en/latest/research/2023/10/repression-trade/>
