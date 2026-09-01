@@ -112,3 +112,7 @@ Es **el mismo argumento** que usan los Estados europeos: lo vimos en [[../espana
 - ↔ [[../../marco-legal/onu-relatora-tortura]] — el marco legal internacional que se incumple.
 - ↔ [[../../marco-legal/onu-orientaciones-2020]].
 - ↔ [[../espana-europa/compilacion-espana]] — el equivalente del patrón en España.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «The Repression Trade», sobre el marco normativo y comercial del material antidisturbios en la región: <https://www.amnesty.org/en/latest/research/2023/10/repression-trade/>

@@ -25,3 +25,11 @@ Empresa **española** dedicada a la **distribución de cartuchos** y munición. 
 - ↔ [[manufacturas-tormes-barbero]] · [[maxam]] · [[falken]] — el resto de fabricantes españoles.
 - ↔ [[../../casos/espana-europa/compilacion-espana]] — datos sobre la opacidad y el problema de trazabilidad.
 - ↔ [[../../casos/espana-europa/roger-espanol]] — el caso paradigmático de **agente identificado por casualidad** vs. **arma sin trazabilidad**.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Respuesta del Gobierno al Senado de 16 de abril de 2018, expediente 684/36171, pregunta escrita del senador Jon Iñarritu, que identifica a los fabricantes del material con el que la Policía Nacional dispara las pelotas de goma. Se le adjudicó un lote de **cartuchos 12/70** del expediente 009/20/AR/01 de la Dirección General de la Policía.: <https://www.senado.es/web/actividadparlamentaria/iniciativas/index.html>
+
+> ⚠️ El buscador de iniciativas del Senado no permite enlace directo al
+> expediente. Se llega por **número de expediente 684/36171** desde ese
+> buscador. La referencia queda por escrito, que es lo que permite localizarlo.

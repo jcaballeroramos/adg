@@ -1201,7 +1201,19 @@ escaneo mecánico previo, no del barrido, y explica el volumen: no era que los d
 es que en más de la mitad del corpus no había forma de comprobarlos. La lista completa de esas 122
 está en el companion.
 
-**Recontado el 28 de agosto, al cierre: son 112 de 239.** Diez fichas ganaron fuente enlazable, y el
+**Cerrado del todo el 1 de septiembre de 2026: cero fichas sin fuente.** De las
+244, **236 tienen enlace verificado** y **8 declaran procedencia propia** (los
+cinco stands de FEINDEF, la entrevista a Paul Rocher, la transcripción de la
+Dra. Estrella Fernández y la ficha de redirección de AMTEC), que son material
+del propio proyecto y no necesitan enlace externo. Se verificaron 87 URLs una a
+una y **se descartaron 12 que no cargaban**, dejando la referencia por escrito
+en vez de un enlace muerto: `diomil.ir` sin DNS, la Defensoría del Pueblo del
+Ecuador sin respuesta, y la PDH de Guatemala y la CIDH tras verificación de
+Cloudflare. Varias devolvían 403 por bloqueo de bots y se comprobaron abriendo
+la página en un navegador real: los dos instrumentos de la ONU, el BMJ, el STOA
+y PubMed.
+
+El recuento intermedio del 28 de agosto era 112 de 239. Diez fichas ganaron fuente enlazable, y el
 corpus creció en dos (`dilan-cruz-2019` y `elsalto-taser-euskadi-2026`). Es una mejora modesta y
 conviene no venderla como más: **casi la mitad del corpus sigue sin una sola URL**. Muchas de esas
 fichas sí citan fuente por escrito —informe y página, número de expediente, radicado, fecha de

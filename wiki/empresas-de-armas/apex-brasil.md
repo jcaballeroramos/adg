@@ -33,3 +33,7 @@ La **Agência Brasileira de Promoção de Exportações e Investimentos (Apex Br
 - ↔ [[../ferias-de-armas/milipol]] · [[../ferias-de-armas/dsei-londres]] — donde Condor expone con apoyo Apex.
 - ↔ [[../casos/latam/00-compilacion-latam]] — la expansión de Condor en LATAM.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — la tesis del Estado como triple actor.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Apex-Brasil, Agência Brasileira de Promoção de Exportações e Investimentos: <https://apexbrasil.com.br/>

@@ -100,3 +100,7 @@ Dilemas morales sobre **delegar decisiones de vida o muerte a máquinas**.
 - ↔ [[../ferias-de-armas/congresos/symposium-non-lethal-weapons-2026]] — el foro donde se normaliza.
 - ↔ [[../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco crítico.
 - ↔ [[../herramientas/vframe]] — el contraejemplo civil.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Naciones Unidas, Oficina de Asuntos de Desarme (UNODA), Convención sobre Ciertas Armas Convencionales: <https://disarmament.unoda.org/>

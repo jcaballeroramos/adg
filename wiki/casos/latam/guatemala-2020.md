@@ -46,3 +46,12 @@ tags: [guatemala, 2020, cts, tactical-group, sobreprecio]
 - Hospital Roosevelt, confirmación de las dos enucleaciones, 22 de noviembre de 2020.
 
 > ⚠️ **Pendiente.** Falta el número de resolución de la PDH y el enlace al informe de la PNC. Las dos cifras clave (las 388 TL1 y los contratos de Tactical Group por más de 6 millones de dólares) están documentadas por escrito pero sin URL pública localizable. La vía es Guatecompras para los contratos y una solicitud a la PDH para la resolución.
+
+> ⚠️ La web de la **Procuraduría de los Derechos Humanos** (`pdh.org.gt`) está
+> tras una verificación de Cloudflare que bloquea el acceso automatizado, y la
+> resolución de 10 de diciembre de 2020 no se ha podido enlazar. La cita queda
+> por escrito con su fecha; hay que pedirla a la PDH.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, investigación global sobre el uso indebido del gas lacrimógeno, con Guatemala entre los países verificados: <https://teargas.amnesty.org/>

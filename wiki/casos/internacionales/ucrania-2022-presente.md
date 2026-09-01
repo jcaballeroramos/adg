@@ -64,3 +64,7 @@ Ucrania **no es el foco** de Artefactos de Guerra, pero es **el espejo** del fut
 - ↔ [[../../historia/laws-armas-autonomas]] — validación operacional.
 - ↔ [[../../empresas-de-armas/empresas/raytheon]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher sobre futurología militar.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Human Rights Watch, informes de país sobre Ucrania: <https://www.hrw.org/europe/central-asia/ukraine>

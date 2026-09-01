@@ -15,3 +15,11 @@ tags: [amtec, als, redirección, fusionado]
 **Todo el contenido está ahora en → [[als-less-lethal]]**, incluido lo que solo estaba aquí: el dato de *Humo en las calles* sobre las dos décadas sin innovar.
 
 > Esta ficha se conserva únicamente para no romper los enlaces que ya apuntaban aquí. No añadir contenido nuevo.
+
+## Procedencia
+
+**Esta ficha es solo una redirección** y no afirma nada por su cuenta. Las
+fuentes de la empresa —el registro federal de licencias FFL del ATF, la nota de
+prensa de PACEM Defense de 18 de octubre de 2018 y el hecho relevante de
+National Presto ante la SEC— están todas en **[[als-less-lethal]]**, que es
+donde vive el contenido.

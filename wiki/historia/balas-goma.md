@@ -42,6 +42,16 @@ Aquí está el patrón que el documental repite en todos los capítulos: **cada 
 
 > El rebote es exactamente lo que las [[../marco-legal/onu-orientaciones-2020|Orientaciones de la ONU de 2020]] prohíben cincuenta años después. La norma llega medio siglo tarde a un modo de matar que ya se conocía.
 
+### Y en 1987 ya estaba publicado que el sustituto era peor
+
+El paper de **Eileen K. y Seamus P. Metress** en el *International Journal of Health Services* (17(2), 1987, pp. 333-342) fija las fechas y la conclusión:
+
+> *«The plastic bullet was introduced into Northern Ireland as a riot control weapon in 1973. It became fully operational in 1975, replacing its predecessor the rubber bullet. The missile, which has been portrayed as a "minimum force," nonlethal weapon, has resulted in 13 deaths, including those of seven children […] Evidence regarding injury inflicted by the plastic bullet indicates that it is more dangerous than the rubber bullet that it replaced.»*
+
+**Trece muertes, siete de ellas niños**, con el arma que se había introducido para ser la versión segura de la goma. Y el examen de las tres muertes por goma y las trece por plástico revela que a la mayoría **se le disparó desde distancias muy por debajo de la considerada segura**, contra las propias reglas de enfrentamiento.
+
+Esto no es un hallazgo reciente: **está publicado en una revista revisada por pares desde 1987**. Cuando la industria presenta hoy el foam como el remedio seguro del plástico, lo hace sobre una serie documentada de cuarenta años en la que cada remedio mató más que el anterior. → [[../marco-legal/bibliografia/balas-plastico-1987-mod]]
+
 ## La expansión, según la cronología de Omega
 
 | Fecha | Hecho |
@@ -80,3 +90,4 @@ Que la genealogía colonial sea real no autoriza a fecharla mal. Hong Kong en lo
 ## Fuentes (acceso 28 ago 2026)
 
 - Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>
+- Eileen K. Metress y Seamus P. Metress, «The anatomy of plastic bullet damage and crowd control», *International Journal of Health Services* 17(2), 1987, pp. 333-342, PMID 3583515: <https://pubmed.ncbi.nlm.nih.gov/3583515/>

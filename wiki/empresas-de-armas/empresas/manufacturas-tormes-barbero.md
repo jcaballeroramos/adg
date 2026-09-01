@@ -26,3 +26,11 @@ Empresa **española** fabricante de **proyectiles** y **componentes pirotécnico
 - ↔ [[maxam]] · [[falken]] — el resto de fabricantes españoles.
 - ↔ [[../../casos/espana-europa/compilacion-espana]] — los datos agregados del daño en España.
 - ↔ [[../../marco-legal/bibliografia/access-info-europe]] — el patrón europeo de opacidad sobre el armamento policial.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Respuesta del Gobierno al Senado de 16 de abril de 2018, expediente 684/36171, pregunta escrita del senador Jon Iñarritu, que identifica a los fabricantes del material con el que la Policía Nacional dispara las pelotas de goma. Es **la fabricante de la bola de caucho**, según esa respuesta.: <https://www.senado.es/web/actividadparlamentaria/iniciativas/index.html>
+
+> ⚠️ El buscador de iniciativas del Senado no permite enlace directo al
+> expediente. Se llega por **número de expediente 684/36171** desde ese
+> buscador. La referencia queda por escrito, que es lo que permite localizarlo.

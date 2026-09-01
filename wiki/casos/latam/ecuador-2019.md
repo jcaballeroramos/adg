@@ -43,3 +43,17 @@ tags: [ecuador, paro-octubre, conaie, lenín-moreno, perdigones, lacrimógenos-v
 - ↔ [[00-compilacion-latam]].
 - ↔ [[intermediarios-latam]].
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — Combined Systems.
+
+> **Las cifras oficiales del paro (3-13 de octubre de 2019), según la Defensoría
+> del Pueblo del Ecuador**: 11 muertos, 1.340 heridos y 1.192 detenidos, con 532
+> detenciones en Quito de las cuales el 80 % fueron arbitrarias. Y **20 lesiones
+> oculares** por impacto de bombas, perdigones u objetos contundentes: **14
+> personas perdieron el globo ocular** y 6 tienen la visión afectada.
+>
+> ⚠️ El portal `dpe.gob.ec` no responde desde fuera de Ecuador (fallo de
+> conexión, comprobado el 1 de septiembre de 2026), así que los informes
+> técnicos hay que pedirlos a la Defensoría. La cita queda por escrito.
+
+## Fuentes (acceso 1 sep 2026)
+
+- «La protesta social en Ecuador en octubre 2019: entre la disputa de modelo, la judicialización y el reconocimiento», artículo académico revisado por pares (SciELO Colombia): <http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-32612023000100279>

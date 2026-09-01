@@ -68,3 +68,9 @@ King recibe **3,8 millones de dólares** en daños civiles del LAPD.
 - ↔ [[../../historia/taser]] — historia del arma.
 - ↔ [[ee-uu-frontera-sur]] · otras víctimas estadounidenses.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita el caso como inflexión.
+
+> El informe se entregó el **9 de julio de 1991** y tiene **228 páginas**.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Independent Commission on the Los Angeles Police Department (Comisión Christopher), informe de 9 de julio de 1991, 228 páginas, texto completo en Internet Archive: <https://archive.org/stream/ChristopherCommissionLAPD/Christopher%20Commission%20LAPD_djvu.txt>
