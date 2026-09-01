@@ -72,3 +72,11 @@ Principios para armas «menos letales» según el CICR:
 - ↔ [[../../autores-y-referencias/stuart-casey-maslen]] — comentarios académicos.
 - ↔ [[../../casos/internacionales/siria-2011]] — el continuum CS → sarín.
 - ↔ [[ccw-1980-protocolo-iv]] — la otra convención clave.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>

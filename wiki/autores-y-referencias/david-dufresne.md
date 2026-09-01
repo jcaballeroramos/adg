@@ -44,3 +44,11 @@ Cada caso era publicado como un **hilo en Twitter** con foto, vídeo, fecha, ubi
 - ↔ [[organizaciones/stop-bales-de-goma]] — paralelismo metodológico.
 - ↔ [[organizaciones/iridia]] — paralelismo en Cataluña.
 - ↔ [[../casos/espana-europa/remi-fraisse]] · [[../casos/espana-europa/steve-maia-canico]] — casos documentados por su entorno.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>

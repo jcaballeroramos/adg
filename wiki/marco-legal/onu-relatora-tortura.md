@@ -47,3 +47,11 @@ Aquellas que, dependiendo de cómo las aplique el agente, pueden usarse de forma
 - ↔ [[amnistia-internacional]] (Amnistía es coimpulsora del tratado).
 - ↔ [[../autores-y-referencias/fionnuala-ni-aolain]] — la titular del mandato y su informe A/78/324.
 - ↔ [[../ferias-de-armas/feindef/00-overview]] (la propia FEINDEF entra en el "vigilando ferias de armas").
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>

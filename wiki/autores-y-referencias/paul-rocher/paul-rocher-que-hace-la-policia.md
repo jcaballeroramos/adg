@@ -155,3 +155,11 @@ Este libro es **la pieza teórica central** del documental. Proporciona:
 - ↔ [[../../marco-legal/bibliografia/osji-who-polices-the-police]] — la pregunta de Juvenal.
 - ↔ [[../../marco-legal/bibliografia/iridia-mecanismos-independientes]] · [[../../marco-legal/bibliografia/iridia-pla-accio]] — las alternativas españolas.
 - ↔ [[../../historia/armas-quimicas]] · [[../../historia/balas-goma]] · [[../../historia/porra-tonfa]] — genealogía de cada arma.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Ainhoa Ruiz Benedicto y Anna Montull García, *Armas potencialmente letales*, Informe 56 del Centre Delàs d'Estudis per la Pau, noviembre de 2022: <https://centredelas.org/publicacions/armespotencialmentletals/?lang=es>

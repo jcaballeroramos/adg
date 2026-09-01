@@ -50,3 +50,12 @@ Plataforma de **víctimas y familiares** de balas de goma en el Estado español.
 - ↔ [[ojo-con-tu-ojo]] — colectivo paralelo en otros territorios.
 - ↔ [[../pierre-douillard-lefevre|Assemblée des blessés]] — el equivalente francés.
 - ↔ Todos los casos: [[../../casos/espana-europa/inigo-cabacas]], [[../../casos/espana-europa/ester-quintana]], [[../../casos/espana-europa/carles-guillot]], [[../../casos/espana-europa/roger-espanol]], [[../../casos/espana-europa/africa-pablo-hasel]], [[../../casos/espana-europa/olga-proces]].
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
+- Stop Bales de Goma, *Informe 2013*, 11 de junio de 2013: <https://stopbalesdegoma.wordpress.com/wp-content/uploads/2013/07/informe-sbg2013_es.pdf>

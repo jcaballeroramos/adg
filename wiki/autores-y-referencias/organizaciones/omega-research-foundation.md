@@ -74,3 +74,11 @@ Organización **sin fines de lucro registrada en Inglaterra y Gales**, **fundada
 - ↔ [[../../marco-legal/onu-orientaciones-2020]] — la ONU cita a Omega Research Foundation.
 - ↔ [[../../marco-legal/amnistia-internacional]] — Omega es socio histórico.
 - ↔ [[../../herramientas/mapa-omega-ferias-armas]] — Omega también mantiene el mapa mundial de ferias de armas.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>

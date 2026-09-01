@@ -43,3 +43,11 @@ tags: [telefónica, españa, vigilancia, taser, guardia-civil, axon, comunicacio
 - ↔ [[../../casos/espana-europa/antonio-c-badalona]] — primera muerte por taser en Catalunya (cadena de proveedores).
 - ↔ [[../../ferias-de-armas/feindef/00-overview]] — expositor.
 - ↔ [[saborit-international]] — competidor en el mismo nicho.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Web oficial de **Telefónica Ingeniería de Seguridad**: <https://www.telefonica.com/> — comprobada el 1 de septiembre de 2026.
+
+> ⚠️ La web del propio fabricante sirve para acreditar catálogo, filiales y
+> presencia comercial. **No sirve para nada de lo que esta ficha afirma sobre
+> el uso de sus productos contra personas**, que necesita fuente independiente.

@@ -70,3 +70,11 @@ Odortec afirma no exportar, pero el **Departamento de Policía Metropolitana de 
 - ↔ [[../../historia/armas-quimicas]] — sección Skunk.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — cita sobre "las armas de la ocupación siempre regresan a casa".
 - ↔ [[../../historia/canones-agua]] — contexto técnico (se aplica vía cañón de agua).
+
+## Fuentes (acceso 1 sep 2026)
+
+- Web oficial de **Odortec Ltd.**: <https://www.odortec.com/> — comprobada el 1 de septiembre de 2026.
+
+> ⚠️ La web del propio fabricante sirve para acreditar catálogo, filiales y
+> presencia comercial. **No sirve para nada de lo que esta ficha afirma sobre
+> el uso de sus productos contra personas**, que necesita fuente independiente.

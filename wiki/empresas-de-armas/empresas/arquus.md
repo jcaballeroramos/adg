@@ -23,3 +23,11 @@ Arquus es el **puente material entre ejército y policía**: el mismo blindado q
 - ↔ [[../../ferias-de-armas/eurosatory-2026/01-videos]] — el PVP en la demo de la BRI (id 107).
 - ↔ [[knds]] — socio en el programa Scorpion (Griffon/Jaguar).
 - ↔ [[mbda]] · [[safran]] · [[rheinmetall]] · [[diehl-defence]] — grandes primes europeos.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Web oficial de **Arquus**: <https://www.arquus-defense.com/> — comprobada el 1 de septiembre de 2026.
+
+> ⚠️ La web del propio fabricante sirve para acreditar catálogo, filiales y
+> presencia comercial. **No sirve para nada de lo que esta ficha afirma sobre
+> el uso de sus productos contra personas**, que necesita fuente independiente.

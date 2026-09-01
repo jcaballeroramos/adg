@@ -25,15 +25,37 @@ def hash_password(password: str) -> str:
     return f"pbkdf2_sha256${ITERATIONS}${b64(salt)}${b64(dk)}"
 
 
+def emit(users) -> None:
+    if not users:
+        print("\nSin cuentas, no genero nada.\n")
+        return
+    print("\n" + "=" * 72)
+    print("Pega estas DOS variables en Railway - Variables. No las commitees.\n")
+    print("ADG_USERS=" + json.dumps(users, separators=(",", ":")))
+    print()
+    print("ADG_SECRET_KEY=" + secrets.token_hex(32))
+    print("=" * 72 + "\n")
+
+
 def main() -> None:
     users = []
-    print("\nCuentas para ADG_USERS. Enter en blanco en 'usuario' para terminar.\n")
+    print("\nCuentas para ADG_USERS.")
+    print("Cuando acabes, pulsa ENTER en 'usuario' sin escribir nada.\n")
     while True:
-        u = input("usuario: ").strip()
+        try:
+            u = input("usuario: ").strip()
+        except (KeyboardInterrupt, EOFError):
+            # Ctrl+C no debe tirar a la basura las cuentas ya introducidas.
+            print()
+            break
         if not u:
             break
-        p1 = getpass.getpass("  contraseña (no se ve al escribir): ")
-        p2 = getpass.getpass("  repite:                           ")
+        try:
+            p1 = getpass.getpass("  contraseña (no se ve al escribir): ")
+            p2 = getpass.getpass("  repite:                           ")
+        except (KeyboardInterrupt, EOFError):
+            print()
+            break
         if p1 != p2:
             print("  ✗ no coinciden, repite esta cuenta\n")
             continue
@@ -43,15 +65,7 @@ def main() -> None:
         users.append({"username": u, "hash": hash_password(p1)})
         print("  ✓ añadida\n")
 
-    if not users:
-        raise SystemExit("Sin cuentas, no genero nada.")
-
-    print("\n" + "=" * 72)
-    print("Pega estas DOS variables en Railway → Variables. No las commitees.\n")
-    print("ADG_USERS=" + json.dumps(users, separators=(",", ":")))
-    print()
-    print("ADG_SECRET_KEY=" + secrets.token_hex(32))
-    print("=" * 72 + "\n")
+    emit(users)
 
 
 if __name__ == "__main__":

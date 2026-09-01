@@ -142,3 +142,14 @@ En los procedimientos penales en los que **Irídia es parte** —como acusación
 - ↔ [[../../autores-y-referencias/organizaciones/iridia]] — los litigios estratégicos.
 - ↔ [[../../autores-y-referencias/organizaciones/caminando-fronteras]] — para los casos de la frontera sur.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco económico-político de Rocher.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
+- Stop Bales de Goma, *Informe 2013*, 11 de junio de 2013: <https://stopbalesdegoma.wordpress.com/wp-content/uploads/2013/07/informe-sbg2013_es.pdf>
+- Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>
+- STOA / Omega Foundation, *Crowd Control Technologies*, PE 168.394/Fin.St., Parlamento Europeo, junio de 2000: <https://www.europarl.europa.eu/RegData/etudes/etudes/stoa/2000/168394/DG-4-STOA_ET(2000)168394_EN(PAR02).pdf>

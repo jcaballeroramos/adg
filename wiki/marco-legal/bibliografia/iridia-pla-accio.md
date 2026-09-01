@@ -99,3 +99,12 @@ Creación de un **mecanismo externo, público e independiente** de monitoreo y a
 - ↔ [[../mossos-instrucciones-armamento]] — lo que el Bloque 2 exige publicar y reformar.
 - ↔ [[../cataluna-prohibicion-balas-goma]] — contexto de la recomendación 15 (órgano autonómico catalán).
 - ↔ [[../../casos/espana-europa/roger-espanol]] · [[../../casos/espana-europa/africa-pablo-hasel]] · [[../../casos/espana-europa/melilla-2022]] · [[../../casos/espana-europa/tarajal-2014]] — los casos que ilustran la necesidad de cada recomendación.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
+- Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>

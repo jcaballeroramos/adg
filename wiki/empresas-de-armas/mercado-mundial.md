@@ -135,3 +135,12 @@ El mercado bursátil **apuesta** por la represión como negocio estable y de cre
 - ↔ [[../marco-legal/bibliografia/lethal-in-disguise-2]] — fuente de varias cifras.
 - ↔ [[../herramientas/mapa-omega-ferias-armas]] — geografía del comercio.
 - ↔ [[apex-brasil]] — promoción estatal de Condor como caso.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>
+- Ainhoa Ruiz Benedicto y Anna Montull García, *Armas potencialmente letales*, Informe 56 del Centre Delàs d'Estudis per la Pau, noviembre de 2022: <https://centredelas.org/publicacions/armespotencialmentletals/?lang=es>

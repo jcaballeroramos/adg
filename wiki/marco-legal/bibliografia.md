@@ -82,3 +82,14 @@ tags: [índice]
 ## Conexiones
 - ↔ [[onu-orientaciones-2020]] · [[onu-relatora-tortura]] · [[amnistia-internacional]] — las fichas de marco legal que estas fuentes sostienen.
 - ↔ [[../autores-y-referencias/organizaciones/omega-research-foundation]] — la base técnica transversal.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
+- Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>
+- Ainhoa Ruiz Benedicto y Anna Montull García, *Armas potencialmente letales*, Informe 56 del Centre Delàs d'Estudis per la Pau, noviembre de 2022: <https://centredelas.org/publicacions/armespotencialmentletals/?lang=es>
+- Naciones Unidas, *Código de conducta para funcionarios encargados de hacer cumplir la ley*, Resolución 34/169 (1979): <https://www.ohchr.org/es/instruments-mechanisms/instruments/code-conduct-law-enforcement-officials>

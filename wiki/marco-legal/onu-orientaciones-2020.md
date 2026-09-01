@@ -97,3 +97,11 @@ Las seis familias de armas que regula este manual, con su historia completa en l
 - [[../historia/canones-agua]] — cañones de agua.
 - [[../historia/armas-acusticas]] — LRAD y similares.
 - [[../historia/porra-tonfa]] — bastones policiales.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- ACNUDH, *Orientaciones de las Naciones Unidas en materia de derechos humanos sobre el empleo de armas menos letales en el mantenimiento del orden* (2020): <https://www.ohchr.org/sites/default/files/Documents/HRBodies/CCPR/LLW_Guidance.pdf>

@@ -25,3 +25,11 @@ Es el **extremo "guerra"** del continuo que Eurosatory exhibe: carros y artiller
 - ↔ [[../../ferias-de-armas/eurosatory-2026/00-overview]] · [[../../ferias-de-armas/eurosatory-2026/01-videos]] — su material en las demos.
 - ↔ [[rheinmetall]] · [[arquus]] · [[mbda]] · [[safran]] · [[diehl-defence]] — el resto de grandes primes europeos.
 - ↔ [[../../historia/tipos-de-armas-tabla]] — dónde encaja lo "menos letal" frente a lo militar pesado.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Web oficial de **KNDS**: <https://www.knds.com/> — comprobada el 1 de septiembre de 2026.
+
+> ⚠️ La web del propio fabricante sirve para acreditar catálogo, filiales y
+> presencia comercial. **No sirve para nada de lo que esta ficha afirma sobre
+> el uso de sus productos contra personas**, que necesita fuente independiente.

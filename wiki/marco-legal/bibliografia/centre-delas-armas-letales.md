@@ -135,3 +135,13 @@ Las autoras justifican la elección del término **«armas potencialmente letale
 - ↔ [[../../historia/armas-quimicas]] · [[../../historia/balas-goma]] · [[../../historia/porra-tonfa]] · [[../../historia/canones-agua]] · [[../../historia/taser]] — cada tipo de arma analizado.
 - ↔ [[ccw-1980-protocolo-iv]] — armas láser cegadoras citadas.
 - ↔ [[cicr-guia-armas-quimicas]] — CWC y regulación del gas.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>
+- STOA / Omega Foundation, *Crowd Control Technologies*, PE 168.394/Fin.St., Parlamento Europeo, junio de 2000: <https://www.europarl.europa.eu/RegData/etudes/etudes/stoa/2000/168394/DG-4-STOA_ET(2000)168394_EN(PAR02).pdf>
+- Ainhoa Ruiz Benedicto y Anna Montull García, *Armas potencialmente letales*, Informe 56 del Centre Delàs d'Estudis per la Pau, noviembre de 2022: <https://centredelas.org/publicacions/armespotencialmentletals/?lang=es>

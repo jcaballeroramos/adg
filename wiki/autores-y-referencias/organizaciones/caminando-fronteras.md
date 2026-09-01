@@ -29,3 +29,11 @@ Organización que **monitoriza y documenta sistemáticamente** lo que ocurre en 
 - ↔ [[../../casos/espana-europa/compilacion-espana]] — la frontera como **45%** de los casos.
 - ↔ [[../../historia/balas-goma]] — Tarajal y Melilla como continuum de la "industrialización del dolor" colonial.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita las cifras de Bahréin como "no priorización de los heridos no blancos"; en Tarajal/Melilla pasa exactamente eso.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Stop Bales de Goma, *Informe 2013*, 11 de junio de 2013: <https://stopbalesdegoma.wordpress.com/wp-content/uploads/2013/07/informe-sbg2013_es.pdf>

@@ -42,3 +42,11 @@ Investigaciones documentaron que Aardvark Tactical ha firmado **contratos por ca
 - ↔ [[axon]] — fabricante de las Tasers que distribuye.
 - ↔ [[../../casos/estados-unidos/ee-uu-frontera-sur]] — uso CBP.
 - ↔ [[safariland]] · [[combined-systems]] — otros proveedores de la CBP.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Web oficial de **Aardvark Tactical**: <https://www.aardvarktactical.com/> — comprobada el 1 de septiembre de 2026.
+
+> ⚠️ La web del propio fabricante sirve para acreditar catálogo, filiales y
+> presencia comercial. **No sirve para nada de lo que esta ficha afirma sobre
+> el uso de sus productos contra personas**, que necesita fuente independiente.

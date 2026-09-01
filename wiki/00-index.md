@@ -357,3 +357,16 @@ Cómo se entrena, cómo se aplica.
 - [[historia/laws-armas-autonomas|LAWS — Sistemas de Armas Autónomas Letales]] — el siguiente paso del paradigma "menos letal".
 - [[marco-legal/bibliografia/el-clip-negocio-represion|El Clip · "Humo en las calles / Negocio de la represión"]] — fuente periodística primaria de toda la sección LATAM.
 - [[empresas-de-armas/apex-brasil|Apex Brasil]] — promoción estatal de la industria represiva brasileña.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
+- Stop Bales de Goma, *Informe 2013*, 11 de junio de 2013: <https://stopbalesdegoma.wordpress.com/wp-content/uploads/2013/07/informe-sbg2013_es.pdf>
+- Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>
+- Ainhoa Ruiz Benedicto y Anna Montull García, *Armas potencialmente letales*, Informe 56 del Centre Delàs d'Estudis per la Pau, noviembre de 2022: <https://centredelas.org/publicacions/armespotencialmentletals/?lang=es>
+- Naciones Unidas, *Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios encargados de hacer cumplir la Ley* (La Habana, 1990): <https://www.ohchr.org/es/instruments-mechanisms/instruments/basic-principles-use-force-and-firearms-law-enforcement>
+- Naciones Unidas, *Código de conducta para funcionarios encargados de hacer cumplir la ley*, Resolución 34/169 (1979): <https://www.ohchr.org/es/instruments-mechanisms/instruments/code-conduct-law-enforcement-officials>

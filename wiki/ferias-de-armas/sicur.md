@@ -52,3 +52,11 @@ SICUR es, junto a [[feindef/00-overview]], una de las dos grandes citas feriales
 - ↔ [[dsei-londres]] — feria de defensa y seguridad (Londres).
 - ↔ [[security-forum]] — el otro gran salón de seguridad en España, en clave de **seguridad privada** y celebrado en Barcelona.
 - ↔ [[../casos/espana-europa/roger-espanol]] — el coste humano real del material de "seguridad" y orden público (Barcelona, 2011).
+
+## Fuentes (acceso 1 sep 2026)
+
+- Web oficial de **SICUR (IFEMA Madrid)**: <https://www.ifema.es/sicur> — comprobada el 1 de septiembre de 2026.
+
+> ⚠️ La web del propio fabricante sirve para acreditar catálogo, filiales y
+> presencia comercial. **No sirve para nada de lo que esta ficha afirma sobre
+> el uso de sus productos contra personas**, que necesita fuente independiente.

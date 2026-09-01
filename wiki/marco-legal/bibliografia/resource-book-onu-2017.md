@@ -30,3 +30,12 @@ Hay tres documentos clave:
 - ↔ [[../onu-orientaciones-2020]] — el sucesor especializado.
 - ↔ [[melzer-onu-2017]] — publicado el mismo año por el Relator Especial.
 - ↔ [[../onu-relatora-tortura]] — la línea conceptual continua.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Naciones Unidas, *Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios encargados de hacer cumplir la Ley* (La Habana, 1990): <https://www.ohchr.org/es/instruments-mechanisms/instruments/basic-principles-use-force-and-firearms-law-enforcement>
+- Naciones Unidas, *Código de conducta para funcionarios encargados de hacer cumplir la ley*, Resolución 34/169 (1979): <https://www.ohchr.org/es/instruments-mechanisms/instruments/code-conduct-law-enforcement-officials>

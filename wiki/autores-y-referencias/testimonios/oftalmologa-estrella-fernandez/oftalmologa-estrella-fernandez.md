@@ -86,3 +86,11 @@ Los párpados se desestructuran completamente. La textura al llegar a urgencias:
 - ↔ [[../../../casos/espana-europa/roger-espanol]] (la cirujana describe lo que le pasó a Roger).
 - ↔ [[../../../casos/latam/fabiola-campillai]] (lesiones equivalentes en Chile).
 - ↔ [[../../../marco-legal/amnistia-internacional]] (Amnistía pide evaluaciones independientes — esta es exactamente eso).
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>

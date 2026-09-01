@@ -109,3 +109,12 @@ El informe demuestra que la «precisión quirúrgica» es un mito: los proyectil
 - ↔ [[../../historia/armas-quimicas]] · [[../../historia/balas-goma]] · [[../../historia/armas-acusticas]] · [[../../historia/taser]] — cada arma analizada.
 - ↔ [[osji-who-polices-the-police]] — pregunta de Juvenal, abolición.
 - ↔ [[iridia-pla-accio]] — propuestas de reforma paralelas.
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
+- Ainhoa Ruiz Benedicto y Anna Montull García, *Armas potencialmente letales*, Informe 56 del Centre Delàs d'Estudis per la Pau, noviembre de 2022: <https://centredelas.org/publicacions/armespotencialmentletals/?lang=es>

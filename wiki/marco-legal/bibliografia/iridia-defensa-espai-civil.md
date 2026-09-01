@@ -52,3 +52,11 @@ Es la **lectura política** que permite cerrar el arco: no se trata solo de víc
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — función política del menos letal.
 - ↔ [[iridia-pla-accio]] · [[iridia-mecanismos-independientes]] · [[iridia-transparencia-cossos-seguretat]].
 - ↔ [[osji-who-polices-the-police]].
+
+
+## Fuentes (acceso 1 sep 2026)
+
+Documentos que esta ficha ya citaba por escrito, ahora enlazados. Se han
+comprobado uno a uno el 1 de septiembre de 2026.
+
+- Irídia y Novact, *Stop Balas de Goma. El uso de proyectiles de energía cinética y la tortura en el Estado español* (2000-2020), junio de 2021: <https://iridia.cat/wp-content/uploads/2021/06/Informe-Balas-de-Goma_V2.pdf>
