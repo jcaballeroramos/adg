@@ -35,7 +35,9 @@ Dos de las filiales del grupo son españolas, Falken y Pirotecnia Zaragozana, lo
 
 El grupo declara **artificios de festejo** en la misma casa que el material de orden público. La cadena de fabricación de fuegos artificiales y la de granadas lacrimógenas comparten planta, know-how y personal, y es lo que permite a una empresa de pirotecnia entrar en el mercado del armamento sin presentarse como fabricante de armas.
 
-> ⚠️ **Pendiente.** El gramaje exacto de la GLI-F4 sigue sin ficha técnica de Alsetex ni documento oficial francés que lo fije, y los 165 dB que se le atribuyen solo aparecen en documentos oficiales franceses dentro del texto de la propia empresa. Ver `AUDITORIA.md`.
+> ✅ **Cerrado el 1 de septiembre de 2026 por otra vía.** El gramaje sigue sin ficha técnica y **ya no hace falta**: el **Ministerio del Interior francés**, en su respuesta a la pregunta escrita n.º 16653 de la Asamblea Nacional, reconoce que la GLI-F4 contiene **tolita** y que *«peut engendrer des éclats vulnérants»*, y que la retiró a principios de 2020 *«compte tenu des dangers représentés par cette arme»*. El detalle completo, en [[alsetex]].
+>
+> **Lo que no debe ir a pantalla** son los gramos (26 g de TNT + 4 g de hexocira) y los 165 dB como dato del fabricante: lo primero solo está en Wikipedia y lo segundo es afirmación del diputado que pregunta, no de la respuesta oficial.
 
 ## Por qué importa para el documental
 

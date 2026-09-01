@@ -174,7 +174,7 @@ La bala de goma española alcanza **hasta 144 julios con el reductor de energía
 - **130 dBA** — **un avión despegando a 60 metros** (Manual Técnico de la OSHA).
 - **140 dB** — el **umbral de dolor**, y el límite legal máximo de exposición a ruido de impulso en EE.UU. (OSHA).
 - **140-160 dBA** — un espectáculo de fuegos artificiales (NIDCD).
-- **165 dB a 5 m** — GLI-F4 (ficha de Alsetex).
+- **165 dB a 5 m** — GLI-F4. ⚠️ **No es «ficha de Alsetex»**: la cifra procede de la **pregunta escrita n.º 16653 del diputado Bastien Lachaud** en la Asamblea Nacional francesa, y **la respuesta del Ministerio del Interior no la confirma ni la desmiente**. Atribuir siempre a la pregunta parlamentaria. Lo que el ministerio sí reconoce por escrito es que contiene **tolita** y que *«peut engendrer des éclats vulnérants»*. → [[../empresas-de-armas/empresas/alsetex]]
 - **170-180 dB a 1,5 m** — requisito de especificación de las granadas M84; el valor medio medido en las pruebas de cualificación fue de unos **175 dB a esa misma distancia**.
 
 > ⚠️ **Corregido: los «140 dB = ruido de avión despegando» estaban mal.** Un avión despegando a 60 metros son 130 dBA según la OSHA. Los 140 dB son el umbral de dolor, que es otra cosa y dice algo más fuerte.

@@ -47,3 +47,48 @@ Fabricante **francés** especializado en **granadas de gas lacrimógeno, lanzado
 - ↔ [[00-indice]]
 - ↔ [[nobel-sport]] · [[verney-carron]] · [[brugger-thomet]] — los **4 productores principales** del mercado público francés.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher cita Alsetex específicamente.
+
+## La GLI-F4, con documento oficial francés
+
+> ✅ **Cerrado el 1 de septiembre de 2026.** El **Ministerio del Interior francés**
+> describe el arma por escrito en su respuesta a la **pregunta escrita n.º 16653**
+> del diputado **Bastien Lachaud**, 15.ª legislatura de la Asamblea Nacional.
+> Archivada en `media/pdf/francia/`.
+
+**Lo que reconoce el propio ministerio**, y es lo más usable que hay:
+
+> *«Ces situations ont justifié l'utilisation de la grenade lacrymogène instantanée (GLI) modèle F4 qui constituaient l'AFI la plus puissante susceptible d'être mise en œuvre par la force publique au maintien de l'ordre avant le recours aux armes à projectiles perforants.»*
+
+Es decir, **el arma de fuerza intermedia más potente del arsenal francés**, el escalón inmediatamente anterior a la munición perforante. Lo dice el ministerio, no una ONG.
+
+Y sobre lo que hace:
+
+> *«L'explosion de la matière active composée en partie de tolite génère l'effet de souffle et peut engendrer des éclats vulnérants.»*
+
+**El ministerio admite que contiene tolita —TNT— y que puede generar esquirlas que hieren.** Esa frase sola sostiene el bloque entero del documental sin necesidad de ninguna ficha técnica del fabricante.
+
+**Y admite por qué la retiró:**
+
+> *«Compte tenu des dangers représentés par cette arme, le ministre de l'intérieur, en début d'année 2020, a décidé de remplacer la GLI F4 par la grenade à main mixte lacrymogène (GM2L).»*
+
+De la sustituta dice que *«la suppression de la matière explosive présente dans la GLI F4»* le quita el efecto de soplo y evita las esquirlas. **El Estado francés reconociendo que el arma anterior explotaba y hería con metralla.**
+
+### Qué se puede decir en pantalla y qué no
+
+| Dato | Estado |
+|---|---|
+| Contiene **tolita (TNT)** y genera **esquirlas que hieren** | ✅ Ministerio del Interior francés |
+| Era **el arma de fuerza intermedia más potente** antes de la munición perforante | ✅ Ministerio del Interior francés |
+| **Retirada a principios de 2020** por sus peligros, sustituida por la GM2L sin explosivo | ✅ Ministerio del Interior francés |
+| **165 decibelios** | ⚠️ Es la afirmación del **diputado Lachaud en su pregunta**, no de la respuesta del ministerio. Atribuir: «según la pregunta parlamentaria n.º 16653» |
+| **Francia, único país de Europa** que la usaba en orden público | ⚠️ Misma pregunta, misma cautela |
+| **26 g de TNT + 4 g de hexocira + 10 g de CS** | ❌ **Solo en Wikipedia.** El ministerio dice «composée en partie de tolite» y no da gramos. **No usar cifras de gramaje** |
+| «**Un centenar de heridos graves**, manos arrancadas y ojos reventados» | ⚠️ De la pregunta del diputado, que además advierte de que *«le dénombrement exact est quasiment impossible à faire»* |
+
+**El cambio de método:** el gramaje deja de hacer falta. La frase del ministerio sobre las esquirlas es más fuerte que cualquier número, porque es el Estado describiendo su propia arma.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Asamblea Nacional francesa, pregunta escrita n.º 16653 de Bastien Lachaud, *Interdiction des grenades GLI-F4*, con la respuesta del Ministerio del Interior: <https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE16653>
+- Asamblea Nacional francesa, pregunta escrita n.º 17735 de Sébastien Leclerc, sobre el uso de gases lacrimógenos y la caducidad de la munición: <https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE17735>
+- Human Rights Watch, *French Police to Stop Using Explosive Tear Gas Grenades*, 29 de enero de 2020: <https://www.hrw.org/news/2020/01/29/french-police-stop-using-explosive-tear-gas-grenades>

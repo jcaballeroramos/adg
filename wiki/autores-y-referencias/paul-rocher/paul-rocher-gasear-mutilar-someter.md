@@ -180,7 +180,7 @@ En 2013, el ministerio del interior francés introdujo el **Penn Arms GL65**, un
 
 Granada híbrida que multiplica **el efecto acústico**, el químico y el explosivo:
 - Contiene **25 g de TNT** que lanzan fragmentos hasta varios cientos de metros.
-- **165 dB** de detonación (más que un avión despegando: 140 dB).
+- **165 dB** de detonación (más que un avión despegando: 140 dB). ⚠️ Cifra de la **pregunta parlamentaria n.º 16653**, no confirmada por la respuesta del Ministerio del Interior. Atribuir o sustituir por lo que el ministerio sí reconoce: **tolita y esquirlas que hieren**. → [[../../empresas-de-armas/empresas/alsetex]]
 - Gas lacrimógeno CS.
 - Alcance con lanzador Cougar: **200 m**.
 

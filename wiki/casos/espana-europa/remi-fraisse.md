@@ -127,6 +127,8 @@ Dato que conviene no omitir: el tribunal administratif de Toulouse, junto a la r
 - **Wikipedia EN** — *GLI-F4 grenade*. <https://en.wikipedia.org/wiki/GLI-F4_grenade>
 - **Wikipedia FR** — esquema técnico GLI-F4 (Alsetex, 10 g CS + 26 g TNT + 4 g hexocire, 165 dB a 5 m). <https://fr.m.wikipedia.org/wiki/Grenade_GLI-F4>
 
+> ✅ **Hay documento oficial desde el 1 de septiembre de 2026, y no da gramos.** El **Ministerio del Interior francés**, respondiendo a la pregunta escrita n.º 16653 de la Asamblea Nacional, dice que la GLI-F4 era *«l'AFI la plus puissante»* del arsenal antes de la munición perforante, que su carga *«composée en partie de tolite génère l'effet de souffle et peut engendrer des éclats vulnérants»*, y que la retiró en 2020 *«compte tenu des dangers représentés par cette arme»*. **Úsese eso y no el gramaje.** → [[../../empresas-de-armas/empresas/alsetex]]
+>
 > ⚠️ El esquema técnico de la GLI-F4 que circula en Wikipedia (10 g CS + 26 g TNT + 4 g hexocire, 165 dB a 5 m) **no tiene respaldo en ninguna ficha técnica de Alsetex ni en documento oficial francés**. Los 165 dB aparecen solo dentro del texto de una pregunta parlamentaria del diputado Bastien Lachaud, como afirmación suya, y la respuesta del Ministerio no da decibelios. Circulan al menos tres gramajes incompatibles. No poner cifras técnicas de la GLI-F4 en pantalla sin atribuirlas. Ver AUDITORIA.md, apartado «Sigue sin poder verificarse».
 
 ## Conexiones
