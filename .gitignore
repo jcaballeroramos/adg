@@ -45,3 +45,6 @@ credentials.json
 # Temporales
 *.log
 *.tmp
+
+# Cartas de produccion: borradores internos
+produccion-cartas/
