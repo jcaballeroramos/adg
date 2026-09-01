@@ -86,3 +86,21 @@ Ficha técnica del fabricante: **Axon / TASER International, *TASER X26E Series 
 - ↔ [[../../casos/espana-europa/antonio-c-badalona]].
 - ↔ [[../../ferias-de-armas/feindef/05-taser-lrad]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — sección sobre la electricidad como arma "policial" tras pasar del control del ganado.
+
+## El TASER 10 es legalmente un arma de fuego, y lo dice Axon a la SEC
+
+En su **informe anual 10-K del ejercicio 2025** presentado ante la **SEC**, Axon escribe:
+
+> *«However, the TASER 10 CED is classified as a firearm under the Gun Control Act of 1968 due to its propulsion design. Accordingly, the Company must maintain a federal firearms license to manufacture and sell the TASER 10 CED and is subject to ATF compliance inspections.»*
+
+**La empresa que vende el táser como alternativa al arma de fuego declara ante el regulador bursátil que su último modelo es un arma de fuego**, por su sistema de propulsión, y que necesita licencia federal de armas y se somete a inspecciones del ATF para fabricarlo y venderlo.
+
+No es una interpretación de nadie ni una acusación de una ONG. Es lo que la compañía está obligada a declarar a sus inversores, donde mentir tiene consecuencias que no tiene mentir en un catálogo.
+
+El mismo documento avisa a los inversores de que *«evolving public sentiment or political pressure regarding firearm regulation could impact customer demand for TASER 10 CEDs, especially in jurisdictions with stricter firearm laws»*: la regulación de armas de fuego como riesgo de negocio para el arma que se vende por no serlo.
+
+> ⚠️ **Y lo que ese mismo 10-K no dice.** Se buscó en el documento entero, 450.874 caracteres, la cifra de países que compran táser: **no aparece ninguna**. Lo único que dice es que la empresa tiene *«more than 30 leased locations spread across nine states domestically and over 15 countries internationally»*, que son sus oficinas y no sus clientes. **La cifra de «más de 70 países» del guion no está respaldada por la fuente corporativa primaria.**
+
+## Fuentes (acceso 1 sep 2026)
+
+- Axon Enterprise, Inc., informe anual **Form 10-K** del ejercicio cerrado el 31 de diciembre de 2025, SEC EDGAR: <https://www.sec.gov/Archives/edgar/data/1069183/000162828026011360/axon-20251231.htm>

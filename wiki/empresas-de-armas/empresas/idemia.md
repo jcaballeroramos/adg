@@ -60,7 +60,13 @@ En el vocabulario de esta wiki, IDEMIA representa **la otra cara del continuo de
 - **Singapur, Emiratos Árabes Unidos, Albania** — despliegues biométricos y de reconocimiento facial.
 - **Kenia** — kits de captura biométrica para el registro nacional **Huduma Namba / NIIMS** (2018-19) → ver controversias.
 - **Sesgo del sistema**: los tests del **NIST** (*Face Recognition Vendor Test*) documentan tasas de falso positivo notablemente más altas para rostros de mujeres negras que para los de mujeres blancas.
-  > ⚠️ **El «~10 veces más» que traía esta ficha no se ha podido fijar** (27 de agosto de 2026): la magnitud depende del algoritmo concreto, del umbral y del conjunto de datos, y el NIST publica los resultados por algoritmo, no como una cifra única. Dar la referencia del FRVT y el algoritmo, o no dar multiplicador.
+  > ✅ **Cerrado el 1 de septiembre de 2026 con el informe del NIST.** *Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects*, **NISTIR 8280**, diciembre de 2019.
+  >
+  > **Lo que se puede decir**: el NIST encontró **tasas de falso positivo más altas para mujeres afroamericanas que para ningún otro grupo** en la búsqueda uno-contra-muchos, y avisa de por qué eso importa más que el resto: *«Differentials in false positives in one-to-many matching are particularly important because the consequences could include false accusations»*. **Falsas acusaciones.**
+  >
+  > **Sobre la magnitud**: en verificación uno-a-uno, las diferencias entre personas blancas y negras van **de diez a cien veces** según el algoritmo. Con un umbral en el que un hombre blanco da falso positivo una vez de cada mil, **de 167 algoritmos todos menos dos tenían más del doble de probabilidad de identificar mal a una mujer negra, y algunos llegaban a cuarenta veces**.
+  >
+  > **Redacción segura**: dar el rango con su fuente, «de diez a cien veces según el algoritmo, NISTIR 8280», nunca un multiplicador único. El «~10 veces» era el extremo bajo del rango presentado como si fuera la cifra.
 - **Compra por Amadeus**: la adquisición de **IDEMIA Public Security** por Amadeus se anunció por unos **1.200 M€** (abril de 2026). ⚠️ Cifra pendiente de confirmar en el hecho relevante.
 
 ## Contexto — Eurosatory 2026
@@ -96,3 +102,4 @@ En abril de 2026, el grupo de tecnología de viajes **Amadeus** anunció la comp
 - ↔ [[../../autores-y-referencias/organizaciones/forensic-architecture]] — investigación forense contra la vigilancia estatal.
 - ↔ [[../../casos/estados-unidos/ee-uu-frontera-sur]] — el debate sobre tecnología de control de fronteras.
 - ↔ [[../../casos/espana-europa/melilla-2022]] · [[../../casos/espana-europa/tarajal-2014]] — la frontera sur europea como laboratorio de este mercado.
+- NIST, *Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects*, NISTIR 8280, diciembre de 2019: <https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8280.pdf>
