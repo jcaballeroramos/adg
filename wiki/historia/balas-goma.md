@@ -37,8 +37,13 @@ Y la coda importa tanto como el origen: **el proyectil de madera no es historia*
 
 Aquí está el patrón que el documental repite en todos los capítulos: **cada arma nueva se introduce como el remedio seguro de la anterior**. La goma corrige la astilla de la madera. El plástico corrige la goma. El foam corregirá el plástico. Ninguna corrección elimina las muertes; solo desplaza el argumento.
 
-- El ejército británico disparó **56.000 veces** en Irlanda del Norte. ⚠️ Cifra pendiente de fijar en documento primario.
+- El ejército británico disparó **unas 55.000 balas de goma** en Irlanda del Norte entre **julio de 1970 y finales de 1975**, cuando el plástico las sustituyó. **Solo en 1972, el peor año del conflicto, 23.363.** ✅
+  > La cifra que traía la ficha, «56.000», se corrige a **~55.000** y con su ventana: 1970-1975, no toda la etapa.
 - La primera muerte documentada por **rebote**: el niño **[[../casos/espana-europa/stephen-geddis|Stephen Geddis]]**.
+
+**El recuento de muertos lo mantiene CAIN**, el archivo del conflicto de la Universidad del Ulster: **17 personas muertas** en Irlanda del Norte por miembros de las fuerzas de seguridad que usaban balas de goma o de plástico. *«Eight of the 17 killed were children. All but one of those killed were Catholics.»*
+
+**Ocho de diecisiete eran niños.** Y la lista nominal está publicada, con nombre y edad de cada uno.
 
 > El rebote es exactamente lo que las [[../marco-legal/onu-orientaciones-2020|Orientaciones de la ONU de 2020]] prohíben cincuenta años después. La norma llega medio siglo tarde a un modo de matar que ya se conocía.
 
@@ -90,4 +95,6 @@ Que la genealogía colonial sea real no autoriza a fecharla mal. Hong Kong en lo
 ## Fuentes (acceso 28 ago 2026)
 
 - Omega Research Foundation / RiotID, *Impact Munitions Guide*: <https://omegaresearchfoundation.org/storage/2016/04/Impact_Munitions_Guide_ENGLISH.pdf>
+- CAIN (Conflict Archive on the Internet), Ulster University, *List of People Killed by 'Rubber' and 'Plastic' Bullets*: <https://cain.ulster.ac.uk/issues/violence/rubberplasticbullet.htm>
+- The Pat Finucane Centre, *Comfortable in his Coffin*: <https://www.patfinucanecentre.org/state-violence/comfortable-his-coffin>
 - Eileen K. Metress y Seamus P. Metress, «The anatomy of plastic bullet damage and crowd control», *International Journal of Health Services* 17(2), 1987, pp. 333-342, PMID 3583515: <https://pubmed.ncbi.nlm.nih.gov/3583515/>
