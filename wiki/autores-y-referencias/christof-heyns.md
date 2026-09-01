@@ -45,3 +45,7 @@ Argumentos clave:
 - ↔ [[../empresas-de-armas/empresas/raytheon]] — Active Denial System que él criticó.
 - ↔ [[../empresas-de-armas/renders/discombobulator-trump]] — la actualización 2026.
 - ↔ [[../marco-legal/onu-relatora-tortura]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- Christof Heyns, Relator Especial de la ONU sobre ejecuciones extrajudiciales, sumarias o arbitrarias (2010-2016): <https://www.ohchr.org/en/special-procedures/sr-executions>

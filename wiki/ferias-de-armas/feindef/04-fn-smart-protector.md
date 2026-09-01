@@ -26,3 +26,15 @@ Stand con una pantalla que muestra **"esqueletos" de personas detectadas por sof
 - ↔ [[01-expal-puno-darwin]] — mismo discurso del "puñetazo a distancia".
 - ↔ [[../../historia/laws-armas-autonomas]] — la IA que "decide" apuntar: el siguiente paso del paradigma.
 - ↔ [[../../empresas-de-armas/empresas/anduril]] · [[../../empresas-de-armas/empresas/vannevar-labs]] — IA aplicada a defensa.
+
+## Procedencia
+
+**Material propio.** Lo que describe esta ficha son las notas y el rodaje de
+el stand de FN y su Smart Protector en **FEINDEF**, tomados en la feria por el equipo del documental. La fuente
+es el material bruto del proyecto, no una publicación externa, y por eso aquí no
+hay enlace.
+
+> Cualquier **afirmación sobre el producto** que vaya más allá de lo que se ve y
+> se oye en ese material —prestaciones, contratos, países compradores— necesita
+> fuente independiente y hay que marcarla como pendiente mientras no la tenga.
+> La web del fabricante sirve para el catálogo y no para el uso.

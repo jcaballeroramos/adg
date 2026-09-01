@@ -29,3 +29,10 @@ El estudio revisa sistemáticamente la literatura médica sobre lesiones, muerte
 - ↔ [[lethal-in-disguise-2]] — INCLO se basa en este tipo de revisiones sistemáticas.
 - ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la fisiología en la práctica clínica.
 - ↔ [[mcevoy-corney-haar]] — Haar es coautora.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Rohini Haar, Vincent Iacopino, Nikhil Ranadive, Madhavi Dandu y Sheri Weiser, «Death, injury and disability from kinetic impact projectiles in crowd-control settings: a systematic review», *BMJ Open* 7(12), 2017, e018154: <https://bmjopen.bmj.com/content/7/12/e018154>
+
+> Enlace comprobado el 1 de septiembre de 2026. El servidor puede devolver 403
+> a las descargas automatizadas y abrir con normalidad en un navegador.

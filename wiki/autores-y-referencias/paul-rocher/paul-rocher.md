@@ -92,3 +92,7 @@ Punto que Rocher no conocía y descubrió en esta entrevista: en países como Co
 - 📄 **Transcripción completa:** [[paul-rocher-entrevista]]
 - 📘 **Notas del libro 1:** [[paul-rocher-gasear-mutilar-someter]] — pasajes clave en castellano
 - 📘 **Ficha del libro 2:** [[paul-rocher-que-hace-la-policia]] — resumen completo con datos, citas y conexiones
+
+## Fuentes (acceso 1 sep 2026)
+
+- Paul Rocher, «Gazer, mutiler, soumettre. Politique de l'arme non létale», Éditions La Fabrique, 2020: <https://lafabrique.fr/gazer-mutiler-soumettre/>

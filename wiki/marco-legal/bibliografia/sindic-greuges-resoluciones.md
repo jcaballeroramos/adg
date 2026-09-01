@@ -33,3 +33,10 @@ El **Síndic de Greuges de Catalunya** (defensor del pueblo catalán) emitió **
 - ↔ [[../cataluna-prohibicion-balas-goma]] — la cronología completa.
 - ↔ [[../../casos/espana-europa/ester-quintana]] · [[../../casos/espana-europa/juan-andres-benitez]] · [[../../casos/espana-europa/carles-guillot]] — los casos catalanes que lo motivan.
 - ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la comparecencia del Parlament 2013, mismo año que la 2ª resolución del Síndic.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Síndic de Greuges de Catalunya, resoluciones y informes: <https://www.sindic.cat/es/>
+
+> Enlace comprobado el 1 de septiembre de 2026. El servidor puede devolver 403
+> a las descargas automatizadas y abrir con normalidad en un navegador.

@@ -54,3 +54,7 @@ El informe documenta específicamente:
 - ↔ [[organizaciones/iridia]] — Anaïs Franquesa lo cita.
 - ↔ [[../marco-legal/onu-relatora-tortura]] — sección general.
 - ↔ [[../marco-legal/bibliografia/melzer-onu-2017]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- Fionnuala Ní Aoláin, Relatora Especial de la ONU sobre la promoción y protección de los derechos humanos en la lucha contra el terrorismo: <https://www.ohchr.org/en/special-procedures/sr-terrorism>

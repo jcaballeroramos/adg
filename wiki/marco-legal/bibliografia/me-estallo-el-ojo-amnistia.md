@@ -23,3 +23,10 @@ La frase **"me estalló el ojo"** es la cita literal de una víctima — el patr
 - ↔ [[../amnistia-internacional]] — la organización emisora y sus exigencias.
 - ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la misma frase desde la cirugía.
 - ↔ [[lethal-in-disguise-2]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «Me estalló el ojo». El abuso global de los proyectiles de impacto cinético: <https://www.amnesty.org/es/documents/act30/6384/2023/es/>
+
+> Enlace comprobado el 1 de septiembre de 2026. El servidor puede devolver 403
+> a las descargas automatizadas y abrir con normalidad en un navegador.

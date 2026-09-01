@@ -35,3 +35,15 @@ Stand de exposición de proyectiles. Vitrinas con cartuchos de colores ordenados
 - ↔ [[../../autores-y-referencias/figuras-historicas/00-trio-quimico]] — el "rebranding humanitario" de Amos Fries, mismo molde retórico.
 - ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la "cuenca ocular diseñada para resistir" que en realidad estalla.
 - ↔ [[../../historia/balas-goma]] — el proyectil de impacto cinético.
+
+## Procedencia
+
+**Material propio.** Lo que describe esta ficha son las notas y el rodaje de
+el stand de EXPAL en **FEINDEF**, tomados en la feria por el equipo del documental. La fuente
+es el material bruto del proyecto, no una publicación externa, y por eso aquí no
+hay enlace.
+
+> Cualquier **afirmación sobre el producto** que vaya más allá de lo que se ve y
+> se oye en ese material —prestaciones, contratos, países compradores— necesita
+> fuente independiente y hay que marcarla como pendiente mientras no la tenga.
+> La web del fabricante sirve para el catálogo y no para el uso.

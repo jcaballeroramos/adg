@@ -36,3 +36,10 @@ Entre **2016 y 2021**, en todo el mundo:
 - ↔ [[../../casos/latam/00-compilacion-latam]] — comparativa LATAM.
 - ↔ [[me-estallo-el-ojo-amnistia]] — el informe paralelo de Amnistía.
 - ↔ [[haar-bmj-2017]] — el estudio sistemático del BMJ.
+
+## Fuentes (acceso 1 sep 2026)
+
+- INCLO y Physicians for Human Rights, «Lethal in Disguise 2: How Crowd-Control Weapons Impact Health and Human Rights» (2023): <https://phr.org/our-work/resources/lethal-in-disguise-2/>
+
+> Enlace comprobado el 1 de septiembre de 2026. El servidor puede devolver 403
+> a las descargas automatizadas y abrir con normalidad en un navegador.

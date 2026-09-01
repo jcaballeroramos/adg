@@ -48,3 +48,7 @@ Melzer dedicó parte de su mandato al caso **Julian Assange**, denunciando el **
 - ↔ [[../marco-legal/bibliografia/melzer-onu-2017]] — el informe en bibliografía.
 - ↔ [[../marco-legal/onu-relatora-tortura]].
 - ↔ [[paul-rocher/paul-rocher-entrevista]] — Rocher cita el principio de necesidad.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Nils Melzer, Relator Especial de la ONU sobre la Tortura (2016-2022): <https://www.ohchr.org/en/special-procedures/sr-torture>

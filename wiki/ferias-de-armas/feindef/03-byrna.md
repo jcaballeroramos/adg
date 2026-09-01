@@ -51,3 +51,15 @@ Pieza publicitaria separada, desglosada en su propio archivo:
 ## Conexiones
 - ↔ [[01-expal-puno-darwin]] (otro fabricante reciclando el discurso "lo menos lesivo posible").
 - ↔ [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham]] (la propia industria reconoce la letalidad).
+
+## Procedencia
+
+**Material propio.** Lo que describe esta ficha son las notas y el rodaje de
+el stand de Byrna en **FEINDEF**, tomados en la feria por el equipo del documental. La fuente
+es el material bruto del proyecto, no una publicación externa, y por eso aquí no
+hay enlace.
+
+> Cualquier **afirmación sobre el producto** que vaya más allá de lo que se ve y
+> se oye en ese material —prestaciones, contratos, países compradores— necesita
+> fuente independiente y hay que marcarla como pendiente mientras no la tenga.
+> La web del fabricante sirve para el catálogo y no para el uso.

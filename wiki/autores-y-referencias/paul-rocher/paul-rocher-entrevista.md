@@ -187,3 +187,11 @@ Well, this kind of weapon is now not really regulated. And you said in Colombia,
 ---
 
 Las notas del libro 1 están en [[paul-rocher-gasear-mutilar-someter]].
+
+## Procedencia
+
+**Material propio.** Entrevista realizada por el equipo del documental a **Paul Rocher**. La transcripción es la fuente primaria. No hay enlace externo porque el documento es este.
+
+> Los **datos que la persona entrevistada cita de memoria** no quedan
+> verificados por el hecho de estar en una transcripción fiel. Se comprueban
+> aparte y, si no se sostienen, se avisa sin tocar sus palabras.

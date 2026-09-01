@@ -39,3 +39,10 @@ Documentos **oficiales del Estado español y de la Generalitat** citados en la i
 - ↔ [[sindic-greuges-resoluciones]] — las resoluciones del Síndic, el otro rastro institucional catalán.
 - ↔ [[access-info-europe]] — el patrón europeo de opacidad sobre la actuación policial.
 - ↔ [[transparencia-cuerpos-policiales-espana]] — el diagnóstico completo del déficit de transparencia.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Plataforma de Contratación del Sector Público, donde se localizan los pliegos y adjudicaciones de material antidisturbios citados en el proyecto: <https://contrataciondelestado.es/>
+
+> Enlace comprobado el 1 de septiembre de 2026. El servidor puede devolver 403
+> a las descargas automatizadas y abrir con normalidad en un navegador.

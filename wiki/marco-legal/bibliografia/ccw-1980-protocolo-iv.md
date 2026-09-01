@@ -60,3 +60,10 @@ Estados Unidos queda obligado por el Protocolo IV el **21 de enero de 2009**, ca
 - ↔ [[../../empresas-de-armas/empresas/raytheon]] — Active Denial System como rodeo del Protocolo IV.
 - ↔ [[../../casos/latam/fabiola-campillai]] · [[../../casos/espana-europa/roger-espanol]] · [[../../casos/espana-europa/ester-quintana]] — la ceguera como daño inaceptable.
 - ↔ [[onu-codigo-conducta-1979]] · [[onu-principios-basicos-1990]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- CICR, Protocolo IV sobre armas láser cegadoras (1995), anejo a la Convención sobre Ciertas Armas Convencionales (1980): <https://ihl-databases.icrc.org/en/ihl-treaties/ccw-protocol-iv-1995>
+
+> Enlace comprobado el 1 de septiembre de 2026. El servidor puede devolver 403
+> a las descargas automatizadas y abrir con normalidad en un navegador.

@@ -83,3 +83,11 @@ Y en nuestra experiencia estos factores se deben tener en consideración, especi
 
 ## Conexiones
 - ↔ [[oftalmologa-estrella-fernandez]] — el análisis del testimonio (esta es la transcripción literal).
+
+## Procedencia
+
+**Material propio.** Transcripción literal de la comparecencia de la **Dra. Estrella Fernández** ante el Parlament. Es fuente primaria y no se modifica. No hay enlace externo porque el documento es este.
+
+> Los **datos que la persona entrevistada cita de memoria** no quedan
+> verificados por el hecho de estar en una transcripción fiel. Se comprueban
+> aparte y, si no se sostienen, se avisa sin tocar sus palabras.
