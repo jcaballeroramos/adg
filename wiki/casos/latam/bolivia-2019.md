@@ -50,3 +50,7 @@ tags: [bolivia, 2019, evo-morales, jeanine-añez, lanzagranadas, combined-system
 - ↔ [[transferencias-cross-country]] — Bolivia recibió simultáneamente de **Ecuador** (material originalmente prestado por Colombia, violando condiciones) **Y** del **Hércules C-130 argentino** de Macri.
 - ↔ [[intermediarios-latam]] — Automation Systems (Argentina, exoficial condenado por crímenes durante la dictadura) en el centro de la trama Macri.
 - ↔ [[../../empresas-de-armas/empresas/00-indice]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- CIDH, «Observaciones de las violaciones de derechos humanos en Bolivia» (GIEI Bolivia): <https://gieibolivia.org/informes/>

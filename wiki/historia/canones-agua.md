@@ -29,3 +29,7 @@ Funcionan como **jaulas móviles** y pueden lanzar cuerpos por los aires.
 - Fabricantes con ficha: [[../empresas-de-armas/empresas/sides-canones-agua|Sides]] (Francia), [[../empresas-de-armas/empresas/rheinmetall|Rheinmetall]] (Alemania), [[../empresas-de-armas/empresas/norinco|Norinco]] (China).
 - Aparecen en el [[../usos-de-armas/entrenamientos/marines-camp-pendleton]] como mangueras a alta presión contra los propios marines.
 - Las **Orientaciones ONU 2020** ([[../marco-legal/onu-orientaciones-2020]]) los limitan a "graves desórdenes públicos" y prohíben el chorro a corta distancia o contra personas en posiciones elevadas.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Omega Research Foundation, catálogo de tecnologías de control de multitudes: <https://omegaresearchfoundation.org/>

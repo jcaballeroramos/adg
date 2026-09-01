@@ -76,3 +76,7 @@ La campaña se inserta en un momento de represión en Italia marcado por el llam
 - ↔ [[../../autores-y-referencias/organizaciones/stop-bales-de-goma]] — campaña "Ojo con tu ojo"
 - ↔ [[../../historia/balas-goma]] — genealogía del arma
 - ↔ [[../../marco-legal/bibliografia/ciivo-ver-mas-alla-herida-2026]] — impactos postraumáticos de violencia ocular
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, investigación sobre el uso indebido de gas lacrimógeno en Europa: <https://teargas.amnesty.org/>

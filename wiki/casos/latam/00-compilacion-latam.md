@@ -79,3 +79,7 @@ Compras a proveedores chinos baratos que **ajustan calidad al precio** → equip
 - ↔ [[../espana-europa/compilacion-espana]] — el caso comparativo europeo.
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — fabricantes implicados.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el marco teórico (autoritarismo neoliberal).
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, investigación global sobre el uso indebido del gas lacrimógeno, con el mapa por países: <https://teargas.amnesty.org/>

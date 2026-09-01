@@ -59,3 +59,7 @@ Planos rápidos del efecto:
 - ↔ [[../../historia/armas-quimicas]] — genealogía del CS, OC y pimienta.
 - ↔ [[../../usos-de-armas/entrenamientos/lexipol-gordon-graham]] — contraste: la industria vende "defensa", Graham admite letalidad.
 - ↔ [[../../autores-y-referencias/testimonios/oftalmologa-estrella-fernandez/oftalmologa-estrella-fernandez]] — la brecha entre el humor publicitario ("sucks") y la realidad clínica.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Byrna Technologies, catálogo y publicidad de la marca: <https://byrna.com/>

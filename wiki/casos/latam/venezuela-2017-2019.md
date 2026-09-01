@@ -51,3 +51,7 @@ Estrategia de seguridad que considera al "**enemigo interno**" como ciudadanos y
 - ↔ [[00-compilacion-latam]].
 - ↔ [[intermediarios-latam]].
 - ↔ [[../../historia/canones-agua]] — el bestiario mecánico de los cañones de agua.
+
+## Fuentes (acceso 1 sep 2026)
+
+- ACNUDH, informes sobre la situación de derechos humanos en Venezuela: <https://www.ohchr.org/es/countries/venezuela>

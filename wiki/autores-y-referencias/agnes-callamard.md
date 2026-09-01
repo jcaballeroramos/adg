@@ -61,3 +61,7 @@ Desde su llegada a la secretaría general de **Amnistía**, Callamard ha impulsa
 - ↔ [[../casos/internacionales/palestina-2023-2024]] — declaración Amnistía.
 - ↔ [[../historia/laws-armas-autonomas]].
 - ↔ [[../casos/internacionales/yemen-2011-presente]] — Arabia Saudí.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Agnès Callamard, secretaria general de Amnistía Internacional: <https://www.amnesty.org/en/>

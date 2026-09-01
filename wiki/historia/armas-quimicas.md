@@ -32,3 +32,7 @@ Líquido **pestilente y putrefacto** desarrollado por Israel ([[../empresas-de-a
 - ↔ [[../casos/latam/fabiola-campillai]] (víctima del impacto cinético del bote, no del químico).
 - ↔ [[../ferias-de-armas/feindef/03-byrna]] (Bad Guy Repellent: CS + OC + pimienta).
 - ↔ [[../marco-legal/onu-orientaciones-2020]] (prohibición en recintos cerrados, prohibición de disparo directo al cuerpo).
+
+## Fuentes (acceso 1 sep 2026)
+
+- Organización para la Prohibición de las Armas Químicas (OPAQ), sobre los agentes antidisturbios en la Convención de Armas Químicas: <https://www.opcw.org/chemical-weapons-convention>

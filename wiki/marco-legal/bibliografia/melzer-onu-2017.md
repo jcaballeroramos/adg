@@ -30,3 +30,7 @@ tags: [melzer, onu, relator-tortura, 2017, parágrafo-47, uso-fuerza]
 - ↔ [[../onu-orientaciones-2020]] — el manual operativo que vino después.
 - ↔ [[../../casos/espana-europa/roger-espanol]] — la repetición del disparo es lo que convierte al acto en doloso (mismo argumento).
 - ↔ [[../amnistia-internacional]] — Amnistía recoge las exigencias de Melzer.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Nils Melzer, informe del Relator Especial sobre la Tortura, A/72/178, 20 de julio de 2017: <https://docs.un.org/es/A/72/178>

@@ -36,3 +36,7 @@ Variante que emite una frecuencia **insoportable solo para los menores de 25 añ
 - ↔ [[../ferias-de-armas/feindef/05-taser-lrad]] — la compra de Columbus Police y el uso institucionalizado.
 - ↔ [[../ferias-de-armas/feindef/06-cierre-abba]] — la música como arma sonora (continuación natural).
 - ↔ [[../marco-legal/onu-orientaciones-2020]] — prohibición de uso indiscriminado a volúmenes que causen daño permanente.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Omega Research Foundation, catálogo de tecnologías de control de multitudes: <https://omegaresearchfoundation.org/>

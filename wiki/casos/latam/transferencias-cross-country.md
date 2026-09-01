@@ -112,3 +112,7 @@ Cómo los gobiernos latinoamericanos se **prestan armas no letales entre sí** p
 - ↔ [[bolivia-2019]], [[ecuador-2019]], [[colombia-2021]], [[peru-2020]].
 - ↔ [[intermediarios-latam]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — *"globalización del control de multitudes"*.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «The Repression Trade», octubre de 2023: <https://www.amnesty.org/en/latest/research/2023/10/repression-trade/>

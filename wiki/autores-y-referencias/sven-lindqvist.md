@@ -51,3 +51,7 @@ Esta tesis es **la columna vertebral genealógica** de «Artefactos de Guerra»:
 - ↔ [[paul-rocher/paul-rocher-entrevista]] — Rocher lo cita.
 - ↔ [[../casos/internacionales/palestina-2023-2024]] — el laboratorio colonial contemporáneo.
 - ↔ [[../casos/espana-europa/stephen-geddis]] — Irlanda del Norte como colonia interior.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Sven Lindqvist en la Enciclopedia Britannica: <https://www.britannica.com/biography/Sven-Lindqvist>

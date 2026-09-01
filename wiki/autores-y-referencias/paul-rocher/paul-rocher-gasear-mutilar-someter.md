@@ -360,3 +360,7 @@ Las teorías del "policía en la cabeza" ayudan a explicar los periodos de ausen
 - ↔ [[../../historia/taser]] — el rebranding desde el ganado.
 - ↔ [[../../casos/espana-europa/roger-espanol]] y [[../../casos/latam/fabiola-campillai]] — casos que encarnan las cifras.
 - ↔ [[../../marco-legal/amnistia-internacional]] — informe *Arming the torturers*.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Paul Rocher, «Gazer, mutiler, soumettre. Politique de l'arme non létale», Éditions La Fabrique, 2020: <https://lafabrique.fr/gazer-mutiler-soumettre/>

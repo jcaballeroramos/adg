@@ -79,3 +79,7 @@ Ver [[../latam/transferencias-cross-country]].
 - ↔ [[../../autores-y-referencias/organizaciones/buccello-y-asociados]] — litigio actual.
 - ↔ [[../../historia/armas-quimicas]].
 - ↔ [[../../historia/canones-agua]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- CONADEP, «Nunca Más». Informe de la Comisión Nacional sobre la Desaparición de Personas (1984): <http://www.derechoshumanos.net/lesahumanidad/informes/argentina/informe-de-la-CONADEP-Nunca-mas.htm>

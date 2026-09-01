@@ -25,3 +25,7 @@ Referencias de **Amnistía Internacional** (y aliadas) citadas en la investigaci
 - ↔ [[../amnistia-internacional]] — las demandas de Amnistía (tratado sin tortura, evaluaciones independientes).
 - ↔ [[me-estallo-el-ojo-amnistia]] — el informe de Amnistía sobre proyectiles cinéticos.
 - ↔ [[lethal-in-disguise-2]] — la continuación de Lethal in Disguise 1.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, sitio de investigación sobre el uso indebido del gas lacrimógeno: <https://teargas.amnesty.org/>

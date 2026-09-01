@@ -134,3 +134,7 @@ Catálogo de **empresas intermediarias** que han facilitado la venta y distribuc
 - ↔ [[transferencias-cross-country]] — préstamos de armas entre países.
 - ↔ [[../../empresas-de-armas/empresas/00-indice]].
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — la sección "estructura oligopólica" del marco económico.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, «The Repression Trade», octubre de 2023, sobre la cadena comercial del material antidisturbios: <https://www.amnesty.org/en/latest/research/2023/10/repression-trade/>

@@ -26,3 +26,7 @@ Egner cuestiona los supuestos sobre la "no letalidad" y plantea que la **evaluac
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — Rocher reconstruye este genealogía.
 - ↔ [[../../historia/balas-goma]] — el periodo previo a la masificación de los 80.
 - ↔ [[haar-bmj-2017]] — el estudio sistemático moderno que retoma la línea crítica.
+
+## Fuentes (acceso 1 sep 2026)
+
+- Defense Technical Information Center (DTIC), repositorio donde se localizan los informes técnicos del US Army Land Warfare Laboratory: <https://discover.dtic.mil/>

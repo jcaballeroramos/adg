@@ -77,3 +77,7 @@ La policía reprimió con:
 - ↔ [[hong-kong-2019-2020]] · [[sri-lanka-2022]] — la ola global 2019-2022.
 - ↔ [[../../autores-y-referencias/paul-rocher/paul-rocher-entrevista]] — el patrón "crisis económica → protesta → represión".
 - ↔ [[../../historia/cronologia-completa]].
+
+## Fuentes (acceso 1 sep 2026)
+
+- Amnistía Internacional, investigación sobre el uso indebido de gas lacrimógeno, con Líbano entre los países verificados: <https://teargas.amnesty.org/>
