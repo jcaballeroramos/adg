@@ -188,23 +188,47 @@ La correlación entre los resultados cardíacos en cerdo y en humano está descr
 
 ## 4 · Granadas de aturdimiento
 
-**No existe norma. En ninguna parte.** Es el hallazgo más limpio de toda la investigación. No hay
-norma del Instituto Nacional de Justicia estadounidense, ni del laboratorio de defensa británico,
-ni directriz técnica alemana, ni homologación francesa o española. **No hay ningún umbral
-publicado en candelas** para aceptar un destello, **ninguna tolerancia normalizada del retardo de
-la espoleta**, y **ningún protocolo que dispare contra maniquí, sustituto, animal o cadáver.**
+**No hay norma de certificación en ninguna jurisdicción.** Ni estadounidense, ni británica, ni
+alemana, ni francesa, ni española. La directiva europea de artículos pirotécnicos **excluye
+expresamente** los destinados a la policía, así que **no existe marcado CE ni organismo notificado
+para una granada de aturdimiento policial en la Unión Europea**.
 
-Lo único que existe es prestado: los límites de ruido impulsivo de la norma militar
-**MIL-STD-1474E** y el modelo informático con el que el ejército estadounidense estima el daño
-auditivo, **calibrado con 395 oídos de cadáver medidos en 1982**.
+**Sí existe un ensayo público, y su descargo lo dice todo.** En 2003 un laboratorio caracterizó
+ocho modelos, 259 unidades y 199 ensayos para el Instituto Nacional de Justicia estadounidense,
+con los artefactos suministrados por la agencia federal de alcohol, tabaco y armas. Mide destello
+en lux y julios, sobrepresión, retardo de espoleta y fragmentación contra paneles de espuma, a
+seis, nueve y doce pies. Y declara en su primer apartado que **no se ha hecho ningún intento de
+cuantificar la capacidad de incapacitar o de producir lesiones, ni la eficacia contra humanos u
+otros seres vivos, ni para ninguna situación del mundo real.** Es caracterización, no
+certificación: **no hay umbrales, no hay apto ni no apto.**
 
-📄 [Límites de ruido, norma militar MIL-STD-1474E, 2015](/media/pdf/ensayos/MIL-STD-1474E_2015_limites_de_ruido.pdf) ·
-📄 [Caracterización de granadas de aturdimiento, 2003](/media/pdf/ensayos/NIJ_2003_caracterizacion_granadas_aturdimiento.pdf) ·
+Lo que midió, a seis pies: de **161 a 186 decibelios**, equivalencia en TNT de 0,156 a 36,8 gramos,
+y hasta 49 impactos de fragmento en los paneles. Y la frase literal: **todos los dispositivos
+ensayados superaron el umbral de 140 decibelios** que obliga a protección auditiva.
+
+📄 [Caracterización de granadas de aturdimiento, 2003](/media/pdf/ensayos/NIJ_2003_caracterizacion_granadas_aturdimiento.pdf)
+
+**Lo que se usa en su lugar está prestado y avisa de que no sirve para esto.** La norma militar
+MIL-STD-1474E se define a sí misma como **«ni un criterio de riesgo de daño auditivo ni un
+criterio de conservación de la audición, sino un conjunto de criterios de diseño»**, y se aplica a
+las áreas ocupadas por **el propio personal**: el operador, la dotación, el mantenimiento. **No
+contiene ninguna disposición sobre la persona contra la que se lanza el artefacto.**
+
+📄 [Límites de ruido, MIL-STD-1474E, 2015](/media/pdf/ensayos/MIL-STD-1474E_2015_limites_de_ruido.pdf) ·
+📄 [Ruido impulsivo, informe de la OTAN](/media/pdf/ensayos/OTAN_HFM073_efectos_humanos.pdf)
+
+**Contra qué se dispara: contra nada.** Ni maniquí, ni sustituto de tejido, ni animal, ni cadáver.
+La base biológica del daño auditivo son **395 oídos de cadáver humano medidos en 1982**, que
+alimentan un modelo informático. Ese modelo tiene un parámetro llamado «avisado» o «sin avisar»
+según si el oído anticipa el estallido: con la misma onda, da **270 unidades en un caso y 812 en
+el otro**, con el límite puesto en 500. La misma medida aprueba o suspende según cómo se marque
+una casilla. Y quien recibe una granada en un registro domiciliario está **siempre sin avisar**.
+
 📄 [Rotura timpánica por granada de aturdimiento, 2016](/media/pdf/ensayos/IDA_2016_rotura_timpanica_flashbang.pdf) ·
 📄 [Riesgo de lesión auditiva, 2021](/media/pdf/ensayos/IDA_2021_riesgo_lesion_auditiva_flashbang.pdf)
 
-Tampoco hay revisión sistemática ni serie de casos publicada sobre lesiones por estas granadas.
-La guía de la ONU les dedica una sola frase, y es para decir que **usarlas directamente contra una
+Tampoco existe revisión sistemática ni serie de casos publicada sobre lesiones por estas granadas.
+La guía de la ONU les dedica una sola frase, para decir que **usarlas directamente contra una
 persona sería ilegal**.
 
 ## 5 · Cañones de agua
@@ -223,10 +247,22 @@ trabajo alemán sitúa el daño a partir de **8,5 metros por segundo** de veloci
 
 **Dos cosas que sostienen una secuencia entera.** La primera: el peritaje alemán calculó que la
 distancia a la que el chorro deja de ser peligroso para el ojo era de **25 a 30 metros**, y la
-descartó por escrito por **incompatible con la utilidad del arma**. La segunda: el cañón británico
-se aprobó por ser **«no peor»** que el que ya estaba en servicio, con la bomba precintada a 16 bar
+descartó por escrito porque **prescribirla como distancia general contradiría el sentido del
+empleo del cañón de agua**. La regla alemana no protege el ojo: protege la columna cervical. La
+segunda: el criterio de aceptación británico no es un umbral biomecánico, es **otro vehículo**. Se
+evaluó por ser **«no peor»** que el que ya estaba en servicio, con la bomba precintada a 16 bar
 para que la comparación saliera favorable. Si el vehículo de referencia ya era peligroso, el
 método es ciego.
+
+**Un matiz que casi siempre se cuenta mal.** El comité médico independiente británico **no
+recomendó el rechazo**: concluyó que, con mitigaciones, era improbable que causaran lesiones
+graves o mortales. Quien bloqueó el cañón de agua fue **la ministra del Interior, por encima de
+ese dictamen**, en julio de 2015.
+
+**Y el número que resume el expediente.** El umbral de lesión ocular está en **8,5 metros por
+segundo**. La velocidad del chorro a la salida del monitor es de unos **72**. Ocho veces y media el
+umbral, en boca. Nadie ha caracterizado cómo decae eso con la distancia frente a la probabilidad
+de perder un ojo.
 
 Las distancias de ensayo del laboratorio británico están censuradas en los informes públicos, de
 modo que **sus tablas no son reproducibles**. Y no existe, en ninguna lengua, una curva que
