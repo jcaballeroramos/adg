@@ -2,7 +2,7 @@
 tipo: metodo
 estado: vigente
 tags: [ensayos, protocolos, normalizacion, balistica, menos-letales]
-fuentes_primarias: 42
+fuentes_primarias: 45
 ---
 
 # Cómo se prueban estas armas
