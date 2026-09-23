@@ -62,6 +62,22 @@ EUROSATORY_LOCAL = ROOT.parent.parent / "ADG_EurosatoryPress"
 if EUROSATORY_LOCAL.exists():
     app.mount("/eurosatory-local", StaticFiles(directory=str(EUROSATORY_LOCAL)), name="eurosatory-local")
 
+# URLs limpias: si algo da 404 y no lleva extensión, se intenta con .html.
+# Así /como-se-prueban sirve site/como-se-prueban.html sin romper el resto.
+@app.middleware("http")
+async def url_limpia(request, call_next):
+    respuesta = await call_next(request)
+    if respuesta.status_code != 404:
+        return respuesta
+    ruta = request.url.path.strip("/")
+    if not ruta or "." in ruta.rsplit("/", 1)[-1]:
+        return respuesta
+    destino = (SITE / f"{ruta}.html").resolve()
+    if destino.is_file() and str(destino).startswith(str(SITE.resolve()) + os.sep):
+        return FileResponse(destino)
+    return respuesta
+
+
 # Static site (must be last — catch-all)
 if SITE.exists():
     app.mount("/", StaticFiles(directory=str(SITE), html=True), name="site")

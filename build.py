@@ -2006,6 +2006,7 @@ def index_page(tree, notes, sidebar_html):
         <a class="cta-btn" href="map.html">Mapa mundial de casos</a>
         <a class="cta-btn" href="graph.html">Grafo de conexiones</a>
         <a class="cta-btn" href="casos/impacto-agregado.html">Impacto agregado · las cifras del daño</a>
+        <a class="cta-btn" href="como-se-prueban.html">Cómo se prueban estas armas</a>
       </div>
     </header>
     <div class="home-grid">
