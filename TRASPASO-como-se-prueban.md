@@ -17,36 +17,16 @@ fuera del repo en `~/Desktop/WORKS/ADG_papers_balistica/`, con un `LEEME.md` que
 ruta sin extensión da 404. **No hacerlo con una ruta catch-all antes del mount**: todo lo que
 lleve punto (CSS, PDF) devolvería 404 y el sitio se cae. Ya pasó una vez.
 
-## Lo que falta · la sección 3
+## COMPLETADO el 23-sep-2026
 
-La página tiene una sección «Las otras familias» que ahora mismo solo enlaza a las fichas que ya
-existían. Hay que escribirla con el mismo nivel de detalle que la parte cinética: **qué norma se
-aplica y quién la publica, con qué se mide, contra qué se dispara o aplica (maniquí, animal,
-voluntario, simulante), qué magnitudes se registran, qué umbral separa aceptable de inaceptable y
-qué agujeros reconoce la propia literatura.**
+La página cubre ya **las seis familias**: proyectiles cinéticos, electrochoque, granadas de
+aturdimiento, cañones de agua, irritantes químicos y armas acústicas, más el marco normativo de
+arriba (OTAN, Estados Unidos, Europa y la ONU) y una sección final con lo que reconocen ellos
+mismos. **42 documentos** descargables desde la propia página, todos de acceso abierto.
 
-Familias pendientes, con las fichas del wiki a las que hay que enlazar:
-
-| Familia | Ficha existente |
-|---|---|
-| Electrochoque (TASER y similares) | `wiki/historia/taser.md` |
-| Granadas de aturdimiento (flashbang) | sin ficha propia |
-| Cañones de agua | `wiki/historia/canones-agua.md` |
-| Gases lacrimógenos y spray de pimienta | `wiki/historia/armas-quimicas.md` |
-| Armas acústicas (LRAD) | `wiki/historia/armas-acusticas.md` |
-
-Pistas de por dónde tirar, sin verificar todavía:
-
-- Para electrochoque, la literatura de Kroll, Ho y Dawes sobre fibrilación ventricular y captura
-  cardiaca, y los ensayos en cerdo.
-- Normas transversales: el trabajo de estandarización de la OTAN sobre proyectiles cinéticos no
-  letales (**STANREC 4744**, comprobar si es público), el Joint Non-Lethal Weapons Directorate del
-  Departamento de Defensa estadounidense y su Human Effects Center of Excellence.
-- El Instituto Nacional de Justicia estadounidense publica en abierto en `ojp.gov`; de ahí salen
-  cuatro de los nueve PDF que ya tenemos.
-
-**Aviso**: se lanzó un agente de investigación sobre esto que quedó corriendo en la sesión
-anterior. Sus resultados **no se traspasan**. Hay que rehacer la búsqueda.
+El hallazgo principal: **de las seis familias, solo el electrochoque tiene norma internacional de
+medida, y esa norma mide la salida eléctrica, no la seguridad**. Para granadas de aturdimiento y
+cañones de agua no existe norma en ninguna parte.
 
 ## Otros pendientes anotados en la propia página
 
