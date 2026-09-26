@@ -44,6 +44,7 @@ Plataforma de **víctimas y familiares** de balas de goma en el Estado español.
 - Que se condene a **agentes individuales** y a la **cadena de mando**.
 
 ## Conexiones
+- ↔ [[../../marco-legal/bibliografia/iridia-video-stop-balas-goma-2022]] — el vídeo de campaña de 2022, con las cifras del informe.
 - ↔ [[../../casos/espana-europa/compilacion-espana]] — la base de datos viva.
 - ↔ [[iridia]] — colaboración estrecha en el litigio estratégico.
 - ↔ [[novact]] — coautora de informes recientes.
