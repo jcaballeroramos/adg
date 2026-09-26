@@ -59,6 +59,12 @@ Tras la sentencia, en El Espectador: *«Esto no fue un hecho aislado. Hay un cen
 
 📹 **Archivado**: `media/video/amnistia-leidy-cadena-2024-04-03.mp4` (2:28), con su `.info.json` y la transcripción en `.srt` (Whisper). Publicado por **Amnistía Internacional Américas** el **3 de abril de 2024** con el título *«Sobreviviente de la violencia policial que perdió un ojo por una bala de goma lo explica todo»*. <https://www.youtube.com/watch?v=Tc70JwOmRWQ>
 
+**Qué cuenta.** Es la pieza de la manzana: una bala de goma de 37 mm disparada contra una manzana, que Leidy presenta como bastante más grande y robusta que un globo ocular. Después narra el día en primera persona. Tenía 22 años, fue a la protesta con amigos, le había prometido a su madre que sería pacífica, y **cuando intentaban volver a casa un escuadrón les cortó el paso y un agente le disparó «directamente y a poca distancia»**. Cierra pidiendo controlar el comercio de material policial y un **tratado para un comercio libre de tortura**, la campaña de Amnistía que conecta con la resolución *Towards torture-free trade* ya corregida en la wiki.
+
+**El relato del vídeo coincide con lo probado en juicio**: disparo directo y a corta distancia, y que ella y su grupo se estaban retirando. Son dos fuentes independientes diciendo lo mismo, lo que da solidez al caso para rodar.
+
+> ⚠️ **La velocidad del proyectil no va a pantalla sin comprobar.** La transcripción automática recoge que la bala va a 34 metros por segundo, «menos de la mitad» de la de las balas policiales; la frase no tiene sentido tal como está y puede ser un error de Whisper. Verificarla escuchando el audio antes de usarla.
+
 **Es material de Amnistía:** hay que pedirles permiso antes de usar un solo plano.
 
 ## Por qué importa para el documental

@@ -57,6 +57,14 @@ Lo que el Ministerio Público dice haber comprobado, en sus propias palabras:
 
 📹 **Archivado**: `media/video/eltiempo-jaime-fandino-usme-2021-06-23.mp4` (5:28), con su `.info.json` y la transcripción en `.srt` (Whisper). Publicado por **El Tiempo** con el título *«Jaime Fandiño es el joven que falleció ayer en las protestas de Usme»*. <https://www.youtube.com/watch?v=aOoSPC2ruVI>
 
+**Qué cuenta, y trae una versión que las fuentes escritas no daban.** Según la familia, Jaime estaba **desempleado y había salido a entregar hojas de vida**; al volver a casa se encontró con los disturbios. Es decir, **la familia sostiene que no estaba protestando**. El padre pide que no se tape el caso: *«ojalá que no queden impunes»*.
+
+La **Red Popular de Primeros Auxilios**, primera en atenderlo, informa por comunicado de que ya no tenía signos vitales, que iniciaron reanimación y que no recuperó la circulación. El Tiempo lo presenta como **la segunda víctima mortal del Paro Nacional en Bogotá**, dato que queda atribuido al periódico. La pieza recoge también la crítica del ministro de Defensa a quienes señalaban al ESMAD en redes «sin verificar».
+
+> ⚠️ **La transcripción tiene un tramo corrupto** a mitad del vídeo, una frase repetida en bucle que Whisper se inventa sobre el audio. Revisar contra la imagen cualquier cita de ese tramo.
+>
+> ⚠️ **Que no estaba protestando es la versión de la familia**, no un hecho probado. Para rodar, tenerlo en cuenta: es su palabra y hay que presentarla como tal.
+
 **Es material de El Tiempo:** hay que licenciarlo antes de usar un solo plano.
 
 ## Por qué importa para el documental
