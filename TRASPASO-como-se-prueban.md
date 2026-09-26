@@ -1,6 +1,6 @@
 # Traspaso · «Cómo se prueban estas armas»
 
-Estado a 23 de septiembre de 2026, tarde. **La sección de las otras familias ya está escrita.** Lo
+Estado a 26 de septiembre de 2026. **La sección de las otras familias ya está escrita.** Lo
 que queda son cuatro documentos que no se pueden bajar de forma automatizada y una verificación.
 
 ## Qué hay publicado
@@ -8,7 +8,7 @@ que queda son cuatro documentos que no se pueden bajar de forma automatizada y u
 **https://adg.up.railway.app/como-se-prueban** · fuente en `wiki/como-se-prueban.md` · enlace
 desde la portada (botón junto a cronología, mapa y grafo, añadido en `build.py`).
 
-Ocho secciones y **45 PDF fuente** en `media/pdf/ensayos/`, servidos en `/media/pdf/ensayos/`,
+Un cuadro comparativo, ocho secciones y **54 PDF fuente** en `media/pdf/ensayos/`, servidos en `/media/pdf/ensayos/`,
 todos enlazados desde la página y comprobados uno a uno contra el fichero en disco.
 
 | Sección | Qué cubre |
@@ -24,6 +24,30 @@ todos enlazados desde la página y comprobados uno a uno contra el fichero en di
 
 Copia de trabajo de los nueve PDF originales fuera del repo en
 `~/Desktop/WORKS/ADG_papers_balistica/`, con un `LEEME.md` que resume cada uno.
+
+## Cómo está organizada cada arma
+
+Desde el 26 de septiembre cada familia abre con dos tablas antes del detalle. **Qué pruebas se han
+hecho**: qué se probó, contra qué, cuánto y quién. **Con qué respaldo**: cada documento con quién
+lo firma, qué tipo de documento es y si es independiente del fabricante, con el nombre enlazado a
+la fuente. Arriba del todo hay un cuadro que compara las seis familias.
+
+## La revisión del 26 de septiembre
+
+Se cotejaron **170 afirmaciones**: 145 contra el texto de su PDF y 25 contra PubMed, el registro
+bursátil estadounidense, la ACLU y los documentos del Bundestag y de Amnistía. Se corrigió esto:
+
+- La declaración de seguridad del LRAD publicada era una **página HTML de error con extensión
+  .pdf**. Se sustituyó por el documento real de cuatro páginas. Desde ahora la comprobación mira
+  que cada fichero empiece por la firma de un PDF, no solo que exista.
+- El pandeo "en 14 de 20 disparos" del TASER 10 no aparece en ninguna fuente. Los documentos dicen
+  "varios dardos". La perforación completa del cráneo sustituto está en la declaración del comité
+  británico, no en el informe del laboratorio.
+- Los ensayos de CS con once soldados no dicen Porton Down. Se quitó el lugar.
+- En la tabla de decibelios del LRAD se quitaron el pico de 140 dB del 100X y la fila del 2000X,
+  que no están en ninguna ficha técnica bajada, y se enlazaron las cinco fichas.
+- La frase de las armas retiradas por no pasar los 180 µC es de Adler y Dawson, 2011, no del
+  protocolo de 2021. Se añadió ese PDF.
 
 ## Los cuatro hallazgos que sostienen la sección
 
@@ -68,7 +92,7 @@ encima de la especificación del fabricante.
 extensión da 404. **No hacerlo con una ruta catch-all antes del mount**: todo lo que lleve punto
 (CSS, PDF) devolvería 404 y el sitio se cae. Ya pasó una vez.
 
-**La carpeta de PDF pesa 83 MB** y el repositorio entero 270. Antes de añadir más documentos,
+**La carpeta de PDF pesa 93 MB** y el repositorio entero 270. Antes de añadir más documentos,
 mirar si compensa o si conviene enlazar a la fuente.
 
 **Si se lanzan agentes de investigación, que no escriban en `wiki/como-se-prueban.md`.** En esta

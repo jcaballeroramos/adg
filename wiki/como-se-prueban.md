@@ -2,7 +2,7 @@
 tipo: metodo
 estado: vigente
 tags: [ensayos, protocolos, normalizacion, balistica, menos-letales]
-fuentes_primarias: 45
+fuentes_primarias: 54
 ---
 
 # Cómo se prueban estas armas
@@ -15,9 +15,54 @@ protocolos con los que se sostiene esa afirmación, quién los escribió y qué 
 
 ---
 
+## Las seis familias de un vistazo
+
+Cada familia tiene más abajo su sección con tres partes: qué pruebas se han hecho de verdad, con
+qué documentos se sostiene cada afirmación, y el detalle del procedimiento. Esta tabla junta las
+respuestas cortas.
+
+| Familia | ¿Hay norma de ensayo? | Contra qué se ensaya | Qué separa aprobado de suspenso | ¿Ensayo independiente del fabricante? | ¿Literatura clínica revisada por pares? |
+|---|---|---|---|---|---|
+| Proyectiles cinéticos | Una metodología recomendada, no obligatoria | Maniquí de tres costillas, gelatina, gamuza | Criterio viscoso de 0,6 m/s, un 25 % de riesgo de lesión torácica | Sí | Sí, una revisión sistemática de 1.984 heridos |
+| Electrochoque | Un método de medida sin límites y un protocolo de verificación | Una resistencia; además cerdos, voluntarios y simulantes | 180 µC por pulso, derivados por analogía de otra norma | En parte; se verifica contra la ficha del fabricante | Sí, y está partida entre autores del fabricante e independientes |
+| Granadas de aturdimiento | No | Nada vivo; paneles de papel y objetos domésticos | Ninguno se aplica; los 140 dB se citan "para dar contexto" | Un solo estudio de 2003 | No hay serie de casos; un caso clínico aislado |
+| Cañones de agua | No | Placas de fuerza y alfombra de presión | Comparativo: no pegar más fuerte que el vehículo anterior | Sí, con las cifras tachadas | Un solo informe clínico en toda la literatura |
+| Gases y spray de pimienta | Sí, del envase | El bote; la toxicología se hizo aparte | ±20 % sobre la etiqueta en EE. UU.; 40 kPa de chorro en el Reino Unido | Sí para el envase | Sí, una revisión sistemática de 5.910 expuestos |
+| Armas acústicas | No | Micrófonos en el aire | Prestado de la norma laboral: 140 dB de pico, consultivo | No | No existe ninguna |
+
+Los criterios de fiabilidad que se usan en las tablas de respaldo son cuatro. **Quién firma**: un
+organismo público, un comité independiente, un grupo académico o el fabricante. **Qué es**: norma,
+ensayo, dictamen, artículo revisado por pares, sentencia o documento comercial. **Independencia**:
+si hay dinero o cargo del fabricante en el documento, se dice. **Comprobación**: todas las cifras
+de esta página se han cotejado el 26 de septiembre de 2026 contra el texto del documento citado, y
+las de artículos de pago contra su resumen en PubMed.
+
+---
+
 ## 1 · Proyectiles cinéticos
 
 Pelotas de goma, foam, saquitos de perdigones, bastones flexibles. Ver [[historia/balas-goma]].
+
+### Qué pruebas se han hecho
+
+| Qué se probó | Contra qué | Cuánto | Quién y cuándo |
+|---|---|---|---|
+| Puntería, trauma contundente y penetración de diez municiones de cuatro fabricantes, dos bastones flexibles y ocho saquitos | Diana de papel a 5 y 15 m; maniquí de tres costillas; sándwich de gamuza, espuma y gelatina | Diez impactos válidos por prueba y munición | Universidad Estatal de Wayne para el Instituto Nacional de Justicia, 2011 |
+| Impactos al pecho para fijar la curva de lesión | Trece cadáveres humanos | 13 | Recogido por el laboratorio del ejército estadounidense, 1999 |
+| Munición de 40 mm | Maniquí de tres costillas y blanco de penetración | 23 impactos entre 148 y 257 J; 39 entre 170 y 305 J | Kapeles, de Safariland, y Bir, 2019 |
+| Pelota de goma esférica | Nada | **Ninguna** en el protocolo estadounidense | — |
+
+### Con qué respaldo
+
+| Documento | Quién lo firma | Qué es | Independiente del fabricante |
+|---|---|---|---|
+| [Informe 236949](/media/pdf/ensayos/NIJ_desarrollo_norma_proyectiles_menos_letales.pdf) y [236950](/media/pdf/ensayos/NIJ_metodologias_de_ensayo_proyectiles_menos_letales.pdf) | Universidad Estatal de Wayne con beca del Instituto Nacional de Justicia | Informe de beca. Lleva la advertencia de que **el Departamento de Justicia no lo ha publicado** | Sí. Los fabricantes participaron en las reuniones de 2006 |
+| [ARL-TR-1868](/media/pdf/ensayos/ARL_tecnicas_evaluacion_lesion_municiones_cineticas.pdf) | Laboratorio de investigación del ejército estadounidense | Informe técnico, 1999 | Sí |
+| [«How "Less" is Less Than Lethal?»](/media/pdf/ensayos/NIJ_cuanto_menos_letal_es.pdf) | Instituto Nacional de Justicia | Boletín, 2000 | Sí |
+| [Parámetros cinéticos y de impacto](/media/pdf/ensayos/DefTech_parametros_cineticos_e_impacto.pdf) | Defense Technology | Manual comercial, 2003 | **No, es el fabricante** |
+| [Efectos en humanos de la munición de 40 mm](/media/pdf/ensayos/2019_HumanEffects_40mm_municiones_no_letales.pdf) | Kapeles, de Safariland, y Bir | Artículo, 2019 | **No, primer firmante del fabricante** |
+| [IRCOBI 2011](/media/pdf/ensayos/2011_IRCOBI_metodos_evaluacion.pdf), [IRCOBI 2012](/media/pdf/ensayos/2012_IRCOBI_piel_surrogate.pdf) y [simposio de balística](/media/pdf/ensayos/ISB27_metodo_hibrido.pdf) | Real Academia Militar de Bélgica | Congresos con revisión | Sí |
+| [Revisión de *BMJ Open*, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5736036/) | Haar, Iacopino y otros | Revisión sistemática revisada por pares | Sí |
 
 ### De dónde sale el protocolo
 
@@ -158,6 +203,41 @@ pares. Ver [[casos/espana-europa/roger-espanol]].
 
 Ver [[historia/taser]] y [[empresas-de-armas/empresas/axon]].
 
+### Qué pruebas se han hecho
+
+| Qué se probó | Contra qué | Cuánto | Quién y cuándo | Vínculo con el fabricante |
+|---|---|---|---|---|
+| Salida eléctrica en banco | Resistencia de 600 Ω, o de 500 en el M26 | 208 X26 y 128 M26; el protocolo se ha aplicado a más de seis mil armas | Universidad de Carleton, 2013 | Ninguno declarado |
+| Ensayo técnico completo del TASER 10 | Resistencia, blanco conductor, paquete de piel, ropa | Nueve mangos | PA Consulting para el Home Office, 2025 | Ninguno, pero con el procedimiento de Axon |
+| Cráneo sustituto | Escápula bovina con gelatina y gamuza | Una perforación completa en esa fase, el 5 % | Laboratorio de defensa británico, 2025 | Ninguno |
+| Captura cardiaca | Seis cerdos anestesiados | 150 descargas | Nanthakumar y otros, Toronto, 2006 | No consta |
+| Captura según la trayectoria | Cuatro cerdos | 59 descargas en la cara ventral | Valentino y otros, 2008 | No consta |
+| Distancia del dardo al corazón que provoca fibrilación | Cerdos de 64 kg; después, cinco animales con sonda roma | Diez ensayos en 2007 | Webster y otros, Wisconsin, 2007 y 2008 | Ninguno; beca del Instituto Nacional de Justicia |
+| Múltiplo de descarga que provoca fibrilación | Trece cerdos, cinco posiciones | — | Lakkireddy y otros, 2008 | El estudio de 2006 del mismo grupo lo financió TASER, según la sentencia Fontenot |
+| Fibrilación por captura prolongada | Seis cerdos | Mediana de 90 segundos | Kroll y otros, 2010 | **Sí, Kroll fue consejero de Axon** |
+| Fisiología en agentes | 32 agentes del sheriff de San Diego, de 42 | Cinco segundos | Vilke, Chan y otros, beca del Instituto Nacional de Justicia, 2011 | **Ninguno, se declara sin dinero de la industria** |
+| Respiración | 23 aspirantes a policía | Cinco segundos | VanMeenen y Servatius, beca del Instituto Nacional de Justicia, 2013 | Ninguno declarado |
+| TASER 10 en voluntarios | 22 voluntarios | Ocho segundos | Dawes y otros, 2024 | **Sí, patrocinado por Axon** |
+| Heridas de dardo del TASER 10 | 14 voluntarios | Entre 20 y 30 segundos | Kunz, Ho, Dawes y Miner, 2025 | **Sí; a cada voluntario se le pagaron 500 dólares y un arma de Axon** |
+
+### Con qué respaldo
+
+| Documento | Quién lo firma | Qué es | Independiente del fabricante |
+|---|---|---|---|
+| [Procedimiento de ensayo, versión 3.0](/media/pdf/ensayos/Carleton_2021_procedimiento_ensayo_CEW_v3.pdf) | Adler, Dawson y Sinclair, Universidad de Carleton | Protocolo, adoptado por Columbia Británica en 2024 | Sí, lo declaran por escrito |
+| [Hacia una norma de ensayo, 2011](/media/pdf/ensayos/Dawson_2011_hacia_una_norma_de_ensayo_CEW.pdf); [hacia un protocolo, 2013](/media/pdf/ensayos/Dawson_2013_hacia_un_protocolo_de_ensayo_CEW.pdf) | Adler, Dawson y otros | Congreso y artículo revisado por pares | Sí |
+| [Ensayo de rendimiento técnico, 2013](/media/pdf/ensayos/DRDC_2013_ensayo_rendimiento_tecnico_CEW.pdf) | Wood, Bray y Simms, agencia canadiense de investigación de defensa | Informe técnico | Sí |
+| [Resultados de los ensayos técnicos del TASER 10](/media/pdf/ensayos/PA_2025_taser10_resultados_ensayos_tecnicos.pdf) | PA Consulting para el Home Office | Ensayo técnico encargado por el Estado | Sí |
+| [Opinión sobre las implicaciones médicas del TASER 10](/media/pdf/ensayos/Dstl_2025_taser10_implicaciones_medicas.pdf) | Laboratorio de ciencia y tecnología de defensa británico | Dictamen técnico | Sí |
+| Declaraciones de [2012](/media/pdf/ensayos/DOMILL_2012_x26_ninos_y_vulnerables.pdf) y [2025](/media/pdf/ensayos/SACMILL_2025_taser10_declaracion_medica.pdf) | Comités asesores británicos DOMILL y SACMILL | Dictamen médico | Sí, y marcan como patrocinados por Axon cuatro de los estudios que revisan |
+| [Estudio de muertes tras descarga, 2011](/media/pdf/ensayos/NIJ_2011_muertes_tras_descarga_electrica.pdf) | Panel del Instituto Nacional de Justicia con patólogos, forenses y centros de control de enfermedades | Revisión médica | Sí |
+| [Efectos del TASER en voluntarios, 2011](/media/pdf/ensayos/NIJ_2011_efectos_del_taser_en_voluntarios.pdf) | Universidad de California en San Diego | Informe final de beca | Sí |
+| [GAO-09-344](/media/pdf/ensayos/GAO_2009_gestion_de_armas_no_letales.pdf) | Oficina de fiscalización del Congreso estadounidense | Auditoría | Sí |
+| Artículos de Nanthakumar, Valentino, Wu, Lakkireddy y Leitgeb | Grupos académicos | Artículos revisados por pares, de pago | Sí, salvo lo indicado arriba |
+| Artículos de Panescu, Kroll y Brave | Autores vinculados a Axon | Actas de congreso de ingeniería biomédica | **No** |
+| [Fontenot contra TASER International](/media/pdf/ensayos/Fontenot_2013_cuarto_circuito_TASER.pdf) | Cuarto Circuito de Apelaciones de Estados Unidos, 2013 | Sentencia. Identifica como financiado por TASER el estudio de Lakkireddy de 2006 | Sí |
+| Artículo de Zipes, *Circulation* 2012 | Cardiólogo del instituto Krannert de la Universidad de Indiana | Artículo revisado por pares | No consta vínculo en el registro de PubMed |
+
 ### La norma que no existe
 
 Hay un método de medida internacional, la **IEC 62792**, del comité técnico 85 de la Comisión
@@ -220,9 +300,11 @@ Se dispara tres veces, con un tirón de gatillo cada vez. La frecuencia de repet
 sobre el último segundo del primer disparo, y la tensión, la corriente, la carga y la duración se
 promedian sobre los **ocho últimos pulsos del segundo disparo**.
 
-Los 600 ohmios no son una convención arbitraria. Se midió la carga real en ocho voluntarios con un
-X26 aplicado al pecho y la resistencia media resultó **602,3 Ω**, contra los **400 Ω** que el
-fabricante venía usando en laboratorio.
+Los 600 ohmios no son una convención arbitraria. Dawes, Ho, Kroll y Miner midieron en 2010 la carga
+real en ocho voluntarios con un X26 aplicado al pecho y la resistencia media resultó **602,3 Ω**,
+entre 470,5 y 691,4, contra los **400 Ω** que el fabricante venía usando en laboratorio. El
+artículo está en *Pacing and Clinical Electrophysiology* y no es de acceso abierto; el resumen con
+las cifras está en <https://pubmed.ncbi.nlm.nih.gov/20015134/>.
 
 Se registran siete magnitudes por pulso: tensión de pico, corriente de pico, carga neta, carga
 monofásica, carga total, duración y frecuencia de repetición. La carga neta se integra sobre una
@@ -296,10 +378,13 @@ precisa de la profundidad de penetración.
 El simulante de cráneo es una **escápula bovina**, cuya fosa infraespinosa representa zonas del
 techo craneal humano, montada con gelatina balística y piel de gamuza por delante para simular el
 cuero cabelludo y más gelatina por detrás para el cerebro. Las escápulas se compraron **en una
-carnicería local** y se cribaron para descartar daño del despiece. Con el TASER 10 no hubo
-fracturas, pero un dardo **atravesó el cráneo sustituto por completo** en el 5 % de los disparos de
-esa fase, no pudo extraerse a mano y estaba deformado en gancho. Los dardos del TASER 10 se
-pandearon en **14 de 20 disparos**.
+carnicería local** y se cribaron para descartar daño del despiece. El propio laboratorio anota una
+deriva del simulante: desde que desarrolló el modelo, la edad a la que se sacrifica el ganado ha
+bajado y las escápulas son más finas. Ningún dardo fracturó el modelo, y en el 60 a 65 % de los
+casos quedó una lesión puntiforme en la superficie del hueso. Varios dardos del TASER 10 se
+deformaron por pandeo, algunos hasta doblarse en forma de gancho, y uno se partió dejando parte
+dentro del hueso. El comité asesor británico añade que un dardo del TASER 10 **atravesó el cráneo
+sustituto por completo** una vez, el 5 % de los disparos de esa fase, y no pudo extraerse a mano.
 
 **Cerdos anestesiados.** La literatura está partida en dos y conviene verla así. De un lado,
 Nanthakumar y otros en *JACC* en 2006 registraron **150 descargas** en seis cerdos, con 74 de las
@@ -336,6 +421,11 @@ propios autores enumeran lo que no probaron:
 > individuos reciben a menudo descargas múltiples. Nuestros sujetos tampoco estaban bajo los
 > efectos de drogas estimulantes ilícitas ni en estado de delirio agitado.
 
+📄 [El efecto del TASER sobre la fisiología cardiaca, respiratoria y metabólica en humanos](/media/pdf/ensayos/NIJ_2011_efectos_del_taser_en_voluntarios.pdf) ·
+Vilke, Chan y otros, Universidad de California en San Diego, beca 2005-IJ-CX-K051 del Instituto
+Nacional de Justicia, informe final NCJ 236947, 2011. Se declara **financiado sin dinero de la
+industria**.
+
 ### Los umbrales, que son tres y no coinciden
 
 **El canadiense, 180 microculombios** de carga monofásica por pulso. Su derivación está escrita en
@@ -346,8 +436,11 @@ pies**; para un pulso de 0,1 ms eso equivale a **710 µC**; y se divide entre **
 en cuenta las diferencias de tamaño corporal y de colocación de los electrodos. Los autores
 reconocen que la forma de onda de estas armas no es unidireccional, que es justo el supuesto de la
 sección que usan, y que la carga total habría sido una medida más conservadora que la monofásica
-que eligen. Generaciones enteras de armas se retiraron del servicio en Columbia Británica por no
-pasarlo.
+que eligen. En 2011 Adler y Dawson escribían que las generaciones antiguas de estas armas se
+habían retirado del servicio por no pasarlo.
+
+📄 [Hacia una norma de ensayo de armas de energía conducida](/media/pdf/ensayos/Dawson_2011_hacia_una_norma_de_ensayo_CEW.pdf) ·
+Adler y Dawson, Universidad de Carleton, comunicación a congreso, 2011.
 
 **El del entorno del fabricante**, que es un cociente entre el umbral de fibrilación y la salida
 del arma. Panescu, Kroll y Brave publican probabilidades teóricas menores de **una entre 1.270.000**
@@ -440,6 +533,30 @@ usar propelente explosivo para expulsar los electrodos sí entra en la ley de co
 ## 4 · Granadas de aturdimiento
 
 No hay ficha propia en la wiki. Aparecen en [[historia/tipos-de-armas-tabla]].
+
+### Qué pruebas se han hecho
+
+| Qué se probó | Contra qué | Cuánto | Quién y cuándo |
+|---|---|---|---|
+| Luz, ruido y sobrepresión | Sensores en el aire a 1,8, 2,7 y 3,7 m | Ocho modelos de seis fabricantes, veinte disparos por modelo, 199 ensayos en total | E-LABS para el Instituto Nacional de Justicia, 2003 |
+| Fragmentación | Paneles de espuma forrados de papel a 1,8 m | Tres por modelo | El mismo estudio |
+| Incendio y desplazamiento | Almohadas, cojines, ropa, papel, moqueta | Tres por modelo | El mismo estudio |
+| Cualificación de la granada M84 | Vibración, inmersión térmica, caídas de hasta doce metros | 369 granadas | Ejército estadounidense, 2005 |
+| Rotura de tímpano, que da el umbral | 395 oídos de cadáver humano | 395 | James y otros, 1982, recogido en 2016 |
+| Modelo de pérdida auditiva | Datos de chinchillas y de ruido de fusil en humanos | — | Institute for Defense Analyses, 2021 |
+| Granada contra maniquí, animal o voluntario | — | **Ninguna** | — |
+
+### Con qué respaldo
+
+| Documento | Quién lo firma | Qué es | Independiente del fabricante |
+|---|---|---|---|
+| [Caracterización de los dispositivos de ruido y destello](/media/pdf/ensayos/NIJ_2003_caracterizacion_granadas_aturdimiento.pdf) | E-LABS con beca del Instituto Nacional de Justicia | Estudio de caracterización. **No es norma** y no lo ha publicado el Departamento | Sí. Las granadas las suministró la agencia federal de armas, no los fabricantes |
+| [Programa de la granada M84](/media/pdf/ensayos/Ejercito_EEUU_2005_programa_granada_M84.pdf) | Ejército estadounidense, Picatinny | Presentación en un simposio industrial | Es el comprador, no el fabricante |
+| [MIL-STD-1474E](/media/pdf/ensayos/MIL-STD-1474E_2015_limites_de_ruido.pdf) | Departamento de Defensa | Norma militar de ruido para el operador | Sí |
+| Informes [D-5824](/media/pdf/ensayos/IDA_2016_rotura_timpanica_flashbang.pdf) y [D-21609](/media/pdf/ensayos/IDA_2021_riesgo_lesion_auditiva_flashbang.pdf) | Institute for Defense Analyses para el directorio de armas no letales | Informes técnicos | Sí |
+| [Informe de 2017 sobre el mantenimiento del orden](https://www.defenseurdesdroits.fr/sites/default/files/2023-03/DDD_Rapport-maintien-ordre_201712.pdf) | Defensor de Derechos francés | Informe de una autoridad independiente | Sí |
+| Comunicado de la sentencia Fraisse contra Francia | Tribunal Europeo de Derechos Humanos, 2025 | Sentencia | Sí |
+| Fichas comerciales de 165 a 185 dB | Defense Technology, ALS, Rheinmetall, Alsetex | Documentos comerciales sin método de medida | **No** |
 
 ### No existe protocolo de ensayo publicado
 
@@ -622,6 +739,28 @@ quemaduras graves, lesiones por explosión y, en ciertos casos, fragmentación.
 ## 5 · Cañones de agua
 
 Ver [[historia/canones-agua]].
+
+### Qué pruebas se han hecho
+
+| Qué se probó | Contra qué | Cuánto | Quién y cuándo |
+|---|---|---|---|
+| Derribo y lesión con un dispensador anterior | Ovejas anestesiadas, ojos de cerdo, huesos temporales, maniquí Ogle | Programa **nunca recopilado en informes técnicos** | Ministerio de Defensa británico, finales de los años setenta |
+| Derribo de una persona | Sujetos humanos | Dos informes estadounidenses de los años sesenta y setenta, con la referencia tachada | Recogido por el laboratorio de defensa en 2004 |
+| Fuerza de contacto del Somati | Cinco placas de 25 a 400 mm y maniquí Hybrid III | Barridos de 10 a 30 m a 5, 10 y 15 bar | Laboratorio de defensa británico, 2002 a 2004 |
+| Presión de contacto del WaWe 9 | Alfombra de 256 sensores | Tres vehículos alemanes contra **un solo monitor de un solo vehículo** de referencia | Centro de ciencia aplicada del Home Office, 2014 |
+| Umbral de daño ocular | Ojos de cerdo ex vivo | Chorros de 3,2 y 6,4 mm a entre 3 y 8,5 m/s | Duma y otros, 2012 |
+| Uso real | Manifestantes en Irlanda del Norte | 71 activaciones entre 2008 y 2014 sin lesión verificada | Registro policial citado por el comité asesor |
+
+### Con qué respaldo
+
+| Documento | Quién lo firma | Qué es | Independiente del fabricante |
+|---|---|---|---|
+| [Ensayos del WaWe 9, informe resumen](/media/pdf/ensayos/CAST_2015_ensayos_canon_agua_wawe9.pdf) | Centro de ciencia aplicada del Home Office | Ensayo técnico encargado por el Estado, **con las cifras tachadas** | Sí |
+| [TR08591, 2004](/media/pdf/ensayos/Dstl_2004_implicaciones_medicas_canones_agua.pdf), y [TR74621, 2013](/media/pdf/ensayos/Dstl_2013_implicaciones_medicas_canones_agua.pdf) | Laboratorio de ciencia y tecnología de defensa británico | Revisiones médicas y técnicas | Sí |
+| [Declaración sobre el Wasserwerfer 9000](/media/pdf/ensayos/SACMILL_2015_canon_agua_wawe9000.pdf) | Comité asesor SACMILL | Dictamen médico | Sí |
+| [Cuestiones jurídicas sobre el uso de cañones de agua, 2011](https://www.bundestag.de/resource/blob/423634/f41419fa79be6839557d7790e98d2ea3/wd-3-256-11-pdf-data.pdf) | Servicios científicos del Bundestag | Informe parlamentario | Sí |
+| [*Lethal in Disguise 2*](/media/pdf/ensayos/LethalInDisguise2_2023.pdf) | INCLO, Physicians for Human Rights y Omega Research Foundation | Informe de organizaciones de derechos humanos, con revisión de literatura | Sí |
+| Informe clínico de 1995 sobre lesiones oculares | Landau y Berson, *American Journal of Ophthalmology* | El único artículo clínico revisado por pares | Sí |
 
 ### Un protocolo interno, comparativo, con las cifras tachadas
 
@@ -837,6 +976,32 @@ años. Ciento una páginas de informe y tres meses de ensayos para un arma que n
 
 Ver [[historia/armas-quimicas]] y [[marco-legal/bibliografia/cicr-guia-armas-quimicas]].
 
+### Qué pruebas se han hecho
+
+| Qué se probó | Contra qué | Cuánto | Quién y cuándo |
+|---|---|---|---|
+| Aerosol de mano | El bote: cromatografía, patrón, caídas, calor y frío | Treinta ejemplares por lote | Norma del Instituto Nacional de Justicia, 1985 |
+| Aerosol de PAVA | El bote, más la presión del chorro sobre una placa | Cinco dispositivos por ensayo | Norma del Home Office, 2024 |
+| CS en voluntarios | Once soldados sanos, de 0,2 a 1,3 mg/m³ | Unos ochenta minutos | Cotes y otros, 1972; Cole y otros, 1977 |
+| Tolerancia al CS | 35 voluntarios varones sanos en una cámara de 100 m³ | Sesenta minutos | Beswick y otros, 1972 |
+| CS en voluntarios con patología | Hipertensos, alérgicos, asmáticos, mayores de cincuenta | Grupos de cuatro a seis | Gutentag y Punte, laboratorios de guerra química del ejército estadounidense, 1960 a 1963 |
+| OC en voluntarios | 34 cadetes de policía, de 37 | Ráfaga de un segundo a metro y medio | Chan, Vilke y otros, beca del Instituto Nacional de Justicia, 2000 |
+| Letalidad del CS | Ratas, ratones, cobayas y conejos | — | Ballantyne y Swanston, 1978 |
+| Embarazo | 30 mujeres expuestas a CS | **Sin datos de concentración ni duración** | Servicio británico de información teratológica, 2004 |
+
+### Con qué respaldo
+
+| Documento | Quién lo firma | Qué es | Independiente del fabricante |
+|---|---|---|---|
+| Normas [0110.00](/media/pdf/ensayos/NIJ_1985_norma_0110_aerosoles_lacrimogenos.pdf) y [0111.00](/media/pdf/ensayos/NIJ_1985_norma_0111_municiones_lacrimogenas.pdf) | Instituto Nacional de Justicia, redactadas por el laboratorio de normas de la oficina nacional de normalización | Normas oficiales de 1985, activas en 2026 | Sí, aunque la conformidad puede **garantizarla el vendedor** |
+| [Norma para irritantes químicos, PAVA](/media/pdf/ensayos/HomeOffice_2024_norma_irritantes_pava.pdf) | Home Office | Norma oficial, 2024 | Sí, con análisis químico por laboratorio designado por el Estado |
+| [Valores de exposición aguda para el CS](/media/pdf/ensayos/EPA_2014_AEGL_gas_lacrimogeno_CS.pdf) | Academias Nacionales y agencia ambiental estadounidense | Evaluación toxicológica oficial | Sí |
+| [El spray de pimienta como alternativa de fuerza](/media/pdf/ensayos/NIJ_1994_spray_pimienta_alternativa.pdf) | Instituto Nacional de Justicia, 1994 | Evaluación tecnológica | Sí |
+| [Función respiratoria con spray de pimienta](/media/pdf/ensayos/NIJ_2000_spray_pimienta_funcion_respiratoria.pdf) | Universidad de California en San Diego | Informe final de beca | Sí |
+| [Documento SAB-25/WP.1](/media/pdf/ensayos/OPAQ_2017_agentes_antidisturbios_declarables.pdf) | Consejo científico asesor de la OPAQ | Dictamen técnico | Sí; sus cifras de toxicidad proceden de un **manual del ejército estadounidense de 1990** |
+| [Revisión de *BMC Public Health*, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5649076/) | Haar, Iacopino y otros | Revisión sistemática revisada por pares | Sí |
+| [*Lethal in Disguise 2*](/media/pdf/ensayos/LethalInDisguise2_2023.pdf) | INCLO, Physicians for Human Rights y Omega | Informe de organizaciones de derechos humanos | Sí |
+
 ### El régimen está partido en dos mitades que no se tocan
 
 Una norma de ingeniería certifica **el envase** y no toca a ningún ser vivo. Una revisión
@@ -929,18 +1094,23 @@ información sobre el OC es anecdótica y que **ninguna agencia pública ha hech
 Las normas de producto no prueban contra nada vivo. La toxicología sí, y su base son voluntarios
 humanos y animales de laboratorio.
 
-**Voluntarios británicos, Porton Down.** Cotes y Cole expusieron a once soldados sanos a aerosol de
-CS de una micra, subiendo la concentración de **0,2 a 1,3 mg/m³** durante unos ochenta minutos, con
-dos periodos de ejercicio en cicloergómetro. Entraban con respirador puesto y se lo quitaban ellos.
+**Voluntarios militares.** Cotes y otros, en 1972, y Cole y otros, en 1977, expusieron a once
+soldados sanos a aerosol de CS de una micra, subiendo la concentración de **0,2 a 1,3 mg/m³**
+durante unos ochenta minutos, con dos periodos de ejercicio. Entraban con respirador puesto y se lo
+quitaban ellos.
 Todos los sujetos experimentaron molestia intensa al exponerse por primera vez, **dos se retiraron**
 y otros dos no pudieron completar el primer periodo de ejercicio por la tos. Beswick y otros
-expusieron en 1972 a **35 voluntarios varones** sesenta minutos en una cámara de 100 m³.
+expusieron en 1972 a **35 voluntarios varones** sanos durante sesenta minutos a concentraciones
+crecientes en una cámara de 100 m³, para estudiar si se desarrolla tolerancia.
 
-**Voluntarios estadounidenses, Edgewood Arsenal.** Cámara de viento de 2,4 metros de lado con viento
+**Voluntarios del ejército estadounidense.** En los estudios de Gutentag y Punte, de 1960 a 1963,
+en los laboratorios de guerra química del ejército en Maryland, grupos de cuatro a seis
+voluntarios, militares y civiles, entraban en una cámara de viento de 2,4 metros de lado con viento
 fijo. Los sujetos se clasificaban deliberadamente en categorías patológicas: hipertensos, personas
 con fiebre del heno, sensibilidad a fármacos o **asma bronquial**, antecedentes de ictericia,
-hepatitis o úlcera péptica, y mayores de cincuenta años. Los tiempos de tolerancia sin máscara van
-de 53 segundos a 5 mg/m³ hasta **cinco segundos a 442 mg/m³**. El resultado sobre los asmáticos
+hepatitis o úlcera péptica, y mayores de cincuenta años. En otra serie, con grupos de tres a seis
+hombres sin entrenar y sin máscara, los tiempos de tolerancia van de 53 segundos a 5 mg/m³ hasta
+**cinco segundos a 442 mg/m³**. El resultado sobre los asmáticos
 consta en el mismo documento: toleraron concentraciones comparables a las de los sujetos normales,
 pero el grupo con patología previa tuvo **un porcentaje mayor de individuos con síntomas torácicos
 más graves, muchos de ellos postrados en el suelo durante varios minutos**.
@@ -955,6 +1125,10 @@ demuestra que el porcentaje del etiquetado no es la potencia. Las limitaciones q
 autores son las mismas de siempre: no estudiaron pulverizaciones prolongadas ni exposiciones
 repetidas, los sujetos eran jóvenes sanos, no investigaron efectos a largo plazo, y quedaron fuera
 el forcejeo físico, el estrés, la agitación, la intoxicación y el esfuerzo.
+
+📄 [Efecto del spray de oleorresina de capsicum sobre la función respiratoria](/media/pdf/ensayos/NIJ_2000_spray_pimienta_funcion_respiratoria.pdf) ·
+Chan, Vilke y otros, informe final para el Instituto Nacional de Justicia, NCJ 182433, enero de
+2000. Completaron el estudio 34 de 37 sujetos.
 
 **Animales.** Todos los valores de letalidad salen de Ballantyne y Swanston, 1978, con ratas,
 ratones, cobayas y conejos en exposición de cuerpo entero: **88.480 mg·min/m³** en rata macho,
@@ -1038,6 +1212,29 @@ conducida que la estadounidense no tiene.
 
 Ver [[historia/armas-acusticas]].
 
+### Qué pruebas se han hecho
+
+| Qué se probó | Contra qué | Cuánto | Quién y cuándo |
+|---|---|---|---|
+| Nivel sonoro de campo | Aparcamiento vacío del Bronx | Medido a 97 m; **nada más cerca** | Policía de Nueva York, 2010, recogido en la sentencia Edrei |
+| Inteligibilidad de la voz | Oyentes a distintas distancias | Hasta 150 m con voz pregrabada | Laboratorio científico del Home Office, recogido por Ontario en 2011 |
+| Exposición del operador | Detrás del aparato | Menos de 105 dB | Declaración del fabricante |
+| Efecto sobre la persona que lo recibe | Voluntarios, animales, simulantes | **Ninguno** | — |
+| Literatura clínica sobre lesiones | — | **Ningún estudio**, según la revisión de 2020 | Lubner y otros, *Frontiers in Neurology* |
+
+### Con qué respaldo
+
+| Documento | Quién lo firma | Qué es | Independiente del fabricante |
+|---|---|---|---|
+| [Informe del sexto Foro Internacional de Fuerzas del Orden](/media/pdf/ensayos/NIJ_2008_foro_internacional_opciones_de_fuerza.pdf) | Foro financiado por el Instituto Nacional de Justicia | Informe de beca, 2008 | Sí |
+| [29 CFR 1910.95](/media/pdf/ensayos/OSHA_1910-95_exposicion_ocupacional_al_ruido.pdf) | Administración estadounidense de seguridad y salud laboral | Norma laboral | Sí; su ámbito es el empleo en un centro de trabajo |
+| [Criterios para una norma recomendada, 98-126](/media/pdf/ensayos/NIOSH_1998_criterios_exposicion_al_ruido.pdf) | Instituto estadounidense de seguridad y salud laboral | Documento de criterios | Sí |
+| [MIL-STD-1474E](/media/pdf/ensayos/MIL-STD-1474E_2015_limites_de_ruido.pdf) | Departamento de Defensa | Norma militar de ruido para el operador | Sí |
+| [Revisión del uso policial de dispositivos acústicos](/media/pdf/ensayos/Ontario_revision_uso_policial_LRAD.pdf) | Ministerio de Seguridad Comunitaria de Ontario, 2011 | Informe de gobierno | Sí |
+| [Edrei contra Maguire](/media/pdf/ensayos/Edrei_2018_segundo_circuito_LRAD.pdf) | Segundo Circuito de Apelaciones de Estados Unidos, 2018 | Sentencia | Sí |
+| [Armas acústicas, una evaluación prospectiva](/media/pdf/ensayos/Altmann_2001_armas_acusticas_evaluacion.pdf) | Jürgen Altmann, *Science & Global Security*, 2001 | Artículo revisado por pares, teórico | Sí |
+| [Declaración de seguridad](/media/pdf/ensayos/Genasys_declaracion_de_seguridad_LRAD.pdf) y fichas técnicas | Genasys | Documentos comerciales | **No, es el fabricante** |
+
 ### No hay norma, y hay constancia de que se pidió crearla
 
 El programa de ensayo de conformidad del Instituto Nacional de Justicia cubre blindaje balístico,
@@ -1077,16 +1274,24 @@ lejana.
 
 El fabricante mide como se mide un altavoz. Su declaración de seguridad lo dice así: como todos los
 altavoces, la salida de audio del LRAD se mide en decibelios **a un metro por delante del
-dispositivo**. Las cifras declaradas por modelo, todas a un metro, con haz de ±15° a un kilohercio:
+dispositivo**. Las cifras que declaran las fichas técnicas, todas a un metro, con haz de ±15°:
 
 | Modelo | Máximo continuo | Máximo de pico |
 |---|---|---|
-| LRAD 100X | 137 dB SPL (A) | 140 dB SPL (C) |
+| LRAD 100X | 137 dB SPL (A) | — |
 | LRAD 300X | 143 dB SPL (A) | — |
 | LRAD 450XL | 145 dB SPL (A) | 150 dB SPL (C) |
 | LRAD 500X | 149 dB SPL (A) | 154 dB SPL (C) |
 | LRAD 1000X | 153 dB SPL (A) | 159 dB SPL (C) |
-| LRAD 2000X | 162 dB SPL (A) | — |
+
+Fichas técnicas del fabricante, rescatadas de copias de distribuidores:
+📄 [100X](/media/pdf/ensayos/LRAD_100X_ficha_tecnica.pdf) ·
+📄 [300X](/media/pdf/ensayos/LRAD_300X_ficha_tecnica.pdf) ·
+📄 [450XL](/media/pdf/ensayos/LRAD_450XL_ficha_tecnica.pdf) ·
+📄 [500X](/media/pdf/ensayos/LRAD_500X_ficha_tecnica.pdf) ·
+📄 [1000X](/media/pdf/ensayos/LRAD_1000X_ficha_tecnica.pdf).
+Todas citan como referencia de seguridad la MIL-STD-1474D, que es la norma militar que protege al
+operador.
 
 📄 [Declaración de posición sobre seguridad del LRAD](/media/pdf/ensayos/Genasys_declaracion_de_seguridad_LRAD.pdf) ·
 Genasys. Documento vivo, comprobado en septiembre de 2026.
