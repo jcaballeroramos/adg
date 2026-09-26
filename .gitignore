@@ -48,3 +48,6 @@ credentials.json
 
 # Cartas de produccion: borradores internos
 produccion-cartas/
+
+# Vídeos de terceros: el repo es público, no se redistribuyen. Viven en local y en el backup.
+media/video/*.mp4

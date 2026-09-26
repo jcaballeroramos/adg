@@ -110,6 +110,8 @@ Colombia ha **ratificado más de 11 tratados** internacionales de DDHH (frente a
 
 ### Caso Leidy Cadena (Bogotá, 28 abr 2021) — material específico
 
+> **Ficha propia con la sentencia contrastada → [[leidy-cadena-2021]]** (condena de 7 años al patrullero, 6 de abril de 2026). Abajo, el material gráfico.
+
 - **El Espectador** — retrato con parche en el ojo. <https://www.elespectador.com/bogota/leidy-cadena-un-caso-de-ataque-a-los-ojos-durante-paro-nacional-en-bogota-article/>
 - **Noticias Caracol** — foto tras el impacto, en el hospital. <https://www.noticiascaracol.com/colombia/bogota/leidy-natalia-cadena-impactada-en-un-ojo-durante-protestas-dice-que-el-pronostico-no-es-bueno>
 - **Amnistía España** — reportaje fotográfico *Colombia: Represión en la mira*. <https://www.es.amnesty.org/en-que-estamos/reportajes/colombia-represion-y-traumas-oculares/>
@@ -120,6 +122,8 @@ Colombia ha **ratificado más de 11 tratados** internacionales de DDHH (frente a
 - **Resumen Latinoamericano (abr 2026)** — entrevista *"La verdadera reparación sería saber por qué nos dispararon a los ojos"*. <https://www.resumenlatinoamericano.org/2026/04/21/colombia-la-verdadera-reparacion-seria-saber-por-que-nos-dispararon-a-los-ojos-leidy-natalia-cadena-tras-primera-condena-contra-el-esmad>
 
 ## Conexiones
+- ↔ [[leidy-cadena-2021]] — ojo perdido el 28 de abril; condena penal al patrullero en 2026.
+- ↔ [[jaime-fandino-2021]] — muerto en Usme el 21 de junio; destitución del patrullero en 2024.
 - ↔ [[00-compilacion-latam]].
 - ↔ [[intermediarios-latam]] — Imdicol y la familia Fajardo en detalle.
 - ↔ [[../../empresas-de-armas/empresas/00-indice]] — Combined Systems.
